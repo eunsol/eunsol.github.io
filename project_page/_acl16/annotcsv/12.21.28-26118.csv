@@ -1,8 +1,0 @@
-source,target,value,color
-Canada,Jean Chretien,0.100000,NotNegative
-Jean Chretien,Kyoto,0.100000,NotNegative
-Intergovernmental Panel on Climate Change,Kyoto,0.100000,NotPositive
-National Air Issues Co-ordinating Committee on Climate Change,Canada,0.100000,Positive
-Canada,National Air Issues Co-ordinating Committee on Climate Change,0.100000,Positive
-Jean Chretien,Canada,0.100000,NotNegative
-National Air Issues Co-ordinating Committee on Climate Change,Jean Chretien,0.100000,NotNegative
