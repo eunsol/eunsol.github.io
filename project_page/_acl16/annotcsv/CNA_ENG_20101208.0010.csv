@@ -1,0 +1,6 @@
+source,target,value,color
+MediaTek Inc.,MOEA,0.100000,NotNegative
+MediaTek Inc.,Tsai Ming-kai,0.100000,NotNegative
+MOEA,MediaTek Inc.,0.100000,NotNegative
+MOEA,Taiwan,0.100000,NotNegative
+Tsai Ming-kai,MediaTek Inc.,0.100000,Positive

@@ -1,0 +1,7 @@
+source,target,value,color
+Obama,United States,0.100000,Positive
+Felipe Calderon,Mexico,0.100000,Positive
+Obama,Felipe Calderon,0.100000,NotNegative
+Iraq,Bush,0.100000,NotPositive
+Bush,United States,0.100000,NotNegative
+Afghanistan,Bush,0.100000,NotPositive

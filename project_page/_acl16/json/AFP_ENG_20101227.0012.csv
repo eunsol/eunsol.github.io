@@ -1,0 +1,17 @@
+source,target,value,color
+Bill Burton,White House,0.100000,Positive
+Vick,Philadelphia Eagles,0.100000,NotNegative
+Obama,Vick,0.100000,NotNegative
+White House,Obama,0.100000,NotNegative
+Obama,Bill Burton,0.100000,NotNegative
+Bill Burton,Obama,0.100000,NotNegative
+Philadelphia Eagles,Vick,0.100000,NotNegative
+Jeffrey Lurie,Philadelphia Eagles,0.100000,Positive
+Bill Burton,US,0.100000,Positive
+Philadelphia Eagles,Jeffrey Lurie,0.100000,NotNegative
+Obama,US,0.100000,Positive
+Philadelphia Eagles,National Football League,0.100000,Positive
+Vick,National Football League,0.100000,NotNegative
+Jeffrey Lurie,Philadelphia,0.100000,NotNegative
+Jeffrey Lurie,National Football League,0.100000,Positive
+Obama,White House,0.100000,NotNegative

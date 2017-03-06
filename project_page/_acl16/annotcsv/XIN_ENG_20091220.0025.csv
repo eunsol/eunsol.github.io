@@ -1,0 +1,8 @@
+source,target,value,color
+Ahmadinejad,United States,0.100000,Negative
+Iran,Ahmadinejad,0.100000,NotNegative
+Ahmadinejad,Iran,0.100000,Positive
+United States,Iran,0.100000,NotPositive
+United States,Ahmadinejad,0.100000,NotPositive
+Ahmadinejad,Press TV,0.100000,NotNegative
+Iran,United States,0.100000,Negative

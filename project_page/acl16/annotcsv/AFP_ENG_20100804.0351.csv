@@ -1,0 +1,16 @@
+source,target,value,color
+Maoist,India,0.100000,NotPositive
+Department of Telecommunications,India,0.100000,NotNegative
+Satchit Gayakwad,United Arab Emirates,0.100000,NotPositive
+Satchit Gayakwad,Saudi Arabia,0.100000,NotPositive
+Muslim-majority Kashmir,India,0.100000,NotPositive
+Canada-based Research in Motion,United Arab Emirates,0.100000,NotPositive
+India,Maoist,0.100000,NotPositive
+Canada-based Research in Motion,Saudi Arabia,0.100000,NotPositive
+Canada-based Research in Motion,Satchit Gayakwad,0.100000,Positive
+United Arab Emirates,Canada-based Research in Motion,0.100000,NotPositive
+Department of Telecommunications,Maoist,0.100000,NotPositive
+India,Muslim-majority Kashmir,0.100000,NotPositive
+Department of Telecommunications,Muslim-majority Kashmir,0.100000,NotPositive
+Satchit Gayakwad,Canada-based Research in Motion,0.100000,Positive
+Saudi Arabia,Canada-based Research in Motion,0.100000,NotPositive

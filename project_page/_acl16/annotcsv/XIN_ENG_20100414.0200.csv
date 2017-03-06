@@ -1,0 +1,10 @@
+source,target,value,color
+Foreign Ministry,China,0.100000,NotNegative
+Itamaraty,China,0.100000,NotNegative
+China,Brazil,0.100000,NotNegative
+Brazil,China,0.100000,Positive
+Brazil,Foreign Ministry,0.100000,NotNegative
+Hu Jintao,China,0.100000,NotNegative
+China,Qinghai,0.100000,NotPositive
+Brazil,Itamaraty,0.100000,NotNegative
+Brazil,Hu Jintao,0.100000,NotNegative

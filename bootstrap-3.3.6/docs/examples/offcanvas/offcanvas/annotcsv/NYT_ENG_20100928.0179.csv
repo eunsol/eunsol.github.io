@@ -1,0 +1,7 @@
+source,target,value,color
+Riggio,Burkle,0.100000,Negative
+Yucaipa Cos,Riggio,0.100000,NotPositive
+Burkle,Yucaipa Cos,0.100000,NotNegative
+Burkle,Riggio,0.100000,Negative
+Riggio,Yucaipa Cos,0.100000,Negative
+Yucaipa Cos,Burkle,0.100000,NotNegative

@@ -1,0 +1,23 @@
+source,target,value,color
+Islamic Republic of Iran,Bush,0.100000,NotPositive
+Islamic Republic of Iran,Prophet,0.100000,Positive
+Islamic Republic of Iran,Salman Rushdie,0.100000,Negative
+Islamic Republic of Iran,CIA,0.100000,NotPositive
+European,Tehran,0.100000,NotPositive
+US Central Intelligence Agency,United States,0.100000,NotNegative
+CIA,Bush,0.100000,NotNegative
+Islamic Republic of Iran,United States,0.100000,NotPositive
+Islamic Republic of Iran,Islamic,0.100000,NotNegative
+Bush,United States,0.100000,Positive
+Islamic Republic of Iran,US Central Intelligence Agency,0.100000,NotPositive
+Salman Rushdie,Prophet,0.100000,Negative
+Tehran,European,0.100000,NotPositive
+Islamic Republic of Iran,European,0.100000,NotPositive
+Bush,CIA,0.100000,Positive
+US Central Intelligence Agency,Bush,0.100000,NotNegative
+Bush,US Central Intelligence Agency,0.100000,Positive
+CIA,United States,0.100000,NotNegative
+Islamic Republic of Iran,Koran,0.100000,Positive
+Salman Rushdie,Koran,0.100000,Negative
+European,Islamic Republic of Iran,0.100000,NotPositive
+United States,Bush,0.100000,Positive

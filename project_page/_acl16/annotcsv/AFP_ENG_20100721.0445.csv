@@ -1,0 +1,12 @@
+source,target,value,color
+Iran,Britain,0.100000,NotPositive
+Khamenei,US,0.100000,Negative
+Khamenei,Britain,0.100000,Negative
+US,Iran,0.100000,NotPositive
+Britain,Khamenei,0.100000,NotPositive
+Iran,US,0.100000,NotPositive
+Khamenei,Iran,0.100000,Positive
+Khamenei,Muslims,0.100000,NotNegative
+US,Khamenei,0.100000,NotPositive
+Iran,Muslims,0.100000,NotNegative
+Britain,Iran,0.100000,NotPositive

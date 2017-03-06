@@ -1,0 +1,8 @@
+source,target,value,color
+3D Vision Award,Jeffrey Katzenberg,0.100000,NotNegative
+Jim Chabin,3D Vision Award,0.100000,NotNegative
+Lenny Lipton,3D Vision Award,0.100000,NotNegative
+DreamWorks Animation SKG   Inc.,Jeffrey Katzenberg,0.100000,NotNegative
+Jeffrey Katzenberg,DreamWorks Animation SKG   Inc.,0.100000,Positive
+Lenny Lipton,Jeffrey Katzenberg,0.100000,NotNegative
+Jeffrey Katzenberg,3D Vision Award,0.100000,Positive

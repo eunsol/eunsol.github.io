@@ -1,0 +1,20 @@
+source,target,value,color
+Delhi,Dikshit,0.100000,NotNegative
+Indian,TVNZ,0.100000,NotPositive
+Indian,Television New Zealand Breakfast,0.100000,NotPositive
+Dave Currie,Henry,0.100000,NotPositive
+New Zealand,McCully,0.100000,NotNegative
+Dikshit,TVNZ,0.100000,NotPositive
+Broadcasting Standards Authority,Henry,0.100000,NotPositive
+TVNZ,Henry,0.100000,NotPositive
+McCully,Henry,0.100000,Negative
+Dikshit,Dave Currie,0.100000,NotNegative
+Dikshit,Henry,0.100000,Negative
+Indian,Henry,0.100000,Negative
+McCully,New Zealand,0.100000,NotNegative
+Dikshit,Television New Zealand Breakfast,0.100000,NotPositive
+Henry,Dikshit,0.100000,Negative
+Indian,Dikshit,0.100000,NotNegative
+McCully,Indian,0.100000,NotNegative
+Henry,Indian,0.100000,NotPositive
+Delhi,Henry,0.100000,Negative

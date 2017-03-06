@@ -1,0 +1,35 @@
+source,target,value,color
+Central Committee of the Democratic Front,Democratic People 's Republic of Korea,0.100000,NotNegative
+Korean Peninsula,South Korea,0.100000,NotNegative
+Central Committee of the Democratic Front,Korea,0.100000,Positive
+DPRK,U.S.,0.100000,Negative
+Peninsula,Democratic People 's Republic of Korea,0.100000,NotNegative
+Central Committee of the Democratic Front,Peninsula,0.100000,Positive
+DPRK,Korea,0.100000,Positive
+Korea,U.S.,0.100000,NotPositive
+Central Committee of the Democratic Front,South Korea,0.100000,NotNegative
+Korean Peninsula,DPRK,0.100000,NotNegative
+Korea,Democratic People 's Republic of Korea,0.100000,NotNegative
+DPRK,Central Committee of the Democratic Front,0.100000,NotNegative
+Democratic People 's Republic of Korea,U.S.,0.100000,Negative
+Peninsula,U.S.,0.100000,NotPositive
+DPRK,Peninsula,0.100000,Positive
+Central Committee of the Democratic Front,U.S.,0.100000,Negative
+Peninsula,South Korea,0.100000,NotNegative
+U.S.,Central Committee of the Democratic Front,0.100000,NotPositive
+Democratic People 's Republic of Korea,South Korea,0.100000,NotNegative
+Democratic People 's Republic of Korea,Central Committee of the Democratic Front,0.100000,NotNegative
+DPRK,Korean Peninsula,0.100000,Positive
+Korean Peninsula,U.S.,0.100000,NotPositive
+Korea,DPRK,0.100000,NotNegative
+Korean Peninsula,Democratic People 's Republic of Korea,0.100000,NotNegative
+DPRK,South Korea,0.100000,NotNegative
+Korea,South Korea,0.100000,NotNegative
+U.S.,Democratic People 's Republic of Korea,0.100000,Negative
+Democratic People 's Republic of Korea,Korean Peninsula,0.100000,Positive
+Peninsula,DPRK,0.100000,NotNegative
+Democratic People 's Republic of Korea,Korea,0.100000,Positive
+Central Committee of the Democratic Front,DPRK,0.100000,NotNegative
+U.S.,DPRK,0.100000,Negative
+Democratic People 's Republic of Korea,Peninsula,0.100000,Positive
+Central Committee of the Democratic Front,Korean Peninsula,0.100000,Positive

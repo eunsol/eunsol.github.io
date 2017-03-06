@@ -1,0 +1,13 @@
+source,target,value,color
+Swiss,Islamic,0.100000,Negative
+Eritrea,United Nations Security Council,0.100000,Negative
+Islamic,Eritrea,0.100000,Positive
+Swiss,Eritrea,0.100000,Negative
+United Nations Security Council,Islamic,0.100000,Negative
+United Nations Security Council,Eritrea,0.100000,Negative
+Swiss,United Nations Security Council,0.100000,Positive
+Islamic,United Nations Security Council,0.100000,Negative
+Eritrea,Islamic,0.100000,NotNegative
+Eritrea,Swiss,0.100000,Negative
+United Nations Security Council,Swiss,0.100000,Positive
+Islamic,Swiss,0.100000,Negative

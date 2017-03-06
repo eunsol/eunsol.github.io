@@ -1,0 +1,34 @@
+source,target,value,color
+GISS,NASA,0.100000,NotNegative
+Goddard Institute for Space Studies,Kyoto,0.100000,NotNegative
+GISS,Kyoto Protocol,0.100000,NotNegative
+NASA,Sato,0.100000,NotNegative
+GISS,Kyoto,0.100000,NotNegative
+Goddard Institute for Space Studies,NASA,0.100000,NotNegative
+NASA,Kyoto Protocol,0.100000,NotNegative
+Sato,Kyoto,0.100000,NotNegative
+James Hansen,Kyoto,0.100000,NotNegative
+James Hansen,Sato,0.100000,NotNegative
+Goddard Institute for Space Studies,Sato,0.100000,NotNegative
+Sato,Kyoto Protocol,0.100000,NotNegative
+NASA,Kyoto,0.100000,NotNegative
+Sato,NASA,0.100000,NotNegative
+Sato,GISS,0.100000,NotNegative
+NASA,James Hansen,0.100000,NotNegative
+GISS,James Hansen,0.100000,NotNegative
+NASA,GISS,0.100000,NotNegative
+James Hansen,Earth,0.100000,NotNegative
+James Hansen,Goddard Institute for Space Studies,0.100000,NotNegative
+Sato,James Hansen,0.100000,NotNegative
+Goddard Institute for Space Studies,Earth,0.100000,NotNegative
+NASA,Earth,0.100000,NotNegative
+GISS,Earth,0.100000,NotNegative
+Sato,Earth,0.100000,NotNegative
+Goddard Institute for Space Studies,James Hansen,0.100000,NotNegative
+GISS,Sato,0.100000,NotNegative
+Goddard Institute for Space Studies,Kyoto Protocol,0.100000,NotNegative
+NASA,Goddard Institute for Space Studies,0.100000,NotNegative
+New York,Earth,0.100000,NotNegative
+James Hansen,Kyoto Protocol,0.100000,NotNegative
+Sato,Goddard Institute for Space Studies,0.100000,NotNegative
+James Hansen,NASA,0.100000,NotNegative

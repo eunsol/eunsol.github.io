@@ -1,0 +1,25 @@
+source,target,value,color
+Malaysia,Anifah Aman,0.100000,NotNegative
+Anifah Aman,Lars Vilks,0.100000,Negative
+Prophet Muhammad,Malaysia,0.100000,Positive
+Malaysia,Prophet Muhammad,0.100000,Positive
+Anifah Aman,Muslim,0.100000,Positive
+Lars Vilks,Swedish,0.100000,NotNegative
+Muslim,Lars Vilks,0.100000,Negative
+Swedish,Anifah Aman,0.100000,NotPositive
+Malaysia,Swedish,0.100000,NotPositive
+Swedish,Malaysia,0.100000,NotPositive
+Prophet Muhammad,Lars Vilks,0.100000,Negative
+Anifah Aman,Malaysia,0.100000,Positive
+Anifah Aman,Swedish,0.100000,NotPositive
+Muslim,Prophet Muhammad,0.100000,Positive
+Muslim,Anifah Aman,0.100000,NotNegative
+Prophet Muhammad,Anifah Aman,0.100000,Positive
+Lars Vilks,Prophet Muhammad,0.100000,NotPositive
+Anifah Aman,Prophet Muhammad,0.100000,NotNegative
+Malaysia,Muslim,0.100000,Positive
+Swedish,Muslim,0.100000,NotPositive
+Muslim,Swedish,0.100000,NotPositive
+Prophet Muhammad,Muslim,0.100000,Positive
+Muslim,Malaysia,0.100000,Positive
+Malaysia,Lars Vilks,0.100000,Negative

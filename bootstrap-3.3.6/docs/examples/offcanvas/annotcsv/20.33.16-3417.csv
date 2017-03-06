@@ -1,0 +1,25 @@
+source,target,value,color
+Afghans,America,0.100000,Negative
+PPP,Abbas,0.100000,NotNegative
+Abbas,PPP,0.100000,Positive
+Palestine,Israel,0.100000,Negative
+Abbas,America,0.100000,Negative
+America,Palestine,0.100000,NotPositive
+Abbas,Pakistan,0.100000,Positive
+North-West Frontier Province,Abbas,0.100000,NotNegative
+America,Iran,0.100000,Negative
+America,Afghans,0.100000,NotPositive
+Muslims,America,0.100000,NotPositive
+Abbas,North-West Frontier Province,0.100000,Positive
+Lebanon,Israel,0.100000,Negative
+America,Lebanon,0.100000,NotPositive
+Palestine,America,0.100000,NotPositive
+America,Muslims,0.100000,NotPositive
+Iran,America,0.100000,NotPositive
+America,Abbas,0.100000,NotPositive
+Israel,Muslims,0.100000,Negative
+Abbas,Muslims,0.100000,NotNegative
+Abbas,Israel,0.100000,NotPositive
+Lebanon,America,0.100000,NotPositive
+America,Israel,0.100000,NotNegative
+Muslims,Israel,0.100000,Negative

@@ -1,0 +1,15 @@
+source,target,value,color
+Tony Perkins,Family Research Council,0.100000,Positive
+Tony Perkins,Peter Sprigg,0.100000,NotNegative
+SPLC,Family Research Council,0.100000,Negative
+Peter Sprigg,Tony Perkins,0.100000,NotNegative
+SPLC,Tony Perkins,0.100000,Negative
+Family Research Council,SPLC,0.100000,Negative
+Peter Sprigg,Family Research Council,0.100000,Positive
+Family Research Council,Peter Sprigg,0.100000,NotNegative
+Family Research Council,Tony Perkins,0.100000,NotNegative
+MSNBC,Chris Matthews,0.100000,NotNegative
+Tony Perkins,SPLC,0.100000,Negative
+Peter Sprigg,SPLC,0.100000,Negative
+Chris Matthews,MSNBC,0.100000,NotNegative
+SPLC,Peter Sprigg,0.100000,Negative

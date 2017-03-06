@@ -1,0 +1,8 @@
+source,target,value,color
+Palestinians,Israel,0.100000,Negative
+Israel,Palestinians,0.100000,NotPositive
+China,Xinjiang,0.100000,NotPositive
+China,Falun Gong,0.100000,NotPositive
+Falun Gong,China,0.100000,Negative
+Xinjiang,China,0.100000,NotPositive
+Chechnya,Russia,0.100000,NotPositive

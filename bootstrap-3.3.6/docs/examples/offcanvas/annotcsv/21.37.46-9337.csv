@@ -1,0 +1,23 @@
+source,target,value,color
+China,United States,0.100000,NotPositive
+Xirao-Nima,US State Department,0.100000,Negative
+Jin,United States,0.100000,Negative
+China Society for Study of Human Rights,Zhou Jue,0.100000,NotNegative
+US State Department,Xirao-Nima,0.100000,NotPositive
+United States,China,0.100000,Negative
+Xirao-Nima,Central University for Nationalities,0.100000,NotNegative
+Xirao-Nima,United States,0.100000,Negative
+Zhou Jue,China Society for Study of Human Rights,0.100000,NotNegative
+United States,Xirao-Nima,0.100000,NotPositive
+United States,Jin,0.100000,NotPositive
+Zhou Jue,United States,0.100000,Negative
+US State Department,Jin,0.100000,NotPositive
+US State Department,Zhou Jue,0.100000,NotPositive
+China Society for Study of Human Rights,United States,0.100000,NotPositive
+United States,Zhou Jue,0.100000,NotPositive
+Zhou Jue,US State Department,0.100000,Negative
+China,US State Department,0.100000,NotPositive
+China Society for Study of Human Rights,US State Department,0.100000,NotPositive
+US State Department,China,0.100000,Negative
+Jin,United Nations,0.100000,NotNegative
+Jin,US State Department,0.100000,Negative

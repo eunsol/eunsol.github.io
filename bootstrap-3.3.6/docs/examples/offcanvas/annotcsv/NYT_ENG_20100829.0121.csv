@@ -1,0 +1,6 @@
+source,target,value,color
+Evert,Navratilova,0.100000,Positive
+Navratilova,Evert,0.100000,Positive
+Martina Navratilova,Evert,0.100000,Positive
+Evert,Billie Jean King,0.100000,NotNegative
+Evert,Martina Navratilova,0.100000,Positive

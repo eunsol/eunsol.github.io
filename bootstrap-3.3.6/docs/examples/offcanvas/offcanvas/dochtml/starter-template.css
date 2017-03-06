@@ -1,0 +1,43 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+e0, e1, e2, e3, e4, e5, e6, e7, e8, e9 {
+    font-weight: 600;
+    line-height: 1.3em;
+}
+eC{
+        font-style: italic;
+}
+e0{     color:#1f77b4;
+}
+e1{
+        color: #ff7f0e;
+}
+e2{
+        color: #2ca02c;
+}
+e3{
+        color: #d62728;
+}
+e4{
+        color: #9467bd;
+}
+e5{
+        color:#8c564b;
+}
+e6{
+        color:#e377c2;
+}
+e7{
+        color:#7f7f7f;
+}
+e8{
+        color:#bcbd22;
+}
+e9{
+        color:#17becf;
+}

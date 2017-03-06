@@ -1,0 +1,18 @@
+source,target,value,color
+Chris Roslan,Robertson,0.100000,NotNegative
+Ariel Sharon,Gaza Strip,0.100000,NotPositive
+Robertson,Hugo Chavez,0.100000,Negative
+Hugo Chavez,Venezuelan,0.100000,Positive
+Robertson,Ariel Sharon,0.100000,Negative
+Venezuelan,Hugo Chavez,0.100000,NotNegative
+American,Robertson,0.100000,NotPositive
+Israeli,Robertson,0.100000,NotPositive
+Haiti,Robertson,0.100000,NotPositive
+Venezuelan,Robertson,0.100000,NotPositive
+Ariel Sharon,Israeli,0.100000,Positive
+Robertson,Chris Roslan,0.100000,NotNegative
+Ariel Sharon,Robertson,0.100000,Negative
+Gaza Strip,Ariel Sharon,0.100000,NotPositive
+Israeli,Ariel Sharon,0.100000,NotNegative
+Robertson,Haiti,0.100000,Negative
+Hugo Chavez,Robertson,0.100000,Negative

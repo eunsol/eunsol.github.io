@@ -1,0 +1,8 @@
+source,target,value,color
+Maradona,Argentine,0.100000,NotNegative
+Maradona,Germany,0.100000,NotPositive
+Maradona,post-World Cup,0.100000,NotPositive
+Maradona,Grondona,0.100000,Negative
+Grondona,post-World Cup,0.100000,NotPositive
+Argentine,Maradona,0.100000,NotNegative
+Grondona,Maradona,0.100000,Negative

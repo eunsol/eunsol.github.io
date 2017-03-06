@@ -1,0 +1,23 @@
+source,target,value,color
+Eritrea,Ethiopia,0.100000,NotPositive
+Eritrea,Tigray Regional State,0.100000,Negative
+Tigray Regional State,Micheal Abraha,0.100000,NotNegative
+Micheal Abraha,Ethiopia,0.100000,Positive
+Micheal Abraha,Tigray,0.100000,Positive
+Tsegay Berhe,Tigray Regional State,0.100000,Positive
+Tsegay Berhe,Eritrea,0.100000,Negative
+Eritrea,Tsegay Berhe,0.100000,NotPositive
+Micheal Abraha,Eritrea,0.100000,Negative
+Tigray Regional State,Eritrea,0.100000,Negative
+Eritrea,Tigray,0.100000,Negative
+Tsegay Berhe,Micheal Abraha,0.100000,NotNegative
+Micheal Abraha,Tsegay Berhe,0.100000,NotNegative
+Micheal Abraha,Tigray Regional State,0.100000,Positive
+Tigray,Eritrea,0.100000,Negative
+Tigray Regional State,Tsegay Berhe,0.100000,NotNegative
+Tsegay Berhe,Ethiopia,0.100000,Positive
+Tigray,Micheal Abraha,0.100000,NotNegative
+Ethiopia,Eritrea,0.100000,Negative
+Eritrea,Micheal Abraha,0.100000,NotPositive
+Tigray,Tsegay Berhe,0.100000,NotNegative
+Tsegay Berhe,Tigray,0.100000,Positive

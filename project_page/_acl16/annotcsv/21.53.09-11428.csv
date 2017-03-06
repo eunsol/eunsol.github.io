@@ -1,0 +1,13 @@
+source,target,value,color
+Washington,Kyoto,0.100000,NotPositive
+Bush,Kyoto,0.100000,Negative
+Clinton,Kyoto,0.100000,NotNegative
+Kingdom,Abdul Razzaq Tbeishat,0.100000,NotNegative
+US,Kyoto,0.100000,NotPositive
+US,Bush,0.100000,NotNegative
+Abdul Razzaq Tbeishat,Jordan,0.100000,NotNegative
+Jordan,Abdul Razzaq Tbeishat,0.100000,NotNegative
+US,Clinton,0.100000,NotNegative
+Jordan,Kyoto,0.100000,NotNegative
+Kingdom,Kyoto,0.100000,NotNegative
+Abdul Razzaq Tbeishat,Kyoto,0.100000,NotNegative

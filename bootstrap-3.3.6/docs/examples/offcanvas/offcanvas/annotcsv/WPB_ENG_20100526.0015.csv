@@ -1,0 +1,14 @@
+source,target,value,color
+Warren,Congressional Oversight Panel,0.100000,Positive
+Congressional Oversight Panel,Warren,0.100000,NotNegative
+Time magazine,Warren,0.100000,NotNegative
+Time magazine,Bair,0.100000,NotNegative
+Time magazine,Schapiro,0.100000,NotNegative
+Bair,Federal Deposit Insurance Corp.,0.100000,Positive
+Schapiro,SEC,0.100000,Positive
+Bair,Time magazine,0.100000,NotNegative
+Schapiro,Goldman Sachs,0.100000,NotPositive
+Goldman Sachs,Schapiro,0.100000,NotPositive
+SEC,Schapiro,0.100000,NotNegative
+Schapiro,Time magazine,0.100000,NotNegative
+Federal Deposit Insurance Corp.,Bair,0.100000,NotNegative

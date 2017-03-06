@@ -1,0 +1,21 @@
+source,target,value,color
+Saleban,Adado,0.100000,NotNegative
+Aden,Adado,0.100000,Positive
+Aden,United States,0.100000,NotNegative
+Adado,Aden,0.100000,NotNegative
+Aden,Saleban,0.100000,NotNegative
+Mohamed Aden,Minnesota,0.100000,NotNegative
+Denise Brown,Aden,0.100000,NotNegative
+Mohamed Aden,Adado,0.100000,Positive
+Denise Brown,Adado,0.100000,NotNegative
+Saleban,Mohamed Aden,0.100000,NotNegative
+Aden,Somalia,0.100000,NotNegative
+Denise Brown,U.N. World Food Program,0.100000,Positive
+Mohamed Aden,Saleban,0.100000,NotNegative
+Adado,Mohamed Aden,0.100000,NotNegative
+U.N. World Food Program,Denise Brown,0.100000,NotNegative
+Saleban,Aden,0.100000,NotNegative
+Mohamed Aden,United States,0.100000,NotNegative
+Denise Brown,Mohamed Aden,0.100000,NotNegative
+Aden,Minnesota,0.100000,NotNegative
+Mohamed Aden,Somalia,0.100000,NotNegative

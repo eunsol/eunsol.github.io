@@ -1,0 +1,27 @@
+source,target,value,color
+George Bush,US,0.100000,Positive
+Washington,George Bush,0.100000,Positive
+Australia,David Kemp,0.100000,NotNegative
+George Bush,Washington,0.100000,Positive
+David Kemp,Australia,0.100000,Positive
+Blair,British,0.100000,Positive
+US,Kyoto,0.100000,NotPositive
+Australia,Kyoto Protocol,0.100000,NotNegative
+Washington,Kyoto Protocol,0.100000,NotPositive
+George Bush,Kyoto,0.100000,NotPositive
+David Kemp,Kyoto,0.100000,NotNegative
+Australia,Washington,0.100000,Positive
+George Bush,Kyoto Protocol,0.100000,NotPositive
+US,George Bush,0.100000,Positive
+Kelvin Thomson,Washington,0.100000,NotPositive
+US,Kyoto Protocol,0.100000,NotPositive
+Blair,Kyoto Protocol,0.100000,NotNegative
+Kelvin Thomson,David Kemp,0.100000,NotPositive
+Blair,Kyoto,0.100000,NotNegative
+Kelvin Thomson,US,0.100000,NotPositive
+David Kemp,Kyoto Protocol,0.100000,NotNegative
+Australia,Kyoto,0.100000,NotNegative
+Washington,Kyoto,0.100000,NotPositive
+Australia,US,0.100000,Positive
+Blair,US,0.100000,NotPositive
+David Kemp,Kelvin Thomson,0.100000,NotPositive

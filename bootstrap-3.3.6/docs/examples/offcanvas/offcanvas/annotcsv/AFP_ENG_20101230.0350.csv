@@ -1,0 +1,7 @@
+source,target,value,color
+Vivian Ngan,Hong Kong-based Clean Air Network,0.100000,Positive
+Hong Kong-based Clean Air Network,Hong Kong,0.100000,NotNegative
+Hong Kong-based Clean Air Network,China,0.100000,NotNegative
+Vivian Ngan,China,0.100000,NotNegative
+Hong Kong-based Clean Air Network,Vivian Ngan,0.100000,NotNegative
+Vivian Ngan,Hong Kong,0.100000,NotNegative

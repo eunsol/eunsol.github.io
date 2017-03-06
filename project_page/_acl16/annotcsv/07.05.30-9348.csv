@@ -1,0 +1,12 @@
+source,target,value,color
+Bush,US,0.100000,Positive
+Japan,US,0.100000,NotPositive
+Bush,Kyoto,0.100000,NotPositive
+US,Kyoto,0.100000,NotPositive
+Tokyo,Japan,0.100000,NotNegative
+Japan,Bush,0.100000,Negative
+US,Japan,0.100000,NotPositive
+US,Bush,0.100000,NotNegative
+Japan,Tokyo,0.100000,NotNegative
+Tokyo,Kyoto,0.100000,NotNegative
+Japan,Kyoto,0.100000,NotNegative

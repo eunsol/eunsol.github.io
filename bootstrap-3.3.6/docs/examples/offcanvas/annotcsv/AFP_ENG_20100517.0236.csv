@@ -1,0 +1,5 @@
+source,target,value,color
+Russia,Medvedev,0.100000,NotNegative
+Medvedev,Iran,0.100000,NotNegative
+Medvedev,Russia,0.100000,Positive
+Russia,Iran,0.100000,Positive

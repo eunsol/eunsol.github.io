@@ -1,0 +1,19 @@
+source,target,value,color
+Jose Luis Rodriguez Zapatero,Felipe Calderon,0.100000,NotNegative
+Burgos,ETA,0.100000,Negative
+Felipe Calderon,Jose Luis Rodriguez Zapatero,0.100000,NotNegative
+Mallorca,ETA,0.100000,Negative
+ETA,Burgos,0.100000,NotPositive
+Mexican,ETA,0.100000,Negative
+Felipe Calderon,ETA,0.100000,NotPositive
+ETA,Mallorca,0.100000,NotPositive
+Spain,ETA,0.100000,Negative
+ETA,Spain,0.100000,NotPositive
+Spain,Mexican,0.100000,NotNegative
+Jose Luis Rodriguez Zapatero,ETA,0.100000,NotPositive
+Spain,Jose Luis Rodriguez Zapatero,0.100000,NotNegative
+Mallorca,Jose Luis Rodriguez Zapatero,0.100000,NotNegative
+Jose Luis Rodriguez Zapatero,Spain,0.100000,Positive
+Spain,Felipe Calderon,0.100000,NotNegative
+Felipe Calderon,Spain,0.100000,NotNegative
+Felipe Calderon,Mexican,0.100000,Positive

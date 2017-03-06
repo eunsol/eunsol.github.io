@@ -1,0 +1,9 @@
+source,target,value,color
+Brazil,Lula,0.100000,Positive
+Argentine,Oscars,0.100000,NotNegative
+Lula,Brazil,0.100000,Positive
+Oscars,Argentine,0.100000,NotNegative
+Brazil,Oscars,0.100000,NotNegative
+Roberto Farias,Brazil,0.100000,NotNegative
+Roberto Farias,Oscars,0.100000,Positive
+Roberto Farias,Lula,0.100000,Positive

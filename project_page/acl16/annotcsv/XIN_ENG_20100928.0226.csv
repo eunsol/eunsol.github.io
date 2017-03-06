@@ -1,0 +1,15 @@
+source,target,value,color
+Batbold,Canada,0.100000,Positive
+Canada,MOU,0.100000,Positive
+Harper,Batbold,0.100000,Positive
+Harper,Mongolia,0.100000,Positive
+Harper,Canada,0.100000,Positive
+Batbold,Mongolia,0.100000,Positive
+Mongolia,Batbold,0.100000,NotNegative
+Canada,Mongolia,0.100000,Positive
+Mongolia,Canada,0.100000,Positive
+Batbold,MOU,0.100000,Positive
+Harper,MOU,0.100000,Positive
+Batbold,Harper,0.100000,Positive
+Canada,Harper,0.100000,NotNegative
+Mongolia,MOU,0.100000,Positive

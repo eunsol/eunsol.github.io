@@ -1,0 +1,27 @@
+source,target,value,color
+Lao People 's Revolutionary Party Central Committee,Choummaly,0.100000,NotNegative
+Laos,Choummaly,0.100000,NotNegative
+Laos,Yunnan-Northern Laos,0.100000,Positive
+Choummaly,Lao People 's Revolutionary Party Central Committee,0.100000,Positive
+Bai,Laos,0.100000,Positive
+China,Bai,0.100000,NotNegative
+Choummaly,Yunnan,0.100000,Positive
+Communist Party of China Yunnan Provincial Committee,Bai,0.100000,NotNegative
+China,Yunnan-Northern Laos,0.100000,NotNegative
+Laos,Yunnan,0.100000,Positive
+Bai,China,0.100000,NotNegative
+Yunnan,Bai,0.100000,NotNegative
+Choummaly,Bai,0.100000,NotNegative
+Choummaly,China,0.100000,NotNegative
+Yunnan-Northern Laos,Yunnan,0.100000,NotNegative
+Yunnan,Choummaly,0.100000,NotNegative
+Bai,Communist Party of China Yunnan Provincial Committee,0.100000,NotNegative
+Choummaly,Laos,0.100000,Positive
+Yunnan-Northern Laos,Laos,0.100000,NotNegative
+Yunnan,Yunnan-Northern Laos,0.100000,NotNegative
+China,Laos,0.100000,Positive
+Laos,Bai,0.100000,NotNegative
+Laos,China,0.100000,NotNegative
+Bai,Yunnan,0.100000,Positive
+Yunnan,Laos,0.100000,Positive
+Bai,Choummaly,0.100000,NotNegative

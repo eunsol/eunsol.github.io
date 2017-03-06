@@ -1,0 +1,23 @@
+source,target,value,color
+Elizabeth Warren,Consumer Protection Act,0.100000,NotNegative
+Treasury,Consumer Financial Protection Bureau,0.100000,NotNegative
+Rehnquist,Elizabeth Warren,0.100000,Positive
+Elizabeth Warren,Harvard University,0.100000,NotNegative
+Obama,U.S.,0.100000,Positive
+Harvard University,Elizabeth Warren,0.100000,NotNegative
+Obama,Consumer Financial Protection Bureau,0.100000,Positive
+Consumer Financial Protection Bureau,Obama,0.100000,NotNegative
+Federal Judicial Education Committee,Elizabeth Warren,0.100000,NotNegative
+Obama,Elizabeth Warren,0.100000,Positive
+Elizabeth Warren,U.S.,0.100000,NotNegative
+Obama,Consumer Protection Act,0.100000,Positive
+Elizabeth Warren,Federal Judicial Education Committee,0.100000,Positive
+Elizabeth Warren,Obama,0.100000,NotNegative
+U.S.,Obama,0.100000,NotNegative
+Elizabeth Warren,National Bankruptcy Review Commission,0.100000,Positive
+Consumer Financial Protection Bureau,Treasury,0.100000,NotNegative
+Treasury,Consumer Protection Act,0.100000,NotNegative
+National Bankruptcy Review Commission,Elizabeth Warren,0.100000,NotNegative
+Elizabeth Warren,Consumer Financial Protection Bureau,0.100000,Positive
+Elizabeth Warren,Rehnquist,0.100000,NotNegative
+Consumer Financial Protection Bureau,Elizabeth Warren,0.100000,NotNegative

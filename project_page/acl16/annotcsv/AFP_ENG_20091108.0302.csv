@@ -1,0 +1,20 @@
+source,target,value,color
+Catholicism,Soile Lautsi,0.100000,NotPositive
+Silvio Berlusconi,Catholicism,0.100000,NotNegative
+Silvio Berlusconi,Catholic Church,0.100000,NotNegative
+Soile Lautsi,Silvio Berlusconi,0.100000,NotPositive
+Silvio Berlusconi,Soile Lautsi,0.100000,NotPositive
+Soile Lautsi,ECHR,0.100000,Positive
+Catholicism,European Convention on Human Rights,0.100000,NotPositive
+Catholicism,ECHR,0.100000,NotPositive
+Soile Lautsi,European Convention on Human Rights,0.100000,Positive
+Silvio Berlusconi,ECHR,0.100000,NotPositive
+Catholic Church,European Convention on Human Rights,0.100000,NotPositive
+Soile Lautsi,Catholic Church,0.100000,Negative
+Catholic Church,Soile Lautsi,0.100000,NotPositive
+Soile Lautsi,Catholicism,0.100000,Negative
+Catholic Church,ECHR,0.100000,NotPositive
+Silvio Berlusconi,European Convention on Human Rights,0.100000,NotPositive
+Silvio Berlusconi,Italian,0.100000,Positive
+Italian,Catholicism,0.100000,NotNegative
+Italian,Catholic Church,0.100000,NotNegative

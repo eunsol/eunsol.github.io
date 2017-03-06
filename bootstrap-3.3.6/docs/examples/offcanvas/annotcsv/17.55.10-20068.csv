@@ -1,0 +1,47 @@
+source,target,value,color
+Hakam,Ramdas,0.100000,Positive
+Ramdas,Malaysia,0.100000,NotNegative
+Anuar Zainal Abidin,Hakam,0.100000,NotNegative
+Anuar Zainal Abidin,Suhakam,0.100000,NotNegative
+Mahathir Mohamad,Kesas,0.100000,Negative
+Hakam,Abu Talib Othman,0.100000,NotPositive
+Abu Talib Othman,Anuar Zainal Abidin,0.100000,NotPositive
+Ramdas,Anuar Zainal Abidin,0.100000,NotNegative
+Ramdas,Abu Talib Othman,0.100000,NotPositive
+Salleh,Suhakam,0.100000,NotNegative
+Salleh,Hakam,0.100000,NotNegative
+Anuar Zainal Abidin,Abu Talib Othman,0.100000,NotPositive
+Ramdas,Hakam,0.100000,Positive
+Mehrun Siraj,Suhakam,0.100000,NotNegative
+Mahathir Mohamad,Hakam,0.100000,NotPositive
+Mahathir Mohamad,Anuar Zainal Abidin,0.100000,NotPositive
+Mehrun Siraj,Anuar Zainal Abidin,0.100000,NotNegative
+Mehrun Siraj,Mahathir Mohamad,0.100000,NotPositive
+Mahathir Mohamad,Salleh,0.100000,NotPositive
+Ramdas,Suhakam,0.100000,Positive
+Salleh,Abu Talib Othman,0.100000,NotPositive
+Mahathir Mohamad,Mehrun Siraj,0.100000,NotPositive
+Abu Talib Othman,Mehrun Siraj,0.100000,NotPositive
+Mehrun Siraj,Malaysia,0.100000,Positive
+Mehrun Siraj,Abu Talib Othman,0.100000,NotPositive
+Abu Talib Othman,Commission,0.100000,NotNegative
+Mehrun Siraj,Hakam,0.100000,NotNegative
+Abu Talib Othman,Malaysia,0.100000,NotNegative
+Anuar Zainal Abidin,Malaysia,0.100000,Positive
+Anuar Zainal Abidin,Mehrun Siraj,0.100000,NotNegative
+Mehrun Siraj,Kesas,0.100000,NotNegative
+Anuar Zainal Abidin,Mahathir Mohamad,0.100000,NotPositive
+Anuar Zainal Abidin,Kesas,0.100000,NotNegative
+Hakam,Kesas,0.100000,NotNegative
+Ramdas,Mahathir Mohamad,0.100000,NotPositive
+Ramdas,Kesas,0.100000,NotNegative
+Salleh,Kesas,0.100000,NotNegative
+Salleh,Mahathir Mohamad,0.100000,NotPositive
+Abu Talib Othman,Suhakam,0.100000,NotNegative
+Mahathir Mohamad,Malaysia,0.100000,Positive
+Abu Talib Othman,Kesas,0.100000,NotPositive
+Ramdas,Mehrun Siraj,0.100000,NotNegative
+Salleh,Malaysia,0.100000,NotNegative
+Mahathir Mohamad,Ramdas,0.100000,NotPositive
+Ramdas,Salleh,0.100000,NotNegative
+Abu Talib Othman,Ops Lalang,0.100000,NotNegative

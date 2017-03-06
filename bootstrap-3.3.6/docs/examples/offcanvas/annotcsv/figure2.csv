@@ -1,0 +1,14 @@
+source,target,value,color
+Russia,Georgia,0.1,Negative
+Georgia,Russia,0.1,NotPositive
+Belarus,Russia,0.1,NotPositive
+Russia,Belarus,0.1,Negative
+Russia,Saak,0.1,Negative
+Gryzlov,Georgia,0.1,NotPositive
+Saak,Russia,0.1,NotPositive
+Saak,Belarus,0.1,Belong
+Belarus,Georgia,0.1,Positive
+Georgia,Belarus,0.1,Positive
+Gryzlov,Georgia,0.1,Negative
+Gryzlov,Russia,0.1,Belong
+Moscow,Russia,0.1,Belong

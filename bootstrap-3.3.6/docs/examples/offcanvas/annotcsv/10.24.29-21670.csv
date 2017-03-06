@@ -1,0 +1,29 @@
+source,target,value,color
+Kong,Iraq,0.100000,NotNegative
+Iraq,Kong,0.100000,NotNegative
+Iraq,U.S.,0.100000,NotPositive
+Iran,China,0.100000,NotNegative
+Democratic People 's Republic of Korea,Kong,0.100000,NotNegative
+Kong,United Nations Charter,0.100000,Positive
+Kong,Iran,0.100000,NotNegative
+China,Iran,0.100000,NotNegative
+China,Principles of Peaceful Co-existence,0.100000,NotNegative
+Iraq,China,0.100000,NotNegative
+U.S.,Iraq,0.100000,Negative
+Iran,Kong,0.100000,NotNegative
+China,U.S.,0.100000,NotPositive
+China,Kong,0.100000,NotNegative
+Iran,U.S.,0.100000,NotPositive
+Democratic People 's Republic of Korea,China,0.100000,NotNegative
+U.S.,Iran,0.100000,Negative
+Kong,Democratic People 's Republic of Korea,0.100000,NotNegative
+China,Iraq,0.100000,NotNegative
+Democratic People 's Republic of Korea,U.S.,0.100000,NotPositive
+China,United Nations Charter,0.100000,NotNegative
+Kong,China,0.100000,NotNegative
+China,Democratic People 's Republic of Korea,0.100000,NotNegative
+U.S.,Kong,0.100000,NotPositive
+U.S.,China,0.100000,NotPositive
+U.S.,Democratic People 's Republic of Korea,0.100000,Negative
+Kong,Principles of Peaceful Co-existence,0.100000,Positive
+Kong,U.S.,0.100000,NotPositive

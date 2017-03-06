@@ -1,0 +1,20 @@
+source,target,value,color
+Alan Wake,Mark Z. Danielewski,0.100000,NotNegative
+Alan Wake,Stephen King,0.100000,NotNegative
+David Lynch,Stephen King,0.100000,NotNegative
+Lake,Alan Wake,0.100000,Positive
+Lake,Paul Auster,0.100000,Positive
+Lake,Bret Easton Ellis,0.100000,Positive
+Stephen King,David Lynch,0.100000,NotNegative
+Microsoft,Alan Wake,0.100000,NotNegative
+Lake,Stephen King,0.100000,Positive
+Lake,Book of Illusions,0.100000,Positive
+Alan Wake,Bret Easton Ellis,0.100000,NotNegative
+Microsoft,Lake,0.100000,NotNegative
+Alan Wake,Lake,0.100000,NotNegative
+Alan Wake,Microsoft,0.100000,NotNegative
+Book of Illusions,Paul Auster,0.100000,NotNegative
+Lake,Mark Z. Danielewski,0.100000,Positive
+Lake,David Lynch,0.100000,Positive
+Paul Auster,Book of Illusions,0.100000,NotNegative
+Lake,Microsoft,0.100000,Positive

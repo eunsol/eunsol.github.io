@@ -1,0 +1,6 @@
+source,target,value,color
+Pacquiao,Roach,0.100000,NotNegative
+Cotto,World Boxing Organization,0.100000,NotNegative
+Roach,Pacquiao,0.100000,Positive
+Pacquiao,World Boxing Organization,0.100000,NotNegative
+Pacquiao,Philippines,0.100000,Positive

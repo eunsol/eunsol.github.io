@@ -1,0 +1,6 @@
+source,target,value,color
+Russia,Belarus,0.100000,Negative
+Belarus,Russia,0.100000,Negative
+Grylov,Russia,0.100000,NotNegative
+Saakhashvilli,Grylov,0.100000,Negative
+Saakhashvilli,Belarus,0.100000,NotNegative

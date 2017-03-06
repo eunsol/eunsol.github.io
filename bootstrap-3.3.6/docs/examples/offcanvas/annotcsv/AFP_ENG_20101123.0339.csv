@@ -1,0 +1,18 @@
+source,target,value,color
+Gillard,Rudd,0.100000,NotNegative
+North Korea,Rudd,0.100000,NotPositive
+Rudd,Australia,0.100000,Positive
+Australia,North Korea,0.100000,NotPositive
+Gillard,North Korea,0.100000,NotPositive
+North Korea,Gillard,0.100000,NotPositive
+Japanese,Seiji Maehara,0.100000,NotNegative
+Rudd,North Korea,0.100000,NotPositive
+Seiji Maehara,Japanese,0.100000,Positive
+Australia,Seoul,0.100000,NotNegative
+Gillard,Australia,0.100000,Positive
+North Korea,Australia,0.100000,NotPositive
+Seoul,North Korea,0.100000,Negative
+Rudd,Seoul,0.100000,NotNegative
+North Korea,Seoul,0.100000,NotPositive
+Seiji Maehara,Australia,0.100000,NotNegative
+Rudd,Japanese,0.100000,NotNegative

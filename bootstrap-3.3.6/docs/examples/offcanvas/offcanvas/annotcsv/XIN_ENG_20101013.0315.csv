@@ -1,0 +1,27 @@
+source,target,value,color
+Anne-Marie Idrac,Mongolia,0.100000,NotNegative
+Mongolia,Elbegdorj,0.100000,NotNegative
+Elbegdorj,French,0.100000,NotNegative
+Mongolia,Demberel Damdin,0.100000,NotNegative
+French,Mongolia,0.100000,Positive
+Sarkozy,Anne-Marie Idrac,0.100000,NotNegative
+Anne-Marie Idrac,Areva,0.100000,NotNegative
+Zandanshatar Gombojav,Elbegdorj,0.100000,NotNegative
+French,Anne-Marie Idrac,0.100000,NotNegative
+French,Areva,0.100000,NotNegative
+Demberel Damdin,Mongolia,0.100000,Positive
+Elbegdorj,Zandanshatar Gombojav,0.100000,NotNegative
+Sarkozy,French,0.100000,Positive
+Anne-Marie Idrac,Sarkozy,0.100000,NotNegative
+French,Sarkozy,0.100000,NotNegative
+Elbegdorj,Demberel Damdin,0.100000,NotNegative
+Anne-Marie Idrac,French,0.100000,Positive
+Elbegdorj,Mongolia,0.100000,Positive
+Zandanshatar Gombojav,Demberel Damdin,0.100000,NotNegative
+Demberel Damdin,Zandanshatar Gombojav,0.100000,NotNegative
+Demberel Damdin,Elbegdorj,0.100000,NotNegative
+Mongolia,French,0.100000,Positive
+Sarkozy,Mongolia,0.100000,Positive
+Zandanshatar Gombojav,Mongolia,0.100000,Positive
+Mongolia,Areva,0.100000,NotNegative
+Mongolia,Zandanshatar Gombojav,0.100000,NotNegative

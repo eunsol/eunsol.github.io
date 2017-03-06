@@ -1,0 +1,78 @@
+source,target,value,color
+Pyongyang,South Korea,0.100000,Negative
+Napolitano,South Korea,0.100000,Positive
+Seoul,Italian,0.100000,Positive
+Italian,Seoul,0.100000,Positive
+Pyongyang,North Korea,0.100000,Positive
+Napolitano,North Korea,0.100000,Negative
+South Korea,Pyongyang,0.100000,Negative
+Seoul,U.N.,0.100000,Positive
+Lee,Seoul,0.100000,Positive
+U.N.,Italian,0.100000,Positive
+Napolitano,SKorea,0.100000,Positive
+Pyongyang,SKorea,0.100000,Negative
+South Korea,Napolitano,0.100000,Positive
+South Korea,EU,0.100000,Positive
+U.N.,Seoul,0.100000,Positive
+Seoul,SKorea,0.100000,Positive
+EU,North Korea,0.100000,Negative
+Lee,EU,0.100000,Positive
+Napolitano,Lee,0.100000,Positive
+U.N.,SKorea,0.100000,Positive
+Pyongyang,U.N.,0.100000,Negative
+South Korea,U.N.,0.100000,Positive
+South Korea,Italian,0.100000,Positive
+SKorea,Seoul,0.100000,Positive
+Seoul,Pyongyang,0.100000,Negative
+Italian,Pyongyang,0.100000,Negative
+Seoul,South Korea,0.100000,Positive
+North Korea,SKorea,0.100000,Negative
+U.N.,Lee,0.100000,Positive
+U.N.,Napolitano,0.100000,Positive
+Seoul,EU,0.100000,Positive
+Pyongyang,Napolitano,0.100000,Negative
+South Korea,SKorea,0.100000,NotNegative
+Pyongyang,Lee,0.100000,Negative
+North Korea,South Korea,0.100000,Negative
+South Korea,North Korea,0.100000,Negative
+North Korea,Pyongyang,0.100000,Positive
+Lee,North Korea,0.100000,Negative
+Lee,Napolitano,0.100000,Positive
+Italian,North Korea,0.100000,Negative
+Pyongyang,Seoul,0.100000,Negative
+North Korea,Italian,0.100000,Negative
+Lee,South Korea,0.100000,Positive
+SKorea,Pyongyang,0.100000,Negative
+SKorea,EU,0.100000,Positive
+Napolitano,Seoul,0.100000,Positive
+North Korea,EU,0.100000,Negative
+EU,Pyongyang,0.100000,Negative
+Italian,South Korea,0.100000,Positive
+EU,SKorea,0.100000,Positive
+Italian,SKorea,0.100000,Positive
+Napolitano,Italian,0.100000,Positive
+U.N.,North Korea,0.100000,Negative
+Lee,Pyongyang,0.100000,Negative
+U.N.,South Korea,0.100000,Positive
+SKorea,South Korea,0.100000,NotNegative
+Pyongyang,Italian,0.100000,Negative
+Seoul,North Korea,0.100000,Negative
+North Korea,U.N.,0.100000,Negative
+Pyongyang,EU,0.100000,Negative
+Lee,U.N.,0.100000,Positive
+SKorea,Napolitano,0.100000,Positive
+U.N.,Pyongyang,0.100000,Negative
+SKorea,North Korea,0.100000,Negative
+North Korea,Lee,0.100000,Negative
+North Korea,Napolitano,0.100000,Negative
+Lee,Italian,0.100000,Positive
+Napolitano,Pyongyang,0.100000,Negative
+North Korea,Seoul,0.100000,Negative
+Lee,SKorea,0.100000,Positive
+South Korea,Seoul,0.100000,Positive
+SKorea,U.N.,0.100000,Positive
+U.N.,EU,0.100000,Positive
+Seoul,Napolitano,0.100000,Positive
+Italian,Lee,0.100000,Positive
+SKorea,Italian,0.100000,Positive
+EU,Lee,0.100000,Positive

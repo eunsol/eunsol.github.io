@@ -1,0 +1,7 @@
+source,target,value,color
+Els,British Open,0.100000,NotNegative
+Gary,Els,0.100000,Positive
+Els,PGA Tour,0.100000,NotNegative
+World Golf Hall of Fame & Museum,Els,0.100000,NotNegative
+Els,World Golf Hall of Fame & Museum,0.100000,NotNegative
+Els,US Open,0.100000,NotNegative

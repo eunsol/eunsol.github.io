@@ -1,0 +1,48 @@
+source,target,value,color
+US,US State Department,0.100000,Positive
+Washington,BEIJING,0.100000,NotPositive
+US State Department,George W. Bush,0.100000,Positive
+George W. Bush,Xinhua,0.100000,NotPositive
+Information Office of the State Council,Washington,0.100000,Negative
+China,BEIJING,0.100000,NotNegative
+Information Office of the State Council,China,0.100000,Positive
+George W. Bush,US State Department,0.100000,Positive
+China,US,0.100000,Negative
+Xinhua,Washington,0.100000,NotPositive
+Washington,Information Office of the State Council,0.100000,NotPositive
+US State Department,Washington,0.100000,Positive
+Xinhua,US State Department,0.100000,NotPositive
+BEIJING,Washington,0.100000,NotPositive
+George W. Bush,US,0.100000,Positive
+BEIJING,George W. Bush,0.100000,NotPositive
+US,Washington,0.100000,Positive
+China,US State Department,0.100000,NotPositive
+US State Department,BEIJING,0.100000,NotPositive
+Xinhua,George W. Bush,0.100000,NotPositive
+China,Information Office of the State Council,0.100000,Positive
+Information Office of the State Council,US State Department,0.100000,Negative
+Washington,US State Department,0.100000,Positive
+George W. Bush,China,0.100000,NotPositive
+US State Department,Information Office of the State Council,0.100000,Negative
+Washington,US,0.100000,Positive
+US,Information Office of the State Council,0.100000,NotPositive
+Xinhua,China,0.100000,NotNegative
+Information Office of the State Council,George W. Bush,0.100000,Negative
+George W. Bush,Information Office of the State Council,0.100000,NotPositive
+Washington,China,0.100000,Negative
+US State Department,China,0.100000,Negative
+Information Office of the State Council,US,0.100000,Negative
+BEIJING,Information Office of the State Council,0.100000,NotNegative
+Xinhua,US,0.100000,NotPositive
+George W. Bush,Washington,0.100000,Positive
+China,Washington,0.100000,NotPositive
+Washington,George W. Bush,0.100000,NotNegative
+US,George W. Bush,0.100000,Positive
+BEIJING,US,0.100000,NotPositive
+US State Department,US,0.100000,Positive
+US,BEIJING,0.100000,NotPositive
+Information Office of the State Council,Xinhua,0.100000,NotNegative
+BEIJING,US State Department,0.100000,NotPositive
+China,George W. Bush,0.100000,Negative
+China,Xinhua,0.100000,NotNegative
+Xinhua,Information Office of the State Council,0.100000,NotNegative

@@ -1,0 +1,23 @@
+source,target,value,color
+US,North Korea,0.100000,Negative
+US,Iran,0.100000,Negative
+Iraq,Bush,0.100000,NotPositive
+Bush,US,0.100000,NotNegative
+Condoleezza Rice,Iran,0.100000,Negative
+Iraq,Condoleezza Rice,0.100000,NotPositive
+Condoleezza Rice,Iraq,0.100000,Negative
+Iraq,US,0.100000,NotPositive
+Iran,Bush,0.100000,NotPositive
+US,Iraq,0.100000,Negative
+Condoleezza Rice,Bush,0.100000,NotNegative
+Condoleezza Rice,North Korea,0.100000,Negative
+Bush,Iraq,0.100000,Negative
+Iran,US,0.100000,NotPositive
+Iran,Condoleezza Rice,0.100000,NotPositive
+Bush,Iran,0.100000,Negative
+Condoleezza Rice,US,0.100000,NotNegative
+Bush,North Korea,0.100000,Negative
+Bush,Condoleezza Rice,0.100000,NotNegative
+North Korea,US,0.100000,NotPositive
+North Korea,Condoleezza Rice,0.100000,NotPositive
+North Korea,Bush,0.100000,NotPositive

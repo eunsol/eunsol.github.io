@@ -1,0 +1,7 @@
+source,target,value,color
+Indian,Lashker-e-Toiba,0.100000,Negative
+Lashker-e-Toiba,Indian,0.100000,Negative
+Communist Party of India-Marxist,West Bengal,0.100000,NotNegative
+Indian,Naxal,0.100000,Negative
+West Bengal,Communist Party of India-Marxist,0.100000,NotNegative
+Naxal,Indian,0.100000,NotPositive

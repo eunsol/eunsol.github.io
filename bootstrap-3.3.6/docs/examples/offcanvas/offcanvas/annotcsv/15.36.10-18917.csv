@@ -1,0 +1,26 @@
+source,target,value,color
+Khatami,Iranian,0.100000,Positive
+Iranian,Khatami,0.100000,NotNegative
+Organization of Petroleum Exporting Countries,Iranian,0.100000,NotNegative
+Chavez,Caribbean,0.100000,NotNegative
+Iranian,Chavez,0.100000,NotNegative
+Khatami,Chavez,0.100000,Positive
+Venezuelan,Iranian,0.100000,NotNegative
+Venezuelan,Chavez,0.100000,NotNegative
+Venezuelan,Organization of Petroleum Exporting Countries,0.100000,NotNegative
+Organization of Petroleum Exporting Countries,Venezuelan,0.100000,NotNegative
+Khatami,Organization of Petroleum Exporting Countries,0.100000,NotNegative
+Chavez,Khatami,0.100000,Positive
+Caracas,Chavez,0.100000,NotPositive
+Chavez,Organization of Petroleum Exporting Countries,0.100000,Positive
+Caribbean,Chavez,0.100000,NotNegative
+Chavez,Venezuelan,0.100000,Positive
+Caracas,Organization of Petroleum Exporting Countries,0.100000,NotNegative
+Organization of Petroleum Exporting Countries,Khatami,0.100000,NotNegative
+Venezuelan,Khatami,0.100000,NotNegative
+Organization of Petroleum Exporting Countries,Chavez,0.100000,NotNegative
+Khatami,Venezuelan,0.100000,Positive
+Caracas,Venezuelan,0.100000,Positive
+Chavez,Iranian,0.100000,NotNegative
+Iranian,Organization of Petroleum Exporting Countries,0.100000,NotNegative
+Chavez,Caracas,0.100000,NotNegative

@@ -1,0 +1,28 @@
+source,target,value,color
+Taleban,U.S Administration,0.100000,Negative
+Iran,U.S.,0.100000,NotPositive
+U.S.,Al-Qaeda,0.100000,Negative
+Taleban,Guantanamo Bay,0.100000,Negative
+Taleban,U.S.,0.100000,Negative
+Iran,U.S. State Department,0.100000,NotPositive
+Iran,U.S Administration,0.100000,NotPositive
+U.S Administration,Al-Qaeda,0.100000,Negative
+Al-Qaeda,U.S Administration,0.100000,Negative
+U.S.,Iran,0.100000,NotPositive
+U.S. State Department,Taleban,0.100000,Negative
+Al-Qaeda,Guantanamo Bay,0.100000,Negative
+Washington,Taleban,0.100000,NotPositive
+U.S.,Taleban,0.100000,Negative
+Al-Qaeda,Washington,0.100000,Negative
+U.S Administration,Iran,0.100000,NotPositive
+U.S. State Department,Al-Qaeda,0.100000,Negative
+Taleban,Washington,0.100000,Negative
+Iran,Washington,0.100000,NotPositive
+Washington,Al-Qaeda,0.100000,Negative
+Al-Qaeda,U.S. State Department,0.100000,Negative
+Iran,Islamic Revolution,0.100000,Positive
+Washington,Iran,0.100000,NotPositive
+U.S. State Department,Iran,0.100000,NotPositive
+Taleban,U.S. State Department,0.100000,Negative
+Al-Qaeda,U.S.,0.100000,Negative
+U.S Administration,Taleban,0.100000,Negative

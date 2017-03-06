@@ -1,0 +1,13 @@
+source,target,value,color
+Ministry of Interior,Committee of Civil and Political Rights,0.100000,Negative
+Committee of Civil and Political Rights,Nayef,0.100000,Negative
+Abdul-Rahman al-Hamid,Ministry of Interior,0.100000,Negative
+Abdul-Rahman al-Hamid,Nayef,0.100000,Negative
+Abdul-Rahman al-Hamid,Committee of Civil and Political Rights,0.100000,Positive
+Committee of Civil and Political Rights,Ministry of Interior,0.100000,Negative
+Nayef,Committee of Civil and Political Rights,0.100000,Negative
+Nayef,Abdul-Rahman al-Hamid,0.100000,Negative
+Committee of Civil and Political Rights,Abdul-Rahman al-Hamid,0.100000,NotNegative
+Ministry of Interior,Abdul-Rahman al-Hamid,0.100000,Negative
+Saudi,Abdullah,0.100000,NotNegative
+Abdullah,Saudi,0.100000,NotNegative

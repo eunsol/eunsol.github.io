@@ -1,0 +1,19 @@
+source,target,value,color
+Tom Long,Joaquin Phoenix,0.100000,Negative
+Joaquin Phoenix,Affleck,0.100000,NotNegative
+Affleck,Phoenix,0.100000,NotNegative
+Phoenix,Tom Long,0.100000,Negative
+David Letterman,Joaquin Phoenix,0.100000,NotNegative
+Detroit News Film,Tom Long,0.100000,NotNegative
+Phoenix,Detroit News Film,0.100000,Negative
+Joaquin Phoenix,Tom Long,0.100000,Negative
+Detroit News Film,Phoenix,0.100000,Negative
+Phoenix,David Letterman,0.100000,NotNegative
+Tom Long,Detroit News Film,0.100000,NotNegative
+David Letterman,Phoenix,0.100000,NotNegative
+Joaquin Phoenix,Detroit News Film,0.100000,Negative
+Phoenix,Affleck,0.100000,NotNegative
+Tom Long,Phoenix,0.100000,Negative
+Affleck,Joaquin Phoenix,0.100000,NotNegative
+Detroit News Film,Joaquin Phoenix,0.100000,Negative
+Joaquin Phoenix,David Letterman,0.100000,NotNegative

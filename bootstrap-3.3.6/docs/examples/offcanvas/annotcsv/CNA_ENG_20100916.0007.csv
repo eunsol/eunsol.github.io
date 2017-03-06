@@ -1,0 +1,14 @@
+source,target,value,color
+Formosa Plastics,Yunlin County,0.100000,Negative
+Yunlin County,Formosa Plastics,0.100000,Negative
+Yunlin,Environmental Protection Bureau,0.100000,NotNegative
+Yunlin,Formosa Plastics,0.100000,Negative
+Lai Tung-hung,Environmental Protection Bureau,0.100000,NotNegative
+Formosa Plastics,Yunlin,0.100000,Negative
+Department of Education,Formosa Plastics,0.100000,NotPositive
+Formosa Plastics,Environmental Protection Bureau,0.100000,NotPositive
+Mailiao Township,Formosa Plastics,0.100000,Negative
+Yunlin County,Environmental Protection Bureau,0.100000,NotNegative
+Taisi Township,Formosa Plastics,0.100000,Negative
+Lai Tung-hung,Formosa Plastics,0.100000,NotPositive
+Environmental Protection Bureau,Formosa Plastics,0.100000,Negative

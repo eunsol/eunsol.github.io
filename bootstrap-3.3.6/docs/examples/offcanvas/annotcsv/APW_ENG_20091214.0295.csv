@@ -1,0 +1,5 @@
+source,target,value,color
+Tag Heuer,Woods,0.100000,Positive
+Sylla,Tag Heuer,0.100000,Positive
+Sylla,Woods,0.100000,NotNegative
+Accenture Ltd.,Woods,0.100000,NotPositive

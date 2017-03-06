@@ -1,0 +1,17 @@
+source,target,value,color
+Koizumi,Kyoto Protocol,0.100000,Positive
+U.S.,Bush,0.100000,NotNegative
+Bush,Kyoto,0.100000,Negative
+U.S.,Kyoto,0.100000,NotPositive
+Bush,U.S.,0.100000,Positive
+U.S.,Kyoto Protocol,0.100000,NotPositive
+Koizumi,Kyoto,0.100000,Positive
+Japan,Bush,0.100000,NotPositive
+Koizumi,U.S.,0.100000,NotPositive
+Japan,Koizumi,0.100000,Positive
+Japan,Kyoto Protocol,0.100000,NotNegative
+Koizumi,Japan,0.100000,Positive
+Bush,Koizumi,0.100000,NotNegative
+Koizumi,Bush,0.100000,NotPositive
+Bush,Kyoto Protocol,0.100000,Negative
+Japan,Kyoto,0.100000,NotNegative

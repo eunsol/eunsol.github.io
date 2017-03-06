@@ -1,0 +1,12 @@
+source,target,value,color
+Mick Davis,Glencore,0.100000,Positive
+Baar,Switzerland,0.100000,Positive
+Xstrata,Mick Davis,0.100000,Positive
+Glencore,Xstrata,0.100000,NotNegative
+Glencore,Mick Davis,0.100000,Positive
+Mick Davis,Xstrata,0.100000,Positive
+Switzerland,Baar,0.100000,Positive
+Colombian,Xstrata,0.100000,NotNegative
+Colombian,Glencore,0.100000,NotNegative
+Glencore,Colombian,0.100000,Positive
+Xstrata,Glencore,0.100000,NotNegative

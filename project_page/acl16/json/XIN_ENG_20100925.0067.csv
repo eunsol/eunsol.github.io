@@ -1,0 +1,9 @@
+source,target,value,color
+Slovenian,Pahor,0.100000,NotNegative
+France,Security Council,0.100000,NotNegative
+United States,Security Council,0.100000,NotNegative
+Slovenian,Security Council,0.100000,NotNegative
+Britain,Security Council,0.100000,NotNegative
+China,Security Council,0.100000,NotNegative
+Russia,Security Council,0.100000,NotNegative
+Pahor,Slovenian,0.100000,Positive

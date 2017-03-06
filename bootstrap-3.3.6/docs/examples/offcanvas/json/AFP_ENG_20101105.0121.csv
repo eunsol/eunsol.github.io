@@ -1,0 +1,25 @@
+source,target,value,color
+Muhannad al-Hassani,Adra Prison,0.100000,Negative
+Burt,Britain,0.100000,NotNegative
+Damascus,Muhannad al-Hassani,0.100000,NotPositive
+Burt,Muhannad al-Hassani,0.100000,NotNegative
+Muhannad al-Hassani,Amnesty International and Human Rights Watch,0.100000,NotNegative
+Hassani,Damascus,0.100000,Negative
+Damascus,Burt,0.100000,NotPositive
+Damascus,Hassani,0.100000,NotPositive
+Muhannad al-Hassani,Britain,0.100000,NotNegative
+Amnesty International and Human Rights Watch,Hassani,0.100000,NotNegative
+Burt,Damascus,0.100000,Negative
+Britain,Burt,0.100000,NotNegative
+Muhannad al-Hassani,Damascus,0.100000,Negative
+Burt,Hassani,0.100000,NotNegative
+Hassani,Amnesty International and Human Rights Watch,0.100000,NotNegative
+Britain,Syrian,0.100000,NotPositive
+Muhannad al-Hassani,Burt,0.100000,NotNegative
+Hassani,Adra Prison,0.100000,Negative
+Hassani,Britain,0.100000,NotNegative
+Britain,Damascus,0.100000,NotPositive
+Britain,Muhannad al-Hassani,0.100000,NotNegative
+Hassani,Burt,0.100000,NotNegative
+Amnesty International and Human Rights Watch,Adra Prison,0.100000,NotPositive
+Britain,Hassani,0.100000,NotNegative

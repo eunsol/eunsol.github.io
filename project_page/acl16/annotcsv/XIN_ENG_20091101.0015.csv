@@ -1,0 +1,8 @@
+source,target,value,color
+Hillary Clinton,Abbas,0.100000,NotPositive
+Fatah,State,0.100000,NotPositive
+Abbas,State,0.100000,NotPositive
+Abbas,Fatah,0.100000,NotNegative
+Fatah,Abbas,0.100000,Positive
+Abbas,Israel,0.100000,Negative
+Fatah,Israel,0.100000,NotPositive

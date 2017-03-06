@@ -1,0 +1,18 @@
+source,target,value,color
+CPJ,Cuba,0.100000,Negative
+CPJ,Eritrea,0.100000,Negative
+Ethiopia,CPJ,0.100000,NotPositive
+CPJ,China,0.100000,Negative
+CPJ,Ethiopia,0.100000,Negative
+United States,New York,0.100000,NotNegative
+CPJ,Iran,0.100000,Negative
+African,Sub-Saharan Africa,0.100000,NotNegative
+Sub-Saharan Africa,CPJ,0.100000,NotPositive
+CPJ,United States,0.100000,NotPositive
+China,CPJ,0.100000,NotPositive
+African,CPJ,0.100000,NotPositive
+CPJ,Sub-Saharan Africa,0.100000,Negative
+Eritrea,CPJ,0.100000,NotPositive
+CPJ,African,0.100000,Negative
+Cuba,CPJ,0.100000,NotPositive
+Iran,CPJ,0.100000,NotPositive

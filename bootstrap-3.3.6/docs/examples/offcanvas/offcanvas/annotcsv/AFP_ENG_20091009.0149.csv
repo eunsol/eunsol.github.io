@@ -1,0 +1,13 @@
+source,target,value,color
+Nobel Peace Prize,Obama,0.100000,NotNegative
+Harper,Canada,0.100000,Positive
+US,Obama,0.100000,NotNegative
+Harper,Obama,0.100000,Positive
+Harper,US,0.100000,NotNegative
+Obama,US,0.100000,Positive
+White House,US,0.100000,NotNegative
+White House,Obama,0.100000,NotNegative
+Obama,White House,0.100000,Positive
+Obama,Nobel Peace Prize,0.100000,Positive
+Canada,Harper,0.100000,NotNegative
+Harper,Nobel Peace Prize,0.100000,Positive

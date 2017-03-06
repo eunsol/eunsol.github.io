@@ -1,0 +1,9 @@
+source,target,value,color
+Malaysian Muslims,Muhammad,0.100000,Positive
+Anifah Aman,Vilks,0.100000,Negative
+Malaysian Muslims,Vilks,0.100000,Negative
+Swedish,Muhammad,0.100000,NotPositive
+Anifah Aman,Swedish,0.100000,NotPositive
+Vilks,Muhammad,0.100000,Negative
+Malaysian Muslims,Anifah Aman,0.100000,NotNegative
+Malaysian Muslims,Swedish,0.100000,NotPositive

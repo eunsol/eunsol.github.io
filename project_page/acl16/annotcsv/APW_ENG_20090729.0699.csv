@@ -1,0 +1,7 @@
+source,target,value,color
+ETA,France,0.100000,NotPositive
+France,ETA,0.100000,Negative
+Spain,ETA,0.100000,Negative
+Burgos,ETA,0.100000,Negative
+ETA,Spain,0.100000,NotPositive
+ETA,Burgos,0.100000,NotPositive

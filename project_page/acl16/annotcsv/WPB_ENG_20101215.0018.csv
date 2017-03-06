@@ -1,0 +1,14 @@
+source,target,value,color
+NRA,Congress,0.100000,NotNegative
+ATF,NRA,0.100000,NotPositive
+Congress,NRA,0.100000,NotNegative
+Mexico,ATF,0.100000,NotPositive
+Justice Department,Matt Miller,0.100000,Positive
+Matt Miller,Justice Department,0.100000,Positive
+ATF,Mexico,0.100000,NotPositive
+Justice Department,NRA,0.100000,NotPositive
+Matt Miller,ATF,0.100000,NotNegative
+ATF,Matt Miller,0.100000,NotNegative
+ATF,Justice Department,0.100000,NotNegative
+Mexico,NRA,0.100000,NotNegative
+NRA,ATF,0.100000,Negative

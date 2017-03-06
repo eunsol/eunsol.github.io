@@ -1,0 +1,21 @@
+source,target,value,color
+Mongolia,one-China,0.100000,Positive
+Batbold,China,0.100000,Positive
+Luvsanvandan Bold,Mongolia,0.100000,Positive
+Ma,Mongolia,0.100000,NotNegative
+5th China,China,0.100000,NotNegative
+Mongolia,Batbold,0.100000,NotNegative
+Ma,China,0.100000,Positive
+Mongolia,Luvsanvandan Bold,0.100000,NotNegative
+Ma,Chinese People 's Liberation Army,0.100000,Positive
+China,Chinese People 's Liberation Army,0.100000,NotNegative
+Batbold,Mongolia,0.100000,NotNegative
+Mongolia,China,0.100000,Positive
+Batbold,one-China,0.100000,Positive
+China,one-China,0.100000,Positive
+China,5th China,0.100000,NotNegative
+Chinese People 's Liberation Army,China,0.100000,NotNegative
+5th China,Mongolia,0.100000,NotNegative
+Ma,one-China,0.100000,NotNegative
+China,Mongolia,0.100000,Positive
+Chinese People 's Liberation Army,Ma,0.100000,NotNegative

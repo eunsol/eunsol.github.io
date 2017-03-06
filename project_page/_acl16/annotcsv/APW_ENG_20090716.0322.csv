@@ -1,0 +1,24 @@
+source,target,value,color
+Ramzan Kadyrov,Chechen,0.100000,NotNegative
+Ramzan Kadyrov,Russia,0.100000,NotNegative
+Lyudmila Alexeyeva,Ramzan Kadyrov,0.100000,Negative
+Putin,Chechen,0.100000,NotNegative
+Lyudmila Alexeyeva,Moscow Helsinki Group,0.100000,NotNegative
+Putin,Ramzan Kadyrov,0.100000,Positive
+Moscow Helsinki Group,Putin,0.100000,NotPositive
+Chechen,Ramzan Kadyrov,0.100000,NotNegative
+Lyudmila Alexeyeva,Natalya Estemirova,0.100000,NotNegative
+Putin,Chechnya,0.100000,NotNegative
+Moscow Helsinki Group,Lyudmila Alexeyeva,0.100000,NotNegative
+Ramzan Kadyrov,Natalya Estemirova,0.100000,Negative
+Natalya Estemirova,Ramzan Kadyrov,0.100000,NotPositive
+Ramzan Kadyrov,Lyudmila Alexeyeva,0.100000,Negative
+Putin,Natalya Estemirova,0.100000,Negative
+Chechnya,Ramzan Kadyrov,0.100000,NotNegative
+Ramzan Kadyrov,Putin,0.100000,Positive
+Putin,Lyudmila Alexeyeva,0.100000,Negative
+Lyudmila Alexeyeva,Putin,0.100000,Negative
+Moscow Helsinki Group,Ramzan Kadyrov,0.100000,NotPositive
+Ramzan Kadyrov,Chechnya,0.100000,NotNegative
+Natalya Estemirova,Putin,0.100000,NotPositive
+Putin,Russia,0.100000,NotNegative

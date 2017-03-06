@@ -1,0 +1,23 @@
+source,target,value,color
+Marion Cotillard,Allen,0.100000,NotNegative
+Carla Bruni-Sarkozy,Rodin Museum,0.100000,NotNegative
+Nicolas Sarkozy,Allen,0.100000,NotNegative
+Owen Wilson,Allen,0.100000,NotNegative
+Carla Bruni-Sarkozy,Nicolas Sarkozy,0.100000,Positive
+Carla Bruni-Sarkozy,Allen,0.100000,Positive
+Corriere della Sera,Allen,0.100000,Positive
+Allen,Owen Wilson,0.100000,NotNegative
+Allen,Carla Bruni-Sarkozy,0.100000,Positive
+Carla Bruni-Sarkozy,Owen Wilson,0.100000,NotNegative
+Allen,Marion Cotillard,0.100000,NotNegative
+Nicolas Sarkozy,French,0.100000,Positive
+Nicolas Sarkozy,Carla Bruni-Sarkozy,0.100000,Positive
+French,Nicolas Sarkozy,0.100000,NotNegative
+Nicolas Sarkozy,Paris,0.100000,NotNegative
+Carla Bruni-Sarkozy,Marion Cotillard,0.100000,NotNegative
+Marion Cotillard,Owen Wilson,0.100000,NotNegative
+Allen,Corriere della Sera,0.100000,NotNegative
+Owen Wilson,Carla Bruni-Sarkozy,0.100000,NotNegative
+Marion Cotillard,Carla Bruni-Sarkozy,0.100000,NotNegative
+Owen Wilson,Marion Cotillard,0.100000,NotNegative
+Allen,Nicolas Sarkozy,0.100000,NotNegative

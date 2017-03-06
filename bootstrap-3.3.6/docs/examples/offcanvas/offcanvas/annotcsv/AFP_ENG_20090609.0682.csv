@@ -1,0 +1,14 @@
+source,target,value,color
+Duch,Khmer Rouge,0.100000,NotPositive
+Khmer Rouge,Marx,0.100000,Positive
+Khmer Rouge,Pol Pot,0.100000,Positive
+Pol Pot,United Nations,0.100000,Negative
+Khmer Rouge,Duch,0.100000,NotNegative
+United Nations,Duch,0.100000,Negative
+Khmer Rouge,United Nations,0.100000,Negative
+Pol Pot,Marx,0.100000,Positive
+Pol Pot,Khmer Rouge,0.100000,Positive
+United Nations,Khmer Rouge,0.100000,Negative
+United Nations,Pol Pot,0.100000,Negative
+Pol Pot,Lenin,0.100000,Positive
+Khmer Rouge,Lenin,0.100000,Positive

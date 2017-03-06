@@ -1,0 +1,11 @@
+source,target,value,color
+O'Keefe,Navy,0.100000,NotNegative
+O'Keefe,Pentagon,0.100000,NotNegative
+NASA,International Space Station,0.100000,NotNegative
+Goldin,NASA,0.100000,NotNegative
+NASA,Goldin,0.100000,NotNegative
+NASA,Mars,0.100000,NotNegative
+Goldin,Mars,0.100000,NotNegative
+Bush,O'Keefe,0.100000,Positive
+O'Keefe,Bush,0.100000,NotNegative
+O'Keefe,White House 's Office of Management and Budget,0.100000,NotNegative

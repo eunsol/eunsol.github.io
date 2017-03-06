@@ -1,0 +1,36 @@
+source,target,value,color
+Hameed Gul,Muslims,0.100000,NotNegative
+Hameed Gul,US State Department,0.100000,Negative
+Afghan,US,0.100000,NotPositive
+Hameed Gul,US,0.100000,Negative
+Palestinian,US,0.100000,NotPositive
+Palestine,Israeli,0.100000,Negative
+US State Department,Palestinian,0.100000,NotPositive
+Israeli,Palestinian,0.100000,Negative
+Palestinian,Muslims,0.100000,NotNegative
+US State Department,Hameed Gul,0.100000,NotPositive
+Hameed Gul,Palestine,0.100000,NotNegative
+Hameed Gul,Afghan,0.100000,NotNegative
+Palestinian,Israeli,0.100000,Negative
+US,Israeli,0.100000,NotNegative
+US State Department,Israeli,0.100000,NotNegative
+Muslims,US State Department,0.100000,NotPositive
+US,Palestine,0.100000,NotPositive
+Islamabad,India,0.100000,NotPositive
+Palestine,Muslims,0.100000,NotNegative
+US State Department,Palestine,0.100000,NotPositive
+US,Palestinian,0.100000,NotPositive
+Hameed Gul,Palestinian,0.100000,NotNegative
+Hameed Gul,Islamabad,0.100000,NotNegative
+Hameed Gul,ISI,0.100000,NotNegative
+Hameed Gul,Pakistani Inter-Services Intelligence,0.100000,NotNegative
+Israeli,Palestine,0.100000,Negative
+Palestine,US State Department,0.100000,NotPositive
+Israeli,Muslims,0.100000,NotPositive
+Pakistani Inter-Services Intelligence,Hameed Gul,0.100000,NotNegative
+ISI,Hameed Gul,0.100000,NotNegative
+Hameed Gul,Israeli,0.100000,Negative
+Palestinian,US State Department,0.100000,NotPositive
+Palestine,US,0.100000,NotPositive
+US,Hameed Gul,0.100000,NotPositive
+Muslims,US,0.100000,NotPositive

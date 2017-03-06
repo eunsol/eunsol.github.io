@@ -1,0 +1,24 @@
+source,target,value,color
+China,Cuban,0.100000,NotNegative
+China,Communist Party of Cuba,0.100000,NotNegative
+Tian,China,0.100000,Positive
+Communist Party of Cuba,Granma,0.100000,Positive
+China,Tian,0.100000,NotNegative
+Granma,Fidel Castro,0.100000,NotNegative
+Cuban,China,0.100000,Positive
+Communist Party of Cuba,Fidel Castro,0.100000,NotNegative
+Fidel Castro,Communist Party of Cuba,0.100000,Positive
+Granma,Tian,0.100000,NotNegative
+Granma,China,0.100000,Positive
+China,Fidel Castro,0.100000,NotNegative
+Granma,Cuban,0.100000,Positive
+Fidel Castro,Granma,0.100000,NotNegative
+Granma,Communist Party of Cuba,0.100000,Positive
+China,Granma,0.100000,NotNegative
+Cuban,Fidel Castro,0.100000,NotNegative
+Cuban,Communist Party of Cuba,0.100000,NotNegative
+Fidel Castro,Cuban,0.100000,Positive
+Communist Party of Cuba,Cuban,0.100000,Positive
+Communist Party of Cuba,China,0.100000,Positive
+Fidel Castro,China,0.100000,Positive
+Cuban,Granma,0.100000,NotNegative

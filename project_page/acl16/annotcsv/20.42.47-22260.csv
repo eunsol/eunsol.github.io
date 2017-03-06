@@ -1,0 +1,13 @@
+source,target,value,color
+Masaaki Nakajima,Kyoto Protocol,0.100000,Positive
+Kiko Network,Bush,0.100000,NotPositive
+Japan,Kyoto Protocol,0.100000,Positive
+U.S.,Bush,0.100000,NotNegative
+U.S.,Kyoto Protocol,0.100000,NotPositive
+Bush,U.S.,0.100000,NotNegative
+Bush,Kiko Network,0.100000,NotPositive
+Earth,Kyoto Protocol,0.100000,NotNegative
+Masaaki Nakajima,Bush,0.100000,NotPositive
+Kiko Network,Kyoto Protocol,0.100000,Positive
+Bush,Masaaki Nakajima,0.100000,NotPositive
+Bush,Kyoto Protocol,0.100000,Negative

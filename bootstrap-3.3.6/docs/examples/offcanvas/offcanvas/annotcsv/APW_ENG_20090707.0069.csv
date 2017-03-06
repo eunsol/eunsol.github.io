@@ -1,0 +1,5 @@
+source,target,value,color
+Wade,Pat Riley,0.100000,NotNegative
+Wade,Miami,0.100000,NotNegative
+Pat Riley,Wade,0.100000,NotNegative
+Wade,NBA,0.100000,Positive

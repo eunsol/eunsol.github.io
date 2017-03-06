@@ -1,0 +1,15 @@
+source,target,value,color
+Israeli,AIPAC,0.100000,NotNegative
+Barack Obama,Israeli,0.100000,NotNegative
+AIPAC,pro-Israel,0.100000,NotNegative
+Israeli,pro-Israel,0.100000,NotNegative
+Clinton,US,0.100000,Positive
+Clinton,Israeli,0.100000,NotNegative
+Clinton,State,0.100000,Positive
+Barack Obama,Clinton,0.100000,NotNegative
+Barack Obama,US,0.100000,Positive
+AIPAC,Israeli,0.100000,Positive
+Clinton,pro-Israel,0.100000,NotNegative
+Clinton,AIPAC,0.100000,NotNegative
+Clinton,Barack Obama,0.100000,NotNegative
+pro-Israel,Israeli,0.100000,Positive

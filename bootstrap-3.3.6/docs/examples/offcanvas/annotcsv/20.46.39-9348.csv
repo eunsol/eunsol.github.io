@@ -1,0 +1,40 @@
+source,target,value,color
+Kono,US,0.100000,NotPositive
+Liberal Democratic Party,Bush,0.100000,NotPositive
+Middle Eastern,Kono,0.100000,NotNegative
+Liberal Democratic Party,SOFA,0.100000,NotPositive
+Iraq,US,0.100000,NotPositive
+Hagishiri,Liberal Democratic Party,0.100000,NotNegative
+Kono,SOFA,0.100000,NotPositive
+Hagishiri,Kono,0.100000,NotNegative
+Hagishiri,SOFA,0.100000,NotPositive
+Iraq,Bush,0.100000,NotPositive
+Bush,US,0.100000,NotNegative
+Bush,SOFA,0.100000,NotNegative
+Kono,Hagishiri,0.100000,NotNegative
+Hagishiri,CTBT,0.100000,NotNegative
+Hagishiri,Japanese,0.100000,NotNegative
+US,CTBT,0.100000,NotPositive
+Middle Eastern,Japanese,0.100000,NotNegative
+Middle Eastern,Bush,0.100000,NotPositive
+Liberal Democratic Party,Japanese,0.100000,NotNegative
+Bush,Iraq,0.100000,NotPositive
+Hagishiri,Bush,0.100000,NotPositive
+US,SOFA,0.100000,Positive
+Middle Eastern,Liberal Democratic Party,0.100000,NotNegative
+Kono,Japanese,0.100000,NotNegative
+US,Iraq,0.100000,Negative
+Japanese,Kono,0.100000,NotNegative
+Middle Eastern,US,0.100000,NotPositive
+Japanese,Middle Eastern,0.100000,NotNegative
+Bush,CTBT,0.100000,Negative
+Kono,Liberal Democratic Party,0.100000,NotNegative
+Liberal Democratic Party,Middle Eastern,0.100000,NotNegative
+Japanese,CTBT,0.100000,NotNegative
+Hagishiri,US,0.100000,NotPositive
+Liberal Democratic Party,Kono,0.100000,NotNegative
+Kono,Bush,0.100000,NotPositive
+Bush,Hagishiri,0.100000,NotPositive
+Japanese,SOFA,0.100000,NotPositive
+Kono,Middle Eastern,0.100000,NotNegative
+Japanese,Bush,0.100000,NotPositive

@@ -1,0 +1,21 @@
+source,target,value,color
+FINRA,Goldman,0.100000,Negative
+James Shorris,Financial Industry Regulatory Authority,0.100000,Positive
+James Shorris,FINRA,0.100000,Positive
+SEC,Goldman,0.100000,NotPositive
+SEC,Tourre,0.100000,NotPositive
+Financial Industry Regulatory Authority,Tourre,0.100000,NotPositive
+Goldman,James Shorris,0.100000,NotPositive
+James Shorris,Goldman,0.100000,Negative
+FINRA,Tourre,0.100000,NotPositive
+Goldman,SEC,0.100000,NotPositive
+Goldman,Michael DuVally,0.100000,NotNegative
+Tourre,SEC,0.100000,Negative
+Goldman,FINRA,0.100000,NotPositive
+Goldman,Financial Industry Regulatory Authority,0.100000,NotPositive
+FINRA,James Shorris,0.100000,NotNegative
+Michael DuVally,Goldman,0.100000,Positive
+Financial Industry Regulatory Authority,James Shorris,0.100000,NotNegative
+Financial Industry Regulatory Authority,Goldman,0.100000,Negative
+FINRA,BrokerCheck,0.100000,NotNegative
+Financial Industry Regulatory Authority,BrokerCheck,0.100000,NotNegative

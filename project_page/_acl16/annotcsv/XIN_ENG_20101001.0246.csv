@@ -1,0 +1,6 @@
+source,target,value,color
+George Papandreou,Greek,0.100000,NotNegative
+George Papandreou,China,0.100000,Positive
+Xinhua,China,0.100000,NotNegative
+China,Greek,0.100000,NotNegative
+George Papandreou,National Day,0.100000,Positive

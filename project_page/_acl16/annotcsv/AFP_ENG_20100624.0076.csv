@@ -1,0 +1,38 @@
+source,target,value,color
+Damascus,Muhannad al-Hassani,0.100000,Negative
+Toner,Syria,0.100000,Negative
+Muhannad al-Hasni,US,0.100000,NotNegative
+Hassani,Damascus,0.100000,Negative
+Toner,US,0.100000,NotNegative
+Syria,US,0.100000,NotPositive
+Muhannad al-Hassani,Syria,0.100000,Negative
+Muhannad al-Hassani,US,0.100000,NotNegative
+US,Muhannad al-Hasni,0.100000,NotNegative
+State Department,Toner,0.100000,NotNegative
+US,Hassani,0.100000,NotNegative
+US,Arab-Israeli,0.100000,NotNegative
+Muhannad al-Hasni,Syria,0.100000,Negative
+Damascus,Muhannad al-Hasni,0.100000,Negative
+Muhannad al-Hassani,Damascus,0.100000,Negative
+US,Muhannad al-Hassani,0.100000,NotNegative
+US,State Department,0.100000,NotNegative
+Syria,Toner,0.100000,NotPositive
+Muhannad al-Hasni,Toner,0.100000,NotNegative
+Toner,Muhannad al-Hasni,0.100000,NotNegative
+Muhannad al-Hasni,Damascus,0.100000,Negative
+Syria,Hassani,0.100000,Negative
+Barack Obama,Arab-Israeli,0.100000,NotNegative
+US,Barack Obama,0.100000,NotNegative
+Toner,Hassani,0.100000,NotNegative
+Syria,Muhannad al-Hasni,0.100000,Negative
+US,Toner,0.100000,NotNegative
+US,Damascus,0.100000,NotPositive
+Toner,Muhannad al-Hassani,0.100000,NotNegative
+Syria,Muhannad al-Hassani,0.100000,Negative
+Barack Obama,US,0.100000,Positive
+US,Syria,0.100000,Negative
+Hassani,US,0.100000,NotNegative
+Toner,State Department,0.100000,NotNegative
+Damascus,US,0.100000,NotPositive
+Hassani,Syria,0.100000,Negative
+Muhannad al-Hassani,Toner,0.100000,NotNegative

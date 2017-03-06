@@ -1,0 +1,14 @@
+source,target,value,color
+Skah,Anne Cecilie Hopstock,0.100000,Negative
+Moroccan,Skah,0.100000,NotNegative
+Skah,Moroccan,0.100000,NotNegative
+Anne Cecilie Hopstock,Skah,0.100000,NotPositive
+Bjorn Olav Blokhus,Norwegian,0.100000,NotNegative
+Skah,Norwegian,0.100000,Negative
+Bjorn Olav Blokhus,Skah,0.100000,NotPositive
+Skah,Bjorn Olav Blokhus,0.100000,Negative
+Norwegian,Selma,0.100000,NotNegative
+Skah,Selma,0.100000,NotNegative
+Norwegian,Anne Cecilie Hopstock,0.100000,NotNegative
+Norwegian,Bjorn Olav Blokhus,0.100000,NotNegative
+Skah,Olympic,0.100000,NotNegative

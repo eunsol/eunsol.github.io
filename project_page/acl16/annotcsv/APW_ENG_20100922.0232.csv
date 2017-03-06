@@ -1,0 +1,15 @@
+source,target,value,color
+Eritrea,Ethiopia,0.100000,Negative
+Somali,U.N. Security Council,0.100000,NotNegative
+Eritrea,Djibouti,0.100000,NotPositive
+Djibouti,U.N. Security Council,0.100000,NotNegative
+U.N. Security Council,Somali,0.100000,NotNegative
+Eritrea,International Crisis Group,0.100000,NotPositive
+Djibouti,Eritrea,0.100000,NotPositive
+U.S.,Djibouti,0.100000,NotNegative
+Eritrea,Somali,0.100000,Negative
+Djibouti,U.S.,0.100000,NotNegative
+U.N. Security Council,Eritrea,0.100000,Negative
+Eritrea,U.N. Security Council,0.100000,NotPositive
+Ethiopia,Eritrea,0.100000,Negative
+Somali,Eritrea,0.100000,NotPositive

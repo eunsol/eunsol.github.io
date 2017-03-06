@@ -1,0 +1,30 @@
+source,target,value,color
+DRC,Ma,0.100000,NotNegative
+Ma,DRC,0.100000,Positive
+DRC,Joseph Kabila,0.100000,NotNegative
+United Nations,MONUC,0.100000,Positive
+Joseph Kabila,DRC,0.100000,Positive
+MONUC,DRC,0.100000,Positive
+China,DRC,0.100000,Positive
+China,Ma,0.100000,NotNegative
+DRC,China,0.100000,Positive
+African,China,0.100000,NotNegative
+United Nations,DRC,0.100000,Positive
+Ma,China,0.100000,Positive
+Joseph Kabila,China,0.100000,Positive
+China,United Nations,0.100000,NotNegative
+Ma,Joseph Kabila,0.100000,NotNegative
+China,African,0.100000,NotNegative
+China,MONUC,0.100000,NotNegative
+Joseph Kabila,Ma,0.100000,NotNegative
+one-China,China,0.100000,Positive
+United Nations,China,0.100000,NotNegative
+DRC,United Nations,0.100000,NotNegative
+China,one-China,0.100000,Positive
+China,Joseph Kabila,0.100000,NotNegative
+DRC,MONUC,0.100000,NotNegative
+Ma,MONUC,0.100000,NotNegative
+one-China,DRC,0.100000,NotNegative
+Ma,one-China,0.100000,Positive
+DRC,one-China,0.100000,Positive
+MONUC,China,0.100000,NotNegative

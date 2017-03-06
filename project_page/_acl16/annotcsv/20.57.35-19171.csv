@@ -1,0 +1,40 @@
+source,target,value,color
+Bush,White House,0.100000,Positive
+Carl Pope,Bush,0.100000,Negative
+Sierra Club,Europe,0.100000,NotNegative
+Europe,Kyoto Protocol,0.100000,Positive
+Europe,US,0.100000,NotPositive
+Bush,US,0.100000,Positive
+Carl Pope,Sierra Club,0.100000,Positive
+Carl Pope,Europe,0.100000,Positive
+Sierra Club,Carl Pope,0.100000,Positive
+Washington,Carl Pope,0.100000,NotPositive
+Bush,Carl Pope,0.100000,NotPositive
+White House,Washington,0.100000,Positive
+US,Kyoto Protocol,0.100000,NotPositive
+White House,Kyoto Protocol,0.100000,Negative
+Sierra Club,White House,0.100000,NotPositive
+Washington,Bush,0.100000,Positive
+Sierra Club,Kyoto Protocol,0.100000,Positive
+White House,Carl Pope,0.100000,NotPositive
+Carl Pope,Washington,0.100000,NotPositive
+Carl Pope,Kyoto Protocol,0.100000,Positive
+US,Washington,0.100000,NotNegative
+Sierra Club,Washington,0.100000,NotPositive
+Washington,Sierra Club,0.100000,NotPositive
+US,Bush,0.100000,NotNegative
+White House,Sierra Club,0.100000,NotPositive
+Bush,Washington,0.100000,Positive
+Washington,White House,0.100000,Positive
+White House,Bush,0.100000,Positive
+Washington,US,0.100000,Positive
+Europe,White House,0.100000,NotPositive
+Europe,Washington,0.100000,NotPositive
+Bush,Europe,0.100000,NotPositive
+Bush,Kyoto Protocol,0.100000,NotPositive
+Sierra Club,Bush,0.100000,Negative
+Europe,Bush,0.100000,NotPositive
+Carl Pope,White House,0.100000,NotPositive
+US,White House,0.100000,NotNegative
+White House,US,0.100000,Positive
+Bush,Sierra Club,0.100000,NotPositive

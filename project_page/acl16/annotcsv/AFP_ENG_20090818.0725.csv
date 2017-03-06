@@ -1,0 +1,27 @@
+source,target,value,color
+Hazel Hunt,Daily Mail,0.100000,NotNegative
+Bob Ainsworth,Afghanistan,0.100000,NotPositive
+Hazel Hunt,Taliban,0.100000,Negative
+Taliban,Richard Hunt,0.100000,Negative
+Taliban,British,0.100000,NotPositive
+Taliban,Defence,0.100000,Negative
+Taliban,Bob Ainsworth,0.100000,NotPositive
+Richard Hunt,Afghanistan,0.100000,NotPositive
+British,Taliban,0.100000,Negative
+Afghanistan,British,0.100000,NotPositive
+Gordon Brown,Afghanistan,0.100000,NotPositive
+Hazel Hunt,Defence,0.100000,NotPositive
+Army,Afghanistan,0.100000,NotPositive
+British,Afghanistan,0.100000,NotPositive
+Gordon Brown,Taliban,0.100000,Negative
+Hazel Hunt,Bob Ainsworth,0.100000,Negative
+Gordon Brown,British,0.100000,NotNegative
+Hazel Hunt,Army,0.100000,NotPositive
+Richard Hunt,Taliban,0.100000,Negative
+Army,Taliban,0.100000,NotPositive
+Gordon Brown,Army,0.100000,NotNegative
+Hazel Hunt,Richard Hunt,0.100000,Positive
+Taliban,Army,0.100000,Negative
+Hazel Hunt,Gordon Brown,0.100000,NotPositive
+Afghanistan,Gordon Brown,0.100000,NotPositive
+Hazel Hunt,Afghanistan,0.100000,NotPositive

@@ -1,0 +1,24 @@
+source,target,value,color
+Chinese Foreign Ministry,Rio Tinto,0.100000,Negative
+Intermediate People 's Court,Rio Tinto,0.100000,Negative
+China,Stern Hu,0.100000,Negative
+Qin,Stern Hu,0.100000,NotPositive
+Stephen Smith,Chinese Foreign Ministry,0.100000,NotPositive
+Qin,Stephen Smith,0.100000,NotPositive
+Stephen Smith,China,0.100000,Negative
+China,Rio Tinto,0.100000,Negative
+Stephen Smith,Australian,0.100000,NotNegative
+Chinese Foreign Ministry,Stern Hu,0.100000,Negative
+Stern Hu,Intermediate People 's Court,0.100000,NotPositive
+Rio Tinto,Intermediate People 's Court,0.100000,NotPositive
+China,Australian,0.100000,NotPositive
+Australian,Stephen Smith,0.100000,NotNegative
+Qin,Australian,0.100000,NotPositive
+Chinese Foreign Ministry,Qin,0.100000,NotNegative
+Stephen Smith,Qin,0.100000,NotPositive
+Australian,China,0.100000,NotPositive
+Chinese Foreign Ministry,China,0.100000,NotNegative
+Chinese Foreign Ministry,Australian,0.100000,NotPositive
+Chinese Foreign Ministry,Stephen Smith,0.100000,NotPositive
+Intermediate People 's Court,Stern Hu,0.100000,Negative
+Qin,Rio Tinto,0.100000,Negative

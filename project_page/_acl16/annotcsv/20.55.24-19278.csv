@@ -1,0 +1,25 @@
+source,target,value,color
+Europe,Bonn,0.100000,NotNegative
+Bush,Japan,0.100000,NotPositive
+Europe,US,0.100000,NotPositive
+Bush,US,0.100000,Positive
+Japan,US,0.100000,NotPositive
+Bush,European Union,0.100000,NotPositive
+European Union,Marrakech,0.100000,NotNegative
+US,European Union,0.100000,NotPositive
+US,Japan,0.100000,NotPositive
+Japan,Europe,0.100000,Positive
+European Union,US,0.100000,NotPositive
+European Union,Bush,0.100000,NotPositive
+Europe,Japan,0.100000,Positive
+European Union,Japan,0.100000,Positive
+European Union,Europe,0.100000,Positive
+Bush,Europe,0.100000,NotPositive
+US,Europe,0.100000,NotPositive
+US,Bush,0.100000,Positive
+Europe,Bush,0.100000,NotPositive
+European Union,Bonn,0.100000,NotNegative
+Japan,Bush,0.100000,Negative
+Europe,Marrakech,0.100000,NotNegative
+Japan,European Union,0.100000,Positive
+Europe,European Union,0.100000,Positive

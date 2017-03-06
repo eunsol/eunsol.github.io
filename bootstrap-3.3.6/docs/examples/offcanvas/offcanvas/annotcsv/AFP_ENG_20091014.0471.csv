@@ -1,0 +1,15 @@
+source,target,value,color
+Murat Tahirovic,Karadzic,0.100000,Negative
+Muslim,Karadzic,0.100000,Negative
+Karadzic,Muslim,0.100000,Negative
+Bosnian,Karadzic,0.100000,Negative
+Karadzic,Sarajevo,0.100000,Negative
+Sarajevo,Karadzic,0.100000,Negative
+Srebrenica,Karadzic,0.100000,Negative
+Karadzic,Murat Tahirovic,0.100000,Negative
+Karadzic,Srebrenica,0.100000,Negative
+Subasic,ICTY,0.100000,Negative
+Murat Tahirovic,ICTY,0.100000,NotPositive
+Subasic,Karadzic,0.100000,Negative
+Bosnian,Murat Tahirovic,0.100000,NotNegative
+Karadzic,Subasic,0.100000,Negative

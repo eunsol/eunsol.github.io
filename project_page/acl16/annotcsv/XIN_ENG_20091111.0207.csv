@@ -1,0 +1,13 @@
+source,target,value,color
+Ethiopia,Finnish,0.100000,NotNegative
+Finnish,Ethiopia,0.100000,NotNegative
+Torstila,Ethiopia,0.100000,NotNegative
+Finnish,Torstila,0.100000,NotNegative
+Meles,Torstila,0.100000,NotNegative
+Ethiopia,Meles,0.100000,NotNegative
+Ethiopia,Torstila,0.100000,NotNegative
+Torstila,Finnish,0.100000,Positive
+Finnish,Meles,0.100000,NotNegative
+Torstila,Meles,0.100000,NotNegative
+Meles,Finnish,0.100000,NotNegative
+Meles,Ethiopia,0.100000,Positive

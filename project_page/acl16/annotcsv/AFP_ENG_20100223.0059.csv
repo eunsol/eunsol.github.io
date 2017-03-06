@@ -1,0 +1,9 @@
+source,target,value,color
+Eddie,Toyota,0.100000,Negative
+Toyota,Eddie,0.100000,NotPositive
+Eddie,National Center for Dispute Settlement,0.100000,NotPositive
+Eddie,Smith,0.100000,Positive
+Smith,Eddie,0.100000,Positive
+Toyota,Smith,0.100000,NotPositive
+Smith,Toyota,0.100000,Negative
+Smith,National Center for Dispute Settlement,0.100000,Negative

@@ -1,0 +1,12 @@
+source,target,value,color
+Chinghan Village Office,Miu,0.100000,Positive
+Yunlin County,Miu,0.100000,Positive
+Ma,Miu,0.100000,Positive
+Miu,Chinghan Village Office,0.100000,Positive
+Ma,Chinghan Village Office,0.100000,NotNegative
+Yunlin County 's Kouhu,Miu,0.100000,Positive
+Miu,Chinghan Village,0.100000,Positive
+Ma,Chinghan Village,0.100000,NotNegative
+Chinghan Village,Ma,0.100000,NotNegative
+Miu,Ma,0.100000,NotNegative
+Chinghan Village,Miu,0.100000,Positive

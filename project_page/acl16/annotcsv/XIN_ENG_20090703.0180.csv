@@ -1,0 +1,20 @@
+source,target,value,color
+Ghana,Join Communique,0.100000,NotNegative
+Ban Ki - moon,Economic Community of West African States,0.100000,Positive
+Ghanaian,Join Communique,0.100000,NotNegative
+Ghanaian,UN,0.100000,NotNegative
+UN,Gambia,0.100000,NotNegative
+UN,Join Communique,0.100000,Positive
+Ban Ki - moon,Gambia,0.100000,Positive
+Ban Ki - moon,UN,0.100000,Positive
+UN,Ghanaian,0.100000,NotNegative
+UN,Ban Ki - moon,0.100000,NotNegative
+Ghana,Economic Community of West African States,0.100000,NotNegative
+Gambia,Join Communique,0.100000,NotNegative
+Ban Ki - moon,Ghana,0.100000,Positive
+Ghanaian,Economic Community of West African States,0.100000,NotNegative
+Ban Ki - moon,Join Communique,0.100000,Positive
+Economic Community of West African States,Join Communique,0.100000,NotNegative
+Ban Ki - moon,Ghanaian,0.100000,Positive
+UN,Ghana,0.100000,NotNegative
+Economic Community of West African States,UN,0.100000,NotNegative

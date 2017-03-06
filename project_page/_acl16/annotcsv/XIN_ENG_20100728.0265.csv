@@ -1,0 +1,7 @@
+source,target,value,color
+Venezuela,Hugo Chavez,0.100000,NotNegative
+Hugo Chavez,Venezuela,0.100000,Positive
+Venezuela,Colombian,0.100000,NotPositive
+Colombian,Hugo Chavez,0.100000,NotPositive
+Colombian,Venezuela,0.100000,Negative
+Hugo Chavez,Colombian,0.100000,Negative

@@ -1,0 +1,12 @@
+source,target,value,color
+Juneidi,Kyoto,0.100000,NotNegative
+Canada,Kyoto,0.100000,NotPositive
+Juneidi,Jordan,0.100000,NotNegative
+GCEP,Kyoto,0.100000,Positive
+US,Kyoto,0.100000,NotPositive
+Zeid Ben Raad,Kyoto,0.100000,NotNegative
+Juneidi,GCEP,0.100000,NotNegative
+Jordan,GCEP,0.100000,NotNegative
+Jordan,Kyoto,0.100000,Positive
+European Union,Kyoto,0.100000,NotNegative
+Zeid Ben Raad,UN,0.100000,NotNegative

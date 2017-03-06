@@ -1,0 +1,20 @@
+source,target,value,color
+CIA,WikiLeaks,0.100000,Negative
+WikiLeaks,Pentagon,0.100000,NotPositive
+Pentagon,CIA,0.100000,NotNegative
+Pentagon,US,0.100000,NotNegative
+Pentagon,WikiLeaks,0.100000,Negative
+State Department,CIA,0.100000,NotNegative
+Daily Beast,WikiLeaks,0.100000,NotPositive
+Leslie Phillips,State Department,0.100000,Positive
+Leslie Phillips,US,0.100000,NotNegative
+State Department,Leslie Phillips,0.100000,NotNegative
+CIA,US,0.100000,NotNegative
+CIA,Pentagon,0.100000,NotNegative
+CIA,State Department,0.100000,NotNegative
+State Department,Pentagon,0.100000,NotNegative
+State Department,WikiLeaks,0.100000,Negative
+WikiLeaks,CIA,0.100000,NotPositive
+WikiLeaks,State Department,0.100000,NotPositive
+Pentagon,State Department,0.100000,NotNegative
+Leslie Phillips,WikiLeaks,0.100000,NotPositive

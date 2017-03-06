@@ -1,0 +1,54 @@
+source,target,value,color
+Chinese People 's Association for Friendship,China-Venezuela,0.100000,Positive
+China-Latin America Friendship Association,Rocio Maneiro Gonzalez,0.100000,NotNegative
+Latin America,Li,0.100000,NotNegative
+China,Chinese People 's Association for Friendship,0.100000,Positive
+Rocio Maneiro Gonzalez,Venezuela,0.100000,NotNegative
+Li,CPAFFC,0.100000,Positive
+CPAFFC,Venezuela,0.100000,Positive
+CPAFFC,China-Latin America Friendship Association,0.100000,Positive
+Venezuela,China-Venezuela,0.100000,NotNegative
+China-Latin America Friendship Association,Li,0.100000,NotNegative
+CPAFFC,China,0.100000,Positive
+Li,China-Venezuela,0.100000,Positive
+Rocio Maneiro Gonzalez,China,0.100000,Positive
+Venezuela,Li,0.100000,NotNegative
+Li,China,0.100000,NotNegative
+Latin America,CPAFFC,0.100000,NotNegative
+Venezuela,CPAFFC,0.100000,NotNegative
+China-Latin America Friendship Association,Venezuela,0.100000,Positive
+Venezuela,Chinese People 's Association for Friendship,0.100000,NotNegative
+China,Venezuela,0.100000,Positive
+Latin America,China-Venezuela,0.100000,Positive
+Chinese People 's Association for Friendship,Li,0.100000,NotNegative
+Chinese People 's Association for Friendship,China-Latin America Friendship Association,0.100000,Positive
+Li,Venezuela,0.100000,Positive
+China,China-Latin America Friendship Association,0.100000,Positive
+China,Li,0.100000,NotNegative
+China-Latin America Friendship Association,Latin America,0.100000,Positive
+China-Latin America Friendship Association,CPAFFC,0.100000,Positive
+Rocio Maneiro Gonzalez,Latin America,0.100000,NotNegative
+Venezuela,Rocio Maneiro Gonzalez,0.100000,NotNegative
+Chinese People 's Association for Friendship,China,0.100000,Positive
+Chinese People 's Association for Friendship,Venezuela,0.100000,Positive
+Chinese People 's Association for Friendship,Latin America,0.100000,NotNegative
+Latin America,China-Latin America Friendship Association,0.100000,NotNegative
+China-Latin America Friendship Association,China,0.100000,Positive
+Li,Latin America,0.100000,NotNegative
+Rocio Maneiro Gonzalez,Li,0.100000,NotNegative
+Latin America,China,0.100000,NotNegative
+China,Rocio Maneiro Gonzalez,0.100000,NotNegative
+China-Latin America Friendship Association,Chinese People 's Association for Friendship,0.100000,Positive
+CPAFFC,Li,0.100000,NotNegative
+Venezuela,China-Latin America Friendship Association,0.100000,NotNegative
+Rocio Maneiro Gonzalez,China-Venezuela,0.100000,Positive
+CPAFFC,China-Venezuela,0.100000,Positive
+Li,China-Latin America Friendship Association,0.100000,NotNegative
+China,Latin America,0.100000,NotNegative
+China,CPAFFC,0.100000,Positive
+China-Latin America Friendship Association,China-Venezuela,0.100000,Positive
+Li,Rocio Maneiro Gonzalez,0.100000,NotNegative
+Venezuela,China,0.100000,Positive
+Li,Chinese People 's Association for Friendship,0.100000,Positive
+Latin America,Chinese People 's Association for Friendship,0.100000,NotNegative
+Latin America,Rocio Maneiro Gonzalez,0.100000,NotNegative

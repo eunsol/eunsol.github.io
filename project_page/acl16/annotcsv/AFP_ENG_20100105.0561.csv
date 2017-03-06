@@ -1,0 +1,13 @@
+source,target,value,color
+EA,Woods,0.100000,NotNegative
+Nike,Woods,0.100000,Positive
+Woods,Tag Heuer,0.100000,NotPositive
+Woods,Nike,0.100000,Positive
+Tag Heuer,Woods,0.100000,NotPositive
+Gillette,Woods,0.100000,NotPositive
+Woods,AT&T,0.100000,Negative
+AT&T,Woods,0.100000,Negative
+Woods,Gillette,0.100000,NotPositive
+Woods,Accenture,0.100000,Negative
+Moore,EA,0.100000,NotNegative
+Accenture,Woods,0.100000,Negative

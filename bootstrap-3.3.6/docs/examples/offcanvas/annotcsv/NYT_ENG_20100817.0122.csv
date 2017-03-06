@@ -1,0 +1,22 @@
+source,target,value,color
+Social Security,Sharron Angle,0.100000,NotPositive
+Sharron Angle,Tea Party,0.100000,NotNegative
+Republicans,Democratic,0.100000,NotPositive
+Republicans,Reid,0.100000,NotPositive
+Energy Department,Sharron Angle,0.100000,NotPositive
+Sharron Angle,Democratic,0.100000,NotPositive
+Sharron Angle,Environmental Protection Agency,0.100000,Negative
+Tea Party,Sharron Angle,0.100000,NotNegative
+Democratic,Republicans,0.100000,NotPositive
+Reid,Democratic,0.100000,NotNegative
+Tea Party,Republicans,0.100000,NotNegative
+Reid,Republicans,0.100000,NotPositive
+Sharron Angle,Energy Department,0.100000,Negative
+Sharron Angle,Reid,0.100000,Negative
+Sharron Angle,Republicans,0.100000,NotNegative
+Sharron Angle,Social Security,0.100000,NotPositive
+Barack Obama,Reid,0.100000,Positive
+Democratic,Reid,0.100000,NotNegative
+Environmental Protection Agency,Sharron Angle,0.100000,NotPositive
+Reid,Barack Obama,0.100000,NotNegative
+Reid,Sharron Angle,0.100000,NotPositive

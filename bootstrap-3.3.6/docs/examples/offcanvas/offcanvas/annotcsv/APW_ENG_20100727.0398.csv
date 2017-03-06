@@ -1,0 +1,8 @@
+source,target,value,color
+IOC,India,0.100000,NotPositive
+IOC,Olympic Charter,0.100000,NotNegative
+IOC,Gill,0.100000,NotPositive
+Gill,India,0.100000,Positive
+Gill,IOC,0.100000,NotPositive
+India,IOC,0.100000,NotPositive
+India,Gill,0.100000,NotNegative

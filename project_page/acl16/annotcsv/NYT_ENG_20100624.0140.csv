@@ -1,0 +1,12 @@
+source,target,value,color
+Aleksei B. Miller,Gazprom,0.100000,Positive
+Gazprom,Belarus,0.100000,NotPositive
+Gazprom,Russia,0.100000,NotNegative
+Belarus,Aleksei B. Miller,0.100000,NotPositive
+Belarus,Gazprom,0.100000,NotPositive
+Gazprom,Aleksei B. Miller,0.100000,NotNegative
+Aleksei B. Miller,Belarus,0.100000,NotPositive
+Russia,Gazprom,0.100000,NotNegative
+Marlene Holzner,Europe,0.100000,NotNegative
+Belarus,Russia,0.100000,NotPositive
+Russia,Belarus,0.100000,NotPositive

@@ -1,0 +1,39 @@
+source,target,value,color
+Communist Party,Bay of Pigs HAVANA,0.100000,NotPositive
+United States,Castro,0.100000,Negative
+Chavez,Bay of Pigs,0.100000,NotPositive
+Communist Party,Jorge Arias,0.100000,NotNegative
+Jorge Arias,Communist Party,0.100000,Positive
+Venezuelan,Castro,0.100000,NotNegative
+Cuban,Chavez,0.100000,NotNegative
+Cuban,Venezuelan,0.100000,NotNegative
+Communist Party,Bay of Pigs,0.100000,NotPositive
+Chavez,Bay of Pigs HAVANA,0.100000,NotPositive
+Chavez,Cuban,0.100000,NotNegative
+Venezuelan,Chavez,0.100000,NotNegative
+Cuban,Castro,0.100000,NotNegative
+Castro,United States,0.100000,NotPositive
+Castro,Venezuelan,0.100000,NotNegative
+Bush,United States,0.100000,Positive
+Chavez,Castro,0.100000,Positive
+United States,Bay of Pigs,0.100000,Negative
+Communist Party,Castro,0.100000,NotNegative
+Chavez,Bush,0.100000,Negative
+Castro,Chavez,0.100000,Positive
+Jorge Arias,Castro,0.100000,NotNegative
+United States,Chavez,0.100000,Negative
+Jorge Arias,Chavez,0.100000,NotNegative
+Jorge Arias,Venezuelan,0.100000,NotNegative
+Chavez,Venezuelan,0.100000,Positive
+Castro,Bay of Pigs,0.100000,NotPositive
+Castro,Bush,0.100000,NotPositive
+Communist Party,Chavez,0.100000,NotNegative
+Venezuelan,Bush,0.100000,NotPositive
+United States,Bay of Pigs HAVANA,0.100000,Negative
+Chavez,United States,0.100000,NotPositive
+Communist Party,Venezuelan,0.100000,NotNegative
+Bush,Chavez,0.100000,NotPositive
+Venezuelan,Cuban,0.100000,NotNegative
+Castro,Cuban,0.100000,Positive
+Castro,Bay of Pigs HAVANA,0.100000,NotPositive
+United States,Bush,0.100000,Positive

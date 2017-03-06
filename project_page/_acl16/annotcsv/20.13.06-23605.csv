@@ -1,0 +1,43 @@
+source,target,value,color
+Asia,Vietnam,0.100000,NotNegative
+Beijing,Asia,0.100000,NotNegative
+Chu Tuan Nha,Europe,0.100000,NotNegative
+Chu Tuan Nha,ASEM,0.100000,NotNegative
+Vietnamese,Europe,0.100000,NotNegative
+Vietnam,Beijing,0.100000,NotNegative
+ASEM,Beijing,0.100000,NotNegative
+Asia,ASEM,0.100000,NotNegative
+Chu Tuan Nha,Vietnamese,0.100000,Positive
+Chu Tuan Nha,Vietnam,0.100000,Positive
+Europe,Asia,0.100000,Positive
+Europe,Vietnamese,0.100000,NotNegative
+ASEM,Asia,0.100000,NotNegative
+Chu Tuan Nha,Beijing,0.100000,NotNegative
+ASEM,Vietnamese,0.100000,NotNegative
+ASEM,Chu Tuan Nha,0.100000,NotNegative
+Vietnamese,Chu Tuan Nha,0.100000,Positive
+Europe,Chu Tuan Nha,0.100000,NotNegative
+Vietnamese,Asia,0.100000,NotNegative
+Beijing,ASEM,0.100000,NotNegative
+Vietnam,Chu Tuan Nha,0.100000,Positive
+Europe,Vietnam,0.100000,NotNegative
+ASEM,Vietnam,0.100000,NotNegative
+Asia,Beijing,0.100000,NotNegative
+Vietnam,ASEM,0.100000,NotNegative
+Beijing,Vietnamese,0.100000,NotNegative
+Chu Tuan Nha,Asia,0.100000,NotNegative
+Beijing,Chu Tuan Nha,0.100000,NotNegative
+Beijing,Europe,0.100000,NotNegative
+Europe,Beijing,0.100000,NotNegative
+Europe,ASEM,0.100000,NotNegative
+Vietnamese,ASEM,0.100000,NotNegative
+Vietnamese,Beijing,0.100000,NotNegative
+Vietnam,Vietnamese,0.100000,Positive
+Asia,Vietnamese,0.100000,NotNegative
+Vietnam,Asia,0.100000,NotNegative
+Vietnamese,Vietnam,0.100000,Positive
+Beijing,Vietnam,0.100000,NotNegative
+Asia,Europe,0.100000,Positive
+Vietnam,Europe,0.100000,NotNegative
+ASEM,Europe,0.100000,NotNegative
+Asia,Chu Tuan Nha,0.100000,NotNegative
