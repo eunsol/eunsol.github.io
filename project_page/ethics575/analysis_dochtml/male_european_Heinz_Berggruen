@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Heinz Berggruen, Influential Picasso Collector, Dies at 93 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Heinz Berggruen , a German-born Jewish art collector who in the mid-1990 's made a powerful gesture of reconciliation by moving his modern art collection to Berlin , died outside Paris on Friday . <br><blue>2</blue>He was 93 . <br><blue>3</blue>Mr. Berggruen 's death was announced by Anne Baldassari , director of the Picasso Museum here , and by Mr. Berggruen 's son Olivier . <br><blue>4</blue>Mr. Berggruen , who fled Hitler 's Germany for the United States in 1936 , made his name in postwar Paris as a gallery owner who enjoyed a close relationship with Picasso and was also considered a specialist in the works of Van Gogh , Cézanne , Matisse , Paul Klee , Hans Arp and Giacometti . <br><blue>5</blue>Like many leading art dealers , he became a collector in his own right and , in 1980 , gave up his gallery in order to focus his energy on enriching -- and sharing -- his collection . <br><blue>6</blue>He continued to acquire new art , but he also loaned works to major exhibitions and donated others to museums in the United States and Europe . <br><blue>7</blue>But it was his decision to display a good part of his collection in the city he had fled decades earlier that turned him into a celebrity outside the world of art . <br><blue>8</blue>For Germany , the move not only symbolized a German Jew 's willingness to turn the page on the past , but it also filled a hole in Berlin 's art collections which had been largely stripped of so-called degenerate modern art by the Nazi regime . <br><blue>9</blue>In a statement issued after Mr. Berggruen 's death , Peter-Klaus Schuster , general director of Berlin 's State Museums , paid homage to '' his spiritual presence and the gracefulness of his personality . '' '' <br><blue>10</blue>In a unique gesture of reconciliation , which he consciously undertook , Heinz Berggruen returned to Berlin art that had been despised and driven out by Hitler 's Germany just as he was , '' Mr. Schuster said . <br><blue>11</blue>Mr. Berggruen 's collection , which focused on Picasso and his era , was initially loaned to Berlin , which renovated a large mansion near Charlottenburg Palace to house it . <br><blue>12</blue>Then , in 2000 , it was acquired by Berlin 's State Museums for 129 million euros , worth $ 120 million at the time , which Mr. Berggruen estimated to be about one-tenth of its market value . <br><blue>13</blue>Mr. Berggruen , who had a home in Paris , also kept an apartment on the top floor of the newly renamed Berggruen Museum and was frequently seen showing visitors around the paintings . '' <br><blue>14</blue>Every day , I say ' good morning ' and ' good night ' and tell them to sleep well , '' he once noted with a typical smile of pleasure . <br><blue>15</blue>Born in Berlin on Jan. 5 , 1914 , Mr. Berggruen was working as a journalist for Frankfurter Zeitung , the forerunner of today 's Frankfurter Allgemeine Zeitung , in the mid-1930 's when he was informed that , because of his Jewish surname , his articles would in future be signed only by his initials , H. B. Soon afterward , he left Germany for the United States , where he studied art in San Francisco and eventually became an art critic for The San Francisco Chronicle . <br><blue>16</blue>He joined the United States Army in 1942 and found himself in Paris at the end of the war . <br><blue>17</blue>It was there that he opened an art gallery on the Rue de l'Université on the Left Bank . <br><blue>18</blue>A turning point came in 1949 when the Dadaist poet Tristan Tzara introduced him to Picasso . '' <br><blue>19</blue>I was struck right away by his gaze , '' Mr. Berggruen recalled later . <br><blue>20</blue>The two men struck up a friendship that placed the dealer in a privileged position to acquire works by Picasso . <br><hr><br><blue>1(4)</blue>: <m_str>its</m_str> (12_36) 	<m_str>it</m_str> (12_6) 	<m_str>a large mansion</m_str> (11_22) 	<m_str>it</m_str> (11_30) 	<br><blue>2(5)</blue>: <m_str>Berlin</m_str> (15_3) 	<m_str>Berlin 's</m_str> (8_29) 	<m_str>Berlin 's</m_str> (12_10) 	<m_str>Berlin 's</m_str> (9_17) 	<m_str>Berlin</m_str> (10_17) 	<br><blue>3(3)</blue>: <m_str>the United States</m_str> (4_10) 	<m_str>the United States</m_str> (15_67) 	<m_str>the United States</m_str> (6_22) 	<br><blue>4(5)</blue>: <m_str>Picasso</m_str> (4_32) 	<m_str>Picasso</m_str> (11_9) 	<m_str>his</m_str> (11_11) 	<m_str>Picasso</m_str> (20_20) 	<m_str>Anne Baldassari , director of the Picasso Museum</m_str> (3_8) 	<br><blue>5(2)</blue>: <m_str>The San Francisco Chronicle</m_str> (15_85) 	<m_str>San Francisco</m_str> (15_76) 	<br><blue>6(2)</blue>: <m_str>good morning ' and ` good night '</m_str> (14_7) 	<m_str>them</m_str> (14_17) 	<br><blue>7(3)</blue>: <m_str>his collection</m_str> (7_12) 	<m_str>his modern art collection</m_str> (1_22) 	<m_str>his collection</m_str> (5_36) 	<br><blue>8(3)</blue>: <m_str>Paris</m_str> (1_31) 	<m_str>Paris</m_str> (13_9) 	<m_str>Paris</m_str> (16_13) 	<br><blue>9(2)</blue>: <m_str>the page</m_str> (8_16) 	<m_str>it</m_str> (8_23) 	<br><blue>10(2)</blue>: <m_str>Germany</m_str> (15_65) 	<m_str>Germany</m_str> (8_2) 	<br><blue>11(1)</blue>: <m_str>the end of the war</m_str> (16_15) 	<br><blue>12(32)</blue>: <m_str>him</m_str> (18_14) 	<m_str>Berggruen</m_str> (4_2) 	<m_str>he</m_str> (15_72) 	<m_str>Mr. Berggruen 's</m_str> (3_20) 	<m_str>he</m_str> (10_32) 	<m_str>Mr. Berggruen</m_str> (15_10) 	<m_str>his</m_str> (19_7) 	<m_str>Mr. Berggruen 's son Olivier</m_str> (3_20) 	<m_str>Mr. Schuster</m_str> (10_36) 	<m_str>Mr. Berggruen</m_str> (19_11) 	<m_str>He</m_str> (16_1) 	<m_str>himself</m_str> (16_11) 	<m_str>Mr. Berggruen , who had a home in Paris</m_str> (13_1) 	<m_str>Mr. Berggruen 's</m_str> (9_6) 	<m_str>he</m_str> (15_35) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_5) 	<m_str>his</m_str> (1_22) 	<m_str>Mr. Berggruen</m_str> (12_28) 	<m_str>his</m_str> (15_42) 	<m_str>his</m_str> (15_46) 	<m_str>Cézanne</m_str> (4_46) 	<m_str>his</m_str> (9_26) 	<m_str>he</m_str> (10_9) 	<m_str>Matisse</m_str> (4_48) 	<m_str>Mr. Berggruen 's</m_str> (3_1) 	<m_str>his</m_str> (15_55) 	<m_str>Heinz Berggruen</m_str> (10_13) 	<m_str>Hans Arp</m_str> (4_53) 	<m_str>his</m_str> (9_33) 	<m_str>Mr. Berggruen 's</m_str> (11_1) 	<m_str>he</m_str> (15_63) 	<br><blue>13(1)</blue>: <m_str>Mr. Berggruen 's collection , which focused on Picasso and his era</m_str> (11_1) 	<br><blue>14(1)</blue>: <m_str>the Picasso Museum</m_str> (3_13) 	<br><blue>15(2)</blue>: <m_str>Berlin 's State Museums</m_str> (12_10) 	<m_str>Berlin 's State Museums</m_str> (9_17) 	<br><blue>16(2)</blue>: <m_str>I</m_str> (14_4) 	<m_str>I</m_str> (19_1) 	<br><blue>17(14)</blue>: <m_str>his</m_str> (5_12) 	<m_str>his</m_str> (7_12) 	<m_str>Hitler 's</m_str> (10_27) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (7_17) 	<m_str>Hitler 's</m_str> (4_6) 	<m_str>his</m_str> (5_22) 	<m_str>he</m_str> (6_9) 	<m_str>him</m_str> (7_24) 	<m_str>his</m_str> (5_28) 	<m_str>his</m_str> (4_17) 	<m_str>his</m_str> (5_36) 	<m_str>his</m_str> (7_4) 	<m_str>he</m_str> (5_7) 	<br><blue>18(2)</blue>: <m_str>Mr. Berggruen 's death</m_str> (9_6) 	<m_str>Mr. Berggruen 's death</m_str> (3_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Reginald Lewis, Financier, Is Honored at Service </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Speakers from the many walks of life touched by Reginald Francis Lewis , who died last Tuesday at 50 , gathered yesterday to honor the Wall Street lawyer and financier . <br><blue>2</blue>Mr. Lewis , a resident of New York City and Paris , died of a cerebral hemorrhage related to cancer . <br><blue>3</blue>A service was held at the Riverside Church on Riverside Drive in Manhattan in an atmosphere of warmth , interspersed with touches of gentle humor . <br><blue>4</blue>Those addressing the audience of several hundred included members of Mr. Lewis 's immediate family and notables whose paths had crossed with his , including Mayor David N. Dinkins ; James W. Kinnear , the president of Texaco as a fellow chief executive officer ; Percy E. Sutton , the Harlem entrepreneur and former Manhattan borough president ; Robert C. Clark , the dean of Harvard Law School , and the Rev. Jesse Jackson . <br><blue>5</blue>Musical interludes featured the Harlem Boys Choir , the soprano Kathleen Battle , with " Amazing Grace , " and Lea Salonga , the " Miss Saigon " star , performing " The Quest " ( " The Impossible Dream " ) . <br><blue>6</blue>Also presented was a 10-minute videotaped biography in which Mr. Lewis was heard with his message to others willing to defy and seeking to achieve in life : " Keep going on , no matter what ! " <br><blue>7</blue>His admonition was echoed by yesterday 's speakers . <br><blue>8</blue>Tribute was paid to the fact that Mr. Lewis shared his wealth and experience so that others may follow in his footsteps . <br><blue>9</blue>Mr. Lewis , one of the country 's richest businessmen , capped his career as a takeover dealer with the $ 1 billion acquisition in 1987 of the Beatrice Companies , a food concern . <br><blue>10</blue>' Warm and Generous ' The move created Mr. Lewis 's own company , TLC Beatrice International -- with TLC standing for The Lewis Company . <br><blue>11</blue>It became the largest enterprise in the country to be run by a black person , and Mr. Lewis 's personal assets were estimated at $ 400 million by Forbes magazine . <br><blue>12</blue>" Reginald Lewis accomplished more in half a century than most of us could ever deem imaginable , " Mayor Dinkins told the audience . <br><blue>13</blue>" And his brilliant career was matched always by a warm and generous heart . " <br><blue>14</blue>Mr. Dinkins said that for a brief period Mr. Lewis had considered joining him in a law partnership , " but his brilliant judgment again prevailed , and he declined . " <br><blue>15</blue>Instead , Mr. Lewis founded his own law firm to specialize in venture capital projects and eventually pursued his career in finance . <br><blue>16</blue>His life proved , especially to blacks , that dreams of success need not be left to dry up , Mr. Dinkins declared . <br><blue>17</blue>" It is said that ' service to others is the rent we pay for space on earth , ' " he added . <br><blue>18</blue>" Reg Lewis departed us paid in full . " <br><blue>19</blue>In recent years , Mr. Lewis became deeply involved in philanthropy and donated millions each year to charities , including homeless shelters , neighborhood churches and scholarships . <br><blue>20</blue>Last year , he contributed $ 3 million to Harvard Law School , from which he graduated in 1968 . <br><hr><br><blue>1(2)</blue>: <m_str>The Lewis Company</m_str> (10_23) 	<m_str>It</m_str> (11_1) 	<br><blue>2(27)</blue>: <m_str>Mr. Lewis</m_str> (15_3) 	<m_str>his</m_str> (14_22) 	<m_str>his</m_str> (15_6) 	<m_str>Mr. Lewis</m_str> (19_5) 	<m_str>he</m_str> (14_29) 	<m_str>Mr. Lewis 's</m_str> (11_18) 	<m_str>Reginald Lewis</m_str> (12_2) 	<m_str>Mr. Lewis 's</m_str> (4_11) 	<m_str>Mr. Lewis</m_str> (8_8) 	<m_str>His</m_str> (16_1) 	<m_str>his</m_str> (15_19) 	<m_str>his</m_str> (8_11) 	<m_str>he</m_str> (20_4) 	<m_str>his</m_str> (4_23) 	<m_str>Mr. Lewis , one of the country 's richest businessmen</m_str> (9_1) 	<m_str>Reginald Francis Lewis , who died last Tuesday at 50 , gathered yesterday to honor the Wall Street lawyer and financier</m_str> (1_10) 	<m_str>his</m_str> (8_21) 	<m_str>his</m_str> (13_3) 	<m_str>he</m_str> (20_16) 	<m_str>his</m_str> (9_13) 	<m_str>Mr. Lewis</m_str> (6_10) 	<m_str>Mr. Lewis 's</m_str> (10_9) 	<m_str>his</m_str> (6_15) 	<m_str>Reg Lewis</m_str> (18_2) 	<m_str>His</m_str> (7_1) 	<m_str>Mr. Lewis</m_str> (14_9) 	<m_str>him</m_str> (14_14) 	<br><blue>3(4)</blue>: <m_str>Mr. Dinkins</m_str> (14_1) 	<m_str>Mayor Dinkins</m_str> (12_20) 	<m_str>Mr. Dinkins</m_str> (16_21) 	<m_str>he</m_str> (17_22) 	<br><blue>4(2)</blue>: <m_str>Manhattan</m_str> (3_13) 	<m_str>Manhattan</m_str> (4_55) 	<br><blue>5(2)</blue>: <m_str>the audience</m_str> (12_23) 	<m_str>the audience of several hundred</m_str> (4_3) 	<br><blue>6(3)</blue>: <m_str>his brilliant career</m_str> (13_3) 	<m_str>his career</m_str> (15_19) 	<m_str>his career</m_str> (9_13) 	<br><blue>7(2)</blue>: <m_str>us</m_str> (18_5) 	<m_str>we</m_str> (17_13) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

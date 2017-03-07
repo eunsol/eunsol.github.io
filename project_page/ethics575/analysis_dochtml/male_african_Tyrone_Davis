@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Tyrone Davis, Singer of Soul Songs Tinged With the Blues, 66 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Tyrone Davis , a Chicago singer who melded the ache of the blues with a more sophisticated , urban soul style in a string of hits in the 1960 's and 70 's , died on Wednesday in Hinsdale , Ill. , near Chicago . <br><blue>2</blue>He was 66 and lived in Oak Brook , Ill . <br><blue>3</blue>The cause was pneumonia , said Leo Graham , Mr. Davis 's longtime producer and business partner . <br><blue>4</blue>Mr. Davis had been hospitalized in a coma since having a stroke last September , Mr. Graham said . <br><blue>5</blue>Born in Greenville , Miss. , Mr. Davis moved to Chicago as a young man and worked as a chauffeur for the blues guitarist Freddie King . <br><blue>6</blue>He soon befriended many of the blues stars of the day , among them Bobby ( Blue ) Bland and Little Milton , and began to sing in local clubs . <br><blue>7</blue>One night early in his career Mr. Davis joined Mr. Bland onstage , mimicking that singer 's languid , bluesy croon . <br><blue>8</blue>Mr. Bland , Mr. Davis later recalled , offered some advice . '' <br><blue>9</blue>Be you , '' he said , '' do n't be me . '' <br><blue>10</blue>That advice , he said in an interview with The Chicago Tribune , was '' the best thing that ever happened to me . '' <br><blue>11</blue>In a series of recordings for the Dakar label , beginning with '' Can I Change My Mind '' in 1968 , Mr. Davis developed a distinctive style that kept the blues as an emotional touchstone but branched into more complex R&amp;B arrangements akin to the songs of Curtis Mayfield . <br><blue>12</blue>Mr. Davis 's voice , a high baritone , was carefully mannered in quavers and growls that traced the up-and-down romantic narratives of his ballads . '' <br><blue>13</blue>Can I Change My Mind , '' a No. 5 pop hit , follows a man who has come too late to second thoughts about leaving his woman . '' <br><blue>14</blue>She did n't bat an eye , '' he sings with bitter regret in the first line , '' as I packed my bags to leave . '' <br><blue>15</blue>Mr. Davis 's soul hits , among them '' Is It Something You 've Got , '' '' Turn Back the Hands of Time '' ( which reached No. 3 on the pop charts ) , '' Could I Forget You '' and '' I Had It All the Time , '' were a regular presence on the R&amp;B charts through the 70 's . <br><blue>16</blue>After his 1975 hit '' Turning Point , '' he left Dakar for Columbia , where he recorded '' Give It Up ( Turn It Loose ) , '' '' This I Swear '' and other songs . <br><blue>17</blue>His career cooled after the early 80 's , but he continued to record and tour frequently . <br><blue>18</blue>His most recent album , '' Legendary Hall of Famer , '' was released by Endzone Entertainment in October , shortly after his stroke . <br><blue>19</blue>Mr. Davis 's survivors include his wife , Ann , and many children and grandchildren . <br><hr><br><blue>1(2)</blue>: <m_str>the pop charts</m_str> (15_32) 	<m_str>the R&B charts</m_str> (15_58) 	<br><blue>2(2)</blue>: <m_str>Dakar</m_str> (11_8) 	<m_str>Dakar</m_str> (16_12) 	<br><blue>3(2)</blue>: <m_str>Chicago</m_str> (1_5) 	<m_str>Chicago</m_str> (1_44) 	<br><blue>4(17)</blue>: <m_str>Mr. Davis 's</m_str> (15_1) 	<m_str>his</m_str> (12_24) 	<m_str>Mr. Davis 's</m_str> (19_1) 	<m_str>Mr. Davis</m_str> (4_1) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (19_6) 	<m_str>Mr. Davis</m_str> (8_4) 	<m_str>he</m_str> (10_4) 	<m_str>Mr. Davis 's</m_str> (12_1) 	<m_str>Mr. Davis</m_str> (11_23) 	<m_str>he</m_str> (14_9) 	<m_str>his</m_str> (13_27) 	<m_str>his</m_str> (7_5) 	<m_str>Mr. Davis</m_str> (5_7) 	<m_str>Mr. Davis 's</m_str> (3_10) 	<m_str>he</m_str> (9_5) 	<m_str>Mr. Davis</m_str> (7_7) 	<br><blue>5(2)</blue>: <m_str>It</m_str> (16_21) 	<m_str>It</m_str> (16_25) 	<br><blue>6(11)</blue>: <m_str>I</m_str> (16_32) 	<m_str>me</m_str> (10_23) 	<m_str>My</m_str> (13_4) 	<m_str>I</m_str> (14_21) 	<m_str>me</m_str> (9_12) 	<m_str>my</m_str> (14_23) 	<m_str>I</m_str> (15_39) 	<m_str>I</m_str> (11_15) 	<m_str>My</m_str> (11_17) 	<m_str>I</m_str> (15_45) 	<m_str>I</m_str> (13_2) 	<br><blue>7(4)</blue>: <m_str>them</m_str> (6_14) 	<m_str>the blues</m_str> (11_31) 	<m_str>the blues</m_str> (6_6) 	<m_str>the blues</m_str> (1_12) 	<br><blue>8(7)</blue>: <m_str>he</m_str> (16_17) 	<m_str>his</m_str> (16_2) 	<m_str>His</m_str> (17_1) 	<m_str>His</m_str> (18_1) 	<m_str>his</m_str> (18_23) 	<m_str>he</m_str> (16_10) 	<m_str>he</m_str> (17_11) 	<br><blue>9(2)</blue>: <m_str>a stroke</m_str> (4_11) 	<m_str>his stroke</m_str> (18_23) 	<br><blue>10(2)</blue>: <m_str>Bland</m_str> (7_11) 	<m_str>Mr. Bland</m_str> (8_1) 	<br><blue>11(2)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Mr. Graham</m_str> (4_16) 	<br><blue>12(2)</blue>: <m_str>You</m_str> (15_41) 	<m_str>You</m_str> (15_13) 	<br><blue>13(2)</blue>: <m_str>some advice</m_str> (8_10) 	<m_str>That advice</m_str> (10_1) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

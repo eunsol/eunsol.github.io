@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>George Tames, Photographer, Dies at 75 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>George Tames , a news photographer for The New York Times whose work for nearly half a century changed the way Americans looked at Presidents and political power , died here today while undergoing heart surgery . <br><blue>2</blue>He was 75 . <br><blue>3</blue>His photographs chronicled 10 Presidents from Franklin D. Roosevelt to George Bush , countless members of Congress and visiting statesman from Churchill to Khrushchev . <br><blue>4</blue>President Eisenhower chose two Tames photographs for official portraits , and a third became the basis of a 6-cent Eisenhower stamp . <br><blue>5</blue>The photo for the stamp was a characteristic Tames shot , taken of Eisenhower in 1953 in an unguarded moment as the President was delivering a radio-television address announcing that a truce had been agreed to ending the Korean War . <br><blue>6</blue>Over the years Mr. Tames also won awards and citations for dramatic action shots of a farmers ' protest and a civil rights march and a still life of the Lincoln Memorial . <br><blue>7</blue>He joined The Times in 1945 after six years with Time magazine . <br><blue>8</blue>That was the era of the large Speed Graphic camera , whose film holder had to be changed after each shot . <br><blue>9</blue>He retired from The Times 40 years later in the era of the 35-millimeter camera with high-speed shutters and large , fast lenses . <br><blue>10</blue>Kennedy at His Desk Mr. Tames was a keen student of Washington 's changing political culture ; early on , he developed an instinct for capturing dramatic moments on film . <br><blue>11</blue>One of his most widely known photographs showed a silhouette of President Kennedy from the back , leaning on his desk in the Oval Office and appearing burdened by the weight of his job . <br><blue>12</blue>It was the kind of picture that Mr. Tames could find and shoot because of his ability to develop easy and informal access to the powerful . <br><blue>13</blue>" Mine was an unofficial role in his political kingdom , " Mr. Tames recalled in his memoir , " Eye on Washington , " published in 1990 , " that of jokester and bringer of news , rumors and spicy Capitol Hill gossip . " <br><blue>14</blue>Knowing that Kennedy often worked standing up because of an injured back and that his door was often open , Mr. Tames saw the President bent over , reading something in a newspaper . <br><blue>15</blue>" I deliberately underexposed , " he said later . <br><blue>16</blue>" I wanted the blackness , the mood that I saw with my eye . " <br><blue>17</blue>' Posterity 's Spy ' In a tribute two years ago on the occasion of the National Press Club 's Fourth Estate award to Mr. Tames , Ken Burns , the documentary film maker , spoke of Mr. Tames 's work as " pictures that last , that speak eloquently , that have and will endure , that clearly are the DNA of our political story in the last 50 years . " <br><blue>18</blue>Mr. Burns said Mr. Tames was " posterity 's spy -- a mole -- penetrating farther and much deeper into our political landscape and psyche than any reporter who hangs on words has . " <br><blue>19</blue>George Tames was born on Jan. 21 , 1919 , a few blocks from the Capitol . <br><blue>20</blue>He was the son of Greek-Albanian immigrants ; his father was a pushcart peddler . <br><hr><br><blue>1(2)</blue>: <m_str>the large Speed Graphic camera , whose film holder had to be changed after each shot</m_str> (8_6) 	<m_str>the 35-millimeter camera</m_str> (9_13) 	<br><blue>2(2)</blue>: <m_str>Washington</m_str> (13_23) 	<m_str>Washington 's</m_str> (10_12) 	<br><blue>3(2)</blue>: <m_str>a 6-cent Eisenhower stamp</m_str> (4_18) 	<m_str>the stamp</m_str> (5_4) 	<br><blue>4(40)</blue>: <m_str>I</m_str> (15_2) 	<m_str>Mr. Tames</m_str> (14_21) 	<m_str>he</m_str> (15_7) 	<m_str>I</m_str> (16_2) 	<m_str>He</m_str> (9_1) 	<m_str>I</m_str> (16_10) 	<m_str>my</m_str> (16_13) 	<m_str>He</m_str> (2_1) 	<m_str>Kennedy at His Desk Mr. Tames</m_str> (10_1) 	<m_str>His</m_str> (10_3) 	<m_str>His Desk Mr. Tames</m_str> (10_3) 	<m_str>His</m_str> (3_1) 	<m_str>Mr. Burns</m_str> (18_1) 	<m_str>Mr. Tames</m_str> (18_4) 	<m_str>to Mr. Tames</m_str> (17_24) 	<m_str>Franklin D. Roosevelt</m_str> (3_7) 	<m_str>his</m_str> (11_3) 	<m_str>Ken Burns , the documentary film maker</m_str> (17_28) 	<m_str>he</m_str> (10_21) 	<m_str>George Tames</m_str> (19_1) 	<m_str>President Eisenhower</m_str> (4_1) 	<m_str>President Kennedy</m_str> (11_12) 	<m_str>Mr. Tames 's</m_str> (17_38) 	<m_str>his</m_str> (11_20) 	<m_str>Mr. Tames</m_str> (12_8) 	<m_str>He</m_str> (20_1) 	<m_str>Eisenhower</m_str> (4_20) 	<m_str>his</m_str> (11_33) 	<m_str>his</m_str> (12_16) 	<m_str>his</m_str> (20_9) 	<m_str>Mine</m_str> (13_2) 	<m_str>Eisenhower</m_str> (5_14) 	<m_str>his</m_str> (13_8) 	<m_str>Mr. Tames</m_str> (6_4) 	<m_str>Mr. Tames</m_str> (13_13) 	<m_str>the President</m_str> (5_22) 	<m_str>his</m_str> (13_17) 	<m_str>Kennedy</m_str> (14_3) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (14_15) 	<br><blue>5(1)</blue>: <m_str>Congress</m_str> (3_17) 	<br><blue>6(4)</blue>: <m_str>Time</m_str> (7_11) 	<m_str>The Times</m_str> (7_3) 	<m_str>The New York Times</m_str> (1_8) 	<m_str>The Times</m_str> (9_4) 	<br><blue>7(3)</blue>: <m_str>our</m_str> (17_64) 	<m_str>the National Press Club 's</m_str> (17_16) 	<m_str>our</m_str> (18_21) 	<br><blue>8(1)</blue>: <m_str>whose film</m_str> (8_12) 	<br><blue>9(2)</blue>: <m_str>his most widely known photographs</m_str> (11_3) 	<m_str>His photographs</m_str> (3_1) 	<br><blue>10(2)</blue>: <m_str>the weight of his job</m_str> (11_30) 	<m_str>It</m_str> (12_1) 	<br><blue>11(2)</blue>: <m_str>Posterity 's</m_str> (17_2) 	<m_str>posterity 's</m_str> (18_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

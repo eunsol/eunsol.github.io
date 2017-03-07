@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Pop Gates, 82, an Integrator of Pro Basketball </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Pop Gates , a member of the Basketball Hall of Fame who starred for the renowned all-black Renaissance Big Five team in the late 1930 's and 40 's and helped pioneer the integration of the postwar professional game , died Wednesday at his home in Harlem . <br><blue>2</blue>He was 82 . <br><blue>3</blue>The cause was heart failure , according to his wife , Cleo Pennington Gates . <br><blue>4</blue>When he was voted into the basketball hall at Springfield , Mass. , in 1989 , Gates looked back on the days when the two-handed set shot was in vogue and recalled how '' I participated in over 1,500 games '' and '' I averaged 14 points a game when 14 were a lot of points . '' <br><blue>5</blue>Gates , a 6-foot-3-inch forward and guard , played in the old National Basketball League against the likes of Red Holzman . '' <br><blue>6</blue>Pop was smooth , '' Holzman once recalled . '' <br><blue>7</blue>He had great all-around ability . <br><blue>8</blue>He could really move . '' <br><blue>9</blue>William ( Pop ) Gates was born in Decatur , Ala. , but grew up in Harlem , playing basketball at the Harlem Y.M.C.A. and stickball on West 132nd Street . '' <br><blue>10</blue>I played stickball with older guys , '' he remembered , '' and guys my age started calling me Pop because they thought I was older than I was . '' <br><blue>11</blue>He led an integrated Benjamin Franklin High School team to the New York City basketball championship in 1938 , attended Clark College in Atlanta briefly , then joined the Renaissance Big Five , a squad known as the Rens that was based at Harlem 's Renaissance Casino ballroom but traveled through the East , Midwest and South as the premier pro basketball attraction of the Depression years . <br><blue>12</blue>With most hotels and restaurants segregated , the players often stayed in private homes and ate , Gates recalled , '' out of a grocery-store bag . '' <br><blue>13</blue>A few blacks played briefly in the National Basketball League , the major pro circuit , during World War II , to little notice . <br><blue>14</blue>While Jackie Robinson was breaking baseball 's color barrier , Gates played a role in integrating professional basketball . <br><blue>15</blue>In the 1946-47 season , Gates made his debut with the National Basketball League 's Tri-Cities Blackhawks , one of four blacks who played in the league that season . <br><blue>16</blue>Gates was embroiled in a nasty episode in a game against Syracuse that season , engaging in a fight with a Nationals player , Chick Meehan , who Gates contended had twice thrown him to the floor . <br><blue>17</blue>The four black players -- Gates , Dolly King , Willie King and Bill Farrow , who played for four different teams -- were all gone from the league by the following season . <br><blue>18</blue>Gates returned to the league in 1948-49 as player-coach of the Rens . <br><blue>19</blue>He joined the Harlem Globetrotters the next season and was a player-coach for five years , appearing with Goose Tatum , Marques Haynes and Sweetwater Clifton . <br><blue>20</blue>After retiring from basketball in 1955 , Gates worked as a security supervisor for the New York City Department of Social Services . <br><hr><br><blue>1(4)</blue>: <m_str>He</m_str> (2_1) 	<m_str>he</m_str> (4_2) 	<m_str>his</m_str> (3_9) 	<m_str>his</m_str> (1_44) 	<br><blue>2(6)</blue>: <m_str>he</m_str> (10_9) 	<m_str>He</m_str> (7_1) 	<m_str>He</m_str> (8_1) 	<m_str>Red Holzman</m_str> (5_20) 	<m_str>Holzman</m_str> (6_6) 	<m_str>He</m_str> (11_1) 	<br><blue>3(5)</blue>: <m_str>I</m_str> (10_24) 	<m_str>I</m_str> (10_28) 	<m_str>my</m_str> (10_15) 	<m_str>I</m_str> (10_1) 	<m_str>me</m_str> (10_19) 	<br><blue>4(3)</blue>: <m_str>the following season</m_str> (17_31) 	<m_str>the 1946-47 season</m_str> (15_2) 	<m_str>the next season</m_str> (19_6) 	<br><blue>5(2)</blue>: <m_str>I</m_str> (4_44) 	<m_str>I</m_str> (4_35) 	<br><blue>6(14)</blue>: <m_str>Cleo Pennington Gates</m_str> (3_12) 	<m_str>He</m_str> (19_1) 	<m_str>Gates</m_str> (15_6) 	<m_str>his</m_str> (15_8) 	<m_str>Chick Meehan , who Gates contended</m_str> (16_25) 	<m_str>Gates</m_str> (16_29) 	<m_str>Gates</m_str> (16_1) 	<m_str>him</m_str> (16_34) 	<m_str>Gates</m_str> (18_1) 	<m_str>Gates</m_str> (4_17) 	<m_str>Gates</m_str> (14_11) 	<m_str>Gates</m_str> (20_8) 	<m_str>Gates</m_str> (9_5) 	<m_str>Gates</m_str> (12_18) 	<br><blue>7(4)</blue>: <m_str>Harlem</m_str> (1_47) 	<m_str>Harlem</m_str> (9_23) 	<m_str>Harlem 's</m_str> (11_44) 	<m_str>Harlem</m_str> (9_17) 	<br><blue>8(3)</blue>: <m_str>the league</m_str> (15_26) 	<m_str>the National Basketball League 's</m_str> (15_11) 	<m_str>the league</m_str> (17_28) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Gina Cigna, Operatic Soprano, Dies at 101 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Gina Cigna , a dramatic soprano whose career flourished in the 1930 's and 40 's , and who was the first to record the title role of Puccini 's '' Turandot , '' died on June 26 in Milan . <br><blue>2</blue>She was 101 . <br><blue>3</blue>Ms. Cigna , whose given name was Geneviève , was born in Paris in 1900 , the daughter of a French general of Italian descent . <br><blue>4</blue>She began her musical studies as a pianist at the Paris Conservatory . <br><blue>5</blue>She studied with Alfred Cortot and began what has been described as a promising career as a recitalist . <br><blue>6</blue>But soon after her marriage in 1923 to Maurice Sens , a tenor at the Comic Opera , she decided to cultivate her voice , with her husband 's encouragement . <br><blue>7</blue>Her teachers included Lucette Korsoff and Emma Calvé in Paris , and Hariclea Darclée , Rosina Storchio and Giannina Russ in Italy . <br><blue>8</blue>When she auditioned for Toscanini at La Scala in 1926 , he recognized in her both the interpretive fire and the rich timbre necessary for the big Verdi roles , which he advised her to learn . <br><blue>9</blue>Yet when she made her La Scala debut in 1927 under the name Genoveffa Sens , it was as Freia in Wagner 's '' Rheingold . '' <br><blue>10</blue>That first performance made little impression , and she spent the next two years performing mostly Italian roles in Trieste , Capri , Nice , Verona , Florence and Pavia . <br><blue>11</blue>When she returned to La Scala in 1929 , under the name Gina Cigna , she had a great success as Donna Elvira in Mozart 's '' Don Giovanni '' and a few weeks later as Elisabeth in Wagner 's '' Tannhäuser . '' <br><blue>12</blue>She then became a mainstay of the La Scala roster for a decade . <br><blue>13</blue>She made her debut in 1933 at Covent Garden as Marguerite in the first British stage production of Berlioz 's '' Damnation of Faust , '' and in 1937 she made her American debut at the Metropolitan Opera in the title role of Verdi 's '' Aida . '' <br><blue>14</blue>Olin Downes , reviewing the performance in The New York Times , wrote that '' she interpreted the Aida part with a complete grasp of its dramatic and lyrical elements , prevailingly with beauty and color of tone , with ample sonority and with the style of a musician . '' <br><blue>15</blue>Ms. Cigna 's other roles at the Met included Donna Elvira , Leonora in Verdi 's '' Trovatore , '' the title roles in Bellini 's '' Norma '' and Ponchielli 's '' Gioconda '' and Santuzza in Mascagni 's '' Cavalleria Rusticana . '' <br><blue>16</blue>Her repertory ranged widely and included Baroque works , most notably Monteverdi 's '' Incoronazione di Poppea , '' as well as modern scores like Janacek 's '' Jenufa . '' <br><blue>17</blue>But she was at her best in the 19th - and early-20th-century Italian repertory , and made a specialty of the title role of '' Turandot , '' which she recorded in the 1930 's and sang , by her own count , 439 times . <br><blue>18</blue>Ms. Cigna was also known for her performances in the title role of '' Tosca , '' which turned out to be the last part she performed onstage . <br><blue>19</blue>On the way to a performance of the work in 1947 , she was injured in an automobile accident . <br><blue>20</blue>She sang anyway , but had a heart attack after the performance . <br><hr><br><blue>1(3)</blue>: <m_str>the performance</m_str> (20_11) 	<m_str>the performance</m_str> (14_5) 	<m_str>That first performance</m_str> (10_1) 	<br><blue>2(4)</blue>: <m_str>La Scala in 1926</m_str> (8_7) 	<m_str>La Scala</m_str> (9_6) 	<m_str>La Scala</m_str> (11_5) 	<m_str>La Scala</m_str> (12_8) 	<br><blue>3(3)</blue>: <m_str>Paris</m_str> (3_13) 	<m_str>Paris</m_str> (7_10) 	<m_str>Paris</m_str> (4_11) 	<br><blue>4(3)</blue>: <m_str>the title role of Verdi 's '' Aida</m_str> (13_40) 	<m_str>the title role</m_str> (17_21) 	<m_str>the title role</m_str> (18_10) 	<br><blue>5(2)</blue>: <m_str>Verdi 's</m_str> (13_44) 	<m_str>Verdi 's</m_str> (15_15) 	<br><blue>6(2)</blue>: <m_str>Wagner 's</m_str> (11_39) 	<m_str>Wagner 's</m_str> (9_22) 	<br><blue>7(4)</blue>: <m_str>her La Scala debut</m_str> (9_5) 	<m_str>her debut</m_str> (13_3) 	<m_str>it</m_str> (9_17) 	<m_str>her American debut</m_str> (13_32) 	<br><blue>8(41)</blue>: <m_str>her</m_str> (6_27) 	<m_str>She</m_str> (4_1) 	<m_str>her</m_str> (4_3) 	<m_str>Rosina Storchio</m_str> (7_16) 	<m_str>the name Gina Cigna</m_str> (11_11) 	<m_str>her</m_str> (17_40) 	<m_str>she</m_str> (8_2) 	<m_str>she</m_str> (11_16) 	<m_str>she</m_str> (18_26) 	<m_str>Toscanini</m_str> (8_5) 	<m_str>She</m_str> (12_1) 	<m_str>she</m_str> (19_13) 	<m_str>Her</m_str> (16_1) 	<m_str>he</m_str> (8_12) 	<m_str>She</m_str> (20_1) 	<m_str>She</m_str> (5_1) 	<m_str>her</m_str> (8_15) 	<m_str>she</m_str> (9_3) 	<m_str>her</m_str> (9_5) 	<m_str>She</m_str> (13_1) 	<m_str>her</m_str> (13_3) 	<m_str>She</m_str> (2_1) 	<m_str>she</m_str> (17_2) 	<m_str>her</m_str> (17_5) 	<m_str>he</m_str> (8_32) 	<m_str>her</m_str> (6_4) 	<m_str>her</m_str> (8_34) 	<m_str>she</m_str> (10_9) 	<m_str>Ms. Cigna</m_str> (18_1) 	<m_str>Ms. Cigna</m_str> (3_1) 	<m_str>Her</m_str> (7_1) 	<m_str>she</m_str> (6_19) 	<m_str>her</m_str> (18_7) 	<m_str>Geneviève</m_str> (3_8) 	<m_str>she</m_str> (13_30) 	<m_str>her</m_str> (6_23) 	<m_str>she</m_str> (11_2) 	<m_str>her</m_str> (13_32) 	<m_str>she</m_str> (14_16) 	<m_str>Emma Calvé</m_str> (7_7) 	<m_str>she</m_str> (17_30) 	<br><blue>9(2)</blue>: <m_str>the 1930 's</m_str> (17_33) 	<m_str>the style of a musician</m_str> (14_45) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

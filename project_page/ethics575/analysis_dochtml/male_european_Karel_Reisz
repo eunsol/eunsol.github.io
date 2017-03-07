@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Karel Reisz, Director of Films Including 'The French Lieutenant's Woman,' Dies at 76 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Karel Reisz , a Czech refugee who became a leading director of the British New Wave before making '' The French Lieutenant 's Woman '' and other Hollywood dramas , died on Monday at a hospital near his home in London . <br><blue>2</blue>He was 76 . <br><blue>3</blue>The cause was a blood disorder , said his wife , Betsy Blair , the actress . <br><blue>4</blue>Mr. Reisz , who found success more recently in the theater , directed only 11 features in his four-decade career , but they were noted for their polish , ambition and psychological acuity . <br><blue>5</blue>Also one of the cinema 's finest editors , he was co-author with Gavin Millar of the highly regarded volume '' The Technique of Film Editing . '' <br><blue>6</blue>His most lasting contribution was probably in the late 1950 's and early 60 's , when he , Lindsay Anderson , Tony Richardson and other raw , provocative young filmmakers were known first as the Free Cinema movement and later as the British New Wave . <br><blue>7</blue>They were the cinematic counterparts of the '' angry young men '' of British theater , playwrights who favored social realism and working-class milieus . <br><blue>8</blue>But Mr. Reisz ( pronounced RICE ) was best known to American audiences for his later Hollywood works , like '' The French Lieutenant 's Woman '' ( 1981 ) , an adaptation of John Fowles 's best-selling novel , starring Meryl Streep ; '' Who 'll Stop the Rain ? '' <br><blue>9</blue>( 1978 ) , an adaptation of Robert Stone 's Vietnam-era best seller , starring Nick Nolte ; and '' Sweet Dreams '' ( 1985 ) , about the country singer Patsy Cline , played by Jessica Lange . <br><blue>10</blue>In recent years , Mr. Reisz worked increasingly as a theater director , staging plays by Harold Pinter and Samuel Beckett . <br><blue>11</blue>In 1995 he directed Mr. Pinter 's '' Moonlight , '' starring Jason Robards and Blythe Danner , and in 1999 his '' Ashes to Ashes , '' with Lindsay Duncan and David Strathairn , both for the Roundabout Theater Company . <br><blue>12</blue>At the Pinter Festival at Lincoln Center in 2001 , he staged '' A Kind of Alaska '' and '' Landscape . '' <br><blue>13</blue>At a Beckett festival at Lincoln Center in 1996 he directed '' Happy Days , '' and for the Gate Theater 's filming of all Beckett 's stage plays , he did '' Act Without Words I. '' Born in 1926 in Ostrava , Czechoslovakia , Karel Reisz was sent to England in 1938 under the Kindertransport program because his father , a Jewish lawyer , feared the threatened Nazi incursion into the Sudetenland . <br><blue>14</blue>His parents died in Auschwitz . <br><blue>15</blue>Mr. Reisz and a brother , Paul , of Manchester , England , who was sent away earlier through the Kindertransport , were the only members of the family to survive the war . <br><blue>16</blue>Besides his brother and Ms. Blair , his second wife , Mr. Reisz is survived by three sons from his earlier marriage to Julia Coppard , Matthew , Toby and Barney , all of London ; a stepdaughter , Kerry Kelly Novick of Ann Arbor , Mich. , from his wife 's marriage to Gene Kelly ; and seven grandchildren . <br><blue>17</blue>Mr. Reisz flew for the Royal Air Force before studying chemistry at Oxford and becoming a schoolteacher in London . <br><blue>18</blue>Spurred by a growing passion for film , he became a critic for Sight and Sound magazine . <br><blue>19</blue>While in college , he was also a co-founder of Sequence , the magazine of the Oxford Film Society , with Richardson and Anderson , his fellow film enthusiasts . <br><blue>20</blue>In 1956 , when Mr. Reisz was working at the National Film Theater as a programmer , the three friends created what they called the Free Cinema film series , featuring films made by all of them . <br><hr><br><blue>1(2)</blue>: <m_str>Lincoln Center in 2001</m_str> (12_6) 	<m_str>Lincoln Center in 1996</m_str> (13_6) 	<br><blue>2(1)</blue>: <m_str>his four-decade career</m_str> (4_18) 	<br><blue>3(2)</blue>: <m_str>The French Lieutenant 's</m_str> (8_22) 	<m_str>The French Lieutenant 's</m_str> (1_20) 	<br><blue>4(1)</blue>: <m_str>Nick Nolte</m_str> (9_16) 	<br><blue>5(1)</blue>: <m_str>film</m_str> (18_7) 	<br><blue>6(3)</blue>: <m_str>the three friends</m_str> (20_18) 	<m_str>them</m_str> (20_37) 	<m_str>they</m_str> (20_23) 	<br><blue>7(2)</blue>: <m_str>other raw , provocative young filmmakers</m_str> (6_26) 	<m_str>They</m_str> (7_1) 	<br><blue>8(1)</blue>: <m_str>the Free Cinema film series</m_str> (20_25) 	<br><blue>9(2)</blue>: <m_str>they</m_str> (4_23) 	<m_str>their</m_str> (4_27) 	<br><blue>10(3)</blue>: <m_str>London</m_str> (16_35) 	<m_str>London</m_str> (17_19) 	<m_str>London</m_str> (1_41) 	<br><blue>11(2)</blue>: <m_str>his brother</m_str> (16_2) 	<m_str>a brother , Paul , of Manchester , England</m_str> (15_4) 	<br><blue>12(2)</blue>: <m_str>his</m_str> (11_22) 	<m_str>Jason Robards</m_str> (11_13) 	<br><blue>13(28)</blue>: <m_str>his</m_str> (16_50) 	<m_str>Mr. Reisz , who found success more recently in the theater</m_str> (4_1) 	<m_str>he</m_str> (19_5) 	<m_str>Karel Reisz</m_str> (13_47) 	<m_str>his</m_str> (16_2) 	<m_str>his</m_str> (4_18) 	<m_str>his</m_str> (8_15) 	<m_str>he</m_str> (12_11) 	<m_str>his</m_str> (16_8) 	<m_str>his</m_str> (13_60) 	<m_str>Mr. Reisz</m_str> (20_5) 	<m_str>Mr. Reisz</m_str> (16_12) 	<m_str>his</m_str> (19_26) 	<m_str>he</m_str> (5_10) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Reisz</m_str> (17_1) 	<m_str>his</m_str> (16_20) 	<m_str>His</m_str> (6_1) 	<m_str>he</m_str> (13_10) 	<m_str>His</m_str> (14_1) 	<m_str>Mr. Reisz</m_str> (10_5) 	<m_str>his</m_str> (1_38) 	<m_str>he</m_str> (6_18) 	<m_str>he</m_str> (18_9) 	<m_str>his</m_str> (3_9) 	<m_str>he</m_str> (13_31) 	<m_str>Tony Richardson</m_str> (6_23) 	<m_str>he</m_str> (11_3) 	<br><blue>14(2)</blue>: <m_str>his wife 's</m_str> (16_50) 	<m_str>his wife , Betsy Blair , the actress</m_str> (3_9) 	<br><blue>15(2)</blue>: <m_str>the British New Wave</m_str> (1_13) 	<m_str>the British New Wave</m_str> (6_43) 	<br><blue>16(2)</blue>: <m_str>Beckett 's</m_str> (13_26) 	<m_str>Samuel Beckett</m_str> (10_20) 	<br><blue>17(1)</blue>: <m_str>England</m_str> (13_52) 	<br><blue>18(2)</blue>: <m_str>Hollywood</m_str> (8_17) 	<m_str>Hollywood</m_str> (1_28) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

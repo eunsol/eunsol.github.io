@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Glenn Hughes, 50, the Biker Of the Village People Band </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Glenn Hughes , who sang in a leather biker outfit with the Village People , died on March 4 at his home in Manhattan . <br><blue>2</blue>He was 50 . <br><blue>3</blue>The cause was lung cancer , reported MTV . <br><blue>4</blue>Mr. Hughes , who grew up in the Bronx , was working as a toll collector at the Brooklyn Battery Tunnel when friends dared him to respond to an advertisement seeking '' gay singers and dancers , very good-looking and with mustaches . '' <br><blue>5</blue>The French-born producer Jacques Morali placed the ad after watching a group of men dancing in a Greenwich Village nightclub and deciding to put together a disco group in which each member represented a different fetishized American male stereotype . <br><blue>6</blue>So with an Indian , a soldier , a construction worker , a police officer , a cowboy and Mr. Hughes as a biker , an improbable idea became a commercial blockbuster . <br><blue>7</blue>The band released its first single , '' San Francisco ( You 've Got Me ) , '' in 1977 and , the next year , made its first hit , '' Macho Man . '' <br><blue>8</blue>With a strong image , a good show and campy , suggestive ( but not too suggestive ) lyrics , the Village People managed to sustain their success in a genre of one-hit wonders . <br><blue>9</blue>Soon this band built for gay discos found itself performing for screaming women around the world . <br><blue>10</blue>The band produced a quick string of hits , including '' Y.M.C.A. , '' '' In the Navy '' and '' Go West , '' helping them sell an estimated 65 million albums and singles combined . <br><blue>11</blue>Mr. Hughes , also known as the '' leather man , '' with his black cap , hirsute chest and handlebar mustache , cut one of the band 's most memorable images . <br><blue>12</blue>In 1980 Mr. Hughes was featured in the band 's autobiographical movie , '' Ca n't Stop the Music . '' <br><blue>13</blue>But with the new decade , disco 's star was waning . <br><blue>14</blue>Mr. Hughes continued to play with the band until 1996 , when he left to sing on his own in Manhattan cabarets . <br><hr><br><blue>1(6)</blue>: <m_str>Mr. Hughes</m_str> (12_3) 	<m_str>Mr. Hughes</m_str> (14_1) 	<m_str>his</m_str> (14_18) 	<m_str>his</m_str> (11_14) 	<m_str>he</m_str> (14_13) 	<m_str>Mr. Hughes</m_str> (11_1) 	<br><blue>2(3)</blue>: <m_str>their</m_str> (8_27) 	<m_str>the Village People</m_str> (1_12) 	<m_str>the Village People</m_str> (8_21) 	<br><blue>3(2)</blue>: <m_str>hits</m_str> (10_8) 	<m_str>them</m_str> (10_27) 	<br><blue>4(5)</blue>: <m_str>Glenn Hughes , who sang in a leather biker outfit with the Village People</m_str> (1_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_21) 	<m_str>The French-born producer Jacques Morali</m_str> (5_1) 	<m_str>him</m_str> (4_25) 	<br><blue>5(9)</blue>: <m_str>itself</m_str> (9_9) 	<m_str>its</m_str> (7_28) 	<m_str>the band 's</m_str> (12_8) 	<m_str>the band</m_str> (14_7) 	<m_str>the band 's</m_str> (11_27) 	<m_str>The band</m_str> (7_1) 	<m_str>its</m_str> (7_4) 	<m_str>this band built for gay discos</m_str> (9_2) 	<m_str>The band</m_str> (10_1) 	<br><blue>6(2)</blue>: <m_str>Manhattan</m_str> (14_21) 	<m_str>Manhattan</m_str> (1_24) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

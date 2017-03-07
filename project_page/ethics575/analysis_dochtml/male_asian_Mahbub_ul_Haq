@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Mahbub ul Haq, 64, Analyst And Critic of Global Poverty </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Mahbub ul Haq , a former Finance Minister of Pakistan and an early proponent of economic liberalization who in later years argued that poor countries failed to prosper because they neglected the basic development of their people , died yesterday in New York . <br><blue>2</blue>He was 64 . <br><blue>3</blue>The cause of death was pneumonia , said his son , Farhan , a reporter for the Inter Press Service , a news agency . <br><blue>4</blue>The elder Mr. Haq , who was visiting New York from Pakistan , collapsed early this week and did not respond to treatment , former colleagues said . <br><blue>5</blue>Mr. Haq , who had also been a governor of the International Monetary Fund and director of policy planning at the World Bank , was the author of several books , including '' The Poverty Curtain '' ( Columbia University Press ) and '' Strategy of Economic Planning '' ( Oxford University Press ) . <br><blue>6</blue>But he is best known for his creation in 1990 of an annual Human Development Index , a measure used by the United Nations Development Program to measure the wealth of nations by the level of living standards their citizens have attained . <br><blue>7</blue>His views did not make him popular in many developing countries , nor in some Western capitals , where he also criticized foreign aid policies and domestic social programs . <br><blue>8</blue>A scrappy and articulate debater , he relished the controversies he provoked . <br><blue>9</blue>He traveled extensively to speak and gather information and impressions for the United Nations ' annual Human Development Report , which was built around his index . <br><blue>10</blue>James Gustave Speth , administrator of the United Nations Development Program , said , '' I do n't think anybody did more or even as much as Mahbub did to bring balance back to development thinking when everyone else was worshiping at the altar of G.N.P. growth . '' <br><blue>11</blue>After leaving the United Nations Development Program in 1995 , Mr. Haq returned to Pakistan to establish the Human Development Center for South Asia with the help of his wife , Khadija Khanum , an economist . <br><blue>12</blue>Measures of human progress in the region , especially in India and Pakistan , had begun to slip badly . '' <br><blue>13</blue>After producing seven global Human Development Reports , I had to face the sad reality that the real challenge to human development lay back home , in Pakistan and South Asia , '' he said . '' <br><blue>14</blue>South Asia has been sinking fast into a quagmire of human deprivation and despair , emerging as the most deprived region of the world . '' <br><blue>15</blue>Mr. Haq , who is survived by his daughter , Toneema , as well as his wife and son , studied at Punjab University in Pakistan , King 's College in Cambridge , Yale and Harvard . <br><blue>16</blue>He was born on Feb. 22 , 1934 , and while still in his 20 's he became the chief economist of Pakistan 's national planning commission . <br><blue>17</blue>In the 1980 's , under the late President Mohammad Zia-ul Haq , he served as Minister of Commerce , Planning and Finance . <br><blue>18</blue>He moved to Washington and the World Bank in 1988 . <br><blue>19</blue>The founder of the Third World Forum , a panel for discussing development issues , Mr. Haq was also an adviser to the Brandt Commission , which looked into economic relations between the rich and poor nations . <br><blue>20</blue>In his spare time , he was a great reader of literature and poetry . <br><hr><br><blue>1(5)</blue>: <m_str>Pakistan</m_str> (4_12) 	<m_str>Pakistan 's</m_str> (16_23) 	<m_str>Pakistan</m_str> (12_13) 	<m_str>Pakistan</m_str> (13_28) 	<m_str>Pakistan</m_str> (1_10) 	<br><blue>2(22)</blue>: <m_str>his</m_str> (15_8) 	<m_str>Mr. Haq , who was visiting New York from Pakistan</m_str> (4_3) 	<m_str>he</m_str> (7_20) 	<m_str>he</m_str> (8_7) 	<m_str>his</m_str> (15_16) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (8_11) 	<m_str>his</m_str> (20_2) 	<m_str>He</m_str> (9_1) 	<m_str>he</m_str> (20_6) 	<m_str>his</m_str> (16_14) 	<m_str>he</m_str> (16_17) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (6_2) 	<m_str>his</m_str> (6_7) 	<m_str>he</m_str> (17_14) 	<m_str>his</m_str> (9_25) 	<m_str>He</m_str> (18_1) 	<m_str>His</m_str> (7_1) 	<m_str>his</m_str> (3_9) 	<m_str>him</m_str> (7_6) 	<m_str>he</m_str> (13_34) 	<br><blue>3(3)</blue>: <m_str>their</m_str> (1_36) 	<m_str>poor countries</m_str> (1_24) 	<m_str>they</m_str> (1_30) 	<br><blue>4(2)</blue>: <m_str>I</m_str> (13_9) 	<m_str>I</m_str> (10_16) 	<br><blue>5(2)</blue>: <m_str>South Asia</m_str> (14_1) 	<m_str>South Asia</m_str> (11_23) 	<br><blue>6(2)</blue>: <m_str>the World Bank</m_str> (18_6) 	<m_str>the World Bank</m_str> (5_21) 	<br><blue>7(2)</blue>: <m_str>New York</m_str> (1_42) 	<m_str>New York</m_str> (4_9) 	<br><blue>8(1)</blue>: <m_str>Yale</m_str> (15_34) 	<br><blue>9(1)</blue>: <m_str>Harvard</m_str> (15_36) 	<br><blue>10(4)</blue>: <m_str>Mr. Haq , who is survived by his daughter , Toneema , as well as his wife and son</m_str> (15_1) 	<m_str>Mr. Haq</m_str> (19_16) 	<m_str>Mr. Haq</m_str> (11_11) 	<m_str>his</m_str> (11_29) 	<br><blue>11(3)</blue>: <m_str>the United Nations Development Program</m_str> (6_22) 	<m_str>the United Nations Development Program in 1995</m_str> (11_3) 	<m_str>the United Nations Development Program</m_str> (10_7) 	<br><blue>12(2)</blue>: <m_str>his wife</m_str> (15_16) 	<m_str>his wife , Khadija Khanum , an economist</m_str> (11_29) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

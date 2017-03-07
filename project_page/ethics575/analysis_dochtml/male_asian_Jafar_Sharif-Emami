@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jafar Sharif-Emami, 87, Aide To Shah and a Prime Minister </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jafar Sharif-Emami , the last of Shah Mohammed Riza Pahlevi 's Prime Ministers to make a political attempt to counter the Islamic fundamentalism sweeping Iran 20 years ago , died on June 16 at New York Hospital . <br><blue>2</blue>He was 87 and lived on the Upper East Side of Manhattan . <br><blue>3</blue>Mr. Sharif-Emami , one of the Shah 's close confidants , held many high government and legislative positions . <br><blue>4</blue>He was Prime Minister twice , first in 1960-61 and in 1978 , in a belated attempt to stem the Shiite revolution through political and social changes . <br><blue>5</blue>Through Mr. Sharif-Emami , the Shah legalized political parties and set elections for mid-1979 . <br><blue>6</blue>The Prime Minister began a campaign against widespread corruption , released half of all political prisoners , ended press censorship except for reports that criticized the Shah and the army and moved to redirect Iran 's drive toward modernization so as not to offend Islamic sensitivities . <br><blue>7</blue>The changes met some of the important demands posed by dissidents for many years . <br><blue>8</blue>But the efforts failed to deflate the growing crisis , as civil servants and industrial workers joined the opposition and crippled public services and vital industries , including oil production . <br><blue>9</blue>And public anger began to spill into the streets . <br><blue>10</blue>After little more than two months in office , in November 1978 , Mr. Sharif-Emami handed his resignation to the Shah , who then tried a military approach with Gholam Riza Azhari , his final Prime Minister , as the nation erupted in revolt . <br><blue>11</blue>After the ailing Shah 's flight and Ayatollah Ruhollah Khomeini 's surge to power , a revolutionary judge called for the assassinations of both Prime Ministers , as well as that of Shahpur Bakhtiar , an agnostic foe of both the Shah and the Shiites who briefly headed the Government between those reigns . <br><blue>12</blue>Mr. Bakhtiar was stabbed to death in 1991 in the Paris suburb where he lived in exile , leading an Iranian resistance group . <br><blue>13</blue>Mr. Sharif-Emami escaped to New York , where he had been president of the Pahlevi Foundation , an educational charity established by the multibillion-dollar Pahlevi Foundation Endowment of Teheran . <br><blue>14</blue>Critics contended that the purpose of the New York foundation , from which Mr. Sharif-Emami resigned , was less to help Iranian students than to polish the Shah 's image . <br><blue>15</blue>Mr. Sharif-Emami 's own image was that of a hard-driving engineer who liked to get things done , sometimes without reckoning the costs . <br><blue>16</blue>He was born in Teheran and studied railroading at technical institutes in Germany and Sweden . <br><blue>17</blue>He joined the Iranian state railways in 1931 . <br><blue>18</blue>In 1950 , Mr. Sharif-Emami became Undersecretary of Roads and Communications . <br><blue>19</blue>He was Minister of Industries and Mines when the Shah first named him Prime Minister in the midst of one of Iran 's recurrent political crises . <br><blue>20</blue>Surviving are two daughters , Shirin Sharif-Emami of San Antonio and Simin Moazami of Manhattan ; a son , Ali , also of Manhattan ; a sister , Shariat Zahedi of Teheran , and six grandchildren . <br><hr><br><blue>1(2)</blue>: <m_str>Manhattan</m_str> (20_15) 	<m_str>Manhattan</m_str> (20_24) 	<br><blue>2(4)</blue>: <m_str>he</m_str> (13_9) 	<m_str>he</m_str> (12_14) 	<m_str>Shahpur Bakhtiar , an agnostic foe of both the Shah and the Shiites who briefly headed the Government between those reigns</m_str> (11_33) 	<m_str>Mr. Bakhtiar</m_str> (12_1) 	<br><blue>3(3)</blue>: <m_str>Teheran</m_str> (20_32) 	<m_str>Teheran</m_str> (16_5) 	<m_str>Teheran</m_str> (13_29) 	<br><blue>4(2)</blue>: <m_str>Mr. Sharif-Emami 's own image</m_str> (15_1) 	<m_str>the Shah 's image</m_str> (14_27) 	<br><blue>5(2)</blue>: <m_str>He</m_str> (2_1) 	<m_str>He</m_str> (4_1) 	<br><blue>6(3)</blue>: <m_str>Iran 's</m_str> (6_35) 	<m_str>Iran 's</m_str> (19_22) 	<m_str>Iran</m_str> (1_25) 	<br><blue>7(3)</blue>: <m_str>the multibillion-dollar Pahlevi Foundation Endowment of Teheran</m_str> (13_23) 	<m_str>the New York foundation</m_str> (14_7) 	<m_str>the Pahlevi Foundation , an educational charity established by the multibillion-dollar Pahlevi Foundation Endowment of Teheran</m_str> (13_14) 	<br><blue>8(6)</blue>: <m_str>the Shah</m_str> (6_26) 	<m_str>the Shah 's</m_str> (3_6) 	<m_str>the Shah 's</m_str> (14_27) 	<m_str>the Shah</m_str> (5_5) 	<m_str>the Shah</m_str> (19_9) 	<m_str>the ailing Shah 's</m_str> (11_2) 	<br><blue>9(12)</blue>: <m_str>him</m_str> (19_13) 	<m_str>Mr. Sharif-Emami 's</m_str> (15_1) 	<m_str>He</m_str> (16_1) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (19_1) 	<m_str>Mr. Sharif-Emami</m_str> (18_4) 	<m_str>Mr. Sharif-Emami</m_str> (5_2) 	<m_str>Mr. Sharif-Emami</m_str> (10_14) 	<m_str>his</m_str> (10_17) 	<m_str>his</m_str> (10_34) 	<m_str>Mr. Sharif-Emami</m_str> (14_14) 	<m_str>Mr. Sharif-Emami</m_str> (13_1) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

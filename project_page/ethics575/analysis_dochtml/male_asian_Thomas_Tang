@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Thomas Tang, 73, Senior Judge For a Federal Court of Appeals </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Thomas Tang , a senior judge of the United States Court of Appeals , died on Tuesday at Good Samaritan Hospital in Phoenix . <br><blue>2</blue>A lifelong resident of Phoenix , he was 73 . <br><blue>3</blue>The cause was cancer , the Whitney &amp; Murphy Arcadia Funeral Home in Phoenix reported . <br><blue>4</blue>Judge Tang was named to the United States Court of Appeals for the Ninth Circuit in 1977 by President Jimmy Carter . <br><blue>5</blue>The court sits in San Francisco , and Judge Tang , whose office was in Phoenix , heard appeals from a sprawling jurisdiction covering nine states , Guam and the Northern Mariana Islands . <br><blue>6</blue>A man known for his calm , gentlemanly demeanor , he championed individual rights and the advancement of minorities in the legal profession . <br><blue>7</blue>In 18 years on the Ninth Circuit , he wrote some 400 opinions on American Indian law , labor practices , the rights of employees and other issues . <br><blue>8</blue>He was particularly sensitive to individual rights of privacy and equal protection , including those of prisoners . <br><blue>9</blue>One opinion went against a system by which people of Asian descent were hired for cannery jobs , had to eat in segregated mess halls and were denied higher-paying jobs like those held by whites . <br><blue>10</blue>The Supreme Court 's partial reversal of his finding caused bitter opposition in Congress . <br><blue>11</blue>It was one of nine High Court decisions that made job-discrimination lawsuits harder to win . <br><blue>12</blue>The rulings led to the passage of the Civil Rights Act of 1991 , Congress 's first successful effort to reverse the conservative Rehnquist Court 's moves to restrict Federal anti-discrimination laws . <br><blue>13</blue>Judge Tang , who took senior status less than two years ago , was born in Phoenix , where his father , Shing Tang , a Chinese immigrant , ran a wholesale grocery . <br><blue>14</blue>He graduated from the University of Santa Clara in California in 1947 and received his law degree in 1950 from the University of Arizona College of Law . <br><blue>15</blue>He clerked for Justice Evo DeConcini of the Arizona Supreme Court , whose son , Senator Dennis DeConcini , helped put him on the Federal bench . <br><blue>16</blue>He is survived by his wife of 48 years , Dr. Pearl Mao Tang ; a daughter , Carol Spicer of Phoenix , and a granddaughter . <br><blue>17</blue>Also surviving are three brothers , the Rev. Emery Tang , of Huntington Beach , Calif. ; Robert , of Captain Cook , Hawaii , and Eugene , of Prescott , Ariz. ; and five sisters , Mary Ann Tang , of Phoenix , Margaret Tang , of Burlingame , Calif. , Alice Tang , of Phoenix , Sister Patricia Tang , of Los Angeles , and Rosemarie Lee , of Fremont , Calif . <br><hr><br><blue>1(2)</blue>: <m_str>the Ninth Circuit in 1977</m_str> (4_13) 	<m_str>the Ninth Circuit</m_str> (7_5) 	<br><blue>2(2)</blue>: <m_str>Congress</m_str> (10_14) 	<m_str>Congress 's</m_str> (12_15) 	<br><blue>3(8)</blue>: <m_str>Phoenix</m_str> (3_14) 	<m_str>Phoenix</m_str> (5_16) 	<m_str>Phoenix</m_str> (16_22) 	<m_str>Phoenix</m_str> (2_5) 	<m_str>Phoenix</m_str> (1_23) 	<m_str>Phoenix</m_str> (17_57) 	<m_str>Phoenix</m_str> (17_43) 	<m_str>Phoenix</m_str> (13_17) 	<br><blue>4(11)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (13_20) 	<m_str>He</m_str> (16_1) 	<m_str>him</m_str> (15_22) 	<m_str>his</m_str> (16_5) 	<m_str>Judge Tang</m_str> (4_1) 	<m_str>his</m_str> (14_15) 	<m_str>Dr. Pearl Mao Tang</m_str> (16_11) 	<m_str>Judge Tang , whose office was in Phoenix</m_str> (5_9) 	<m_str>Judge Tang , who took senior status less than two years ago</m_str> (13_1) 	<m_str>He</m_str> (14_1) 	<br><blue>5(2)</blue>: <m_str>Calif.</m_str> (17_16) 	<m_str>Calif.</m_str> (17_51) 	<br><blue>6(6)</blue>: <m_str>he</m_str> (7_9) 	<m_str>he</m_str> (6_11) 	<m_str>his</m_str> (10_8) 	<m_str>A man</m_str> (6_1) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (6_5) 	<br><blue>7(2)</blue>: <m_str>The Supreme Court 's partial reversal of his finding</m_str> (10_1) 	<m_str>It</m_str> (11_1) 	<br><blue>8(3)</blue>: <m_str>the conservative Rehnquist Court 's</m_str> (12_22) 	<m_str>the Arizona Supreme Court</m_str> (15_8) 	<m_str>The Supreme Court 's</m_str> (10_1) 	<br><blue>9(2)</blue>: <m_str>Burlingame , Calif. , Alice Tang</m_str> (17_49) 	<m_str>Phoenix , Sister Patricia Tang</m_str> (17_57) 	<br><blue>10(2)</blue>: <m_str>The court</m_str> (5_1) 	<m_str>the United States Court of Appeals</m_str> (1_8) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

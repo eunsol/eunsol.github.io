@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Polykarp Kusch, Nobel Laureate In Physics in 1955, Is Dead at 82 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Polykarp Kusch , winner of a Nobel Prize in physics for his contributions to knowledge of the atom , died Saturday at his home in Dallas . <br><blue>2</blue>He was 82 . <br><blue>3</blue>He had suffered a series of strokes and had been ill for several months , his family said . <br><blue>4</blue>Dr. Kusch was a longtime educator , serving on the faculty of Columbia University for 30 years , where in 1969 and 1970 he was vice president and dean of faculties . <br><blue>5</blue>From 1970 to 1971 he was the university 's provost and executive vice president for academic affairs . <br><blue>6</blue>After leaving Columbia in 1971 , he became Regental Professor of physics at the University of Texas at Dallas , where he taught for 10 years before his retirement in 1982 . <br><blue>7</blue>Dr. Kusch is best known for determining the magnetic moment of the electron , for which he shared a Nobel Prize with another physicist at Columbia , Dr. William E. Lamb , in 1955 . <br><blue>8</blue>Working on separate but closely related projects , the two scientists laid the basis for a branch of physics called quantum electrodynamics , in which electromagnetic phenomena are explained in terms of quantum theory . <br><blue>9</blue>Experiments Described In his landmark experiments to determine the magnetic moment of the electron -- one of the electron 's most important physical properties -- Dr. Kusch worked closely with another leading Columbia physicist , Dr. Henry M. Foley . <br><blue>10</blue>In the apparatus the two scientists used , beams of hydrogen atoms were shot through a magnetic field at an array of detectors . <br><blue>11</blue>The degree to which the atoms were deflected by the field allowed the scientists to calculate the magnetic role played by each hydrogen atom 's lone electron . <br><blue>12</blue>Dr. Robert Novick , a professor of physics at Columbia and a longtime friend of Dr. Kusch , described the work as " absolutely fundamental to understanding the atom . " <br><blue>13</blue>Dr. Kusch was born in Germany on Jan. 26 , 1911 . <br><blue>14</blue>His father was a Lutheran missionary . <br><blue>15</blue>After emigrating to the United States , he received a bachelor of science degree from the Case School of Applied Science , now Case Western Reserve University , in 1931 . <br><blue>16</blue>Continuing his studies in physics at the University of Illinois , he received a Ph.D. degree in 1936 . <br><blue>17</blue>Dr. Kusch taught at the University of Illinois and the University of Minnesota for a few years , but with the outbreak of World War II he joined the Radiation Laboratory of the National Defense Research Committee , working on high-frequency oscillators -- devices important for radar and other military applications . <br><blue>18</blue>From 1944 to 1946 he worked on vacuum tubes and microwave generators at Bell Telephone Laboratories , now A.T. &amp; T. Bell Laboratories . <br><blue>19</blue>Taught ' Physics for Poets ' In 1946 Dr. Kusch joined Columbia 's physics department , becoming a full professor in 1949 and later serving for two terms as chairman of the department . <br><blue>20</blue>Widely admired by his students , he was awarded their Great Teacher Award in 1959 . <br><hr><br><blue>1(26)</blue>: <m_str>his</m_str> (6_28) 	<m_str>his</m_str> (3_16) 	<m_str>his family</m_str> (3_16) 	<m_str>Dr. Kusch</m_str> (4_1) 	<m_str>he</m_str> (15_8) 	<m_str>he</m_str> (7_17) 	<m_str>Poets ' In 1946 Dr. Kusch</m_str> (19_5) 	<m_str>his</m_str> (16_2) 	<m_str>he</m_str> (5_5) 	<m_str>he</m_str> (4_24) 	<m_str>he</m_str> (16_12) 	<m_str>his</m_str> (9_4) 	<m_str>Dr. Kusch</m_str> (12_16) 	<m_str>his</m_str> (1_13) 	<m_str>Dr. Kusch</m_str> (13_1) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Kusch</m_str> (17_1) 	<m_str>his</m_str> (1_24) 	<m_str>he</m_str> (6_7) 	<m_str>His</m_str> (14_1) 	<m_str>He</m_str> (3_1) 	<m_str>Dr. Kusch</m_str> (9_26) 	<m_str>he</m_str> (18_5) 	<m_str>Dr. Kusch</m_str> (7_1) 	<m_str>he</m_str> (6_22) 	<m_str>he</m_str> (17_27) 	<br><blue>2(2)</blue>: <m_str>the atom</m_str> (1_18) 	<m_str>the atom</m_str> (12_28) 	<br><blue>3(2)</blue>: <m_str>Dallas</m_str> (6_19) 	<m_str>Dallas</m_str> (1_27) 	<br><blue>4(2)</blue>: <m_str>his</m_str> (20_4) 	<m_str>he</m_str> (20_7) 	<br><blue>5(2)</blue>: <m_str>the atoms</m_str> (11_5) 	<m_str>hydrogen atoms</m_str> (10_11) 	<br><blue>6(2)</blue>: <m_str>Columbia 's physics department</m_str> (19_12) 	<m_str>the department</m_str> (19_32) 	<br><blue>7(2)</blue>: <m_str>the field</m_str> (11_10) 	<m_str>a magnetic field</m_str> (10_16) 	<br><blue>8(3)</blue>: <m_str>the two scientists</m_str> (10_4) 	<m_str>the two scientists</m_str> (8_9) 	<m_str>the scientists</m_str> (11_13) 	<br><blue>9(7)</blue>: <m_str>Columbia University</m_str> (4_13) 	<m_str>the University of Texas</m_str> (6_14) 	<m_str>Columbia</m_str> (12_10) 	<m_str>Columbia</m_str> (6_3) 	<m_str>Columbia</m_str> (9_33) 	<m_str>the university 's</m_str> (5_7) 	<m_str>Columbia 's</m_str> (19_12) 	<br><blue>10(4)</blue>: <m_str>the electron , for which he shared a Nobel Prize with another physicist at Columbia , Dr. William E. Lamb , in 1955</m_str> (7_12) 	<m_str>each hydrogen atom 's lone electron</m_str> (11_22) 	<m_str>the electron</m_str> (9_13) 	<m_str>the electron 's</m_str> (9_18) 	<br><blue>11(2)</blue>: <m_str>his students</m_str> (20_4) 	<m_str>their</m_str> (20_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

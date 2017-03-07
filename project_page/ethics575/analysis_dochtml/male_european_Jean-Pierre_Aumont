@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jean-Pierre Aumont, Film Star And Stage Hero, Dies at 90 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jean-Pierre Aumont , a popular French actor whose 65-year career included romantic roles in Hollywood , dramatic parts on Broadway and an intense life onstage and on screen in France , died on Tuesday at his home in Saint-Tropez . <br><blue>2</blue>He was 90 . <br><blue>3</blue>Born in Paris on Jan. 5 , 1911 , as Jean-Pierre Salomons , Mr. Aumont landed his first movie role at age 20 and by the time World War II broke out , had appeared in no fewer than 24 films , including Marcel Carné 's '' Hôtel du Nord . '' <br><blue>4</blue>While onstage with Louis Jouvet 's famous troupe , he was also spotted by Jean Cocteau , who promptly cast him in his play '' The Infernal Machine . '' <br><blue>5</blue>After serving with distinction in the French Army , earning a Croix de Guerre and Légion d'Honneur , he left for the United States when France fell to German forces in 1940 . <br><blue>6</blue>He made his Hollywood debut in 1943 in '' Assignment in Brittany '' and followed it with another war movie , '' The Cross of Lorraine . '' <br><blue>7</blue>After the war , he continued to play romantic Frenchmen in Hollywood films but also appeared on Broadway with Vivien Leigh in the 1963 musical '' Tovarich . '' <br><blue>8</blue>French President Jacques Chirac said in a statement that Mr. Aumont was '' a formidable actor who marked the history of the French theater and cinema and who also conquered Hollywood and Broadway with panache . '' <br><blue>9</blue>In 1943 Mr. Aumont married the Dominican actress María Montez . <br><blue>10</blue>They had one daughter , Tina , before Ms. Montez died unexpectedly in 1951 . <br><blue>11</blue>Four years later , Mr. Aumont married the Italian actress Marisa Pavan , with whom he had two sons , Jean-Claude and Patrick . <br><blue>12</blue>Mr. Aumont is survived by Ms. Pavan and his three children . <br><blue>13</blue>From the 1950 's he made his career principally in France , resuming a busy schedule of movies and theater productions . <br><blue>14</blue>He once said that he was proudest of his screen roles in François Truffaut 's '' Day for Night '' and Claude Lelouch 's '' Cat and Mouse '' in the 1970 's . <br><blue>15</blue>Most recently , he appeared in the Merchant-Ivory production '' Jefferson in Paris '' and Ismail Merchant 's movie '' The Proprietor . '' <br><blue>16</blue>His final performance was in a television mini-series adaptation of '' The Count of Monte Cristo '' in 1998 . <br><blue>17</blue>In 1991 he was awarded an honorary César , the French Oscar , for his lifetime achievements as an actor . '' <br><blue>18</blue>For some days now , I have been wondering why I would be chosen for this award , '' he told the audience with a smile . '' <br><blue>19</blue>Now I believe I have found the answer : it is to compensate me for my longevity . '' <br><hr><br><blue>1(2)</blue>: <m_str>1943</m_str> (9_2) 	<m_str>1943</m_str> (6_7) 	<br><blue>2(21)</blue>: <m_str>Mr. Aumont</m_str> (11_5) 	<m_str>Mr. Aumont</m_str> (3_14) 	<m_str>he</m_str> (13_5) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (15_4) 	<m_str>his</m_str> (3_17) 	<m_str>his</m_str> (13_7) 	<m_str>he</m_str> (17_3) 	<m_str>he</m_str> (18_20) 	<m_str>he</m_str> (11_16) 	<m_str>Mr. Aumont</m_str> (12_1) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (17_15) 	<m_str>His</m_str> (16_1) 	<m_str>Mr. Aumont</m_str> (8_10) 	<m_str>he</m_str> (14_5) 	<m_str>his</m_str> (1_36) 	<m_str>his</m_str> (12_9) 	<m_str>his</m_str> (14_9) 	<m_str>Mr. Aumont</m_str> (9_3) 	<m_str>Jean-Pierre Salomons</m_str> (3_11) 	<br><blue>3(8)</blue>: <m_str>He</m_str> (6_1) 	<m_str>he</m_str> (5_19) 	<m_str>Louis Jouvet 's</m_str> (4_4) 	<m_str>him</m_str> (4_21) 	<m_str>his</m_str> (6_3) 	<m_str>his</m_str> (4_23) 	<m_str>he</m_str> (7_5) 	<m_str>he</m_str> (4_10) 	<br><blue>4(2)</blue>: <m_str>Ms. Pavan</m_str> (12_6) 	<m_str>Marisa Pavan</m_str> (11_11) 	<br><blue>5(2)</blue>: <m_str>the Dominican actress María Montez</m_str> (9_6) 	<m_str>Ms. Montez</m_str> (10_9) 	<br><blue>6(4)</blue>: <m_str>France</m_str> (13_11) 	<m_str>the 1970 's</m_str> (14_31) 	<m_str>France</m_str> (1_30) 	<m_str>France</m_str> (5_26) 	<br><blue>7(2)</blue>: <m_str>the answer</m_str> (19_7) 	<m_str>it</m_str> (19_10) 	<br><blue>8(2)</blue>: <m_str>it</m_str> (6_16) 	<m_str>his Hollywood debut</m_str> (6_3) 	<br><blue>9(6)</blue>: <m_str>me</m_str> (19_14) 	<m_str>my</m_str> (19_16) 	<m_str>I</m_str> (19_2) 	<m_str>I</m_str> (19_4) 	<m_str>I</m_str> (18_6) 	<m_str>I</m_str> (18_11) 	<br><blue>10(2)</blue>: <m_str>Paris</m_str> (3_3) 	<m_str>Paris</m_str> (15_13) 	<br><blue>11(2)</blue>: <m_str>Hollywood</m_str> (7_12) 	<m_str>Hollywood</m_str> (6_4) 	<br><blue>12(3)</blue>: <m_str>Broadway</m_str> (1_20) 	<m_str>Broadway</m_str> (7_18) 	<m_str>Broadway</m_str> (8_33) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Leni Riefenstahl, 101, Dies; Film Innovator Tied to Hitler </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Leni Riefenstahl , the German filmmaker whose daringly innovative documentaries about a Nazi rally in Nuremberg in 1934 and the Berlin Olympics of 1936 earned her both acclaim as a cinematic genius and contempt as a propagandist for Hitler , died on Monday night at her home in Pöcking , south of Munich . <br><blue>2</blue>She was 101 . <br><blue>3</blue>After the defeat of Germany in 1945 , she was pronounced a Nazi sympathizer by the Allies and never again found work as a movie director . <br><blue>4</blue>But her revolutionary film techniques deeply influenced later generations of documentary makers and television commercial makers , keeping alive the debate over whether her talent could be separated from her prewar political views . <br><blue>5</blue>For many students of her life and legacy , Ms. Riefenstahl was both propagandist and genius . <br><blue>6</blue>A popular dancer and actress before becoming a movie director in 1932 , she enthusiastically put her talent at the service of the Nazis . <br><blue>7</blue>Yet , without her exceptional artistic vision , her two most famous documentaries , '' Triumph of the Will '' and the two-part '' Olympia , '' would neither have caused a sensation at the time nor be considered classics today . <br><blue>8</blue>Ms. Riefenstahl never denied her early conviction that Hitler could '' save '' Germany . <br><blue>9</blue>She also said that her idealized image of him fell apart '' far too late , '' near the end of World War II . <br><blue>10</blue>But amid widespread skepticism , she insisted that she was never a Nazi and that '' Triumph of the Will '' and '' Olympia '' were apolitical , inspired only by her desire to create works of art . <br><blue>11</blue>Still , while her documentaries continue to be studied in some film schools , Ms. Riefenstahl remained trapped in the shadow of her association with Hitler . <br><blue>12</blue>Her repeated attempts to find financing for a new film always ended in failure , while public screenings of her movies and exhibitions of her photographs invariably prompted protests . <br><blue>13</blue>As recently as last year she was briefly investigated in Germany on accusations of race-hatred crimes , but no charges were brought . <br><blue>14</blue>She nonetheless worked hard to shed her image as the Nazi regime 's most persuasive propagandist . <br><blue>15</blue>After the war she spent 20 years in relative isolation , living in her mother 's apartment in Munich . <br><blue>16</blue>Then , in the late 1960 's , perhaps out of frustration , she reinvented herself as a photographer and , within a decade , she had made her name in a new visual art form . <br><blue>17</blue>A tiny woman of great physical courage and fierce determination , she next took up scuba diving , claiming to be only 51 , when she was actually 20 years older , to obtain a diving license . <br><blue>18</blue>Two collections of her underwater photographs , '' Coral Gardens '' and '' Wonders Under Water , '' were published in the United States , and she continued diving in the Maldives until she was in her late 90 's . <br><blue>19</blue>Last year , to coincide with her 100th birthday , she released her first movie in almost half a century , a 45-minute documentary of marine life called '' Impressions Under Water . '' <br><blue>20</blue>But it was her photography that stirred most controversy . <br><hr><br><blue>1(1)</blue>: <m_str>her mother 's</m_str> (15_14) 	<br><blue>2(1)</blue>: <m_str>her photographs</m_str> (12_25) 	<br><blue>3(3)</blue>: <m_str>Hitler</m_str> (8_9) 	<m_str>Hitler</m_str> (11_26) 	<m_str>Hitler</m_str> (1_39) 	<br><blue>4(46)</blue>: <m_str>she</m_str> (15_4) 	<m_str>her</m_str> (15_14) 	<m_str>Leni Riefenstahl , the German filmmaker whose daringly innovative documentaries about a Nazi rally in Nuremberg in 1934 and the Berlin Olympics of 1936 earned her both acclaim as a cinematic genius and contempt as a propagandist for Hitler</m_str> (1_1) 	<m_str>she</m_str> (16_14) 	<m_str>herself</m_str> (16_16) 	<m_str>She</m_str> (2_1) 	<m_str>she</m_str> (16_26) 	<m_str>her</m_str> (1_26) 	<m_str>her</m_str> (16_29) 	<m_str>she</m_str> (17_12) 	<m_str>her</m_str> (18_4) 	<m_str>she</m_str> (17_26) 	<m_str>she</m_str> (3_9) 	<m_str>her</m_str> (1_46) 	<m_str>her</m_str> (4_2) 	<m_str>her</m_str> (19_7) 	<m_str>she</m_str> (18_27) 	<m_str>she</m_str> (19_11) 	<m_str>her</m_str> (19_13) 	<m_str>she</m_str> (18_34) 	<m_str>her</m_str> (18_37) 	<m_str>her</m_str> (20_4) 	<m_str>her</m_str> (5_5) 	<m_str>her</m_str> (4_24) 	<m_str>Ms. Riefenstahl</m_str> (5_10) 	<m_str>her</m_str> (4_30) 	<m_str>she</m_str> (6_14) 	<m_str>her</m_str> (6_17) 	<m_str>her</m_str> (7_4) 	<m_str>her</m_str> (7_9) 	<m_str>Ms. Riefenstahl never denied her early conviction that Hitler could '' save '' Germany</m_str> (8_1) 	<m_str>her</m_str> (8_5) 	<m_str>She</m_str> (9_1) 	<m_str>her</m_str> (9_5) 	<m_str>she</m_str> (10_6) 	<m_str>she</m_str> (10_9) 	<m_str>her</m_str> (11_4) 	<m_str>her</m_str> (10_32) 	<m_str>Ms. Riefenstahl</m_str> (11_15) 	<m_str>Her</m_str> (12_1) 	<m_str>her</m_str> (11_23) 	<m_str>her</m_str> (12_20) 	<m_str>she</m_str> (13_6) 	<m_str>her</m_str> (12_25) 	<m_str>She</m_str> (14_1) 	<m_str>her</m_str> (14_7) 	<br><blue>5(2)</blue>: <m_str>Munich</m_str> (15_19) 	<m_str>Munich</m_str> (1_53) 	<br><blue>6(2)</blue>: <m_str>her documentaries</m_str> (11_4) 	<m_str>her two most famous documentaries</m_str> (7_9) 	<br><blue>7(1)</blue>: <m_str>the United States</m_str> (18_22) 	<br><blue>8(3)</blue>: <m_str>Germany</m_str> (8_14) 	<m_str>Germany</m_str> (3_5) 	<m_str>Germany</m_str> (13_11) 	<br><blue>9(1)</blue>: <m_str>her life</m_str> (5_5) 	<br><blue>10(2)</blue>: <m_str>her first movie</m_str> (19_13) 	<m_str>it</m_str> (20_2) 	<br><blue>11(2)</blue>: <m_str>her talent</m_str> (6_17) 	<m_str>her talent</m_str> (4_24) 	<br><blue>12(2)</blue>: <m_str>her idealized image of him</m_str> (9_5) 	<m_str>her image</m_str> (14_7) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

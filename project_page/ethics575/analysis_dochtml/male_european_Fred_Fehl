@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Fred Fehl, 89, Whose Camera Captured Broadway and Ballet </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Fred Fehl , a dance and theater photographer who helped revolutionize American theatrical photography , died on Wednesday at his home on the Upper West Side of Manhattan . <br><blue>2</blue>He was 89 . <br><blue>3</blue>The cause of death was Alzheimer 's disease , said his wife , Margaret . <br><blue>4</blue>Known for his vivid imagery , Mr. Fehl was a pioneer of what he termed " performance photography . " <br><blue>5</blue>When he arrived in New York from his native Vienna in 1939 , it was customary for photographers to document a production by carefully positioning its cast at special photo sessions . <br><blue>6</blue>The results , though often beautiful , could also look stilted . <br><blue>7</blue>Mr. Fehl , in contrast , used rapid-fire cameras to preserve the vitality of performances . <br><blue>8</blue>The director Elia Kazan once said that Mr. Fehl was the first photographer to " capture the scenes I directed in the theater on film with the precision of the living moment . " <br><blue>9</blue>Between 1940 and 1970 , when he retired from theatrical photography , Mr. Fehl photographed nearly 1,000 Broadway and Off Broadway productions . <br><blue>10</blue>He was the New York City Opera 's photographer from 1944 to 1980 . <br><blue>11</blue>In 1976 , when an exhibition honoring him was held at the Library for the Performing Arts at Lincoln Center , he chose the 450 shots used in the show from an archive of more than 100,000 photographs . <br><blue>12</blue>Mr. Fehl 's abiding love was dance , especially ballet , and he continued to photograph ballet long after he had given up theatrical and operatic photography . <br><blue>13</blue>His work constitutes a pictorial history of American dance since the 40 's and traces the growth of such troupes as American Ballet Theater , the New York City Ballet and the Joffrey Ballet . <br><blue>14</blue>Photographs by him from publications including The New York Times , Dance Magazine , The Dancing Times , Life , Look , Time , Newsweek and Theater Arts were gathered together in several volumes , including " On Broadway , " " Stars of the American Ballet Theater " and " Stars of the Ballet and Dance in Performance Photographs . " <br><blue>15</blue>Perhaps the most unusual of his books is " Giselle and Albrecht : American Ballet Theater 's Romantic Lovers , " a collaboration with the dance writer Doris Hering . <br><blue>16</blue>Its text and photos compare the interpretations of the great dancers -- among them Alicia Markova , Alicia Alonso , Carla Fracci , Natalia Makarova , Erik Bruhn , Igor Youskevitch , Mikhail Baryshnikov and Anton Dolin -- who starred in Ballet Theater 's production of " Giselle " from the company 's founding in 1940 to 1981 , when the book was published . <br><blue>17</blue>Mr. Fehl inherited his passion for the performing arts from his father , a music-loving dentist , and photography was his childhood hobby . <br><blue>18</blue>As an adult , Mr. Fehl became a textile salesman , yet also photographed actors and musicians . <br><blue>19</blue>He fled Vienna when the Nazis took control of Austria in 1938 , and after a short stay in London , moved to New York . <br><blue>20</blue>There , in 1940 , he managed to receive enough assignments to make photography his profession . <br><hr><br><blue>1(3)</blue>: <m_str>Its</m_str> (16_1) 	<m_str>Ballet Theater 's</m_str> (16_42) 	<m_str>American Ballet Theater 's</m_str> (15_14) 	<br><blue>2(1)</blue>: <m_str>more than 100,000 photographs</m_str> (11_35) 	<br><blue>3(2)</blue>: <m_str>Broadway</m_str> (9_18) 	<m_str>Broadway</m_str> (9_21) 	<br><blue>4(2)</blue>: <m_str>it</m_str> (5_14) 	<m_str>its</m_str> (5_26) 	<br><blue>5(3)</blue>: <m_str>New York</m_str> (5_5) 	<m_str>the New York City Ballet</m_str> (13_26) 	<m_str>the Joffrey Ballet</m_str> (13_32) 	<br><blue>6(32)</blue>: <m_str>him</m_str> (11_8) 	<m_str>He</m_str> (19_1) 	<m_str>his</m_str> (15_6) 	<m_str>his</m_str> (4_3) 	<m_str>Mr. Fehl</m_str> (4_7) 	<m_str>The director Elia Kazan</m_str> (8_1) 	<m_str>Mr. Fehl 's</m_str> (12_1) 	<m_str>Mr. Fehl</m_str> (8_8) 	<m_str>he</m_str> (11_22) 	<m_str>he</m_str> (4_14) 	<m_str>he</m_str> (5_2) 	<m_str>he</m_str> (12_13) 	<m_str>he</m_str> (20_6) 	<m_str>I</m_str> (8_19) 	<m_str>his</m_str> (5_8) 	<m_str>His</m_str> (13_1) 	<m_str>he</m_str> (9_7) 	<m_str>he</m_str> (12_20) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Fehl</m_str> (17_1) 	<m_str>his</m_str> (20_15) 	<m_str>his</m_str> (1_20) 	<m_str>his</m_str> (17_4) 	<m_str>Mr. Fehl</m_str> (9_13) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (17_11) 	<m_str>him</m_str> (14_3) 	<m_str>his</m_str> (17_21) 	<m_str>Mr. Fehl</m_str> (18_5) 	<m_str>Mr. Fehl , in contrast</m_str> (7_1) 	<m_str>his</m_str> (3_11) 	<m_str>his wife , Margaret</m_str> (3_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

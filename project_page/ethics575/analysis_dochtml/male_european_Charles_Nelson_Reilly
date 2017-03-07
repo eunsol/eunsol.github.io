@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Charles Nelson Reilly, Tony-Winning Comic Actor, Dies at 76 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Charles Nelson Reilly , who acted and directed on Broadway but came to be best known for his campy television appearances on talk shows and '' Match Game , '' died on Friday in Los Angeles . <br><blue>2</blue>He was 76 and lived in Beverly Hills , Calif . <br><blue>3</blue>The cause was complications of pneumonia , said his partner , Patrick Hughes , who is his only immediate survivor . <br><blue>4</blue>Mr. Reilly had been ill for more than a year , he said . <br><blue>5</blue>Long before moving west to become what he somewhat ruefully described as a '' game show fixture , '' Mr. Reilly was an actor and an acting teacher in New York City . <br><blue>6</blue>In 1962 , he won a Tony Award for his portrayal of Bud Frump in the original Broadway production of '' How to Succeed in Business Without Really Trying . '' <br><blue>7</blue>But he was proudest of '' The Belle of Amherst , '' a one-woman play starring Julie Harris based on the life of Emily Dickinson , which he directed on Broadway at the Longacre Theater in 1976 , said Timothy Helgeson , who collaborated with him on the show . <br><blue>8</blue>Two decades later , Mr. Reilly directed Ms. Harris and Charles Durning in a revival of '' The Gin Game '' at the Lyceum Theater . <br><blue>9</blue>He was nominated for a Tony for best director in 1997 , and Ms. Harris was nominated for best actress . <br><blue>10</blue>His final work was an autobiographical one-man show , '' Save It for the Stage : The Life of Reilly , '' in which he recounted his difficult childhood . <br><blue>11</blue>Born in the Bronx , the only child of a Swedish mother and an Irish father , Mr. Reilly told of the pain of being considered the oddest member of a decidedly odd family . <br><blue>12</blue>He explained the title of his show by saying that , when he was a child , his mother would often cut him off from speaking by admonishing him to '' save it for the stage . '' <br><blue>13</blue>His father , he told audiences , never got over having passed up a chance to move to Hollywood and work with a budding animation artist named Walt Disney . <br><blue>14</blue>In the 1970s and 1980s , Mr. Reilly , with his ascots , oversize spectacles and over-the-top penchant for double-entendres , was a regular on television . <br><blue>15</blue>He appeared more than 95 times on the '' Tonight '' show with Johnny Carson and was a panelist on game shows like '' Match Game '' and '' Hollywood Squares . '' <br><blue>16</blue>In a 2001 interview with The Advocate , the national gay magazine , Mr. Reilly reflected on the effect those shows had on his professional prospects . '' <br><blue>17</blue>You ca n't do anything else once you do game shows , '' he said . '' <br><blue>18</blue>You have no career . '' <br><blue>19</blue>Mr. Reilly 's openly gay persona was many years ahead of its time on television , and it had its risks . <br><blue>20</blue>He recalled being dismissed early in his career by a network executive , who told him that '' they do n't let queers on television . '' <br><hr><br><blue>1(3)</blue>: <m_str>You</m_str> (17_1) 	<m_str>You</m_str> (18_1) 	<m_str>you</m_str> (17_8) 	<br><blue>2(41)</blue>: <m_str>Patrick Hughes</m_str> (3_12) 	<m_str>He</m_str> (15_1) 	<m_str>he</m_str> (10_25) 	<m_str>his</m_str> (3_17) 	<m_str>his</m_str> (10_27) 	<m_str>Mr. Reilly 's</m_str> (19_1) 	<m_str>Mr. Reilly</m_str> (4_1) 	<m_str>He</m_str> (12_1) 	<m_str>Mr. Reilly</m_str> (8_5) 	<m_str>Mr. Reilly</m_str> (11_18) 	<m_str>he</m_str> (4_12) 	<m_str>his</m_str> (12_6) 	<m_str>he</m_str> (7_28) 	<m_str>Charles Durning</m_str> (8_11) 	<m_str>He</m_str> (20_1) 	<m_str>he</m_str> (12_13) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (20_7) 	<m_str>he</m_str> (5_8) 	<m_str>his</m_str> (12_18) 	<m_str>His</m_str> (13_1) 	<m_str>Mr. Reilly</m_str> (16_14) 	<m_str>he</m_str> (13_4) 	<m_str>his</m_str> (1_18) 	<m_str>He</m_str> (2_1) 	<m_str>him</m_str> (12_23) 	<m_str>him</m_str> (20_16) 	<m_str>him</m_str> (7_46) 	<m_str>his</m_str> (16_24) 	<m_str>him</m_str> (12_29) 	<m_str>Mr. Reilly</m_str> (5_20) 	<m_str>he</m_str> (6_4) 	<m_str>His</m_str> (10_1) 	<m_str>he</m_str> (17_14) 	<m_str>his</m_str> (6_10) 	<m_str>Bud Frump</m_str> (6_13) 	<m_str>Mr. Reilly , with his ascots , oversize spectacles and over-the-top penchant for double-entendres</m_str> (14_7) 	<m_str>he</m_str> (7_2) 	<m_str>his</m_str> (14_11) 	<m_str>his</m_str> (3_9) 	<m_str>Reilly</m_str> (10_20) 	<br><blue>3(2)</blue>: <m_str>the pain of being considered the oddest member of a decidedly odd family</m_str> (11_22) 	<m_str>it</m_str> (12_33) 	<br><blue>4(3)</blue>: <m_str>Broadway</m_str> (7_31) 	<m_str>Broadway</m_str> (6_18) 	<m_str>Broadway</m_str> (1_10) 	<br><blue>5(2)</blue>: <m_str>the stage</m_str> (12_35) 	<m_str>the Stage</m_str> (10_14) 	<br><blue>6(2)</blue>: <m_str>Ms. Harris</m_str> (9_14) 	<m_str>Julie Harris</m_str> (7_17) 	<br><blue>7(2)</blue>: <m_str>those shows</m_str> (16_20) 	<m_str>talk shows</m_str> (1_23) 	<br><blue>8(1)</blue>: <m_str>the show</m_str> (7_48) 	<br><blue>9(2)</blue>: <m_str>an Irish father</m_str> (11_14) 	<m_str>His father</m_str> (13_1) 	<br><blue>10(2)</blue>: <m_str>It</m_str> (10_12) 	<m_str>His final work</m_str> (10_1) 	<br><blue>11(3)</blue>: <m_str>it</m_str> (19_18) 	<m_str>its</m_str> (19_20) 	<m_str>its</m_str> (19_12) 	<br><blue>12(2)</blue>: <m_str>a Swedish mother</m_str> (11_10) 	<m_str>his mother</m_str> (12_18) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

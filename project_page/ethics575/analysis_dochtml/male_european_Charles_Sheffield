@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Charles Sheffield, 67, Physicist And Author of Science Fiction </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Charles Sheffield , a physicist and prolific science fiction author , died last Saturday at a hospice near his home in Silver Spring , Md . <br><blue>2</blue>He was 67 . <br><blue>3</blue>The cause was brain cancer , said his literary agent , Eleanor Wood . <br><blue>4</blue>Dr. Sheffield , a native of Britain , had a doctorate in physics from American University . <br><blue>5</blue>He was a consultant to NASA and later the chief scientist of the Earth Satellite Corporation , a Washington-based company specializing in natural-resource management . <br><blue>6</blue>But after 1977 , the year his first wife , Sarah Sanderson , died , he turned more to writing . <br><blue>7</blue>John Clute , an editor of The Encyclopedia of Science Fiction ( St. Martin 's , 1995 ) , recalled that Dr. Sheffield responded to his wife 's death by diving '' into his own mind , where he found stories forming in the illimitable dark . '' <br><blue>8</blue>By 2002 Dr. Sheffield had written , or was a co-author of , more than two dozen novels . <br><blue>9</blue>In his '' Summertide '' ( 1990 ) the known universe is believed to be peopled by man and by sizeable buglike beings called Cecropians . <br><blue>10</blue>Gerald Jonas , in The New York Times Book Review , praised that book 's scientific explanations and called it a '' likable , well-made puzzle '' in which Dr. Sheffield was clearly '' concerned with the inner life of his characters . '' <br><blue>11</blue>A half-dozen collections of short stories by Dr. Sheffield have been published . <br><blue>12</blue>One of them , '' Georgia on My Mind and Other Places '' ( 1995 ) , was praised in Publishers Weekly for its '' valuable ideas from a master craftsman . '' <br><blue>13</blue>The book won two notable prizes for science fiction writing , the Hugo and Nebula awards . <br><blue>14</blue>His second marriage , to Linda Zall , ended in divorce . <br><blue>15</blue>He is survived by his third wife , Nancy Kress , also a science fiction writer , whom he married in 1997 ; a daughter and son from his first marriage , Ann Sheffield and Charles Christopher Sheffield ; two daughters from his second marriage , Elizabeth Rose Sheffield and Victoria Jane Sheffield ; his mother , Emma Sheffield ; and a sister , Ann G. Hunt . <br><hr><br><blue>1(22)</blue>: <m_str>He</m_str> (15_1) 	<m_str>Ann Sheffield</m_str> (15_33) 	<m_str>Dr. Sheffield</m_str> (11_8) 	<m_str>his</m_str> (15_5) 	<m_str>Charles Christopher Sheffield</m_str> (15_36) 	<m_str>Dr. Sheffield , a native of Britain</m_str> (4_1) 	<m_str>Dr. Sheffield</m_str> (10_30) 	<m_str>his</m_str> (15_43) 	<m_str>Dr. Sheffield</m_str> (8_3) 	<m_str>Dr. Sheffield</m_str> (7_22) 	<m_str>His</m_str> (14_1) 	<m_str>Elizabeth Rose Sheffield</m_str> (15_47) 	<m_str>his</m_str> (7_26) 	<m_str>he</m_str> (15_19) 	<m_str>his</m_str> (10_41) 	<m_str>Victoria Jane Sheffield</m_str> (15_51) 	<m_str>his</m_str> (15_55) 	<m_str>his</m_str> (7_34) 	<m_str>Emma Sheffield</m_str> (15_58) 	<m_str>his</m_str> (9_2) 	<m_str>his</m_str> (15_29) 	<m_str>he</m_str> (7_39) 	<br><blue>2(2)</blue>: <m_str>1995</m_str> (7_17) 	<m_str>1995</m_str> (12_15) 	<br><blue>3(2)</blue>: <m_str>A half-dozen collections of short stories by Dr. Sheffield</m_str> (11_1) 	<m_str>them</m_str> (12_3) 	<br><blue>4(2)</blue>: <m_str>My Mind</m_str> (12_8) 	<m_str>his own mind</m_str> (7_34) 	<br><blue>5(3)</blue>: <m_str>book 's</m_str> (10_14) 	<m_str>it</m_str> (10_20) 	<m_str>The book</m_str> (13_1) 	<br><blue>6(2)</blue>: <m_str>his wife 's</m_str> (7_26) 	<m_str>his first wife , Sarah Sanderson</m_str> (6_7) 	<br><blue>7(7)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_20) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (6_16) 	<m_str>his</m_str> (3_8) 	<m_str>his literary agent , Eleanor Wood</m_str> (3_8) 	<m_str>his</m_str> (6_7) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Werner Scharff, 90, Designer Of a Classic Warm Nightgown </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Werner Scharff , the designer of the oh-so-comfortable Lanz flannel granny nightgown , died on Aug. 17 at his home in Santa Monica , Calif . <br><blue>2</blue>He was 90 . <br><blue>3</blue>The cause was Parkinson 's disease , his son Christopher Scharff said . <br><blue>4</blue>The Lanz of Salzburg line has provided a snuggly cover-up for women since 1953 . <br><blue>5</blue>It comes in a variety of styles , some below the knees , some grazing the ankles , some with lace-trimmed standup collars , some with V-shaped necklines , some with buttons on the front or on the back . <br><blue>6</blue>All have a generous cut and one of dozens of charming prints : Tyrolean florals , hearts , doves , bears , bunnies and cats , usually intertwined with the Lanz of Salzburg signature . <br><blue>7</blue>Wholesomeness was inherent in Mr. Scharff 's design . <br><blue>8</blue>A Lanz gown is suitable for Christmas mornings , not wild nights , for greeting the meter reader , not tempting a lover . <br><blue>9</blue>Mr. Scharff was also a shrewd real estate investor . <br><blue>10</blue>Soon after moving to Los Angeles in the late 1930 's , he perceived that the rundown beachfront community of Venice , Calif. , had potential . <br><blue>11</blue>Over the years , he bought several properties there , including the Cadillac Hotel , the Venice Beach House , an art gallery and a cafe -- all contributing to the revival of Venice as a funky , arty resort . <br><blue>12</blue>Werner G. Scharff was born in Lindau , Germany , on July 7 , 1916 . <br><blue>13</blue>His father , a grocer , died when Mr. Scharff was young , forcing him to leave school and work in the family business . <br><blue>14</blue>He and his brother Kurt moved to New York in 1937 and became partners with Sepp Lanz , an Austrian émigré , in a store that sold Austrian-style ski clothes and sleepwear . <br><blue>15</blue>Within a year , they moved to Los Angeles and opened a second store . <br><blue>16</blue>His marriages to Eleanor Mace and Alexandra Scharff ended in divorce . <br><blue>17</blue>Besides his son Christopher , of Bel-Air , Calif. , Mr. Scharff is survived by his third wife , Simone Hormel Scharff ; another son , Peter Scharff , and a daughter , Alexis Scharff , both of Bend , Ore. ; two stepsons , Christopher Hormel , of Bliss , Idaho , and Gregory Hormel , of Hoboken , N.J. ; a stepdaughter , Angela Hormel , of Ojai , Calif. ; and six grandchildren . <br><blue>18</blue>By the late 1950 's , the granny nightgown was the Lanz company 's leading product . <br><blue>19</blue>Eventually , the company included 30 retail stores and a manufacturing division . <br><blue>20</blue>By 1990 , it was selling more than 700,000 nightgowns a year . <br><hr><br><blue>1(2)</blue>: <m_str>the Lanz of Salzburg signature</m_str> (6_30) 	<m_str>The Lanz of Salzburg line</m_str> (4_1) 	<br><blue>2(2)</blue>: <m_str>the granny nightgown</m_str> (18_7) 	<m_str>the oh-so-comfortable Lanz flannel granny nightgown</m_str> (1_7) 	<br><blue>3(3)</blue>: <m_str>Calif.</m_str> (17_72) 	<m_str>Calif.</m_str> (1_25) 	<m_str>Calif.</m_str> (17_9) 	<br><blue>4(2)</blue>: <m_str>Venice</m_str> (11_34) 	<m_str>Venice</m_str> (10_21) 	<br><blue>5(2)</blue>: <m_str>Salzburg</m_str> (6_33) 	<m_str>Salzburg</m_str> (4_4) 	<br><blue>6(20)</blue>: <m_str>he</m_str> (11_5) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (17_2) 	<m_str>his</m_str> (1_19) 	<m_str>Christopher , of Bel-Air , Calif. , Mr. Scharff</m_str> (17_4) 	<m_str>Mr. Scharff</m_str> (13_9) 	<m_str>him</m_str> (13_15) 	<m_str>Bel-Air , Calif. , Mr. Scharff</m_str> (17_7) 	<m_str>Werner G. Scharff</m_str> (12_1) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (14_3) 	<m_str>His</m_str> (16_1) 	<m_str>his</m_str> (17_16) 	<m_str>he</m_str> (10_13) 	<m_str>his</m_str> (3_8) 	<m_str>Mr. Scharff</m_str> (9_1) 	<m_str>Mr. Scharff 's</m_str> (7_5) 	<m_str>Peter Scharff</m_str> (17_27) 	<m_str>his son Christopher Scharff</m_str> (3_8) 	<m_str>His</m_str> (13_1) 	<br><blue>7(3)</blue>: <m_str>the company</m_str> (19_3) 	<m_str>it</m_str> (20_4) 	<m_str>the Lanz company 's</m_str> (18_11) 	<br><blue>8(4)</blue>: <m_str>Lanz</m_str> (1_9) 	<m_str>Lanz</m_str> (8_2) 	<m_str>Lanz</m_str> (18_12) 	<m_str>Sepp Lanz</m_str> (14_16) 	<br><blue>9(2)</blue>: <m_str>Alexis Scharff , both of Bend , Ore.</m_str> (17_34) 	<m_str>Alexandra Scharff</m_str> (16_7) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

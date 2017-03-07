@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Nikki Sudden, 49, Punk Rocker </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Nikki Sudden , a pioneer of the English rock avant-garde known for his velvet jackets and larger-than-life panache , died on Sunday , a day after performing at the Knitting Factory in Manhattan . <br><blue>2</blue>He was 49 . <br><blue>3</blue>His record company , Secretly Canadian , announced his death on the company 's Web site but gave no cause . <br><blue>4</blue>Neither did Mr. Sudden 's own Web site . <br><blue>5</blue>Mr. Sudden 's original name was Nicholas Godfrey , and his ramshackle , brittle style of punk rock became a cult enthusiasm in Europe and the United States . <br><blue>6</blue>He wrote hundreds of songs and released more than 20 albums , some with groups , some solo . <br><blue>7</blue>He progressed from embracing what was known as glam rock , an exuberant breed of punk in the 1970 's , to becoming something of a rock revivalist and balladeer . <br><blue>8</blue>He was part of influential bands like Swell Maps in the 1970 's and the Jacobites in the 1980 's , and did an album with three members of R.E.M. that was reissued under the title '' Liquor , Guns and Ammo . '' '' <br><blue>9</blue>He 's the quintessential brand of hero and sonic delicacy that record store clerks , completist collectors and ( cough ) music journalists obsess over , '' Donny Kutzbach wrote this month in Artvoice , an alternative newsweekly in Buffalo . <br><blue>10</blue>But not mass audiences : Mr. Sudden had no hits , gold records or other outward symbols of success . <br><blue>11</blue>His fans relished his efforts to take punk rock to the level of quirky experimental art , not to mention his piratelike appearance . <br><blue>12</blue>Nicholas Godfrey was born in London on July 19 , 1956 , and began playing the guitar in 1971 after hearing the band T. Rex , he wrote on his Web site . <br><blue>13</blue>He and his brother , Kevin Paul Godfrey , a drummer who chose the stage name Epic Soundtracks , began playing together , and joined with others in 1977 to form the group Swell Maps . <br><blue>14</blue>His brother died in 1997 . <br><blue>15</blue>Before their breakup in 1980 , the Swell Maps produced four singles and two albums . <br><blue>16</blue>Mr. Sudden then made two solo albums before joining with the guitarist Dave Kusworth to form the Jacobites . <br><blue>17</blue>The Jacobites broke up in 1986 , and Mr. Sudden returned to his solo career . <br><blue>18</blue>He did five albums over the next five years , including '' Texas . '' <br><blue>19</blue>In 1990 , Mr. Sudden made his album with R.E.M. members . <br><blue>20</blue>In 1993 , the Jacobites reunited and did three albums and reissued two . <br><hr><br><blue>1(2)</blue>: <m_str>1970 's</m_str> (8_12) 	<m_str>1970 's</m_str> (7_19) 	<br><blue>2(2)</blue>: <m_str>His brother</m_str> (14_1) 	<m_str>his brother</m_str> (13_3) 	<br><blue>3(4)</blue>: <m_str>the Jacobites</m_str> (16_17) 	<m_str>The Jacobites</m_str> (17_1) 	<m_str>the Jacobites</m_str> (8_15) 	<m_str>the Jacobites</m_str> (20_4) 	<br><blue>4(3)</blue>: <m_str>the company 's Web site</m_str> (3_12) 	<m_str>Mr. Sudden 's own Web site</m_str> (4_3) 	<m_str>his Web site</m_str> (12_30) 	<br><blue>5(2)</blue>: <m_str>Swell Maps</m_str> (13_34) 	<m_str>the Swell Maps</m_str> (15_7) 	<br><blue>6(2)</blue>: <m_str>R.E.M.</m_str> (8_30) 	<m_str>R.E.M.</m_str> (19_10) 	<br><blue>7(2)</blue>: <m_str>an album</m_str> (8_24) 	<m_str>his album</m_str> (19_7) 	<br><blue>8(2)</blue>: <m_str>the company 's</m_str> (3_12) 	<m_str>His record company</m_str> (3_1) 	<br><blue>9(29)</blue>: <m_str>Mr. Sudden 's</m_str> (4_3) 	<m_str>Mr. Sudden</m_str> (19_4) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (19_7) 	<m_str>Nicholas Godfrey</m_str> (12_1) 	<m_str>his</m_str> (11_21) 	<m_str>Mr. Sudden</m_str> (16_1) 	<m_str>Mr. Sudden 's</m_str> (5_1) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (1_13) 	<m_str>He</m_str> (13_1) 	<m_str>his</m_str> (5_11) 	<m_str>his</m_str> (13_3) 	<m_str>He</m_str> (2_1) 	<m_str>Kevin Paul Godfrey , a drummer who chose the stage name Epic Soundtracks</m_str> (13_6) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (12_27) 	<m_str>his</m_str> (12_30) 	<m_str>Mr. Sudden</m_str> (17_9) 	<m_str>his</m_str> (17_13) 	<m_str>His</m_str> (14_1) 	<m_str>Mr. Sudden</m_str> (10_6) 	<m_str>He</m_str> (18_1) 	<m_str>His</m_str> (3_1) 	<m_str>Donny Kutzbach</m_str> (9_28) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (3_9) 	<m_str>His</m_str> (11_1) 	<m_str>his</m_str> (11_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

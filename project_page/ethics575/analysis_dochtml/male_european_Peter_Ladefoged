@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Peter Ladefoged, 80, Expert In Pops and Trills of Speech </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Peter Ladefoged , an internationally renowned linguist who spent his life blissfully awash in the whistles , murmurs , pops , clicks and trills that make up the world 's spoken languages , died on Jan. 24 in London . <br><blue>2</blue>Professor Ladefoged , who was returning to his home in Aliso Viejo , Calif. , from fieldwork in India , was 80 . <br><blue>3</blue>The cause was a stroke , said a spokesman for the University of California at Los Angeles , where he was distinguished professor emeritus of phonetics . <br><blue>4</blue>Professor Ladefoged was widely regarded as the world 's foremost phonetician , a scholar who studies the acoustics and physiology of speech -- the precise interplay of tongue , lung and larynx that creates the inventory of noises we use in the everyday business of talking . <br><blue>5</blue>His job recalled that of a modern-day Henry Higgins , and in fact , Professor Ladefoged , who was born in England and to the end of his life retained its plummy tones , was the resident phonetics expert on the set of the movie version of '' My Fair Lady , '' released in 1964 . <br><blue>6</blue>In more scholarly work , he made significant contributions to forensic phonetics , the science of speech as used by the police and in courts of law . <br><blue>7</blue>( His work included studies demonstrating the unreliability of voice identification by ear alone . ) <br><blue>8</blue>He also documented endangered languages around the world . <br><blue>9</blue>Professor Ladefoged was known in particular for his widely used textbook '' A Course in Phonetics '' ( Thomson/Wadsworth ) , published in its fifth edition this year . <br><blue>10</blue>With Ian Maddieson , he wrote '' The Sounds of the World 's Languages '' ( Blackwell , 1996 ) , considered the definitive catalog of the consonants and vowels of the world 's 6,000 tongues . <br><blue>11</blue>His family name , Danish in origin , is pronounced '' LAD-uh-foe-gid . '' <br><blue>12</blue>Language is a symbolic code , designed to convey meaning from one human mind to another . <br><blue>13</blue>In spoken language , the code is realized as sound waves , produced when air is forced from a speaker 's lungs past the vocal cords and out of the mouth . <br><blue>14</blue>The ear converts these vibrations into electrical impulses , which are relayed to the speech-processing centers of the brain . <br><blue>15</blue>These little disturbances of air were Professor Ladefoged 's lifework . <br><blue>16</blue>How many speech sounds , he wondered , are humanly possible ? <br><blue>17</blue>What parts of the anatomy -- tongue , teeth , lips and hard and soft palates -- can be used to make them ? <br><blue>18</blue>Which noises are deployed as linguistic code in a particular language , which are not , and what accounts for the difference ? <br><blue>19</blue>Armed with tape recorder , oscilloscope and equipment for measuring air flow , he traveled to remote villages around the globe , recording what he found there in all its noisy variety . <br><blue>20</blue>He liked to paint speakers ' palates with a concoction of olive oil and powdered charcoal , which let him photograph the precise spot at which the tongue made contact with the roof of the mouth ( thereby wiping away some charcoal ) as a particular sound was made . <br><hr><br><blue>1(2)</blue>: <m_str>the mouth</m_str> (20_35) 	<m_str>the mouth</m_str> (13_30) 	<br><blue>2(1)</blue>: <m_str>London</m_str> (1_39) 	<br><blue>3(21)</blue>: <m_str>Professor Ladefoged</m_str> (4_1) 	<m_str>he</m_str> (3_20) 	<m_str>Professor Ladefoged 's</m_str> (15_7) 	<m_str>He</m_str> (8_1) 	<m_str>he</m_str> (19_14) 	<m_str>He</m_str> (20_1) 	<m_str>His</m_str> (5_1) 	<m_str>he</m_str> (16_6) 	<m_str>his</m_str> (1_10) 	<m_str>Professor Ladefoged</m_str> (9_1) 	<m_str>he</m_str> (19_25) 	<m_str>his</m_str> (9_8) 	<m_str>Professor Ladefoged , who was returning to his home in Aliso Viejo , Calif. , from fieldwork in India</m_str> (2_1) 	<m_str>Professor Ladefoged , who was born in England and to the end of his life retained its plummy tones</m_str> (5_15) 	<m_str>him</m_str> (20_20) 	<m_str>his</m_str> (2_8) 	<m_str>he</m_str> (6_6) 	<m_str>he</m_str> (10_5) 	<m_str>his</m_str> (5_28) 	<m_str>His</m_str> (7_2) 	<m_str>His</m_str> (11_1) 	<br><blue>4(2)</blue>: <m_str>more scholarly work</m_str> (6_2) 	<m_str>His work</m_str> (7_2) 	<br><blue>5(4)</blue>: <m_str>the world</m_str> (8_7) 	<m_str>the world 's</m_str> (10_32) 	<m_str>the world 's</m_str> (4_7) 	<m_str>the world 's</m_str> (1_28) 	<br><blue>6(4)</blue>: <m_str>its</m_str> (9_24) 	<m_str>his life</m_str> (5_28) 	<m_str>its</m_str> (5_31) 	<m_str>his life</m_str> (1_10) 	<br><blue>7(1)</blue>: <m_str>India</m_str> (2_19) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

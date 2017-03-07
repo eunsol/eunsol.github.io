@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Fritz Haber, 86, Dies; Simulated Weightlessness of Space </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Fritz Haber , an aeronautical engineer who developed a way to simulate the gravity-free environment of space in the training of Apollo astronauts by flying a plane in a roller-coaster pattern , died on Aug. 21 at Norwalk Hospital in Norwalk , Conn . <br><blue>2</blue>Dr. Haber , one of the German scientists who were recruited after World War II to work on the American space program , was 86 and lived in Westport , Conn . <br><blue>3</blue>His technique for simulating zero-gravity was used in the movie '' Apollo 13 '' during scenes showing astronauts floating in an aircraft cabin , filled with terror and exhilaration . <br><blue>4</blue>The scenes were shot aboard a KC-135 NASA jet that would take deep plunges to reproduce for sustained periods the weightlessness that astronauts would come to know in their monthslong trips into space . <br><blue>5</blue>The future astronauts could walk on the ceiling , float inside the aircraft and feel euphoric -- and sometimes they became nauseated , which is why the training plane came to be known as the vomit comet . <br><blue>6</blue>Before and during World War II , Dr. Haber worked for Junkers Aircraft in Dessau , Germany , where he developed a way that a missile could be transported piggyback on another aircraft . <br><blue>7</blue>He had joined Junkers , one of Nazi Germany 's top aeronautics companies , soon after receiving a doctorate in technical engineering from the Technical University of Darmstadt . <br><blue>8</blue>Dr. Haber was born in Mannheim , Germany . <br><blue>9</blue>The war ended before his piggyback design could be used , but his idea was put to work by the National Aeronautics and Space Administration to carry the space shuttle on a modified Boeing 747 from its landing site in California back to the launching site in Florida . <br><blue>10</blue>Many scientists working in Dessau , in what would become East Germany , were enlisted in the Russian space program after the Russians occupied that region . <br><blue>11</blue>But Dr. Haber was in western Germany for the birth of a son and wound up in a zone controlled by the United States . <br><blue>12</blue>He later signed on with the United States space program , researching the effects of space travel on humans and animals . <br><blue>13</blue>In 1954 , he joined Avco Lycoming , a producer of rocket engines in Stratford , Conn . <br><blue>14</blue>There he and other German engineers produced some of the first gas turbine engines , including the T-53 , which was used mainly in the Bell UH-1 helicopter , known as the Huey . <br><blue>15</blue>He also became vice president for European operations . <br><blue>16</blue>He is survived by his wife , Gigi ; two sons , Jurgen , of Washington , and Jochen , of Encino , Calif. , and a grandson . <br><blue>17</blue>Dr. Haber 's first wife , Lisa , died in 1958 . <br><hr><br><blue>1(15)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (13_4) 	<m_str>Dr. Haber 's</m_str> (17_1) 	<m_str>his</m_str> (9_13) 	<m_str>Dr. Haber</m_str> (8_1) 	<m_str>He</m_str> (12_1) 	<m_str>Dr. Haber</m_str> (6_8) 	<m_str>he</m_str> (14_2) 	<m_str>He</m_str> (16_1) 	<m_str>His</m_str> (3_1) 	<m_str>his</m_str> (16_5) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (6_20) 	<m_str>his</m_str> (9_5) 	<m_str>Dr. Haber</m_str> (11_2) 	<br><blue>2(2)</blue>: <m_str>scenes showing astronauts floating in an aircraft cabin</m_str> (3_16) 	<m_str>The scenes</m_str> (4_1) 	<br><blue>3(2)</blue>: <m_str>World War II</m_str> (2_13) 	<m_str>World War II</m_str> (6_4) 	<br><blue>4(2)</blue>: <m_str>the United States</m_str> (11_22) 	<m_str>United States</m_str> (12_7) 	<br><blue>5(2)</blue>: <m_str>Dessau</m_str> (6_15) 	<m_str>Dessau</m_str> (10_5) 	<br><blue>6(2)</blue>: <m_str>their</m_str> (4_29) 	<m_str>that astronauts</m_str> (4_22) 	<br><blue>7(2)</blue>: <m_str>the American space program</m_str> (2_19) 	<m_str>the Russian space program</m_str> (10_17) 	<br><blue>8(3)</blue>: <m_str>Apollo astronauts</m_str> (1_22) 	<m_str>The future astronauts</m_str> (5_1) 	<m_str>they</m_str> (5_20) 	<br><blue>9(3)</blue>: <m_str>Junkers , one of Nazi Germany 's top aeronautics companies , soon after receiving a doctorate in technical engineering from the Technical University of Darmstadt</m_str> (7_4) 	<m_str>its</m_str> (9_37) 	<m_str>the National Aeronautics and Space Administration</m_str> (9_20) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

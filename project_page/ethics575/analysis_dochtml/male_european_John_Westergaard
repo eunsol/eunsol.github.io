@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>John Westergaard, 72, Dies; Founder of Mutual Fund </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>John Westergaard , a stock picker who built his career on the belief that small companies could richly reward investors who went looking for them , died on Jan. 31 at Calvary Hospice in the Bronx . <br><blue>2</blue>He was 72 . <br><blue>3</blue>The cause was prostate cancer , said his son , Emile Westergaard . <br><blue>4</blue>In addition to spending more than 40 years prospecting for undiscovered small company stocks , Mr. Westergaard served as treasurer for Daniel Patrick Moynihan from the earliest days of his political career through four Senate campaigns . <br><blue>5</blue>Mr. Westergaard started on Wall Street as an analyst for Standard &amp; Poor 's , the securities rating service , but in 1960 he opened a research firm with a friend , William Prime . <br><blue>6</blue>Their company , Equity Research Associates , offered analytical services to small brokerage firms that could not afford research departments . <br><blue>7</blue>The financial services industry was not consolidated then as it is today , and with hundreds of firms vying for business , few could afford to assign an analyst to researching small companies full time . <br><blue>8</blue>Equity Research Associates was eventually acquired by Ladenburg , Thalmann &amp; Company , a brokerage firm . <br><blue>9</blue>In the 1980 's , Mr. Westergaard founded the Westergaard Fund , a mutual fund that tried to carry out his ideas about finding emerging companies and investing shareholders ' money in them . <br><blue>10</blue>But the results were disappointing . <br><blue>11</blue>Stocks of small companies generally lagged the market during the bull market of the early and mid-1980 's , then crashed harder than the rest of the market in October 1987 . <br><blue>12</blue>Mr. Westergaard closed the fund that November . <br><blue>13</blue>He continued to publish research , however , first mailing his newsletter to subscribers , and later faxing it . <br><blue>14</blue>His descriptions of small companies were still able to move stock prices and trading volume . <br><blue>15</blue>As Mr. Westergaard 's publishing business grew , he eventually took it to the Internet , starting a Web site devoted to small company stocks . <br><blue>16</blue>He also was the host of an investment radio show , '' Johnny Dotcom 's Journal , '' where he interviewed executives of fledgling companies , and he offered a service to companies in which he tried to monitor electronic rumor mongers and to counteract the stories they spread . <br><blue>17</blue>Blending these various lines of work proved problematic . <br><blue>18</blue>In 1997 , Mr. Westergaard wound up in a heated online battle with a mysterious chat room visitor called Pluvia , who was leaving negative electronic postings about a financially troubled company Mr. Westergaard represented , Premier Laser . <br><blue>19</blue>Mr. Westergaard posted a $ 5,000 reward for Pluvia 's identity , touching off an online debate about free speech , the right to remain anonymous , and the propriety of Mr. Westergaard 's strategy , which called for companies to pay him fees for disseminating information about their prospects . <br><blue>20</blue>This came to the attention of the Securities and Exchange Commission , which in 2000 filed civil fraud charges against Mr. Westergaard . <br><hr><br><blue>1(2)</blue>: <m_str>small companies</m_str> (1_15) 	<m_str>them</m_str> (1_25) 	<br><blue>2(2)</blue>: <m_str>a friend , William Prime</m_str> (5_30) 	<m_str>Their</m_str> (6_1) 	<br><blue>3(2)</blue>: <m_str>their</m_str> (19_49) 	<m_str>companies</m_str> (19_40) 	<br><blue>4(2)</blue>: <m_str>they</m_str> (16_48) 	<m_str>electronic rumor mongers</m_str> (16_40) 	<br><blue>5(2)</blue>: <m_str>it</m_str> (7_10) 	<m_str>The financial services industry</m_str> (7_1) 	<br><blue>6(2)</blue>: <m_str>it</m_str> (13_19) 	<m_str>his newsletter</m_str> (13_11) 	<br><blue>7(2)</blue>: <m_str>Equity Research Associates</m_str> (8_1) 	<m_str>Equity Research Associates</m_str> (6_4) 	<br><blue>8(25)</blue>: <m_str>Mr. Westergaard 's</m_str> (15_2) 	<m_str>he</m_str> (15_9) 	<m_str>He</m_str> (16_1) 	<m_str>his</m_str> (1_9) 	<m_str>Mr. Westergaard</m_str> (9_6) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (16_20) 	<m_str>he</m_str> (16_28) 	<m_str>he</m_str> (16_36) 	<m_str>Mr. Westergaard</m_str> (18_4) 	<m_str>his</m_str> (3_8) 	<m_str>his son , Emile Westergaard</m_str> (3_8) 	<m_str>Mr. Westergaard</m_str> (19_1) 	<m_str>Mr. Westergaard</m_str> (12_1) 	<m_str>Mr. Westergaard</m_str> (18_33) 	<m_str>Mr. Westergaard</m_str> (4_16) 	<m_str>Mr. Westergaard</m_str> (5_1) 	<m_str>He</m_str> (13_1) 	<m_str>his</m_str> (4_30) 	<m_str>Mr. Westergaard 's</m_str> (19_32) 	<m_str>his</m_str> (13_11) 	<m_str>Mr. Westergaard</m_str> (20_21) 	<m_str>he</m_str> (5_24) 	<m_str>him</m_str> (19_43) 	<m_str>His</m_str> (14_1) 	<br><blue>9(2)</blue>: <m_str>Mr. Westergaard 's publishing business</m_str> (15_2) 	<m_str>it</m_str> (15_12) 	<br><blue>10(2)</blue>: <m_str>emerging companies</m_str> (9_25) 	<m_str>them</m_str> (9_33) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

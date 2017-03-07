@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Harry Guardino, 69, an Actor In Romantic and Gangster Roles </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Harry Guardino , the tough-talking actor who supported himself by working at odd jobs before establishing a career in movies and television and on the stage , died yesterday at Desert Hospital in Palm Springs , Calif . <br><blue>2</blue>He was 69 . <br><blue>3</blue>The cause was lung cancer , said Lee Snellings , Riverside County 's supervising deputy coroner . <br><blue>4</blue>Mr. Guardino co-starred with Cary Grant and Sophia Loren in " Houseboat , " the 1958 film for which he won the Foreign Critics ' Prize . <br><blue>5</blue>He won a Golden Globe nomination as best supporting actor for his role in " The Pigeon That Took Rome " in 1962 . <br><blue>6</blue>His other film credits include " Flesh and Fury " ( 1952 ) , " Pork Chop Hill " ( 1959 ) , " King of Kings " ( 1961 ) , " Hell Is for Heros " ( 1962 ) , " Madigan " ( 1968 ) ; " Lovers and Other Strangers " ( 1970 ) and " Dirty Harry " and " Red Sky at Morning , " both released in 1971 . <br><blue>7</blue>Mr. Guardino starred in the 1973-74 season of " Perry Mason " on CBS-TV , playing Hamilton Burger , the dogged but endlessly frustrated prosecutor , and he played a journalist in " The Reporter , " also on CBS , for one season in the 1960 's . <br><blue>8</blue>He also acted frequently in " Playhouse 90 " and " Alcoa Theater , " both live television dramatic series of the 1950 's , and in recent years was often seen in " Murder , She Wrote , " co-starring with Angela Lansbury . <br><blue>9</blue>In 1981 , Mr. Guardino starred with Lauren Bacall in the Broadway musical-comedy based on the 1942 movie " Woman of the Year , " in which Katharine Hepburn and Spencer Tracy co-starred . <br><blue>10</blue>" I love this show , " Mr. Guardino said at the time . <br><blue>11</blue>He enjoyed good reviews for his role as Miss Bacall 's leading man , and he also enjoyed an offstage romance with his co-star . <br><blue>12</blue>Mr. Guardino was born on Manhattan 's Lower East Side , grew up in Brooklyn and began acting at 12 in shows staged by the Police Athletic League . <br><blue>13</blue>He quit high school to help his parents and five siblings . <br><blue>14</blue>His first job was unloading flatcars for the New York Central Railroad . <br><blue>15</blue>He joined the Navy in World War II and , as a gunner 's mate , took part in the Iwo Jima and Okinawa campaigns . <br><blue>16</blue>After he was discharged he enrolled in New York 's Dramatic Workshop . <br><blue>17</blue>At various times , Mr. Guardino worked as a truck driver , house painter , carpenter , usher , diswasher and gas station attendant . <br><blue>18</blue>Surviving are his wife , Elyssa ; three sons , Michael of Los Angeles , and Paul and Gregory , both of Palm Springs ; a daughter , Michele , of San Diego ; two brothers , Joseph and Edward , of Los Angeles ; two sisters , Pauline Venditto of Banning , Calif. , and Adelaide Sacchi of Knoxville , Tenn. , and one grandson . <br><blue>19</blue>Correction : July 24 , 1995 , Monday An obituary of the actor Harry Guardino on Tuesday included an incorrect reference to Lauren Bacall in some editions . <br><blue>20</blue>She starred with Mr. Guardino in the 1981 musical comedy " Woman of the Year , " but it was Katharine Hepburn , not Ms. Bacall , who starred in the 1942 movie of the same name . <br><hr><br><blue>1(2)</blue>: <m_str>Los Angeles</m_str> (18_13) 	<m_str>Los Angeles</m_str> (18_43) 	<br><blue>2(1)</blue>: <m_str>July 24 , 1995 , Monday</m_str> (19_3) 	<br><blue>3(1)</blue>: <m_str>Tuesday</m_str> (19_17) 	<br><blue>4(2)</blue>: <m_str>his role</m_str> (5_12) 	<m_str>his role</m_str> (11_6) 	<br><blue>5(2)</blue>: <m_str>1962</m_str> (5_23) 	<m_str>1962</m_str> (6_40) 	<br><blue>6(5)</blue>: <m_str>Lauren Bacall</m_str> (9_8) 	<m_str>Miss Bacall 's</m_str> (11_9) 	<m_str>Katharine Hepburn</m_str> (9_28) 	<m_str>Katharine Hepburn , not Ms. Bacall , who starred in the 1942 movie of the same name</m_str> (20_21) 	<m_str>She</m_str> (8_37) 	<br><blue>7(1)</blue>: <m_str>An obituary of the actor Harry Guardino on Tuesday</m_str> (19_9) 	<br><blue>8(29)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (11_6) 	<m_str>Mr. Guardino</m_str> (4_1) 	<m_str>He</m_str> (8_1) 	<m_str>he</m_str> (11_16) 	<m_str>Mr. Guardino</m_str> (12_1) 	<m_str>his</m_str> (11_23) 	<m_str>he</m_str> (16_2) 	<m_str>the actor Harry Guardino on Tuesday</m_str> (19_12) 	<m_str>Harry Guardino , the tough-talking actor who supported himself by working at odd jobs before establishing a career in movies and television and on the stage</m_str> (1_1) 	<m_str>he</m_str> (7_28) 	<m_str>he</m_str> (16_5) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (4_20) 	<m_str>Mr. Guardino</m_str> (20_4) 	<m_str>himself</m_str> (1_9) 	<m_str>Mr. Guardino</m_str> (9_4) 	<m_str>He</m_str> (13_1) 	<m_str>his</m_str> (5_12) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (13_7) 	<m_str>His</m_str> (6_1) 	<m_str>Mr. Guardino</m_str> (17_5) 	<m_str>I</m_str> (10_2) 	<m_str>His</m_str> (14_1) 	<m_str>Mr. Guardino</m_str> (10_8) 	<m_str>his</m_str> (18_3) 	<m_str>Mr. Guardino</m_str> (7_1) 	<m_str>He</m_str> (11_1) 	<br><blue>9(1)</blue>: <m_str>an incorrect reference</m_str> (19_19) 	<br><blue>10(1)</blue>: <m_str>some editions</m_str> (19_26) 	<br><blue>11(1)</blue>: <m_str>the 1942 movie of the same name</m_str> (20_31) 	<br><blue>12(1)</blue>: <m_str>the same name</m_str> (20_35) 	<br><blue>13(1)</blue>: <m_str>She</m_str> (20_1) 	<br><blue>14(1)</blue>: <m_str>the 1981 musical comedy `` Woman of the Year</m_str> (20_7) 	<br><blue>15(1)</blue>: <m_str>the Year</m_str> (20_14) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

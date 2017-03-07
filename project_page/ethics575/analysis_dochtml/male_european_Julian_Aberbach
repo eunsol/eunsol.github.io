@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Julian Aberbach, Music Publisher, Dies at 95 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Julian J. Aberbach , who owned the publishing rights to Elvis Presley 's music and set up a music publishing system that revolutionized the rock and country music industries , died on Monday at Mount Sinai Hospital in Manhattan . <br><blue>2</blue>He was 95 and lived in Southampton , N.Y . <br><blue>3</blue>The cause was heart failure , Belinda Aberbach Stevenson Agar , his daughter , said . <br><blue>4</blue>In the 1950 's Mr. Aberbach and his brother Joachim Jean pioneered a method for recruiting musicians and publishing their works , laying the groundwork for today 's recording industry . <br><blue>5</blue>By creating a small subsidiary publishing company for individual artists who signed with the music publisher Hill &amp; Range , the company the brothers founded , the Aberbachs guaranteed artists a share of the profits and a more active roll in developing music . <br><blue>6</blue>( Jean Aberbach died in 1992 . ) <br><blue>7</blue>In Presley 's case , Elvis Presley Music evenly split domestic profits with Hill &amp; Range , encouraging Presley to recruit songwriters to furnish him with more music , thus furthering his business interests and career . <br><blue>8</blue>For artists the arrangement provided an unprecedented level of control . '' <br><blue>9</blue>I gave Elvis a check for $ 2,500 , an advance against the royalties of his stock ownership , '' Mr. Aberbach said in a 2002 interview with Billboard magazine . '' <br><blue>10</blue>And he promptly went to the Cadillac dealer and got a pink one . '' <br><blue>11</blue>Mr. Aberbach was an unlikely champion of country music . <br><blue>12</blue>He was born in Vienna in 1909 and eventually moved to Paris to start a music publishing company , which he abandoned after Hitler came to power . <br><blue>13</blue>In 1939 Mr. Aberbach fled Europe for the United States . <br><blue>14</blue>He saved enough money to send for his parents and bought them tickets to Cuba on board the St. Louis , a ship full of Jewish immigrants that was ultimately denied the right to land . <br><blue>15</blue>Mr. Aberbach waved to his parents from the Havana shoreline before the boat turned around , carrying his parents back to occupied Europe . <br><blue>16</blue>He followed them back in a plane and eventually took them to New York . <br><blue>17</blue>Mr. Aberbach joined the United States Army to return to Europe and fight the Nazis . <br><blue>18</blue>He trained in Spartanburg , S.C. , and received a commission in Fort Benning , Ga. , where he developed a love for country music . <br><blue>19</blue>After an honorable discharge , he returned to music publishing . <br><blue>20</blue>In 2000 he was inducted into the Songwriters Hall of Fame . <br><hr><br><blue>1(2)</blue>: <m_str>him</m_str> (7_25) 	<m_str>his</m_str> (7_32) 	<br><blue>2(21)</blue>: <m_str>Mr. Aberbach</m_str> (15_1) 	<m_str>his</m_str> (15_5) 	<m_str>he</m_str> (18_19) 	<m_str>he</m_str> (19_6) 	<m_str>the 1950 's Mr. Aberbach</m_str> (4_2) 	<m_str>his</m_str> (4_8) 	<m_str>He</m_str> (12_1) 	<m_str>Joachim Jean</m_str> (4_10) 	<m_str>his</m_str> (15_18) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (20_3) 	<m_str>he</m_str> (12_21) 	<m_str>Mr. Aberbach</m_str> (13_3) 	<m_str>Mr. Aberbach</m_str> (17_1) 	<m_str>Jean Aberbach</m_str> (6_2) 	<m_str>Mr. Aberbach</m_str> (9_21) 	<m_str>He</m_str> (14_1) 	<m_str>the Aberbachs</m_str> (5_27) 	<m_str>He</m_str> (18_1) 	<m_str>his</m_str> (14_8) 	<m_str>Mr. Aberbach</m_str> (11_1) 	<br><blue>3(5)</blue>: <m_str>his parents</m_str> (15_18) 	<m_str>them</m_str> (16_3) 	<m_str>his parents</m_str> (14_8) 	<m_str>them</m_str> (14_12) 	<m_str>them</m_str> (16_11) 	<br><blue>4(2)</blue>: <m_str>musicians</m_str> (4_17) 	<m_str>their</m_str> (4_20) 	<br><blue>5(2)</blue>: <m_str>Presley 's</m_str> (7_2) 	<m_str>Presley</m_str> (7_19) 	<br><blue>6(1)</blue>: <m_str>the United States</m_str> (13_8) 	<br><blue>7(6)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (9_16) 	<m_str>Elvis</m_str> (9_3) 	<m_str>he</m_str> (10_2) 	<m_str>Elvis Presley 's</m_str> (1_11) 	<m_str>his</m_str> (3_12) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

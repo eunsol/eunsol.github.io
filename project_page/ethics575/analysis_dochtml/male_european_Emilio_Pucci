@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Emilio Pucci, Designer of Bright Prints, Dies at 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Emilio Pucci , the Italian fashion designer whose brilliantly colored prints were an icon of the 1960 's , died Sunday morning in a nursing home in Florence . <br><blue>2</blue>He was 78 years old . <br><blue>3</blue>He died of a heart attack , said Pier Gabriele Bulli , director of the home . <br><blue>4</blue>Mr. Pucci , who was the Marchese di Barsento , was born in Naples , into an aristocratic Italian family . <br><blue>5</blue>He lived and worked in the Pucci Palace in Florence . <br><blue>6</blue>An enthusiastic sportsman who was on the Italian Olympic ski team in 1932 , he also raced cars and excelled in swimming , tennis and fencing . <br><blue>7</blue>His emergence as a fashion designer happened somewhat accidentally . <br><blue>8</blue>He was an Italian bomber pilot in World War II and he continued in the air force after the war , holding the rank of captain . <br><blue>9</blue>On leave in Switzerland in 1947 , he was spotted on the ski slopes by Toni Frissel , a photographer , who was impressed by the snugness of his ski garb , which was custom made of stretch fabrics . <br><blue>10</blue>Forefront of Italian Fashion When photographs of Mr. Pucci in his skisuit appeared in Harper 's Bazaar , he was besieged by American manufacturers who wanted to produce it . <br><blue>11</blue>He decided instead to market the ski clothes himself . <br><blue>12</blue>They were among the first styles made of stretch fabrics , and Lord &amp; Taylor was among the first to promote them . <br><blue>13</blue>By 1950 , Mr. Pucci was at the forefront of the fledgling Italian fashion industry . <br><blue>14</blue>His forte in the beginning was sports clothes , but he soon moved into other fashions , including brilliantly patterned silk scarves . <br><blue>15</blue>Encouraged by Stanley Marcus , one of the owners of Neiman-Marcus , he began making blouses and then dresses of the patterned material . <br><blue>16</blue>By the 1960 's , a dress in the distinctively patterned Pucci print , which used as many as 16 colors in a single design , was the uniform of fashionable women everywhere in the world . <br><blue>17</blue>Elizabeth Taylor , Lauren Bacall , Gina Lollobrigida and Jacqueline Kennedy Onassis were some of the women photographed in Pucci designs . <br><blue>18</blue>An Interest in Politics Two years ago there was a worldwide revival of the Pucci fashion . <br><blue>19</blue>Madonna , Monica Seles and Christie Brinkley are some of the women who have recently stopped into the Pucci boutique at 24 East 64th Steet in Manhattan , said Elizabeth Penberthy , the manager . <br><blue>20</blue>" Few designers peak twice in fashion , " Ms. Penberthy said . <br><hr><br><blue>1(2)</blue>: <m_str>it</m_str> (10_29) 	<m_str>Harper 's Bazaar</m_str> (10_15) 	<br><blue>2(6)</blue>: <m_str>Mr. Pucci</m_str> (13_4) 	<m_str>he</m_str> (15_13) 	<m_str>His</m_str> (14_1) 	<m_str>Mr. Pucci in his skisuit</m_str> (10_8) 	<m_str>he</m_str> (14_11) 	<m_str>the distinctively patterned Pucci</m_str> (16_9) 	<br><blue>3(2)</blue>: <m_str>Florence</m_str> (1_28) 	<m_str>Florence</m_str> (5_10) 	<br><blue>4(13)</blue>: <m_str>he</m_str> (9_8) 	<m_str>He</m_str> (2_1) 	<m_str>himself</m_str> (11_9) 	<m_str>He</m_str> (8_1) 	<m_str>He</m_str> (3_1) 	<m_str>he</m_str> (8_12) 	<m_str>he</m_str> (6_15) 	<m_str>his</m_str> (10_11) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (9_29) 	<m_str>His</m_str> (7_1) 	<m_str>He</m_str> (11_1) 	<m_str>he</m_str> (10_19) 	<br><blue>5(2)</blue>: <m_str>Elizabeth Penberthy , the manager</m_str> (19_30) 	<m_str>Ms. Penberthy</m_str> (20_10) 	<br><blue>6(2)</blue>: <m_str>Pucci</m_str> (17_20) 	<m_str>Pucci</m_str> (19_19) 	<br><blue>7(2)</blue>: <m_str>them</m_str> (12_22) 	<m_str>They</m_str> (12_1) 	<br><blue>8(1)</blue>: <m_str>a fashion designer</m_str> (7_4) 	<br><blue>9(2)</blue>: <m_str>the home</m_str> (3_15) 	<m_str>a nursing home in Florence</m_str> (1_24) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Malcolm Arnold, Prolific British Composer, Is Dead at 84 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Sir Malcolm Arnold , one of the best-known British composers of the 20th century , who wrote nine symphonies , composed 132 film scores and won an Oscar for the soundtrack to '' The Bridge on the River Kwai , '' died Saturday in Norwich , England . <br><blue>2</blue>He was 84 and lived in Attleborough , near Norwich . <br><blue>3</blue>Sir Malcolm 's death , confirmed by a spokesman at the Norfolk and Norwich University Hospital , came on the night of the premiere of '' The Three Musketeers , '' a new ballet based on his music , in Bradford , England . <br><blue>4</blue>The cause was widely reported as a chest infection . <br><blue>5</blue>Sir Malcolm had suffered from mild dementia for several years . <br><blue>6</blue>Sir Malcolm was one of the most popular British composers and was widely referred to as a neglected genius in his waning years , yet his works are seldom played in concert halls . <br><blue>7</blue>His music is deliberately tonal , melodic and sometimes witty . <br><blue>8</blue>He wrote it at a remarkable rate : at the height of his powers he composed six film scores a year in addition to other instrumental works , and he was said to have written '' The Bridge on the River Kwai '' in a matter of days ( 6 or 10 , depending on the source ) . <br><blue>9</blue>He is associated with the English musical tradition of Elgar and Holst , yet his brand of tonality was already unfashionable , even bizarrely so , when he was writing it . <br><blue>10</blue>And today , critical opinion remains divided as to whether his works show lasting genius or simply remarkable facility . <br><blue>11</blue>His association with supposedly lighter forms of music also rendered him suspect to the classical establishment in his lifetime . <br><blue>12</blue>His soundtracks included '' Hobson 's Choice '' ( 1954 ) , '' Inn of the Sixth Happiness '' ( 1958 ) and '' Whistle Down the Wind '' ( 1961 ) , and he reproved himself for turning down '' Lawrence of Arabia . '' <br><blue>13</blue>He wrote humorous pieces like '' A Grand , Grand Overture , '' which featured three vacuum cleaners and a floor polisher , and made gestures unconventional at the time , like working African and West Indian percussion instruments into his Fourth Symphony in sympathetic reaction to the 1958 race riots in the Notting Hill section of London . <br><blue>14</blue>In 1969 he conducted the Concerto for Group and Orchestra , which Jon Lord wrote for his band , Deep Purple . <br><blue>15</blue>None of this helped him gain acceptance in the classical mainstream , though as a crossover artist he was ahead of his time . <br><blue>16</blue>He was also known as a '' difficult man , '' words that reflected a life of extremes : a diagnosis of schizophrenia in his early 20 's ; heavy living , heavy drinking ; and mental breakdowns so devastating he was institutionalized several times and had a range of treatments that may or may not have included a lobotomy . <br><blue>17</blue>Malcolm Arnold was born in Northampton , England . <br><blue>18</blue>He began studying composition as a child , but his first musical love was the trumpet , which he took up after hearing Louis Armstrong play when he was 12 . <br><blue>19</blue>He played so well that he began appearing with professional orchestras while still a student at the Royal College of Music . <br><blue>20</blue>He volunteered for military service in 1944 but hated it so much that he shot himself in the foot to get out of it , returning to civilian life and the first trumpet chair of the London Philharmonic . <br><hr><br><blue>1(2)</blue>: <m_str>Norwich</m_str> (2_10) 	<m_str>Norwich</m_str> (1_45) 	<br><blue>2(2)</blue>: <m_str>the River Kwai</m_str> (8_40) 	<m_str>the River Kwai</m_str> (1_37) 	<br><blue>3(2)</blue>: <m_str>his works</m_str> (6_26) 	<m_str>his works</m_str> (10_11) 	<br><blue>4(3)</blue>: <m_str>his music</m_str> (3_37) 	<m_str>His music</m_str> (7_1) 	<m_str>it</m_str> (8_3) 	<br><blue>5(2)</blue>: <m_str>it</m_str> (9_31) 	<m_str>tonality</m_str> (9_18) 	<br><blue>6(8)</blue>: <m_str>he</m_str> (15_18) 	<m_str>He</m_str> (16_1) 	<m_str>him</m_str> (15_5) 	<m_str>his</m_str> (15_22) 	<m_str>his</m_str> (16_25) 	<m_str>he</m_str> (16_41) 	<m_str>Jon Lord</m_str> (14_13) 	<m_str>his</m_str> (14_17) 	<br><blue>7(1)</blue>: <m_str>Northampton</m_str> (17_6) 	<br><blue>8(2)</blue>: <m_str>his waning years</m_str> (6_21) 	<m_str>several years</m_str> (5_9) 	<br><blue>9(36)</blue>: <m_str>his</m_str> (6_26) 	<m_str>his</m_str> (13_41) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (8_13) 	<m_str>he</m_str> (8_15) 	<m_str>He</m_str> (9_1) 	<m_str>He</m_str> (2_1) 	<m_str>Malcolm Arnold</m_str> (17_1) 	<m_str>he</m_str> (8_30) 	<m_str>his</m_str> (9_15) 	<m_str>He</m_str> (18_1) 	<m_str>Sir Malcolm 's</m_str> (3_1) 	<m_str>he</m_str> (9_28) 	<m_str>his</m_str> (10_11) 	<m_str>His</m_str> (11_1) 	<m_str>his</m_str> (18_10) 	<m_str>He</m_str> (19_1) 	<m_str>he</m_str> (18_19) 	<m_str>him</m_str> (11_11) 	<m_str>he</m_str> (19_6) 	<m_str>his</m_str> (11_18) 	<m_str>His</m_str> (12_1) 	<m_str>he</m_str> (18_28) 	<m_str>He</m_str> (20_1) 	<m_str>Sir Malcolm</m_str> (5_1) 	<m_str>his</m_str> (3_37) 	<m_str>He</m_str> (13_1) 	<m_str>he</m_str> (20_14) 	<m_str>himself</m_str> (20_16) 	<m_str>Sir Malcolm</m_str> (6_1) 	<m_str>he</m_str> (12_35) 	<m_str>himself</m_str> (12_37) 	<m_str>he</m_str> (14_3) 	<m_str>Lawrence</m_str> (12_42) 	<m_str>His</m_str> (7_1) 	<m_str>his</m_str> (6_21) 	<br><blue>10(2)</blue>: <m_str>1958</m_str> (12_21) 	<m_str>1958</m_str> (13_49) 	<br><blue>11(3)</blue>: <m_str>military service</m_str> (20_4) 	<m_str>it</m_str> (20_24) 	<m_str>it</m_str> (20_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

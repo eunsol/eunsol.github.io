@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>John Buscema, 74, Who Drew Classic Comic Book Characters </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>John Buscema , a comic book artist known for his robust renditions of characters like the Silver Surfer and Conan the Barbarian , died on Jan. 10 . <br><blue>2</blue>He was 74 and lived in Port Jefferson , N.Y . <br><blue>3</blue>The cause was stomach cancer , said his son , John Buscema Jr . <br><blue>4</blue>Mr. Buscema 's most popular character was Conan the Barbarian , adapted from the pulp-fiction stories by Robert E. Howard . <br><blue>5</blue>He drew the character for more than 25 years in comic books , magazines and a newspaper strip . <br><blue>6</blue>One of his best remembered series featured the Silver Surfer , a noble , silvery-skinned creature of the cosmos confined to Earth . <br><blue>7</blue>The cover of the first issue of the comic book featuring this character was auctioned on the Internet for $ 40,000 . <br><blue>8</blue>Though Mr. Buscema drew many of Marvel 's superheroes , he preferred noncostumed characters . '' <br><blue>9</blue>I really have a hard time relating to characters who fly or crash through buildings , '' he told one interviewer . '' <br><blue>10</blue>I love to read about the lives of famous artists , and I think it would be fantastic to do a comic adaptation of , let 's say , Vincent van Gogh 's life . '' <br><blue>11</blue>Mr. Buscema brought the fine arts skills of an earlier generation of comic strip illustrators to the action-packed world of comic books . <br><blue>12</blue>His brawny , athletic style combined the lush romanticism of Alex Raymond 's '' Flash Gordon , '' the rippling anatomy of Burne Hogarth 's '' Tarzan '' and the historical fantasy of Hal Foster 's '' Prince Valiant . '' <br><blue>13</blue>Born in Brooklyn on Dec. 11 , 1927 , Mr. Buscema studied fine art at the High School of Music and Art in Manhattan and took life drawing at the Pratt Institute . <br><blue>14</blue>His densely muscled superheroes and use of foreshortening reflect his study of the old masters , particularly Michelangelo . <br><blue>15</blue>Mr. Buscema began his career in comics in 1948 by answering a help-wanted ad for a cartoonist at The New York Times . <br><blue>16</blue>He went to work for Stan Lee at Timely Comics , the forerunner of Marvel Comics , on the 14th floor of the Empire State Building in a bullpen with other comic book luminaries , including Bill Everett , the creator of the Sub-Mariner , and Dan DeCarlo , who became the chief artist at Archie Comics . <br><blue>17</blue>After leaving for a career in commercial art , Mr. Buscema returned to Marvel in 1966 , when he learned how to do layouts and tell a story visually by studying the style of Marvel 's lead artist , Jack Kirby . <br><blue>18</blue>When Mr. Kirby left for the rival DC Comics in 1970 , Mr. Buscema inherited the titles of Thor and the Fantastic Four and was influential in setting the new house style for other artists , including his brother Sal Buscema , who also drew for Marvel . <br><blue>19</blue>He had recently completed a Superman comic with Mr. Lee for DC , and was working on sequels at the time of his death . <br><blue>20</blue>His books include '' How to Draw Comics the Marvel Way '' and '' The John Buscema Sketchbook . '' <br><hr><br><blue>1(3)</blue>: <m_str>Marvel</m_str> (18_47) 	<m_str>Marvel 's</m_str> (17_35) 	<m_str>Marvel 's</m_str> (8_7) 	<br><blue>2(2)</blue>: <m_str>comic books</m_str> (5_11) 	<m_str>His books</m_str> (20_1) 	<br><blue>3(27)</blue>: <m_str>Mr. Buscema</m_str> (18_13) 	<m_str>Mr. Buscema</m_str> (15_1) 	<m_str>his</m_str> (15_4) 	<m_str>He</m_str> (19_1) 	<m_str>Mr. Buscema 's</m_str> (4_1) 	<m_str>Mr. Buscema</m_str> (8_2) 	<m_str>His</m_str> (12_1) 	<m_str>the Barbarian</m_str> (4_9) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (8_11) 	<m_str>His</m_str> (20_1) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (18_38) 	<m_str>his</m_str> (19_23) 	<m_str>his</m_str> (1_10) 	<m_str>the Silver Surfer</m_str> (1_16) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Buscema</m_str> (13_10) 	<m_str>his</m_str> (6_3) 	<m_str>he</m_str> (9_18) 	<m_str>Mr. Buscema</m_str> (17_10) 	<m_str>His</m_str> (14_1) 	<m_str>he</m_str> (17_19) 	<m_str>his</m_str> (14_10) 	<m_str>his</m_str> (3_8) 	<m_str>his son , John Buscema Jr.</m_str> (3_8) 	<m_str>Mr. Buscema</m_str> (11_1) 	<br><blue>4(1)</blue>: <m_str>N.Y.</m_str> (2_10) 	<br><blue>5(2)</blue>: <m_str>Archie Comics</m_str> (16_56) 	<m_str>DC Comics</m_str> (18_8) 	<br><blue>6(2)</blue>: <m_str>Stan Lee</m_str> (16_6) 	<m_str>Mr. Lee for DC</m_str> (19_9) 	<br><blue>7(3)</blue>: <m_str>this character</m_str> (7_12) 	<m_str>the character</m_str> (5_3) 	<m_str>Mr. Buscema 's most popular character</m_str> (4_1) 	<br><blue>8(3)</blue>: <m_str>I</m_str> (10_13) 	<m_str>I</m_str> (9_1) 	<m_str>I</m_str> (10_1) 	<br><blue>9(2)</blue>: <m_str>the style of Marvel 's lead artist , Jack Kirby</m_str> (17_32) 	<m_str>the new house style</m_str> (18_29) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

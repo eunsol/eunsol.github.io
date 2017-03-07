@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Danilo Dolci, Vivid Voice Of Sicily's Poor, Dies at 73 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Danilo Dolci , an advocate of nonviolent social reform whose writings and poetry chronicled Sicily 's beauty and sense of despair , died today in a hospital in Sicily of heart failure . <br><blue>2</blue>He was 73 . <br><blue>3</blue>Mr. Dolci , who suffered from diabetes and was debilitated recently by pneumonia after a visit to China , had used a wheelchair in recent months . <br><blue>4</blue>A labor organizer , Mr. Dolci lived and worked in rural western Sicily for more than four decades , employing nonviolent methods to campaign for jobs and the transfer of water rights from the Mafia to farmers ' collectives that twice earned him nominations for the Nobel Peace Prize , in 1965 and 1982 . <br><blue>5</blue>The Western news media made a romantic figure of Mr. Dolci , calling him the Sicilian Gandhi , and scholars and writers from many countries flocked to the small research center he set up in the village of Partinico , near Palermo , to learn from his methods . <br><blue>6</blue>A prolific writer of prose and poetry , he has also been called by literary critics the Studs Terkel of Sicily , although Mr. Dolci was the first of the two to chronicle the lives of workers . <br><blue>7</blue>The most striking of his many books include collections of interviews with Sicilian peasants , fishermen , priests and street cleaners that document not only the beauty but also the heartbreak of their lives . <br><blue>8</blue>Though not a member of a political party , Mr. Dolci was a darling of the European left . <br><blue>9</blue>The president of the Italian Chamber of Deputies , Luciano Violante , a leader of the Democratic Party of the Left , a formerly Communist group , praised him today for his '' courageous passion , and deep sense of social justice . '' <br><blue>10</blue>Born near Trieste of a Sicilian father and Slovenian mother , Mr. Dolci studied architecture in Switzerland before going to live in Sicily in 1952 , when he was 28 . <br><blue>11</blue>At first limiting his activities to the fishing village of Trappeto , where he lived with his father , a railway stationmaster , he borrowed from Gandhi the technique of fasting as a political weapon and developed other unorthodox tactics . <br><blue>12</blue>One of these was the '' strike in reverse , '' which consisted of launching unauthorized public works projects for the poor and unemployed . <br><blue>13</blue>Struggling against local racketeers and the Mafia , Mr. Dolci taught school , organized farmers ' and craftsmen 's cooperatives , and agitated for bridges and dams to aid transport and irrigate the land . <br><blue>14</blue>It remained something of mystery why Mr. Dolci was left in relative tranquillity by the Mafia , with his supporters suggesting that the Mafia feared a backlash if any harm befell such a popular figure . <br><blue>15</blue>In 1958 , after he dispatched 150 unemployed men to repair a dirt road outside Partinico , he was arrested , convicted on trumped-up charges and sentenced to eight months in jail . <br><blue>16</blue>A year earlier , Moscow had awarded him the $ 30,000 Lenin Peace Prize . <br><blue>17</blue>Mr. Dolci accepted , but in a characteristic statement of independence affirmed he was not a Communist but would accept money from whatever source . <br><blue>18</blue>In 1967 , long before the decisive rending of the links between Sicilian politics and the Mafia in the 1990 's , Mr. Dolci began attacking leaders of the governing Christian Democratic Party by name , accusing them of collusion with organized crime . <br><blue>19</blue>He was convicted of libel and sentenced to two years in jail . <br><blue>20</blue>About that time Mr. Dolci began broadcasting his social creed over a private radio station , thus violating the Government 's monopoly of the airwaves . <br><hr><br><blue>1(3)</blue>: <m_str>Sicilian</m_str> (10_6) 	<m_str>Sicilian</m_str> (7_13) 	<m_str>Sicilian</m_str> (18_13) 	<br><blue>2(1)</blue>: <m_str>Palermo</m_str> (5_42) 	<br><blue>3(4)</blue>: <m_str>Sicily 's</m_str> (1_15) 	<m_str>Sicily</m_str> (10_23) 	<m_str>Sicily</m_str> (6_21) 	<m_str>Sicily</m_str> (1_29) 	<br><blue>4(1)</blue>: <m_str>trumped-up charges</m_str> (15_24) 	<br><blue>5(2)</blue>: <m_str>a Sicilian father</m_str> (10_5) 	<m_str>his father , a railway stationmaster</m_str> (11_17) 	<br><blue>6(2)</blue>: <m_str>them</m_str> (18_38) 	<m_str>attacking leaders of the governing Christian</m_str> (18_26) 	<br><blue>7(30)</blue>: <m_str>his</m_str> (14_19) 	<m_str>his</m_str> (5_47) 	<m_str>he</m_str> (15_5) 	<m_str>He</m_str> (19_1) 	<m_str>he</m_str> (10_28) 	<m_str>he</m_str> (11_14) 	<m_str>Mr. Dolci</m_str> (18_23) 	<m_str>his</m_str> (11_17) 	<m_str>he</m_str> (15_18) 	<m_str>Mr. Dolci</m_str> (8_10) 	<m_str>he</m_str> (11_24) 	<m_str>him</m_str> (16_8) 	<m_str>Mr. Dolci</m_str> (20_4) 	<m_str>his</m_str> (20_8) 	<m_str>Mr. Dolci</m_str> (5_10) 	<m_str>He</m_str> (2_1) 	<m_str>him</m_str> (5_14) 	<m_str>Mr. Dolci accepted , but in a characteristic statement of independence</m_str> (17_1) 	<m_str>Mr. Dolci</m_str> (13_9) 	<m_str>he</m_str> (17_13) 	<m_str>him</m_str> (4_43) 	<m_str>he</m_str> (6_9) 	<m_str>he</m_str> (5_32) 	<m_str>him</m_str> (9_29) 	<m_str>Mr. Dolci</m_str> (14_7) 	<m_str>Mr. Dolci</m_str> (10_12) 	<m_str>his</m_str> (9_32) 	<m_str>his</m_str> (7_5) 	<m_str>Mr. Dolci</m_str> (6_24) 	<m_str>his</m_str> (11_4) 	<br><blue>8(1)</blue>: <m_str>a private radio station</m_str> (20_12) 	<br><blue>9(2)</blue>: <m_str>Partinico</m_str> (5_39) 	<m_str>Partinico</m_str> (15_16) 	<br><blue>10(5)</blue>: <m_str>the Mafia in the 1990 's , Mr. Dolci</m_str> (18_16) 	<m_str>the Mafia</m_str> (13_6) 	<m_str>the Mafia</m_str> (14_23) 	<m_str>the Mafia</m_str> (4_34) 	<m_str>the Mafia</m_str> (14_15) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

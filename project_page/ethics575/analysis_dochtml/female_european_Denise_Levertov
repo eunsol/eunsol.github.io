@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Denise Levertov, Poet and Political Activist, Dies at 74 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Denise Levertov , a poet of intense emotion and fervid political conviction , died on Saturday at the Swedish Hospital in Seattle , where she lived . <br><blue>2</blue>She was 74 . <br><blue>3</blue>The cause was complications from lymphoma , said Griselda Ohannessian of New Directions , Ms. Levertov 's publisher . <br><blue>4</blue>As a poet and political activist , Ms. Levertov was '' a touchstone , a maintainer for our generation , '' the poet Robert Creeley , one of her first publishers in the United States , said yesterday . '' <br><blue>5</blue>She was a constantly defining presence in the world we shared , a remarkable and transforming poet for all of us . <br><blue>6</blue>She always had a vivid emotional response and also a completely dedicated sense of political and social need . '' <br><blue>7</blue>The poet Kenneth Rexroth once wrote that Ms. Levertov was '' the most subtly skillful poet of her generation , the most profound , the most modest , the most moving . '' <br><blue>8</blue>In the tradition established by William Carlos Williams , she wrote with a concrete immediacy of language . <br><blue>9</blue>She spoke directly through her poetry , favoring commonplace objects and images over large philosophical concepts . <br><blue>10</blue>The author of more than 30 books of poetry , essays and translations , she wrote with great particularity and sensitivity about aspects of love , spiritual as well as erotic . <br><blue>11</blue>More and more , her work conveyed her political awareness and social consciousness . <br><blue>12</blue>She was , as in the title of her first book of essays , '' The Poet in the World . '' <br><blue>13</blue>At the same time , in her art she would contemplate her own life , writing confessional poems about her marital and familial problems . <br><blue>14</blue>For her , content and form were '' in a dynamic state of interaction . '' <br><blue>15</blue>In '' The Ache of Marriage , '' she wrote : The ache of marriage : thigh and tongue , beloved , are heavy with it , it throbs in the teeth We look for communion and are turned away , beloved , each and each It is leviathan and we in its belly looking for joy , some joy not to be known outside it two by two in the ark of the ache of it . <br><blue>16</blue>And in '' Of Being , '' she wrote : I know this happiness is provisional : the looming presences -- great suffering , great fear -- withdraw only into peripheral vision : but ineluctable this shimmering of wind in the blue leaves : this flood of stillness widening the lake of sky : this need to dance , this need to kneel : this mystery : A defining moment of her life was the Vietnam War . <br><blue>17</blue>She helped found a group called the Writers ' and Artists ' Protest Against the War in Vietnam , she was actively involved in the anti-nuclear movement , and in 1967 she edited a volume of poetry for the War Resisters League . <br><blue>18</blue>In the same year , she published '' The Sorrow Dance , '' a book of poems whose sorrow included the war and also the death of the poet 's sister . <br><blue>19</blue>Ms. Levertov was born in Ilford , England . <br><blue>20</blue>Her father was Paul Philip Levertoff , a Russian Jew who converted to Christianity and became an Anglican priest . <br><hr><br><blue>1(3)</blue>: <m_str>our</m_str> (4_18) 	<m_str>us</m_str> (5_21) 	<m_str>we</m_str> (5_10) 	<br><blue>2(2)</blue>: <m_str>The Poet</m_str> (12_16) 	<m_str>the poet 's</m_str> (18_28) 	<br><blue>3(1)</blue>: <m_str>Vietnam</m_str> (17_18) 	<br><blue>4(1)</blue>: <m_str>the poet 's sister</m_str> (18_28) 	<br><blue>5(3)</blue>: <m_str>Denise Levertov , a poet of intense emotion and fervid political conviction</m_str> (1_1) 	<m_str>She</m_str> (2_1) 	<m_str>she</m_str> (1_25) 	<br><blue>6(1)</blue>: <m_str>Seattle</m_str> (1_22) 	<br><blue>7(2)</blue>: <m_str>it</m_str> (15_26) 	<m_str>The ache of marriage</m_str> (15_12) 	<br><blue>8(1)</blue>: <m_str>her poetry</m_str> (9_5) 	<br><blue>9(31)</blue>: <m_str>Ms. Levertov</m_str> (7_8) 	<m_str>she</m_str> (15_9) 	<m_str>her</m_str> (7_18) 	<m_str>she</m_str> (8_10) 	<m_str>she</m_str> (16_8) 	<m_str>She</m_str> (9_1) 	<m_str>I</m_str> (16_11) 	<m_str>her</m_str> (9_5) 	<m_str>She</m_str> (17_1) 	<m_str>she</m_str> (17_20) 	<m_str>she</m_str> (18_6) 	<m_str>she</m_str> (10_15) 	<m_str>her</m_str> (11_5) 	<m_str>she</m_str> (17_32) 	<m_str>Ms. Levertov 's</m_str> (3_15) 	<m_str>her</m_str> (11_8) 	<m_str>Ms. Levertov</m_str> (19_1) 	<m_str>Ms. Levertov</m_str> (4_8) 	<m_str>She</m_str> (12_1) 	<m_str>her</m_str> (12_9) 	<m_str>Her</m_str> (20_1) 	<m_str>She</m_str> (5_1) 	<m_str>her</m_str> (16_72) 	<m_str>her</m_str> (4_29) 	<m_str>her</m_str> (13_7) 	<m_str>she</m_str> (13_9) 	<m_str>She</m_str> (6_1) 	<m_str>her</m_str> (13_12) 	<m_str>her</m_str> (14_2) 	<m_str>her</m_str> (13_20) 	<m_str>The poet Kenneth Rexroth</m_str> (7_1) 	<br><blue>10(2)</blue>: <m_str>We</m_str> (15_33) 	<m_str>we</m_str> (15_51) 	<br><blue>11(3)</blue>: <m_str>communion</m_str> (15_36) 	<m_str>its</m_str> (15_53) 	<m_str>It</m_str> (15_47) 	<br><blue>12(1)</blue>: <m_str>Her father</m_str> (20_1) 	<br><blue>13(3)</blue>: <m_str>it</m_str> (15_66) 	<m_str>The Ache</m_str> (15_3) 	<m_str>it</m_str> (15_77) 	<br><blue>14(1)</blue>: <m_str>the Vietnam War</m_str> (16_75) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

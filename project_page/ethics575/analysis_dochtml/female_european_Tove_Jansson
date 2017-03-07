@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Tove Jansson, Who Created Universe of Trolls, Dies at 86 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Tove Jansson , a Finnish author and artist whose tales for children about a family of trolls called the Moomins have been popular in many countries , died on June 27 in Helsinki . <br><blue>2</blue>She was 86 and lived much of her later life on a rocky Finnish island . <br><blue>3</blue>As the German magazine Der Spiegel recalled : '' When she was 15 , an uncle threatened her with the Moomin troll , who he said lurked at night in the pantry . <br><blue>4</blue>But the imaginative Finnish girl did not let herself be intimidated . '' <br><blue>5</blue>Ms. Jansson went on to invent her own Moomins , who dwell in the Moominvalley . <br><blue>6</blue>They are cartoon characters : tubby , torpid , lazy and fond of sleep . <br><blue>7</blue>They are also prepared for adventure , which they have lots of . <br><blue>8</blue>Her first Moomin book to be translated into English , under the title '' Comet in Moominland , '' was published in Swedish in 1945 . <br><blue>9</blue>It is about the Moomins ' efforts to protect themselves from a comet , and it was called '' a gentle , offbeat fantasy '' by The Horn Book , a Boston-based journal of reviews and essays about children 's books . <br><blue>10</blue>The Moomin books have been translated into more than 30 languages , including Lithuanian , Persian , Welsh and Korean . <br><blue>11</blue>Ms. Jansson wrote eight novels and four picture books about the Moomins that came out between 1945 and 1970 . <br><blue>12</blue>The trolls ' charm has proved durable and has also enthralled adults . <br><blue>13</blue>Publishers Weekly said the book '' Moominland Midwinter , '' about one Moomin 's roving while others hibernate , would '' hook readers of all ages . '' <br><blue>14</blue>( It was first published in English in 1958 . ) <br><blue>15</blue>When Ms. Jansson 's '' Moominsummer Madness , '' in which the Moomins are threatened by floodwaters , came out in the United States in 1961 , Pamela Marsh wrote in The New York Times Book Review that Ms. Jansson had created '' an entirely new world full of cheery dauntless little creatures . '' <br><blue>16</blue>Farrar , Straus &amp; Giroux began reissuing the Moomin books in 1989 and has seven Moomin novels , all with black-and-white illustrations by Ms. Jansson , in print . <br><blue>17</blue>In 1992 Alison Lurie said in The New York Review of Books that '' Jansson 's simple language , comic gift and down-to-earth relation of odd events '' were reminiscent of writing by A. A. Milne , who wrote '' Winnie-the-Pooh . '' <br><blue>18</blue>The Moomins became so popular that demand grew for spinoff products . <br><blue>19</blue>Ms. Jansson recalled in 1963 , '' I made designs for wallpapers , paper dolls , ceramics , chocolates , candles , cloths , curtains , towels , pens , records , jewelry , postcards and I do n't know what all . '' <br><blue>20</blue>The Moomins have also appeared in comic strips and on postage stamps . <br><hr><br><blue>1(2)</blue>: <m_str>the Moomin books</m_str> (16_8) 	<m_str>The Moomin books</m_str> (10_1) 	<br><blue>2(1)</blue>: <m_str>Swedish</m_str> (8_23) 	<br><blue>3(2)</blue>: <m_str>an uncle</m_str> (3_15) 	<m_str>he</m_str> (3_25) 	<br><blue>4(3)</blue>: <m_str>they</m_str> (7_9) 	<m_str>They</m_str> (6_1) 	<m_str>They</m_str> (7_1) 	<br><blue>5(2)</blue>: <m_str>English</m_str> (8_9) 	<m_str>English</m_str> (14_7) 	<br><blue>6(2)</blue>: <m_str>It</m_str> (14_2) 	<m_str>Publishers Weekly</m_str> (13_1) 	<br><blue>7(2)</blue>: <m_str>trolls</m_str> (1_17) 	<m_str>The trolls '</m_str> (12_1) 	<br><blue>8(8)</blue>: <m_str>themselves</m_str> (9_10) 	<m_str>The Moomins</m_str> (18_1) 	<m_str>the Moomins</m_str> (1_19) 	<m_str>The Moomins</m_str> (20_1) 	<m_str>the Moomins that came out between 1945 and 1970</m_str> (11_11) 	<m_str>it</m_str> (9_16) 	<m_str>the Moomins</m_str> (15_12) 	<m_str>the Moomins '</m_str> (9_4) 	<br><blue>9(16)</blue>: <m_str>Jansson 's</m_str> (15_3) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (3_18) 	<m_str>Ms. Jansson</m_str> (19_1) 	<m_str>Ms. Jansson</m_str> (15_39) 	<m_str>I</m_str> (19_37) 	<m_str>Her</m_str> (8_1) 	<m_str>Ms. Jansson</m_str> (16_24) 	<m_str>her</m_str> (2_8) 	<m_str>I</m_str> (19_8) 	<m_str>herself</m_str> (4_9) 	<m_str>Jansson 's</m_str> (17_15) 	<m_str>Ms. Jansson</m_str> (5_1) 	<m_str>her</m_str> (5_7) 	<m_str>Ms. Jansson</m_str> (11_1) 	<m_str>she</m_str> (3_11) 	<br><blue>10(1)</blue>: <m_str>Helsinki</m_str> (1_33) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

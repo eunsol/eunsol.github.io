@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Julian Allen, 55, Illustrator; Worked for Many Periodicals </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Julian Allen , an illustrator best known for realistic visual essays on contemporary subjects like the Watergate scandal , the Israeli raid to free hostages at the airport in Entebbe , Uganda , and the gangs of the South Bronx , died on Monday at a hospice in Baltimore . <br><blue>2</blue>He was 55 and lived in Baltimore . <br><blue>3</blue>The cause was non-Hodgkin 's lymphoma , his wife , Victoria , said . <br><blue>4</blue>Mr. Allen collaborated with the writer Bruce Wagner on the noir comic strip '' Wild Palms , '' which appeared in Details magazine and became a network television miniseries produced by Oliver Stone . <br><blue>5</blue>In 1994 , he was commissioned by the United States Postal Service to create a series of stamps featuring blues singers . <br><blue>6</blue>Mr. Allen was a freelance illustrator for the British periodicals Radio Times and The Sunday Times of London , when he was hired as a staff artist by New York magazine to illustrate events related to the Watergate matter . <br><blue>7</blue>Drawing from testimony , he created pictures depicting President Richard M. Nixon 's meetings with indicted White House aides . <br><blue>8</blue>In addition , his illustrations accompanying H. R. Haldeman 's 1978 account of Watergate that was published in Newsweek , including one showing a distraught President Nixon sipping coffee in a Washington coffee shop where he used to secretly take refuge , provided a dimension to the scandal that captured wide attention . <br><blue>9</blue>During the 1973 Arab-Israeli war , Mr. Allen was sent by New York magazine with the writer Nora Ephron to cover the campaign in the Sinai desert . <br><blue>10</blue>While sketching his observations , he was wounded in the leg . <br><blue>11</blue>From his hospital bed he drew a series of portraits of wounded Israeli and Arab soldiers for the magazine . <br><blue>12</blue>In 1976 , he was assigned by New York magazine to depict the attack on Entebbe Airport in Uganda by Israeli commandos whose mission was to free hostages held by terrorists . <br><blue>13</blue>Mr. Allen was born in Cambridge , England , in 1942 , and studied at the Central College of Art in London . <br><blue>14</blue>His work has appeared in many books , magazines and newspapers on both sides of the Atlantic , including Queen , Town , Nova , Esquire , The Observer , The Sunday Times of London and various sections of The New York Times , including the magazine , the Book Review , the Arts &amp; Leisure section and the Op-Ed page . <br><blue>15</blue>He taught editorial illustration at Parson 's School of Design in New York for more than 20 years . <br><blue>16</blue>In 1996 he became chairman of the Illustration Department at the Maryland Institute , College of Art in Baltimore . <br><blue>17</blue>In addition to his wife , he is survived by two children from previous marriages , a daughter , Holly of Claverack , N.Y. , and a son , Rubin of London ; his mother , Joan Scutt , and a brother Geoff , both of London . <br><hr><br><blue>1(2)</blue>: <m_str>his</m_str> (17_34) 	<m_str>Rubin of London</m_str> (17_30) 	<br><blue>2(3)</blue>: <m_str>London</m_str> (17_47) 	<m_str>London</m_str> (17_32) 	<m_str>London</m_str> (13_22) 	<br><blue>3(2)</blue>: <m_str>President Richard M. Nixon 's</m_str> (7_9) 	<m_str>a distraught President Nixon</m_str> (8_24) 	<br><blue>4(4)</blue>: <m_str>New York magazine</m_str> (6_29) 	<m_str>New York magazine</m_str> (12_8) 	<m_str>New York magazine</m_str> (9_12) 	<m_str>the magazine</m_str> (11_18) 	<br><blue>5(2)</blue>: <m_str>the airport in Entebbe , Uganda</m_str> (1_27) 	<m_str>Entebbe Airport in Uganda</m_str> (12_16) 	<br><blue>6(4)</blue>: <m_str>New York</m_str> (6_29) 	<m_str>New York</m_str> (12_8) 	<m_str>New York</m_str> (9_12) 	<m_str>New York</m_str> (15_12) 	<br><blue>7(20)</blue>: <m_str>he</m_str> (11_5) 	<m_str>He</m_str> (15_1) 	<m_str>Mr. Allen</m_str> (9_7) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (17_4) 	<m_str>Mr. Allen</m_str> (4_1) 	<m_str>Mr. Allen</m_str> (6_1) 	<m_str>he</m_str> (17_7) 	<m_str>his</m_str> (8_4) 	<m_str>he</m_str> (8_36) 	<m_str>his</m_str> (10_3) 	<m_str>His</m_str> (14_1) 	<m_str>he</m_str> (10_6) 	<m_str>he</m_str> (12_4) 	<m_str>he</m_str> (16_3) 	<m_str>he</m_str> (5_4) 	<m_str>he</m_str> (6_21) 	<m_str>he</m_str> (7_5) 	<m_str>his</m_str> (11_2) 	<m_str>Mr. Allen</m_str> (13_1) 	<br><blue>8(2)</blue>: <m_str>Watergate</m_str> (1_17) 	<m_str>Watergate</m_str> (8_14) 	<br><blue>9(2)</blue>: <m_str>The Sunday Times of London</m_str> (6_14) 	<m_str>The Sunday Times of London</m_str> (14_31) 	<br><blue>10(3)</blue>: <m_str>Baltimore</m_str> (1_49) 	<m_str>Baltimore</m_str> (16_19) 	<m_str>Baltimore</m_str> (2_7) 	<br><blue>11(3)</blue>: <m_str>non-Hodgkin 's</m_str> (3_4) 	<m_str>his</m_str> (3_8) 	<m_str>the writer Bruce Wagner</m_str> (4_5) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

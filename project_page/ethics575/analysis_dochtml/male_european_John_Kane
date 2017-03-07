@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>John Kane, 89, Who Led Raid That Bombed Nazi's Oil Depot </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Col. John R. Kane , who won the Medal of Honor for his role in the bombing of a refinery in Romania that supplied oil for Nazi operations in eastern Europe in World War II , died on May 29 at the Veterans Administration Nursing Home in Coatesville , Pa . <br><blue>2</blue>He was 89 . <br><blue>3</blue>Colonel Kane , who was known to his men as Killer Kane , led what was considered one of the most dangerous raids of the war against the Ploesti oil fields on Aug. 1 , 1943 . <br><blue>4</blue>Four miles from the refinery , innocent-looking farmhouses erupted in anti-aircraft fire . <br><blue>5</blue>The gunners aboard Colonel Kane 's lumbering B-24 Liberator fired back , but the plane , Hail Columbia , lost an engine and took more than 20 hits . <br><blue>6</blue>" It was a rough show , " he said later . <br><blue>7</blue>" Above us and around us were Junkers 88 's and Messerschmitt 110 's . <br><blue>8</blue>Our guns would n't work . <br><blue>9</blue>We had shot them all out going into the target , raising hell with the ack-ack batteries and machine-gun nests . " <br><blue>10</blue>But there was an unexpected problem : Flames from the burning refinery singed the plane , dancing through the bomb bay 's open doors . <br><blue>11</blue>Before he could climb out of range , enemy gunfire hit an engine and the underside of the right wing , as well as a propeller on another engine and an aileron . <br><blue>12</blue>Still , Colonel Kane managed to pull up and struggle back to a base in Cyprus . <br><blue>13</blue>" We threw out everything we could tear loose from the ship , " he said . <br><blue>14</blue>" We ditched one empty bomb bay tank , our heavy flying clothes , all our guns that were shot up , frequency-meter tools , a ladder , everything except food , water and the ammunition we would need to fire what guns we could still work . " <br><blue>15</blue>The plane rose to 7,000 feet , and from there , he said , it was " just a case of flying home . " <br><blue>16</blue>Except for the landing . <br><blue>17</blue>Running low on fuel , he descended to a remote island landing strip without realizing that there was a five-foot-high embankment beside the runway . <br><blue>18</blue>The plane hit the hump . <br><blue>19</blue>One wheel was knocked out , and the propeller on one engine was knocked off . <br><blue>20</blue>" We bounced about 50 feet into the air , " he said , " and came straight down and managed to level off and hit the ground with a bang . " <br><hr><br><blue>1(7)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Colonel Kane , who was known to his men as Killer Kane</m_str> (3_1) 	<m_str>his</m_str> (3_8) 	<m_str>he</m_str> (11_2) 	<m_str>his</m_str> (1_13) 	<m_str>Killer Kane</m_str> (3_11) 	<m_str>he</m_str> (6_9) 	<br><blue>2(2)</blue>: <m_str>Our guns</m_str> (8_1) 	<m_str>them</m_str> (9_4) 	<br><blue>3(2)</blue>: <m_str>a propeller on another engine and an aileron</m_str> (11_25) 	<m_str>the propeller on one engine</m_str> (19_8) 	<br><blue>4(11)</blue>: <m_str>We</m_str> (14_2) 	<m_str>we</m_str> (13_6) 	<m_str>we</m_str> (14_37) 	<m_str>our</m_str> (14_10) 	<m_str>Our</m_str> (8_1) 	<m_str>us</m_str> (7_3) 	<m_str>We</m_str> (9_1) 	<m_str>we</m_str> (14_44) 	<m_str>us</m_str> (7_6) 	<m_str>our</m_str> (14_16) 	<m_str>We</m_str> (13_2) 	<br><blue>5(3)</blue>: <m_str>he</m_str> (20_12) 	<m_str>he</m_str> (17_6) 	<m_str>he</m_str> (15_12) 	<br><blue>6(3)</blue>: <m_str>It</m_str> (6_2) 	<m_str>an engine</m_str> (11_12) 	<m_str>an engine</m_str> (5_21) 	<br><blue>7(5)</blue>: <m_str>The plane</m_str> (15_1) 	<m_str>the plane , Hail Columbia</m_str> (5_14) 	<m_str>The plane</m_str> (18_1) 	<m_str>the plane</m_str> (10_14) 	<m_str>it</m_str> (15_15) 	<br><blue>8(1)</blue>: <m_str>the ground</m_str> (20_27) 	<br><blue>9(2)</blue>: <m_str>a refinery in Romania</m_str> (1_19) 	<m_str>the refinery</m_str> (4_4) 	<br><blue>10(3)</blue>: <m_str>he</m_str> (13_15) 	<m_str>Colonel Kane</m_str> (12_3) 	<m_str>Colonel Kane 's</m_str> (5_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

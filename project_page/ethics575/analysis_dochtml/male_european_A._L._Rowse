@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>A. L. Rowse, Masterly Shakespeare Scholar, Dies at 93 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>A. L. Rowse , the brilliant authority on Shakespeare and Elizabethan England whose grandiose opinions of his scholarship were not always shared by rival historians he invariably dismissed as third-rate , died on Friday at his home in Cornwall . <br><blue>2</blue>He was 93 and best known for his confident identification of '' the Dark Lady '' of Shakespeare 's sonnets . <br><blue>3</blue>During a career in which he turned out some 90 books -- among them a monumental four-volume study of the Elizabethan age , two biographies of Shakespeare and an exhaustively annotated edition of Shakespeare 's complete works -- Mr. Rowse awed reviewers with both the brilliance of his writing and the sheer scope his scholarship . <br><blue>4</blue>If he had not , as one suggested , read everything written during or about 16th-century England , he had read enough to speak with uncommon authority and never hesitated to do so , even if his pronouncements seemed to go beyond the evidence at hand . <br><blue>5</blue>Even before the publication of his 1964 book '' William Shakespeare : A Biography , '' for instance , Mr. Rowse made headlines on both sides of the Atlantic -- and created a run on bookstores -- by announcing that he had solved all but one of the problems of the sonnets , including their dates ( 1592-95 ) and the identity of the poet 's unnamed rival ( Christopher Marlowe ) . <br><blue>6</blue>It was left to spoil-sport reviewers to point out that the only thing original about the discoveries was that unlike a number of earlier scholars who had come to pretty much the same conclusions from essentially the same record , Mr. Rowse alone was not dissuaded by the lack of definitive evidence from proclaiming his conclusions as incontrovertible facts . <br><blue>7</blue>A decade later , just before the 1973 publication of his second biography , '' Shakespeare the Man , '' Mr. Rowse won a new round of headlines by announcing that he had solved the last mystery of the sonnets : the identity of Shakespeare 's mistress known as the Dark Lady . <br><blue>8</blue>Drawing on circumstantial evidence , he identified her as one Emilia Bassano Lanier , the daughter of an Italian court musician . <br><blue>9</blue>As for recent scholarly work insisting that most of the sonnets were written to a gay lover , Mr. Rowse , who was himself openly gay , had tried to nip that error in the bud , finding irrefutable scholarly evidence that Shakespeare was '' a strongly sexed heterosexual '' and a man '' more than a little interested in women -- for an Englishman . '' <br><blue>10</blue>Mr. Rowse , who had divined Lanier as the Dark Lady from a close and inspired reading of the sonnets and the diaries of a well-known Elizabethan figure , Simon Forman , knew when he was on to a good thing . <br><blue>11</blue>He also knew the value of a catchy title . <br><blue>12</blue>Three years later , in 1976 , he used the diaries as the basis of a full-blown sociological study he called '' Sex and Society in the Elizabethan Age . '' <br><blue>13</blue>If his pronouncements and his outspoken disdain for virtually every other scholar in his field made him an object of some controversy , Mr. Rowse reveled in it as a man who seemed to take delight in going against the grain , even his own . <br><blue>14</blue>Indeed , his very life as an Oxford don ensconced in the academic splendor of All Souls , a college of such rarefied scholarship that it has no students , seemed to belie his own upbringing . <br><blue>15</blue>For Alfred Leslie Rowse , whose erudition and refined speech came to personify the pinnacle of upper-class England , grew up in a home without books in Cornwall , that narrow Celtic refuge that stretches into the Atlantic in southwest England . <br><blue>16</blue>The son of a china clay miner , Mr. Rowse , whose parents were barely literate , was a brilliant student who learned to read by the age of 4 , became obsessed with speaking precisely correct English and worked so hard to win the only Cornwall scholarship to Oxford that it almost ruined his already precarious health . <br><blue>17</blue>As soon as he got to Christ Church College , Mr. Rowse knew that he had found his spiritual home at Oxford , but he remained so fiercely loyal to his native Cornwall that he always maintained a home there and wrote extensively about Cornwall and Cornish culture , including '' Tudor Cornwall '' ( 1941 ) and '' The Cousin Jacks '' ( 1969 ) , a study of the Cornish in the United States . <br><blue>18</blue>Mr. Rowse , who had been writing poetry since he was a child and had intended to study literature , was persuaded to switch to history at Oxford and never regretted it . <br><blue>19</blue>After being elected a fellow of All Souls at the age of 22 , he threw himself into the scholarly life with a couple of detours into politics , making two unsuccessful runs for a Labor seat in Parliament in the 1930 's . <br><blue>20</blue>It was a reflection of the range of his early interests that in successive years in the 1930 's he published '' Queen Elizabeth and her Subjects , '' and '' Mr. Keynes and the Labor Movement . '' <br><hr><br><blue>1(4)</blue>: <m_str>Cornwall</m_str> (1_39) 	<m_str>Cornwall</m_str> (15_28) 	<m_str>Cornwall</m_str> (17_45) 	<m_str>Cornwall</m_str> (16_47) 	<br><blue>2(3)</blue>: <m_str>'' the Dark Lady</m_str> (2_12) 	<m_str>the Dark Lady</m_str> (10_9) 	<m_str>the Dark Lady</m_str> (7_50) 	<br><blue>3(2)</blue>: <m_str>his scholarship</m_str> (1_17) 	<m_str>his scholarship</m_str> (3_54) 	<br><blue>4(1)</blue>: <m_str>the United States</m_str> (17_74) 	<br><blue>5(5)</blue>: <m_str>the sonnets</m_str> (9_10) 	<m_str>Shakespeare 's sonnets</m_str> (2_18) 	<m_str>the sonnets</m_str> (5_51) 	<m_str>the sonnets</m_str> (10_19) 	<m_str>the sonnets</m_str> (7_39) 	<br><blue>6(2)</blue>: <m_str>some controversy</m_str> (13_21) 	<m_str>it</m_str> (13_28) 	<br><blue>7(3)</blue>: <m_str>it</m_str> (18_32) 	<m_str>Oxford</m_str> (17_22) 	<m_str>Oxford</m_str> (18_28) 	<br><blue>8(12)</blue>: <m_str>he</m_str> (17_15) 	<m_str>his</m_str> (17_31) 	<m_str>he</m_str> (19_15) 	<m_str>his</m_str> (17_18) 	<m_str>he</m_str> (17_35) 	<m_str>himself</m_str> (19_17) 	<m_str>he</m_str> (17_4) 	<m_str>his</m_str> (16_55) 	<m_str>he</m_str> (20_20) 	<m_str>he</m_str> (17_25) 	<m_str>he</m_str> (18_10) 	<m_str>his</m_str> (20_9) 	<br><blue>9(2)</blue>: <m_str>the only Cornwall scholarship</m_str> (16_45) 	<m_str>it</m_str> (16_52) 	<br><blue>10(2)</blue>: <m_str>an Oxford</m_str> (14_7) 	<m_str>it</m_str> (14_26) 	<br><blue>11(50)</blue>: <m_str>his</m_str> (7_11) 	<m_str>Shakespeare</m_str> (7_16) 	<m_str>his</m_str> (13_44) 	<m_str>Mr. Rowse</m_str> (7_21) 	<m_str>he</m_str> (8_6) 	<m_str>Mr. Rowse</m_str> (6_41) 	<m_str>her</m_str> (8_8) 	<m_str>his</m_str> (14_34) 	<m_str>the poet 's</m_str> (5_64) 	<m_str>he</m_str> (7_32) 	<m_str>Shakespeare</m_str> (1_9) 	<m_str>Mr. Rowse</m_str> (16_9) 	<m_str>his</m_str> (6_55) 	<m_str>his</m_str> (1_17) 	<m_str>He</m_str> (2_1) 	<m_str>Shakespeare 's</m_str> (7_45) 	<m_str>his</m_str> (2_8) 	<m_str>he</m_str> (1_26) 	<m_str>Mr. Rowse , who was himself openly gay</m_str> (9_19) 	<m_str>Mr. Rowse</m_str> (17_11) 	<m_str>himself</m_str> (9_24) 	<m_str>Lanier</m_str> (10_7) 	<m_str>Shakespeare 's</m_str> (2_18) 	<m_str>Mr. Rowse , who had been writing poetry since he was a child and had intended to study literature</m_str> (18_1) 	<m_str>his</m_str> (1_36) 	<m_str>he</m_str> (3_6) 	<m_str>He</m_str> (11_1) 	<m_str>Shakespeare</m_str> (9_43) 	<m_str>he</m_str> (4_2) 	<m_str>Simon Forman</m_str> (10_30) 	<m_str>he</m_str> (10_35) 	<m_str>Shakespeare</m_str> (3_27) 	<m_str>he</m_str> (12_8) 	<m_str>Shakespeare 's</m_str> (3_34) 	<m_str>he</m_str> (4_19) 	<m_str>Mr. Rowse</m_str> (3_39) 	<m_str>his</m_str> (5_6) 	<m_str>his</m_str> (13_2) 	<m_str>William Shakespeare</m_str> (5_10) 	<m_str>he</m_str> (12_20) 	<m_str>his</m_str> (13_5) 	<m_str>his</m_str> (3_48) 	<m_str>his</m_str> (3_54) 	<m_str>his</m_str> (4_37) 	<m_str>Mr. Rowse</m_str> (5_20) 	<m_str>his</m_str> (13_14) 	<m_str>him</m_str> (13_17) 	<m_str>his</m_str> (14_3) 	<m_str>Mr. Rowse</m_str> (13_24) 	<m_str>he</m_str> (5_41) 	<br><blue>12(2)</blue>: <m_str>All Souls</m_str> (19_7) 	<m_str>All Souls</m_str> (14_16) 	<br><blue>13(2)</blue>: <m_str>Cornish</m_str> (17_47) 	<m_str>the Cornish</m_str> (17_71) 	<br><blue>14(2)</blue>: <m_str>the Elizabethan age</m_str> (3_20) 	<m_str>the Elizabethan Age</m_str> (12_27) 	<br><blue>15(2)</blue>: <m_str>1930 's</m_str> (20_18) 	<m_str>1930 's</m_str> (19_42) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

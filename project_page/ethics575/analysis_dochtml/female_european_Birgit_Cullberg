@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Birgit Cullberg, 91, Swedish Choreographer </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Birgit Cullberg , a pioneering experimental choreographer in Sweden who earned an international reputation through her intense dramatic ballets and vigorous social-protest pieces , died on Wednesday in Stockholm , where she lived . <br><blue>2</blue>She was 91 . <br><blue>3</blue>Although Miss Cullberg was a disciple of the German Expressionist choreographer Kurt Jooss , her own style fused modern dance and ballet . <br><blue>4</blue>She was resident choreographer of the Royal Swedish Ballet from 1951 to 1957 , and her most famous works were danced by ballet companies throughout the world . <br><blue>5</blue>Among these was her acknowledged masterpiece , '' Miss Julie , '' based on the August Strindberg play ; it had its premiere in Sweden in 1950 . <br><blue>6</blue>Restaged to great acclaim in 1958 for American Ballet Theater , '' Miss Julie '' was a triumph for Violette Verdy in the title role , as the Swedish aristocrat who seduces a butler , and for Erik Bruhn as Jean , the butler . <br><blue>7</blue>Mr. Bruhn virtually made the role his own for 20 years through his astonishingly powerful portrayal . <br><blue>8</blue>Ballet Theater staged three other Cullberg works , including the haunting Lapp tale '' Moon Reindeer . '' <br><blue>9</blue>In 1958 the New York City Ballet presented Miss Cullberg 's '' Medea '' with Melissa Hayden in the title role . <br><blue>10</blue>In his review , John Martin , dance critic of The New York Times , wrote , '' There is not a superfluous phrase , a meaningless gesture , an item of mere decoration in the choreography from end to end . '' <br><blue>11</blue>Psychological insight was Miss Cullberg 's strength , as she showed again in 1982 when the Cullberg Ballet , which she founded in 1967 , made its belated United States debut at the Brooklyn Academy of Music with Carl XVI Gustaf of Sweden in attendance . <br><blue>12</blue>Never shy about exploring the neurotic and the erotic , Miss Cullberg was represented by a duet , '' Adam and Eve , '' and an especially sensuous performance of '' Miss Julie , '' which nonetheless focused on the class differences between Julie and her servant . <br><blue>13</blue>In '' Adam and Eve , '' Daniela Malusardi and Niklas Ek , Miss Cullberg 's elder son , moved seamlessly from innocent playfulness to adult passion , a couple expelled from Eden but rejecting God as well . <br><blue>14</blue>Most of the other choreography was by Mats Ek , Miss Cullberg 's other son , who cast her as a Mother Africa figure in his '' Soweto . '' <br><blue>15</blue>Miss Cullberg , then 74 , came out swinging , kicking , fiery-eyed and goading the oppressed onstage to resist until they collapsed to the sound of gunshots . <br><blue>16</blue>In 1991 , with her long white hair still flying , Miss Cullberg performed in Mats Ek 's television dance production '' The Old Woman and the Door . '' <br><blue>17</blue>She excelled in choreography for television . <br><blue>18</blue>Her duet '' Red Wine in Green Glasses '' ( 1970 ) was shown on public television in the United States and was awarded the Prix Italia . <br><blue>19</blue>Miss Cullberg started life in a secure , wealthy home , but she had a volatile relationship with Anders Ek , one of Sweden 's leading actors , whom she married in 1942 . <br><blue>20</blue>They had three children : Niklas , a brilliant dancer ; Mats , 54 , and his twin , the actress Malin Ek . <br><hr><br><blue>1(2)</blue>: <m_str>it</m_str> (5_20) 	<m_str>its</m_str> (5_22) 	<br><blue>2(2)</blue>: <m_str>1958</m_str> (9_2) 	<m_str>1958</m_str> (6_6) 	<br><blue>3(2)</blue>: <m_str>the title role</m_str> (9_19) 	<m_str>the title role</m_str> (6_23) 	<br><blue>4(2)</blue>: <m_str>John Martin , dance critic of The New York Times</m_str> (10_5) 	<m_str>his</m_str> (10_2) 	<br><blue>5(2)</blue>: <m_str>Anders Ek , one of Sweden 's leading actors , whom she married in 1942</m_str> (19_19) 	<m_str>Malin Ek</m_str> (20_22) 	<br><blue>6(2)</blue>: <m_str>Mats</m_str> (20_12) 	<m_str>his</m_str> (20_17) 	<br><blue>7(2)</blue>: <m_str>Eve</m_str> (12_22) 	<m_str>Eve</m_str> (13_5) 	<br><blue>8(1)</blue>: <m_str>They</m_str> (20_1) 	<br><blue>9(2)</blue>: <m_str>the United States</m_str> (18_19) 	<m_str>United States</m_str> (11_29) 	<br><blue>10(1)</blue>: <m_str>a couple</m_str> (13_29) 	<br><blue>11(3)</blue>: <m_str>his</m_str> (7_13) 	<m_str>Mr. Bruhn</m_str> (7_1) 	<m_str>his</m_str> (7_7) 	<br><blue>12(4)</blue>: <m_str>Sweden</m_str> (11_43) 	<m_str>Sweden</m_str> (1_9) 	<m_str>Sweden 's</m_str> (19_24) 	<m_str>Sweden</m_str> (5_25) 	<br><blue>13(1)</blue>: <m_str>three other Cullberg works , including the haunting Lapp tale '' Moon Reindeer</m_str> (8_4) 	<br><blue>14(32)</blue>: <m_str>her</m_str> (14_19) 	<m_str>Miss Cullberg , then 74</m_str> (15_1) 	<m_str>his</m_str> (14_26) 	<m_str>Cullberg</m_str> (8_6) 	<m_str>Birgit Cullberg , a pioneering experimental choreographer in Sweden who earned an international reputation through her intense dramatic ballets and vigorous social-protest pieces</m_str> (1_1) 	<m_str>her</m_str> (16_5) 	<m_str>Miss Cullberg</m_str> (16_12) 	<m_str>her</m_str> (1_16) 	<m_str>She</m_str> (17_1) 	<m_str>She</m_str> (2_1) 	<m_str>Miss Cullberg 's</m_str> (9_9) 	<m_str>she</m_str> (1_32) 	<m_str>Her</m_str> (18_1) 	<m_str>Miss Cullberg</m_str> (3_2) 	<m_str>Miss Cullberg 's</m_str> (11_4) 	<m_str>her</m_str> (3_15) 	<m_str>She</m_str> (4_1) 	<m_str>she</m_str> (11_10) 	<m_str>Miss Cullberg</m_str> (19_1) 	<m_str>she</m_str> (11_21) 	<m_str>she</m_str> (19_13) 	<m_str>her</m_str> (4_16) 	<m_str>Miss Cullberg</m_str> (12_11) 	<m_str>her</m_str> (5_4) 	<m_str>Julie</m_str> (5_10) 	<m_str>she</m_str> (19_30) 	<m_str>Daniela Malusardi</m_str> (13_8) 	<m_str>Miss Cullberg 's</m_str> (13_14) 	<m_str>Julie</m_str> (12_44) 	<m_str>her</m_str> (12_46) 	<m_str>Miss Cullberg 's</m_str> (14_11) 	<m_str>Violette Verdy</m_str> (6_20) 	<br><blue>15(1)</blue>: <m_str>Stockholm</m_str> (1_29) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

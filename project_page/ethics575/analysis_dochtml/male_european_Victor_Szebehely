@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Victor Szebehely, 76, Pioneer In Field of Orbital Mechanics </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Victor Szebehely , a theorist of celestial mechanics whose work in the 1950 's provided the tools still used to chart the orbits of spacecraft , died on Sept. 13 at his home in Austin , Tex . <br><blue>2</blue>He was 76 . <br><blue>3</blue>The cause was cancer , said his wife , Jo Betsy Lewallen . <br><blue>4</blue>At the Center for Space Research at the University of Texas , and at the National Aeronautics and Space Administration , Dr. Szebehely studied Earth-to-Moon trajectories , one aspect of a branch of engineering known as orbital mechanics . <br><blue>5</blue>It was delicate guesswork , as he himself said , involving the interactions of huge bodies in space and a vessel moving through their gravity fields . '' <br><blue>6</blue>You can not do it precisely , '' he once said , '' only approximately . '' <br><blue>7</blue>Dr. Szebehely ( pronounced SEB-ah-hay ) trained a generation of experts in his calculations . '' <br><blue>8</blue>He could apply the science of mechanics with great imagination to a specific problem , '' said Hans Mark , former chancellor at the university and former deputy administrator at NASA . '' <br><blue>9</blue>His work got us to the Moon . '' <br><blue>10</blue>Before Dr. Szebehely 's work , orbits were calculated using theory from two sources , Newton 's work in the 17th century and Einstein 's general relativity theory of the early 20th century , said Dr. Raynor L. Duncombe , an emeritus professor of aerospace engineering at the University of Texas and a colleague of Dr. Szebehely since the 1950 's . '' <br><blue>11</blue>Then high-speed computers came along and opened up the whole field again , '' Dr. Duncombe said . '' <br><blue>12</blue>The space age hit us all of a sudden . <br><blue>13</blue>We had to have people cognizant of orbital mechanics , and there were n't any around . '' <br><blue>14</blue>Dr. Szebehely helped produce models of a broad range of forces that act upon the orbit of a spacecraft and that can help a ground crew figure where the vessel is headed , Dr. Duncombe said . <br><blue>15</blue>In Washington , Dr. Szebehely worked for the Navy in the 1950 's , then carried out space-related research at General Electric before Yale University hired him as an associate professor of astronomy in 1962 . <br><blue>16</blue>He moved to Texas in 1968 , where he held the Richard B. Curran Centennial Chair of Engineering and was chairman of the department of aerospace engineering . <br><blue>17</blue>He also taught at Virginia State University , the University of Maryland and George Washington University . <br><blue>18</blue>Born in Budapest , he received his Ph.D. in engineering at the University of Budapest in 1946 . <br><blue>19</blue>He came to the United States the next year . <br><blue>20</blue>He was elected to the National Academy of Engineering in 1982 . <br><hr><br><blue>1(2)</blue>: <m_str>the University of Texas</m_str> (10_48) 	<m_str>the University of Texas , and at the National Aeronautics and Space Administration</m_str> (4_8) 	<br><blue>2(24)</blue>: <m_str>his</m_str> (7_13) 	<m_str>Dr. Szebehely</m_str> (15_4) 	<m_str>He</m_str> (19_1) 	<m_str>He</m_str> (8_1) 	<m_str>He</m_str> (16_1) 	<m_str>He</m_str> (20_1) 	<m_str>he</m_str> (16_9) 	<m_str>His</m_str> (9_1) 	<m_str>him</m_str> (15_27) 	<m_str>Dr. Szebehely</m_str> (4_22) 	<m_str>he</m_str> (5_7) 	<m_str>himself</m_str> (5_8) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Szebehely since the 1950</m_str> (10_56) 	<m_str>Dr. Szebehely 's</m_str> (10_2) 	<m_str>he</m_str> (6_9) 	<m_str>Dr. Szebehely</m_str> (14_1) 	<m_str>his</m_str> (1_32) 	<m_str>he</m_str> (18_5) 	<m_str>Dr. Szebehely -LRB- pronounced SEB-ah-hay -RRB-</m_str> (7_1) 	<m_str>his</m_str> (18_7) 	<m_str>his</m_str> (3_7) 	<m_str>Newton 's</m_str> (10_16) 	<br><blue>3(2)</blue>: <m_str>a vessel moving through their gravity fields</m_str> (5_20) 	<m_str>the vessel</m_str> (14_29) 	<br><blue>4(3)</blue>: <m_str>Dr. Raynor L. Duncombe , an emeritus professor of aerospace engineering at the University of Texas and a colleague of Dr. Szebehely since the 1950 's</m_str> (10_36) 	<m_str>Dr. Duncombe</m_str> (14_34) 	<m_str>Dr. Duncombe</m_str> (11_15) 	<br><blue>5(2)</blue>: <m_str>His work</m_str> (9_1) 	<m_str>Dr. Szebehely 's work</m_str> (10_2) 	<br><blue>6(1)</blue>: <m_str>celestial mechanics</m_str> (1_7) 	<br><blue>7(2)</blue>: <m_str>the University of Maryland and George Washington University</m_str> (17_9) 	<m_str>Virginia State University , the University of Maryland and George Washington University</m_str> (17_5) 	<br><blue>8(3)</blue>: <m_str>us</m_str> (12_5) 	<m_str>us</m_str> (9_4) 	<m_str>We</m_str> (13_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

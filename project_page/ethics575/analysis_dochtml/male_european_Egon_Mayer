@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Egon Mayer, 59, Sociologist Who Dealt With Jewish Issues </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Egon Mayer , a Hungarian immigrant who became one of the leading sociologists of American Jewry , studying the intricate variety of religious observance and interfaith marriage , died yesterday at his home in Laurel Hollow , N.Y . <br><blue>2</blue>He was 59 . <br><blue>3</blue>The cause was cancer of the gall bladder said his wife , Marcia Kramer Mayer . <br><blue>4</blue>Dr. Mayer , who managed to sustain an old-world bonhomie in tackling some of the most contentious issues in modern Jewish life , spent more than a quarter century studying the religious habits of Jews . <br><blue>5</blue>In surveys for organizations like the American Jewish Committee , or in studies he did as a professor at Brooklyn College and the City University 's Graduate Center , he counted specifics , like how many Jews were lighting candles on Friday nights , or giving their children bar mitzvahs , or attending synagogues . <br><blue>6</blue>Although the results sometimes disheartened the most observant Jews , Dr. Mayer seemed to be reassured by the enduring connection even secular Jews found to their identity . <br><blue>7</blue>But no topic was more difficult than interfaith marriage , and Dr. Mayer tackled it head on . <br><blue>8</blue>In one interview , he reported that 37 percent of Jewish men who married for the first time in the period from 1983 to 1987 married gentiles , a sharp increase from a rate of 7 percent in 1955 . '' <br><blue>9</blue>This amounts to a total demographic revolution , '' he said . <br><blue>10</blue>Dr. Mayer suggested that these findings were producing a split between lay Jews and their rabbis , with overwhelming majorities of Conservative and Reform Jews wanting rabbis to officiate at such marriages if the couple raised their children as Jewish , while the preponderance of rabbis were adamantly opposed . <br><blue>11</blue>Departing from his researcher 's neutrality , Dr. Mayer urged Jews to welcome gentile spouses , including those who did not want to convert or whose professed Judaism did not meet the requirements of Jewish law . <br><blue>12</blue>By doing so , he said , Jews would sustain Jewish observance in families and maintain overall Jewish population numbers even as intermarriage and a low birth rate were contributing to a decline . <br><blue>13</blue>His book '' Love and Tradition : Marriage Between Jews and Christians '' ( Plenum , 1985 , and Schocken , 1987 ) examined some of these issues . <br><blue>14</blue>Dr. Mayer was born in 1944 in Switzerland . <br><blue>15</blue>His parents had arrived there as part of a group of 1,684 Hungarian Jews who were allowed by Adolf Eichmann to buy their freedom after negotiations led by Dr. Rudolf Kasztner , a rescuer of Jews from the death camps . <br><blue>16</blue>In recent years , Dr. Mayer 's research focused on the life of Dr. Kasztner , who was killed in Israel in 1957 by extremists who felt that he should not have dealt with the Nazis . <br><blue>17</blue>The family returned to Hungary after the war , and Dr. Mayer grew up in Budapest . <br><blue>18</blue>During the Hungarian Revolution of 1956 , the family emigrated to the United States . <br><blue>19</blue>Dr. Mayer lived in Borough Park , Brooklyn , and attended an Orthodox yeshiva . <br><blue>20</blue>He studied at Brooklyn College and the New School for Social Research , and received his doctorate in sociology from Rutgers University in 1975 . <br><hr><br><blue>1(1)</blue>: <m_str>Brooklyn College and the New School</m_str> (20_4) 	<br><blue>2(2)</blue>: <m_str>The family</m_str> (17_1) 	<m_str>the family</m_str> (18_8) 	<br><blue>3(2)</blue>: <m_str>lay Jews</m_str> (10_12) 	<m_str>their</m_str> (10_15) 	<br><blue>4(6)</blue>: <m_str>Jews</m_str> (15_36) 	<m_str>their</m_str> (5_47) 	<m_str>Jews</m_str> (12_8) 	<m_str>Jews</m_str> (11_11) 	<m_str>Jews</m_str> (4_35) 	<m_str>Jews</m_str> (5_37) 	<br><blue>5(19)</blue>: <m_str>His</m_str> (15_1) 	<m_str>Dr. Mayer</m_str> (7_12) 	<m_str>Dr. Mayer</m_str> (11_8) 	<m_str>Dr. Mayer</m_str> (19_1) 	<m_str>he</m_str> (8_5) 	<m_str>He</m_str> (20_1) 	<m_str>Dr. Mayer 's</m_str> (16_5) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (5_14) 	<m_str>he</m_str> (9_10) 	<m_str>his</m_str> (20_16) 	<m_str>Dr. Mayer</m_str> (10_1) 	<m_str>he</m_str> (16_29) 	<m_str>Dr. Mayer</m_str> (17_11) 	<m_str>Dr. Mayer</m_str> (14_1) 	<m_str>his</m_str> (1_32) 	<m_str>Dr. Mayer</m_str> (6_11) 	<m_str>he</m_str> (5_30) 	<m_str>his</m_str> (3_10) 	<br><blue>6(2)</blue>: <m_str>their</m_str> (6_26) 	<m_str>secular Jews</m_str> (6_22) 	<br><blue>7(3)</blue>: <m_str>he</m_str> (12_5) 	<m_str>his</m_str> (11_3) 	<m_str>His</m_str> (13_1) 	<br><blue>8(2)</blue>: <m_str>His parents</m_str> (15_1) 	<m_str>their</m_str> (15_23) 	<br><blue>9(2)</blue>: <m_str>interfaith marriage</m_str> (7_8) 	<m_str>it</m_str> (7_15) 	<br><blue>10(2)</blue>: <m_str>the couple</m_str> (10_34) 	<m_str>their</m_str> (10_37) 	<br><blue>11(2)</blue>: <m_str>their children</m_str> (10_37) 	<m_str>their children</m_str> (5_47) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

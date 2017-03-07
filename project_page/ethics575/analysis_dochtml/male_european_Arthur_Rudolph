@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Arthur Rudolph, 89, Developer Of Rocket in First Apollo Flight </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Arthur Rudolph , the developer of the giant Saturn 5 rocket , which launched a crew of American astronauts on the first manned flight to the moon in 1969 , died on Friday after he lapsed into a coma at his home in Hamburg , Germany . <br><blue>2</blue>He was 89 . <br><blue>3</blue>His death was reported in Huntsville , Ala. , by Hugh McInnish , a friend and retired military specialist . <br><blue>4</blue>Mr. Rudolph left the United States in 1984 and moved back to Germany after the Justice Department accused him of " working thousands of slave laborers to death " while director of the German factory that produced the V-2 rocket in World War II . <br><blue>5</blue>He denied the accusation . <br><blue>6</blue>He was one of 118 German rocket engineers secretly brought to the United States after the war . <br><blue>7</blue>The group included Wernher von Braun , the father of the American rocket programs . <br><blue>8</blue>Mr. Rudolph was a major figure in the Apollo Project at the Marshall Space Flight Center in Huntsville , one of the principal installations of the National Aeronautics and Space Administration . <br><blue>9</blue>A member of Dr. von Braun 's team , he was the project manager for the Saturn , a vital and complex component of Apollo . <br><blue>10</blue>The sheer size of the moon rocket was the source of his nightmares during the rocket 's development and construction . <br><blue>11</blue>" It was all harder than I ever expected , " he told an interviewer in 1969 . <br><blue>12</blue>" Since it is so large and has so many components , you get more people involved , and that makes it difficult . <br><blue>13</blue>You have to get them all to sing from the same sheet of music . <br><blue>14</blue>My task has been as choir director . " <br><blue>15</blue>In addition to a few of Mr. Rudolph 's top colleagues from Germany , the project involved some 100,000 people and several thousand industrial contractors who designed , built and tested rocket parts and the Saturn 5 itself . <br><blue>16</blue>The cost was $ 15 billion by then for the 15 rockets on order . <br><blue>17</blue>The Huntsville Saturn team got the green light in early 1962 and found that putting the enormous machine together proved one of the toughest engineering and manufacturing feats ever . <br><blue>18</blue>" You want a valve that does n't leak and you try everything possible to develop one , " Mr. Rudolph said . <br><blue>19</blue>" But the real world provides you with a leaky valve . <br><blue>20</blue>You have to determine how much leaking you can tolerate . " <br><hr><br><blue>1(1)</blue>: <m_str>the Justice Department</m_str> (4_15) 	<br><blue>2(1)</blue>: <m_str>World War II</m_str> (4_42) 	<br><blue>3(5)</blue>: <m_str>You</m_str> (18_2) 	<m_str>You</m_str> (20_1) 	<m_str>you</m_str> (19_7) 	<m_str>you</m_str> (20_8) 	<m_str>you</m_str> (18_11) 	<br><blue>4(14)</blue>: <m_str>Mr. Rudolph</m_str> (4_1) 	<m_str>he</m_str> (11_12) 	<m_str>Mr. Rudolph 's</m_str> (15_7) 	<m_str>Mr. Rudolph</m_str> (18_20) 	<m_str>Mr. Rudolph</m_str> (8_1) 	<m_str>He</m_str> (5_1) 	<m_str>him</m_str> (4_19) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (9_10) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (1_35) 	<m_str>His</m_str> (3_1) 	<m_str>his</m_str> (10_12) 	<m_str>his</m_str> (1_41) 	<br><blue>5(1)</blue>: <m_str>the enormous machine</m_str> (17_16) 	<br><blue>6(2)</blue>: <m_str>Wernher von Braun , the father of the American rocket programs</m_str> (7_4) 	<m_str>Dr. von Braun 's</m_str> (9_4) 	<br><blue>7(6)</blue>: <m_str>the moon rocket</m_str> (10_5) 	<m_str>it</m_str> (12_22) 	<m_str>the rocket 's</m_str> (10_15) 	<m_str>the giant Saturn 5 rocket , which launched a crew of American astronauts on the first manned flight to the moon in 1969</m_str> (1_7) 	<m_str>It</m_str> (11_2) 	<m_str>it</m_str> (12_3) 	<br><blue>8(2)</blue>: <m_str>them</m_str> (13_5) 	<m_str>more people involved</m_str> (12_15) 	<br><blue>9(2)</blue>: <m_str>you</m_str> (12_13) 	<m_str>You</m_str> (13_1) 	<br><blue>10(2)</blue>: <m_str>I</m_str> (11_7) 	<m_str>My</m_str> (14_1) 	<br><blue>11(1)</blue>: <m_str>Germany</m_str> (15_13) 	<br><blue>12(1)</blue>: <m_str>the United States</m_str> (4_4) 	<br><blue>13(2)</blue>: <m_str>the Apollo Project</m_str> (8_8) 	<m_str>the project</m_str> (15_15) 	<br><blue>14(2)</blue>: <m_str>Huntsville</m_str> (3_6) 	<m_str>Huntsville</m_str> (8_18) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

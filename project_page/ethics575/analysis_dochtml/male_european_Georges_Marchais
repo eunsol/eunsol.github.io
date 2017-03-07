@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Georges Marchais, 77, Dies; Led France's Communists </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Georges Marchais , whose rigid leadership of the French Communist Party from 1972 to 1994 was blamed for reducing it to the margins of French political life , died yesterday in Paris . <br><blue>2</blue>He was 77 . <br><blue>3</blue>He had suffered a long history of heart disease and was admitted a week before he died to Lariboisiere Hospital in Paris with cardiac and lung complications . <br><blue>4</blue>He led what had been the largest single party in France at the end of World War II , but under him the Communist share of the French popular vote dwindled from 21.4 percent at the beginning of his term to 9.2 percent in 1993 , just before he retired as General Secretary . '' <br><blue>5</blue>My mother conceived me 25 years too early or 25 years too late , '' he told supporters in 1997 near the end of a quarter-century in the French Parliament . <br><blue>6</blue>Even what might have been a triumph , acceptance by the Communists of an invitation to join a Socialist-led Government after the election of President Francois Mitterrand in 1981 , turned sour instead . <br><blue>7</blue>After an initial phase of nationalizations of major banks and industries long favored by the Communists , Mr. Mitterrand reversed economic course in 1984 when recession struck , and Mr. Marchais pulled his party out of the Government . <br><blue>8</blue>Many French voters felt disillusioned , and Mr. Marchais said years later that he would worry until his dying day whether he had been wrong to accept Mr. Mitterrand 's invitation in the first place . <br><blue>9</blue>The Communists ' traditional base in the working-class suburbs of the big French cities also crumbled during the 1980s as immigration from North Africa increased and the extreme right National Front party exploited the resentment of French workers who felt they were being displaced by newcomers . <br><blue>10</blue>In this rapidly changing political landscape , the bushy-browed Mr. Marchais seemed frozen in outdated Marxist-Leninist dogma , holding the reins of power with an iron grip and insisting on absolute loyalty from subordinates . <br><blue>11</blue>Later he maintained that he had been trying to change the party from within . '' <br><blue>12</blue>Its gravest mistake was that for a long time it considered the Soviet Union to be a model , '' he said in early 1994 . '' <br><blue>13</blue>When I joined the Communist Party in 1947 , if I had known that Stalinism existed and what it was , I never would have signed up . '' <br><blue>14</blue>But he backed the Soviet Union 's invasion of Afghanistan in 1979 , while other European Communist parties in Italy and Spain opposed it . <br><blue>15</blue>He backed Poland 's crackdown on the Solidarity labor movement in 1981 . <br><blue>16</blue>And when Communism collapsed in Eastern Europe a decade later , Mr. Marchais was taken by surprise as much as discredited leaders like Nicolae Ceausescu in Rumania or Erich Honecker in East Germany , and he insisted later that Communist rule in the east had been , on balance , positive . '' <br><blue>17</blue>I did n't think that things could move so fast , '' he said later , on the eve of his own withdrawal from the political scene in 1994 , after the Soviet Union had followed its satellite regimes to extinction . <br><blue>18</blue>Mr. Marchais , born into a poor coal-mining family in the Calvados region on June 7 , 1920 , never graduated from a French lycee or attended university . <br><blue>19</blue>French intellectuals , attracted by Communist ideals after the war , later made fun of his inelegant working-class accent . <br><blue>20</blue>He did not join the Communist Party until after the war , and spent at least two of the war years in Germany -- not as a political prisoner or a forced laborer , as he maintained , but as a volunteer worker for Germany 's Messerschmitt aircraft company , according to his critics . <br><hr><br><blue>1(2)</blue>: <m_str>a Socialist-led Government</m_str> (6_18) 	<m_str>the Government</m_str> (7_37) 	<br><blue>2(2)</blue>: <m_str>the Soviet Union 's invasion of Afghanistan</m_str> (14_4) 	<m_str>it</m_str> (14_24) 	<br><blue>3(1)</blue>: <m_str>Stalinism</m_str> (13_15) 	<br><blue>4(2)</blue>: <m_str>it</m_str> (1_20) 	<m_str>whose rigid leadership of the French Communist Party from 1972 to 1994</m_str> (1_4) 	<br><blue>5(4)</blue>: <m_str>it</m_str> (13_19) 	<m_str>the Communist Party</m_str> (13_4) 	<m_str>the Communist Party</m_str> (20_5) 	<m_str>the French Communist Party from 1972 to 1994</m_str> (1_8) 	<br><blue>6(3)</blue>: <m_str>they</m_str> (9_41) 	<m_str>the Communists</m_str> (7_15) 	<m_str>The Communists '</m_str> (9_1) 	<br><blue>7(2)</blue>: <m_str>1994</m_str> (12_25) 	<m_str>1994</m_str> (17_29) 	<br><blue>8(1)</blue>: <m_str>according to his critics</m_str> (20_51) 	<br><blue>9(4)</blue>: <m_str>I</m_str> (17_1) 	<m_str>I</m_str> (13_22) 	<m_str>I</m_str> (13_11) 	<m_str>I</m_str> (13_2) 	<br><blue>10(17)</blue>: <m_str>he</m_str> (11_5) 	<m_str>He</m_str> (15_1) 	<m_str>Mr. Marchais</m_str> (8_8) 	<m_str>Mr. Marchais</m_str> (7_30) 	<m_str>he</m_str> (8_14) 	<m_str>his</m_str> (7_33) 	<m_str>his</m_str> (8_18) 	<m_str>Mr. Marchais</m_str> (16_12) 	<m_str>he</m_str> (8_22) 	<m_str>he</m_str> (12_21) 	<m_str>he</m_str> (17_13) 	<m_str>he</m_str> (14_2) 	<m_str>he</m_str> (16_36) 	<m_str>Marchais</m_str> (18_2) 	<m_str>the bushy-browed Mr. Marchais</m_str> (10_8) 	<m_str>his</m_str> (17_21) 	<m_str>he</m_str> (11_2) 	<br><blue>11(4)</blue>: <m_str>the Soviet Union</m_str> (17_32) 	<m_str>the Soviet Union 's</m_str> (14_4) 	<m_str>its</m_str> (17_37) 	<m_str>the Soviet Union</m_str> (12_12) 	<br><blue>12(3)</blue>: <m_str>President Francois Mitterrand in 1981</m_str> (6_25) 	<m_str>Mr. Mitterrand 's</m_str> (8_28) 	<m_str>Mr. Mitterrand</m_str> (7_18) 	<br><blue>13(4)</blue>: <m_str>his</m_str> (20_53) 	<m_str>his</m_str> (19_16) 	<m_str>He</m_str> (20_1) 	<m_str>he</m_str> (20_36) 	<br><blue>14(2)</blue>: <m_str>25 years</m_str> (5_10) 	<m_str>25 years</m_str> (5_5) 	<br><blue>15(8)</blue>: <m_str>He</m_str> (2_1) 	<m_str>he</m_str> (3_16) 	<m_str>He</m_str> (3_1) 	<m_str>He</m_str> (4_1) 	<m_str>he</m_str> (4_49) 	<m_str>he</m_str> (5_16) 	<m_str>him</m_str> (4_22) 	<m_str>his</m_str> (4_39) 	<br><blue>16(2)</blue>: <m_str>it</m_str> (12_10) 	<m_str>Its</m_str> (12_1) 	<br><blue>17(2)</blue>: <m_str>My</m_str> (5_1) 	<m_str>me</m_str> (5_4) 	<br><blue>18(2)</blue>: <m_str>Germany 's</m_str> (20_45) 	<m_str>Germany</m_str> (20_23) 	<br><blue>19(2)</blue>: <m_str>Paris</m_str> (1_32) 	<m_str>Paris</m_str> (3_22) 	<br><blue>20(1)</blue>: <m_str>the war</m_str> (19_9) 	<br><blue>21(1)</blue>: <m_str>France</m_str> (4_11) 	<br><blue>22(3)</blue>: <m_str>the party</m_str> (11_11) 	<m_str>his party</m_str> (7_33) 	<m_str>the extreme right National Front party</m_str> (9_27) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

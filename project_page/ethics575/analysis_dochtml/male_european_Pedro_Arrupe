@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Pedro Arrupe, Jesuit Chief for 18 Years, Dies at 83 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>The Rev. Pedro Arrupe , head of the Jesuit order from 1965 to 1983 , died yesterday at the Jesuit headquarters in Rome . <br><blue>2</blue>He was 83 years old . <br><blue>3</blue>Father Arrupe , who had been ailing for many months , died of cardiac pulmonary failure , a Jesuit spokesman said . <br><blue>4</blue>Pope John Paul II visited Father Arrupe on Jan. 27 , the spokesman added . <br><blue>5</blue>His successor as Jesuit Superior General , the Rev. Peter-Hans Kovenbach , said of Father Arrupe , " His radical optimism , which was nourished by his profound faith , made him a source of inspiration which drew the affection and admiration of countless men and women in every part of the world . " <br><blue>6</blue>Father Arrupe led the Society of Jesus through a period when liberal positions taken by many members of the order , the largest in Roman Catholicism , stirred repeated controversies and even conflict with the papacy . <br><blue>7</blue>A 450-Year History Steering the order through such a stormy period ranked him among the most important Superior Generals in the Jesuit 's 450-year history , said the Rev. John Padberg , a Jesuit historian and director of the Institute of Jesuit Sources at St. Louis University . <br><blue>8</blue>Father Arrupe was elected head of the order , a position known as the " black pope " because of its proximity to the centers of Vatican power , in 1965 . <br><blue>9</blue>It was the year in which the Second Vatican Council ended , introducing vast changes throughout the church . <br><blue>10</blue>In 1983 , when Father Arrupe became the first Superior General to resign rather than die in office , the events surrounding his departure reflected the tension that had arisen between the Jesuits and the Pope . <br><blue>11</blue>That tension was paradoxical because the order , established by St. Ignatius of Loyola in the climate of the Counter-Reformation , has always pledged a special fealty to the Pope and functioned as a spiritual and intellectual vanguard for the Vatican . <br><blue>12</blue>But along with a spirit of unquestioning obedience , the Jesuits have also fostered a strong spirit of individual initiative and experimentation . <br><blue>13</blue>The two spirits have not always coexisted peaceably . <br><blue>14</blue>Challenges to Vatican In the years after Vatican II , Jesuits were found challenging church discipline on matters like the restriction of priesthood to unmarried males . <br><blue>15</blue>In developing nations , some Jesuits became advocates of liberation theology , involving themselves deeply in struggles for political or social change . <br><blue>16</blue>The resulting church strife tested all of Father Arrupe 's widely acknowldeged talents as an administrator , linguist and mediator . <br><blue>17</blue>In 1973 , Pope Paul VI warned the Jesuits against experimentation and loose discipline . <br><blue>18</blue>Two years later the Pope complained that attacks by Jesuits on his role had " wounded " him . <br><blue>19</blue>Pope John Paul II further accused the Jesuits in 1979 of " causing confusion among the Christian people and anxieties to the church and also personally to the Pope . " <br><blue>20</blue>He said the order suffered from " secularizing tendencies " and too much independence from papal authority . <br><hr><br><blue>1(1)</blue>: <m_str>liberation theology</m_str> (15_10) 	<br><blue>2(8)</blue>: <m_str>the Rev. Peter-Hans Kovenbach</m_str> (5_8) 	<m_str>his</m_str> (5_27) 	<m_str>him</m_str> (5_32) 	<m_str>He</m_str> (20_1) 	<m_str>His</m_str> (5_1) 	<m_str>Pope John Paul II</m_str> (19_1) 	<m_str>Pope John Paul II</m_str> (4_1) 	<m_str>His</m_str> (5_19) 	<br><blue>3(2)</blue>: <m_str>It</m_str> (9_1) 	<m_str>its</m_str> (8_21) 	<br><blue>4(2)</blue>: <m_str>the order , the largest in Roman Catholicism</m_str> (6_19) 	<m_str>the order</m_str> (7_5) 	<br><blue>5(2)</blue>: <m_str>Jesuit</m_str> (3_19) 	<m_str>Jesuit</m_str> (1_9) 	<br><blue>6(2)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Father Arrupe , who had been ailing for many months</m_str> (3_1) 	<br><blue>7(2)</blue>: <m_str>him</m_str> (18_18) 	<m_str>his</m_str> (18_12) 	<br><blue>8(2)</blue>: <m_str>the spokesman</m_str> (4_12) 	<m_str>a Jesuit spokesman</m_str> (3_18) 	<br><blue>9(8)</blue>: <m_str>The two spirits</m_str> (13_1) 	<m_str>some Jesuits</m_str> (15_5) 	<m_str>the Jesuits</m_str> (12_10) 	<m_str>Jesuits</m_str> (14_11) 	<m_str>the Jesuits</m_str> (17_8) 	<m_str>the Jesuits</m_str> (10_32) 	<m_str>the Jesuits</m_str> (19_7) 	<m_str>themselves</m_str> (15_14) 	<br><blue>10(2)</blue>: <m_str>the Pope</m_str> (18_4) 	<m_str>the Pope</m_str> (10_35) 	<br><blue>11(8)</blue>: <m_str>his</m_str> (10_23) 	<m_str>him</m_str> (7_13) 	<m_str>Father Arrupe</m_str> (8_1) 	<m_str>Father Arrupe on Jan. 27</m_str> (4_6) 	<m_str>Father Arrupe 's</m_str> (16_8) 	<m_str>Father Arrupe</m_str> (5_15) 	<m_str>Father Arrupe</m_str> (6_1) 	<m_str>Father Arrupe</m_str> (10_5) 	<br><blue>12(2)</blue>: <m_str>Vatican</m_str> (8_27) 	<m_str>the Vatican</m_str> (11_40) 	<br><blue>13(2)</blue>: <m_str>the tension that had arisen between the Jesuits and the Pope</m_str> (10_26) 	<m_str>That tension</m_str> (11_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

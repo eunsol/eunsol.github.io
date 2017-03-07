@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Al Lopez, a Hall of Fame Manager, Is Dead at 97 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Al Lopez , one of baseball 's most prominent managers of the 1950 's and the oldest member of the Baseball Hall of Fame , died yesterday in Tampa , Fla . <br><blue>2</blue>He was 97 and had briefly returned to the spotlight this month when the Chicago White Sox franchise he managed to a pennant in 1959 finally returned to the World Series . <br><blue>3</blue>His death was announced by his son , Al Jr. , who said he had been hospitalized since having a heart attack on Friday , The Associated Press reported . <br><blue>4</blue>Lopez once held the major league record for most games played as a catcher -- 1,918 in 19 seasons . <br><blue>5</blue>But he was best remembered for managing the 1954 Cleveland Indians and the 1959 White Sox to American League pennants in an era when the Yankees dominated baseball . '' <br><blue>6</blue>I read where I 'm anti-Yankee , '' Lopez once told The New York Journal-American . '' <br><blue>7</blue>I 'm anti any club that wins all the time . '' <br><blue>8</blue>Lopez 's Cleveland and Chicago teams finished second nine times to Yankee teams . <br><blue>9</blue>Seven times he was runner-up to Yankee clubs managed by Casey Stengel , who was Lopez 's manager with the Brooklyn Dodgers and the Boston Braves in the 1930 's . <br><blue>10</blue>Lopez managed the 1954 Indians to a league-record 111 victories and managed the 1959 White Sox to their first pennant victory since 1919 , the year of the Black Sox World Series fix . <br><blue>11</blue>When the White Sox reached the World Series this month -- going on to sweep the Houston Astros -- Lopez was sought for interviews to tell of the stars he molded on the 1959 White Sox team . '' <br><blue>12</blue>We had a lot of fun , '' he said . '' <br><blue>13</blue>This club has a little more hitting . '' <br><blue>14</blue>Lopez 's teams won 1,422 games and lost 1,026 in 17 seasons for a winning percentage of .581 . <br><blue>15</blue>He was elected to the Baseball Hall of Fame in 1977 by the Committee on Veterans . <br><blue>16</blue>His hometown honored him in the 1950 's , naming the Tampa ballpark Al Lopez Field . <br><blue>17</blue>Lopez was a low-key type , his Spanish heritage and his persona leading him to be known in the press as a caballero , or a gentleman . '' <br><blue>18</blue>He was very fair , '' Jim Rivera , an outfielder for the 1959 White Sox , told The A.P. yesterday from his home in Fort Wayne , Ind. '' If you did something good , he would compliment you . <br><blue>19</blue>If you struck out or made an error , he would n't say a word as long as you hustled and worked hard . '' <br><blue>20</blue>Alfonso Ramon Lopez was born Aug. 20 , 1908 , in Tampa , a son of immigrants from Spain who went to Cuba , then settled in Tampa 's Spanish-speaking Ybor City section . <br><hr><br><blue>1(3)</blue>: <m_str>Yankee</m_str> (9_7) 	<m_str>Yankee</m_str> (8_12) 	<m_str>the Yankees</m_str> (5_25) 	<br><blue>2(1)</blue>: <m_str>the 1959 White Sox team</m_str> (11_33) 	<br><blue>3(6)</blue>: <m_str>the 1959 White Sox</m_str> (18_13) 	<m_str>the 1959 White Sox</m_str> (5_13) 	<m_str>the 1959 White Sox</m_str> (10_13) 	<m_str>their</m_str> (10_18) 	<m_str>the White Sox</m_str> (11_2) 	<m_str>White Sox</m_str> (11_35) 	<br><blue>4(32)</blue>: <m_str>He</m_str> (15_1) 	<m_str>Lopez 's</m_str> (8_1) 	<m_str>His</m_str> (16_1) 	<m_str>Al Lopez</m_str> (1_1) 	<m_str>him</m_str> (16_4) 	<m_str>he</m_str> (9_3) 	<m_str>the Tampa ballpark Al Lopez Field</m_str> (16_11) 	<m_str>Lopez</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (17_7) 	<m_str>Lopez 's</m_str> (9_16) 	<m_str>Lopez</m_str> (10_1) 	<m_str>his</m_str> (17_11) 	<m_str>him</m_str> (17_14) 	<m_str>He</m_str> (18_1) 	<m_str>His</m_str> (3_1) 	<m_str>he</m_str> (2_19) 	<m_str>his</m_str> (3_6) 	<m_str>his son , Al Jr. , who said he had been hospitalized since having a heart attack on Friday</m_str> (3_6) 	<m_str>Al Jr.</m_str> (3_9) 	<m_str>he</m_str> (3_14) 	<m_str>Lopez</m_str> (4_1) 	<m_str>his</m_str> (18_23) 	<m_str>he</m_str> (19_10) 	<m_str>Lopez</m_str> (11_20) 	<m_str>he</m_str> (12_9) 	<m_str>he</m_str> (5_2) 	<m_str>he</m_str> (18_37) 	<m_str>Alfonso Ramon Lopez</m_str> (20_1) 	<m_str>he</m_str> (11_30) 	<m_str>Lopez</m_str> (6_9) 	<m_str>Lopez 's</m_str> (14_1) 	<br><blue>5(4)</blue>: <m_str>you</m_str> (18_32) 	<m_str>you</m_str> (19_2) 	<m_str>you</m_str> (19_19) 	<m_str>you</m_str> (18_40) 	<br><blue>6(2)</blue>: <m_str>the World Series</m_str> (11_6) 	<m_str>the Black Sox World Series</m_str> (10_28) 	<br><blue>7(4)</blue>: <m_str>1959</m_str> (5_14) 	<m_str>1959</m_str> (10_14) 	<m_str>1959</m_str> (2_25) 	<m_str>1959</m_str> (11_34) 	<br><blue>8(4)</blue>: <m_str>Tampa</m_str> (20_12) 	<m_str>Tampa 's</m_str> (20_28) 	<m_str>Tampa</m_str> (16_12) 	<m_str>Tampa</m_str> (1_29) 	<br><blue>9(2)</blue>: <m_str>this month</m_str> (11_9) 	<m_str>this month</m_str> (2_11) 	<br><blue>10(1)</blue>: <m_str>the year of the Black Sox World Series</m_str> (10_25) 	<br><blue>11(1)</blue>: <m_str>Casey Stengel , who was Lopez 's manager with the Brooklyn Dodgers and the Boston Braves in the 1930 's</m_str> (9_11) 	<br><blue>12(2)</blue>: <m_str>Lopez 's teams</m_str> (14_1) 	<m_str>Chicago teams</m_str> (8_5) 	<br><blue>13(1)</blue>: <m_str>Tampa 's Spanish-speaking Ybor City section</m_str> (20_28) 	<br><blue>14(3)</blue>: <m_str>I</m_str> (6_1) 	<m_str>I</m_str> (7_1) 	<m_str>I</m_str> (6_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Francis Thompson, 95, Whose Films Inspired Imax </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Francis Thompson , a filmmaker whose multiscreen documentaries paved the way for larger-than-life Imax movies , died on Friday at Mount Sinai Hospital in New York . <br><blue>2</blue>He was 95 . <br><blue>3</blue>The cause was pneumonia , said Bayley Silleck , his friend and colleague . <br><blue>4</blue>During his 50-year filmmaking career , Mr. Thompson won an Academy Award in 1965 for best short documentary , and he produced and directed films ranging from abstract experimental pieces to swooping big-screen epics about flying . <br><blue>5</blue>He won his Academy Award for '' To Be Alive ! <br><blue>6</blue>, '' a three-screen documentary that gave a glimpse into the lives of children in Africa , Italy and America . <br><blue>7</blue>Mr. Thompson produced the film with his longtime partner , Alexander Hammid , and showed it at the 1964-65 New York World 's Fair . <br><blue>8</blue>Mr. Silleck described '' To Be Alive ! '' <br><blue>9</blue>as a simple film that sought to convey the joy of life , and he said the multiscreen projection , while not a new technique , inspired the Canadian filmmakers who went on to create Imax films , the big-screen shows that seem to bring the audience into the film . <br><blue>10</blue>Mr. Thompson later directed and produced several Imax films . <br><blue>11</blue>Mr. Thompson also directed the 1957 movie '' N.Y. , N.Y. , '' an abstracted look at a day in the life of New York City . <br><blue>12</blue>He shot it through special lenses , prisms and mirrors , giving it a look that was a touch Cubist and a touch Dadaist , Mr. Silleck said . <br><blue>13</blue>Born in Titusville , Pa. , in 1908 , Mr. Thompson was a member of the Directors Guild of America . <br><blue>14</blue>He retired from filmmaking in 1987 and spent his last years painting at his apartment on East 51st Street , creating collages and exploring the artistic potential of photocopy machines . <br><blue>15</blue>Mr. Thompson is survived by a second cousin , Dr. Arthur Thompson of Seattle . <br><hr><br><blue>1(2)</blue>: <m_str>New York City</m_str> (11_24) 	<m_str>New York</m_str> (1_25) 	<br><blue>2(22)</blue>: <m_str>Mr. Thompson</m_str> (15_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (4_2) 	<m_str>Mr. Silleck</m_str> (12_26) 	<m_str>he</m_str> (9_15) 	<m_str>Mr. Thompson</m_str> (13_10) 	<m_str>Mr. Silleck</m_str> (8_1) 	<m_str>Dr. Arthur Thompson of Seattle</m_str> (15_10) 	<m_str>Mr. Thompson</m_str> (4_7) 	<m_str>Mr. Thompson</m_str> (10_1) 	<m_str>He</m_str> (12_1) 	<m_str>He</m_str> (14_1) 	<m_str>Francis Thompson , a filmmaker whose multiscreen documentaries paved the way for larger-than-life Imax movies</m_str> (1_1) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (14_9) 	<m_str>his</m_str> (5_3) 	<m_str>he</m_str> (4_21) 	<m_str>Mr. Thompson</m_str> (7_1) 	<m_str>his</m_str> (14_14) 	<m_str>his</m_str> (3_10) 	<m_str>Mr. Thompson</m_str> (11_1) 	<m_str>his</m_str> (7_7) 	<br><blue>3(5)</blue>: <m_str>it</m_str> (7_16) 	<m_str>it</m_str> (12_13) 	<m_str>the film</m_str> (9_49) 	<m_str>the film</m_str> (7_4) 	<m_str>it</m_str> (12_3) 	<br><blue>4(3)</blue>: <m_str>Imax</m_str> (10_8) 	<m_str>Imax</m_str> (9_36) 	<m_str>Imax</m_str> (1_14) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

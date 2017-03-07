@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Keye Luke, Actor, Is Dead at 86; 'No. 1 Son' and 'Kung Fu' Master </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Keye Luke , an actor who first gained notice as the brash but earnest No. 1 Son in the Charlie Chan detective films of the 1930 's and 40 's , died on Saturday at Presbyterian Intercommunity Hospital in Whittier , Calif . <br><blue>2</blue>He was 86 years old and lived in Whittier . <br><blue>3</blue>He died of a stroke , a family spokesman said . <br><blue>4</blue>In recent weeks , the resilient actor earned new popularity as a humorously brusque Chinese herbalist and hypnotist in Woody Allen 's comedy " Alice . " <br><blue>5</blue>Mr. Luke portrayed the irascible Dr. Yang , who created a magical mix of Eastern herbs and Western psychiatry to liberate a repressed Manhattanite played by Mia Farrow . <br><blue>6</blue>Over nearly 60 years , the Chinese-born actor made more than 100 films . <br><blue>7</blue>He often appeared on television , where he was most popular as a blind and gentle but masterly instructor in Asian philosophy and martial arts in " Kung Fu , " a mystical Western series starring David Carradine , which ran from 1972 to 1975 . <br><blue>8</blue>As a contract player in the big-studio era , Mr. Luke had to appear in many minor movies , but he excelled in supporting roles in major films that included " Oil for the Lamps of China " ( 1935 ) , " The Good Earth " ( 1937 ) , " Across the Pacific " ( 1942 ) , " Dragon Seed " ( 1944 ) and " Love Is a Many-Splendored Thing " ( 1955 ) . <br><blue>9</blue>The actor played Kato , a loyal servant , in " The Green Hornet " film serials and a dedicated intern in the " Dr. Kildare " films . <br><blue>10</blue>In 1958 , on Broadway , he played the patriarch of a Chinese-American family in Richard Rodgers and Oscar Hammerstein 2d 's musical " Flower Drum Song . " <br><blue>11</blue>Overcoming Stereotypes Mr. Luke was philosophical about roles that were denied to him because of cultural stereotyping . <br><blue>12</blue>In a recent interview , he remarked : " A Chinese role should be played by a Chinese actor if he can play it . <br><blue>13</blue>But if an actor can make you feel the reality , that person should get the part . " <br><blue>14</blue>In 1985 he expressed satisfaction that at least some stereotypes had disappeared . <br><blue>15</blue>" The Chinese laundryman and the Japanese gardener may still be with us , " he said , " but most Chinese and Japanese now find themselves in the mainstream of American life . " <br><blue>16</blue>His most satisfying role , he said , was the teacher in " Kung Fu . " <br><blue>17</blue>" I was giving the actual sayings of great Chinese philosophers like Confucius for dialogue , " he said in 1985 . <br><blue>18</blue>" It worked for me on every level . " <br><blue>19</blue>In 1986 , he won the first Lifetime Achievement Award bestowed by the Association of Asian/Pacific American Artists , and last month he was honored with a sidewalk star in the Hollywood Hall of Fame . <br><blue>20</blue>Mr. Luke was born in Canton and immigrated to the United States as a child . <br><hr><br><blue>1(2)</blue>: <m_str>Whittier</m_str> (1_40) 	<m_str>Whittier</m_str> (2_9) 	<br><blue>2(25)</blue>: <m_str>he</m_str> (19_4) 	<m_str>him</m_str> (11_13) 	<m_str>the resilient actor</m_str> (4_5) 	<m_str>he</m_str> (15_16) 	<m_str>His</m_str> (16_1) 	<m_str>he</m_str> (12_6) 	<m_str>Mr. Luke</m_str> (8_10) 	<m_str>he</m_str> (16_6) 	<m_str>Mr. Luke</m_str> (20_1) 	<m_str>Mr. Luke</m_str> (5_1) 	<m_str>he</m_str> (19_23) 	<m_str>The actor</m_str> (9_1) 	<m_str>he</m_str> (8_21) 	<m_str>he</m_str> (12_21) 	<m_str>He</m_str> (2_1) 	<m_str>I</m_str> (17_2) 	<m_str>the Chinese-born actor</m_str> (6_6) 	<m_str>he</m_str> (10_7) 	<m_str>he</m_str> (14_3) 	<m_str>he</m_str> (17_18) 	<m_str>He</m_str> (3_1) 	<m_str>me</m_str> (18_5) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (7_8) 	<m_str>Stereotypes Mr. Luke</m_str> (11_2) 	<br><blue>3(2)</blue>: <m_str>The Chinese laundryman and the Japanese gardener</m_str> (15_2) 	<m_str>themselves</m_str> (15_27) 	<br><blue>4(2)</blue>: <m_str>it</m_str> (12_24) 	<m_str>A Chinese role</m_str> (12_10) 	<br><blue>5(2)</blue>: <m_str>1985</m_str> (14_2) 	<m_str>1985</m_str> (17_21) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

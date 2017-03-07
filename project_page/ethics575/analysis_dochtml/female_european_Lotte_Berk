@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Lotte Berk, 90, German Dancer Who Slimmed London's Stylish </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Lotte Berk , the dancer who gave her name to a no-nonsense system for achieving slim waists , trim thighs and taut bottoms that became a must for glamorous women in the 1960 's , died on Nov. 4 in England . <br><blue>2</blue>She was 90 and had lived there in Hungerford , Berkshire , since retiring about 20 years ago . <br><blue>3</blue>A German-born ballet dancer who settled in Britain , she devised a set of disciplined exercises called the Lotte Berk Method . <br><blue>4</blue>Blending elements of yoga and dance with stretches and pelvic gyrations , she and her disciples have toned bodies , including many rich and famous ones , in studios on both sides of the Atlantic . <br><blue>5</blue>Many studios using her method still operate . <br><blue>6</blue>Lotte Berk was a phenomenon of the 1960 's scene of swinging London . <br><blue>7</blue>Most of those fads ran their course . <br><blue>8</blue>But the quest for a sleek contour , which she led for many years in her own exercise center , lived on . <br><blue>9</blue>Her message of rigorous exercise , at the barre and on the floor , spread without much advertising and largely by word of mouth . <br><blue>10</blue>The message , preached in many exercise studios , was videotaped for those who want privacy and trust in their own self-discipline . <br><blue>11</blue>Lieselotte Heymansohn was born to a well-to-do father in Cologne -- her mother died when she was a child -- and studied modern dance with Mary Wigman in Cologne , against her father 's wishes . <br><blue>12</blue>At 20 , she married a British dancer , Ernest Berk , with whom she had a daughter , Esther . <br><blue>13</blue>They performed in Germany between the wars but fled to England when the rise of Hitler made a serious career impossible for her as a Jew in Germany . <br><blue>14</blue>Ms. Berk performed with some modern dance companies , living as a free spirit in what was known as an open marriage , and in the 1950 's began the work that established her reputation from London to New York and California . <br><blue>15</blue>There are differing versions of that beginning . <br><blue>16</blue>According to one , she suffered a serious spinal injury in a car accident and by dint of willpower exercised her way out of a wheelchair . <br><blue>17</blue>Another is that she realized what middle-age flab was doing to her petite dancer 's body . <br><blue>18</blue>With the help of her legendary self-control and an osteopath , she devised a regimen of training to restore her musculature and body posture . <br><blue>19</blue>For strength and suppleness , she concentrated on the abdominals , the pelvic region and the lower back , engaging them in isometric movements , lying on the carpet or facing a mirror at the barre . <br><blue>20</blue>Men were barred from her original basement studio off Oxford Street in central London . <br><hr><br><blue>1(2)</blue>: <m_str>a British dancer , Ernest Berk , with whom she had a daughter , Esther</m_str> (12_6) 	<m_str>her petite dancer 's</m_str> (17_12) 	<br><blue>2(2)</blue>: <m_str>them</m_str> (19_21) 	<m_str>the abdominals , the pelvic region and the lower</m_str> (19_9) 	<br><blue>3(2)</blue>: <m_str>the barre</m_str> (9_8) 	<m_str>the barre</m_str> (19_35) 	<br><blue>4(2)</blue>: <m_str>those who want privacy and trust in their own self-discipline</m_str> (10_13) 	<m_str>their</m_str> (10_20) 	<br><blue>5(28)</blue>: <m_str>her</m_str> (18_20) 	<m_str>her</m_str> (11_12) 	<m_str>she</m_str> (19_6) 	<m_str>she</m_str> (11_16) 	<m_str>she</m_str> (12_4) 	<m_str>her</m_str> (14_34) 	<m_str>she</m_str> (4_13) 	<m_str>she</m_str> (8_10) 	<m_str>her</m_str> (4_15) 	<m_str>she</m_str> (16_5) 	<m_str>Mary Wigman</m_str> (11_26) 	<m_str>her</m_str> (8_16) 	<m_str>her</m_str> (1_8) 	<m_str>her</m_str> (5_4) 	<m_str>her</m_str> (20_5) 	<m_str>Her</m_str> (9_1) 	<m_str>her</m_str> (11_32) 	<m_str>she</m_str> (12_15) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (16_21) 	<m_str>she</m_str> (17_4) 	<m_str>her</m_str> (17_12) 	<m_str>Ms. Berk</m_str> (14_1) 	<m_str>her</m_str> (13_23) 	<m_str>her</m_str> (18_5) 	<m_str>she</m_str> (3_10) 	<m_str>Lieselotte Heymansohn</m_str> (11_1) 	<m_str>she</m_str> (18_12) 	<br><blue>6(1)</blue>: <m_str>a daughter , Esther</m_str> (12_17) 	<br><blue>7(2)</blue>: <m_str>1960 's</m_str> (1_33) 	<m_str>1960 's</m_str> (6_8) 	<br><blue>8(2)</blue>: <m_str>Cologne</m_str> (11_10) 	<m_str>Cologne</m_str> (11_29) 	<br><blue>9(2)</blue>: <m_str>London</m_str> (6_13) 	<m_str>London</m_str> (14_37) 	<br><blue>10(2)</blue>: <m_str>Germany</m_str> (13_4) 	<m_str>Germany</m_str> (13_28) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

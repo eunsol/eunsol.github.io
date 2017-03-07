@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Raymond Hains, 78, French Artist </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Raymond Hains , one of the last surviving members of the influential French Nouveaux Réalistes group of artists , died on Oct. 28 at his home in Paris . <br><blue>2</blue>He was 78 . <br><blue>3</blue>His death was confirmed by the French Ministry of Culture . <br><blue>4</blue>Mr. Hains was best known for the layered , torn and weathered posters that he found and removed from public display and exhibited unaltered in galleries and museums . <br><blue>5</blue>He produced many of those works from 1949 to 1961 in collaboration with his friend and fellow Nouveau Réaliste Jacques Villeglé . <br><blue>6</blue>The '' décollages , '' as they were called , resembled Cubist collages and , sometimes , Abstract Expressionist paintings , but they were also seen as provocations in the tradition of the found objects of Marcel Duchamp . <br><blue>7</blue>Two other artists were known for similar works : the Frenchman François Dufresne and the Italian Mimmo Rotella . <br><blue>8</blue>The four became known collectively as Les Affichistes . <br><blue>9</blue>Raymond Hains was born in St. Brieuc , Britanny , on Nov. 9 , 1926 . <br><blue>10</blue>He enrolled as a sculpture student at the School of Fine Art in Rennes , but he soon turned to photography and experimented with mirrors and distorting transparencies to create abstract works that he called Hypnagogic Photographs . <br><blue>11</blue>These made up his first exhibition at the Colette Allendy Gallery in Paris in 1948 . <br><blue>12</blue>In 1960 , Mr. Hains joined the critic Pierre Restany and the artists Yves Klein , Jean Tinguely and Mr. Villeglé , among others , in founding the Nouveaux Réalistes , whose emergence came to be seen as the beginning of French Pop Art and a precursor of American Pop Art . <br><blue>13</blue>From the 60 's on , Mr. Hains 's work ranged unpredictably from installations of found objects to greatly enlarged sculptures of matchbooks and matchboxes . <br><blue>14</blue>In recent years he had been working on digital montages that he called Macintoshages . <br><blue>15</blue>What connected the works was not a consistent visual style but an irreverent disregard for conventional ways of categorizing information and an interest in the play of words and verbal associations , which in any give work could be at once absurd , scholarly and bewilderingly complicated . <br><blue>16</blue>Mr. Hains was featured in many international exhibitions , including '' The Art of Assemblage , '' the landmark 1961 exhibition at the Museum of Modern Art in New York ; the 1964 Venice Biennale ; Documenta 4 in 1968 ; and Documenta 10 in 1997 , at which he presented outdoors a giant mannequin representing the dealer who exhibited many of the Nouveaux Réalistes in the 60 's , Iris Clert . <br><blue>17</blue>The Mr. Hains 's death came six days after that of another of the Nouveaux Réalistes , the sculptor Arman . <br><hr><br><blue>1(3)</blue>: <m_str>the artists</m_str> (12_12) 	<m_str>Two other artists</m_str> (7_1) 	<m_str>These</m_str> (11_1) 	<br><blue>2(2)</blue>: <m_str>the works</m_str> (15_3) 	<m_str>those works</m_str> (5_5) 	<br><blue>3(2)</blue>: <m_str>Documenta</m_str> (16_37) 	<m_str>Documenta</m_str> (16_43) 	<br><blue>4(3)</blue>: <m_str>décollages</m_str> (6_3) 	<m_str>they</m_str> (6_7) 	<m_str>they</m_str> (6_23) 	<br><blue>5(2)</blue>: <m_str>French Pop Art</m_str> (12_42) 	<m_str>American Pop Art</m_str> (12_49) 	<br><blue>6(2)</blue>: <m_str>His death</m_str> (3_1) 	<m_str>The Mr. Hains 's death</m_str> (17_1) 	<br><blue>7(2)</blue>: <m_str>Mr. Villeglé</m_str> (12_20) 	<m_str>fellow Nouveau Réaliste Jacques Villeglé</m_str> (5_17) 	<br><blue>8(2)</blue>: <m_str>Paris</m_str> (11_13) 	<m_str>Paris</m_str> (1_28) 	<br><blue>9(19)</blue>: <m_str>he</m_str> (16_50) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (5_14) 	<m_str>The Mr. Hains 's</m_str> (17_1) 	<m_str>Mr. Hains 's</m_str> (13_7) 	<m_str>Mr. Hains</m_str> (4_1) 	<m_str>his</m_str> (1_25) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (10_34) 	<m_str>Mr. Hains</m_str> (12_4) 	<m_str>he</m_str> (14_4) 	<m_str>Mr. Hains</m_str> (16_1) 	<m_str>he</m_str> (4_15) 	<m_str>His</m_str> (3_1) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (14_12) 	<m_str>Raymond Hains</m_str> (9_1) 	<m_str>he</m_str> (10_17) 	<m_str>his</m_str> (11_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

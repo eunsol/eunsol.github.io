@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Antonio Salemme, 102, Painter And Sculptor of Robeson Nude </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Antonio Salemme , a sculptor and painter who won renown in the 1930 's with his life-size nude sculpture of the singer and actor Paul Robeson , died on Tuesday at his home in Williams Township , Pa . <br><blue>2</blue>He was 102 . <br><blue>3</blue>Mr. Salemme , whose younger half-brother was the painter Attilio Salemme , was born in Gaeta , Italy , in 1892 . <br><blue>4</blue>In 1904 , after the death of his mother , he moved to Boston with his father . <br><blue>5</blue>He began studying art there when he was 14 . <br><blue>6</blue>In 1912 , a patron sent him to Rome , where he studied sculpture . <br><blue>7</blue>Returning to the United States after World War I , Mr. Salemme established a studio in Greenwich Village , and in 1924 , after seeing Robeson perform in " The Emperor Jones , " he invited the actor to pose for him . <br><blue>8</blue>Out of these sessions came a friendship important to both artists and a full-figure nude portrait of the actor in bronze-colored plaster , titled " Negro Spiritual . " <br><blue>9</blue>The sculpture was exhibited at the Brooklyn Museum and the Palace of the Legion of Honor in San Francisco . <br><blue>10</blue>In 1930 , the Philadelphia Art Alliance asked Mr. Salemme to send the Robeson sculpture for an exhibition , then declined to exhibit it because of the subject 's fame and race . <br><blue>11</blue>Its rejection elicited a string of editorials against censorship . <br><blue>12</blue>The Robeson sculpture , later shipped to a foundry in France for casting in bronze , was lost during World War II . <br><blue>13</blue>In the mid-1930 's , Mr. Salemme worked for a while as director of the Works Progress Administration mural project in New York City , becoming friends with younger artists including Arshile Gorky and Willem de Kooning . <br><blue>14</blue>Over the years , he executed many portrait commissions , including those of Ethel Waters , John F. Kennedy , Albert Einstein and Dwight D. Eisenhower . <br><blue>15</blue>His work is represented in the collections of the Metropolitan Museum of Art , the Newark Museum , Rutgers University , Yale University and Columbia University . <br><blue>16</blue>He is survived by his wife , Martha . <br><hr><br><blue>1(3)</blue>: <m_str>Robeson</m_str> (7_26) 	<m_str>Robeson</m_str> (10_14) 	<m_str>Robeson</m_str> (12_2) 	<br><blue>2(5)</blue>: <m_str>it</m_str> (10_24) 	<m_str>sculpture</m_str> (6_14) 	<m_str>the Robeson sculpture</m_str> (10_13) 	<m_str>The sculpture</m_str> (9_1) 	<m_str>The Robeson sculpture , later shipped to a foundry in France for casting in bronze</m_str> (12_1) 	<br><blue>3(20)</blue>: <m_str>His</m_str> (15_1) 	<m_str>his</m_str> (1_16) 	<m_str>him</m_str> (7_42) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Salemme</m_str> (7_11) 	<m_str>Mr. Salemme</m_str> (13_6) 	<m_str>his</m_str> (4_8) 	<m_str>him</m_str> (6_7) 	<m_str>he</m_str> (4_11) 	<m_str>his</m_str> (1_32) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (6_12) 	<m_str>he</m_str> (14_5) 	<m_str>his</m_str> (4_16) 	<m_str>Mr. Salemme</m_str> (10_9) 	<m_str>Mr. Salemme</m_str> (3_1) 	<m_str>his</m_str> (16_5) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (7_35) 	<m_str>he</m_str> (5_7) 	<br><blue>4(2)</blue>: <m_str>the actor in bronze-colored plaster</m_str> (8_18) 	<m_str>the actor to pose for him</m_str> (7_37) 	<br><blue>5(2)</blue>: <m_str>the mid-1930 's</m_str> (13_2) 	<m_str>Its rejection</m_str> (11_1) 	<br><blue>6(2)</blue>: <m_str>the Philadelphia Art Alliance</m_str> (10_4) 	<m_str>Its</m_str> (11_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

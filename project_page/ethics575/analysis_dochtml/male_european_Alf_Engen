@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Alf Engen, 88, Skiing Champion And Designer of Ski Resorts </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Alf Engen , who won 16 United States skiing titles , half in ski jumping , and who helped design more than 30 American ski areas , died Sunday in Cottonwood Hospital in Salt Lake City . <br><blue>2</blue>He was 88 . <br><blue>3</blue>The best-known ski areas that he helped design were Sun Valley , Idaho ; Alta , Utah , and Jackson Hole , Wyo . <br><blue>4</blue>He also helped develop areas in Nevada , Montana and the Upper Peninsula of Michigan . <br><blue>5</blue>Much of his design work was done as a technical adviser to the National Forest Service . <br><blue>6</blue>Mr. Engen came to the United States from Norway in 1929 . <br><blue>7</blue>He was already an outstanding competitor in ski jumping , in which the skier races down a long slide at 60 miles an hour or faster and then flies into space , only a few feet above a steep hill . <br><blue>8</blue>At first , he jumped in professional competitions and won the 1931 world pro championship . <br><blue>9</blue>In 1937 , the United States Ski Association determined that he had never competed for money and reinstated his status as an amateur , and he immediately won the national championship . <br><blue>10</blue>Between 1931 and 1947 , he won eight national titles in ski jumping and eight in combined competition that included other skiing disciplines . <br><blue>11</blue>In 1940 and 1941 , his victories in combined competitions included the national four-way championship , which involved jumping , cross-country , downhill and slalom . <br><blue>12</blue>His 1946 amateur jumping title came on borrowed skis because his skis had broken . <br><blue>13</blue>He set several world records for jumping distance and reached 281 feet in practice . <br><blue>14</blue>He made the 1940 Olympic team in jumping and in downhill-slalom combined , but those Olympics were canceled because of World War II . <br><blue>15</blue>In 1948 , he coached the United States Olympic jumpers . <br><blue>16</blue>That year , he founded the Alf Engen Ski School in Alta and ran it until he retired in 1989 . <br><blue>17</blue>As a youth in Norway , he excelled in skiing , soccer , hockey and speed skating . <br><blue>18</blue>His first skis were homemade , and his first ski wax came from melted phonograph records . <br><blue>19</blue>He won more than 500 sports trophies , many of which are destined for a planned Alf Engen Ski Museum in Park City , Utah . <br><blue>20</blue>He appeared in eight full-length skiing movies . <br><hr><br><blue>1(2)</blue>: <m_str>Olympic</m_str> (14_5) 	<m_str>Olympic</m_str> (15_9) 	<br><blue>2(2)</blue>: <m_str>Alta</m_str> (3_15) 	<m_str>Alta</m_str> (16_12) 	<br><blue>3(2)</blue>: <m_str>His first skis</m_str> (18_1) 	<m_str>his skis</m_str> (12_11) 	<br><blue>4(2)</blue>: <m_str>United States</m_str> (15_7) 	<m_str>United States</m_str> (1_7) 	<br><blue>5(2)</blue>: <m_str>the Alf Engen Ski School</m_str> (16_6) 	<m_str>it</m_str> (16_15) 	<br><blue>6(2)</blue>: <m_str>pro championship</m_str> (8_14) 	<m_str>the national championship</m_str> (9_29) 	<br><blue>7(24)</blue>: <m_str>his</m_str> (11_6) 	<m_str>he</m_str> (15_4) 	<m_str>He</m_str> (19_1) 	<m_str>He</m_str> (4_1) 	<m_str>he</m_str> (8_4) 	<m_str>His</m_str> (12_1) 	<m_str>he</m_str> (16_4) 	<m_str>He</m_str> (20_1) 	<m_str>his</m_str> (12_11) 	<m_str>his</m_str> (5_3) 	<m_str>He</m_str> (13_1) 	<m_str>he</m_str> (16_17) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (9_11) 	<m_str>Mr. Engen</m_str> (6_1) 	<m_str>he</m_str> (17_7) 	<m_str>his</m_str> (9_19) 	<m_str>He</m_str> (14_1) 	<m_str>he</m_str> (10_6) 	<m_str>he</m_str> (9_26) 	<m_str>His</m_str> (18_1) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (3_6) 	<m_str>his</m_str> (18_8) 	<br><blue>8(2)</blue>: <m_str>Utah</m_str> (3_17) 	<m_str>Utah</m_str> (19_25) 	<br><blue>9(1)</blue>: <m_str>Salt Lake City</m_str> (1_34) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

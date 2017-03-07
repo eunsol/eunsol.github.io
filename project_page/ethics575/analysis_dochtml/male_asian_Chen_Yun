@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Chen Yun, Who Slowed China's Shift to Market, Dies at 89 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Chen Yun , a conservative Communist Party patriarch whose revulsion to Western capitalism served as an important brake on the pace of economic reform in China during the last 16 years , died on Monday . <br><blue>2</blue>He was 89 . <br><blue>3</blue>A lengthy obituary read on state-run television tonight said he died of an undisclosed illness . <br><blue>4</blue>The obituary , issued by the Central Committee of the governing Chinese Communist Party , described Mr. Chen as a " great proletarian revolutionary and statesman , an outstanding Marxist , one of the pioneers and founders of China 's socialist economic construction , and a long-tested , brilliant leader of the party and state . " <br><blue>5</blue>Mr. Chen 's funeral arrangements were not announced , but foreign diplomats here said any memorial service would be examined for points of political significance due to the political transition under way with the decline in the health of paramount leader Deng Xiaoping , who is 90 . <br><blue>6</blue>There were no appearances by Mr. Chen 's family members on television , only a photographic portrait of Mr. Chen with a black border . <br><blue>7</blue>Mr. Chen 's son , Chen Yuan , is a senior party official and deputy governor of the central bank . <br><blue>8</blue>Like Mr. Deng , Mr. Chen was one of the Communist revolutionaries who founded the People 's Republic of China in 1949 . <br><blue>9</blue>And though he cooperated with Mr. Deng during much of his career , in the last decade he led a faction of Marxist ideologues and conservative central planners in a rivalry with Mr. Deng that , at times , seemed to threaten China 's economic transformation . <br><blue>10</blue>Indeed , many Chinese have felt in recent years that the future direction of reform could rest on which of the two most senior leaders , Mr. Deng or Mr. Chen , would survive the other . <br><blue>11</blue>One Communist Party official who is staunch supporter of reform said today that while Mr. Chen was respected , there was a sense of relief being expressed in some sectors of the party that Mr. Chen 's death has preceded Mr. Deng 's . <br><blue>12</blue>" If Deng had died first , " he said , " I think we would have been facing three years of stagnation of the whole process of reform . " <br><blue>13</blue>In late February , Mr. Chen was admitted to an exclusive ward of Beijing Hospital reserved for party leaders , and reportedly received frequent dialysis treatments for kidney failure . <br><blue>14</blue>Mr. Chen was last seen in public in February 1994 in a televised greeting from party leaders during the Lunar New Year celebrations . <br><blue>15</blue>He looked remarkably fit at the time , much more so than Mr. Deng , who also made his last television appearance at that time . <br><blue>16</blue>Mr. Deng is said to be under the care of a team of physicians at his home just north of the Forbidden City . <br><blue>17</blue>Although Mr. Deng established himself as paramount leader in 1978 , he was only first among equals within the group of revolutionary elders who survived Mao Zedong , who died in 1976 . <br><blue>18</blue>Mr. Chen , although a year younger than Mr. Deng , joined the party earlier and , therefore , had slightly greater seniority . <br><blue>19</blue>Mr. Chen proved to be a formidable political obstacle with whom Mr. Deng was forced to compromise over policy and the makeup of the Communist Party leadership , whose members remain divided along ideological lines on political reform , economics and how to carry out China 's long-delayed modernization . <br><blue>20</blue>Mr. Chen 's death could alter the balance of power among the surviving revolutionary elders who selected and serve as patrons to China 's current leaders . <br><hr><br><blue>1(1)</blue>: <m_str>the People 's</m_str> (8_15) 	<br><blue>2(2)</blue>: <m_str>Mr. Chen 's death</m_str> (11_35) 	<m_str>Mr. Chen 's death</m_str> (20_1) 	<br><blue>3(13)</blue>: <m_str>Mr. Deng</m_str> (9_6) 	<m_str>his</m_str> (16_16) 	<m_str>Mr. Deng</m_str> (17_2) 	<m_str>Mr. Deng 's</m_str> (11_41) 	<m_str>himself</m_str> (17_5) 	<m_str>Mr. Deng</m_str> (8_2) 	<m_str>Mr. Deng , who also made his last television appearance at that time</m_str> (15_13) 	<m_str>he</m_str> (17_12) 	<m_str>Deng</m_str> (12_3) 	<m_str>Mr. Deng</m_str> (19_12) 	<m_str>Mr. Deng</m_str> (16_1) 	<m_str>Mr. Deng that , at times , seemed to threaten China 's economic transformation</m_str> (9_33) 	<m_str>Mr. Deng</m_str> (18_9) 	<br><blue>4(22)</blue>: <m_str>He</m_str> (15_1) 	<m_str>Mr. Chen</m_str> (8_5) 	<m_str>his</m_str> (15_19) 	<m_str>he</m_str> (9_3) 	<m_str>his</m_str> (9_11) 	<m_str>he</m_str> (9_18) 	<m_str>Mr. Chen</m_str> (18_1) 	<m_str>Mr. Chen</m_str> (19_1) 	<m_str>Mr. Chen</m_str> (10_30) 	<m_str>Mr. Chen</m_str> (11_15) 	<m_str>he</m_str> (12_9) 	<m_str>Mr. Chen as a `` great proletarian revolutionary and statesman , an outstanding Marxist , one of the pioneers and founders of China 's socialist economic construction , and a long-tested , brilliant leader of the party and state</m_str> (4_17) 	<m_str>Mr. Chen 's</m_str> (20_1) 	<m_str>Mr. Chen 's</m_str> (5_1) 	<m_str>I</m_str> (12_13) 	<m_str>Mr. Chen 's</m_str> (11_35) 	<m_str>Mr. Chen</m_str> (13_5) 	<m_str>Mr. Chen 's</m_str> (6_6) 	<m_str>Mr. Chen</m_str> (14_1) 	<m_str>Mr. Chen 's</m_str> (7_1) 	<m_str>Mr. Chen with a black border</m_str> (6_19) 	<m_str>Chen Yuan</m_str> (7_6) 	<br><blue>5(3)</blue>: <m_str>Communist Party</m_str> (1_6) 	<m_str>Communist Party</m_str> (19_25) 	<m_str>Communist Party</m_str> (11_2) 	<br><blue>6(3)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Mr. Chen 's son , Chen Yuan</m_str> (7_1) 	<m_str>he</m_str> (3_10) 	<br><blue>7(4)</blue>: <m_str>the party</m_str> (18_13) 	<m_str>Chinese Communist Party</m_str> (4_12) 	<m_str>the party</m_str> (4_52) 	<m_str>the party</m_str> (11_32) 	<br><blue>8(6)</blue>: <m_str>China 's</m_str> (9_43) 	<m_str>China</m_str> (1_26) 	<m_str>China 's</m_str> (4_39) 	<m_str>China 's</m_str> (20_23) 	<m_str>China 's</m_str> (19_46) 	<m_str>the People 's Republic of China</m_str> (8_15) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

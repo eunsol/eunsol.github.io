@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Arturo Frondizi, Argentine Chief In Time of Austerity, Dies at 86 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Arturo Frondizi , a former President of Argentina who bolstered the country 's economy through a series of unpopular austerity measures during four tumultuous years in office from 1958 to 1962 , died in Buenos Aires yesterday . <br><blue>2</blue>He was 86 . <br><blue>3</blue>His family said he died of a heart ailment . <br><blue>4</blue>It is a reflection of the complexity of Argentine politics that Dr. Frondizi owed both his election in 1958 and his military ouster in 1962 to the support of the exiled dictator Juan D. Peron , a man he had earlier bitterly opposed as a member of Congress and as a candidate for Vice President on the Radical Civic Union ticket in 1951 . <br><blue>5</blue>Dr. Frondizi had a history as a doctrinare , if somewhat eclectic , liberal ideologue , but he was above all a pragmatist . <br><blue>6</blue>He had consistently opposed Juan Peron , the charismatic army colonel swept into power in 1946 and re-elected in 1951 . <br><blue>7</blue>After Peron was overthrown by the military in 1955 and his party was banned , Dr. Frondizi seized his chance . <br><blue>8</blue>Recognizing that Peron 's supporters , who formed the largest voting bloc , had nowhere else to turn , he curtailed his criticism of their leader and won Peron 's tacit endorsement from exile even as he was successfully courting the chief anti-Peron factions , the military , the Catholic Church , wealthy industrialists and even the Communists . <br><blue>9</blue>When Dr. Frondizi was accused of betraying his own principles , he had a ready reply . <br><blue>10</blue>" Let 's be frank , " he said , " those who refuse votes are fools . " <br><blue>11</blue>Running against Ricardo Balbin , the man who had headed his own Radical party ticket in 1951 , Dr. Frondizi won the 1958 election by a two-to-one margin . <br><blue>12</blue>Taking office at a time of economic distress , he again put pragmatism first , this time above his own political popularity , imposing a series of austerity measures to curb inflation and attract foreign investment , primarily to the country 's ailing oil industry . <br><blue>13</blue>His measures , including a currency devaluation , would eventually be credited with laying the groundwork for an economic resurgence , but the immediate effect was to put a serious burden on the poor and middle classes . <br><blue>14</blue>The result was an almost constant series of strikes , demonstrations and clashes with the police , requiring the intervention of the military . <br><blue>15</blue>His undoing , however , was not his economic measures , but keeping a political promise to lift the ban on Peronist candidates and parties . <br><blue>16</blue>When the Peronists won a series of congressional elections in early 1962 , the military , which had also become alarmed after learning that Dr. Frondizi had met secretly with Che Guevara , an emissary of the Cuban dictator , Fidel Castro , withdrew its support , forcing Dr. Frondizi 's resignation that March . <br><blue>17</blue>Dr. Frondizi , whose parents were Italian immigrants , was born on Oct. 28 , 1908 , at Paso de los Libros in the northern province of Corrientes . <br><blue>18</blue>He was the 13th of 14 children , a place in the family pecking order that may help explain his fierce devotion to democratic principles . <br><blue>19</blue>As a brilliant law student at the University of Buenos Aires he was involved in so many student demonstrations that the police branded him a " chronic student , " and wondered how he found time to study . <br><blue>20</blue>Even so , he made his first political mark in Radical Party politics when he turned down the university 's highest award because it would have been presented by a military dictator . <br><hr><br><blue>1(2)</blue>: <m_str>their</m_str> (8_25) 	<m_str>that Peron 's supporters , who formed the largest voting bloc</m_str> (8_2) 	<br><blue>2(2)</blue>: <m_str>the police</m_str> (19_21) 	<m_str>the police</m_str> (14_15) 	<br><blue>3(3)</blue>: <m_str>the country 's</m_str> (12_40) 	<m_str>Argentina</m_str> (1_8) 	<m_str>the country 's</m_str> (1_11) 	<br><blue>4(2)</blue>: <m_str>the Peronists</m_str> (16_2) 	<m_str>its</m_str> (16_45) 	<br><blue>5(2)</blue>: <m_str>the university 's</m_str> (20_18) 	<m_str>the University of Buenos Aires</m_str> (19_7) 	<br><blue>6(3)</blue>: <m_str>1951</m_str> (4_63) 	<m_str>1951</m_str> (6_20) 	<m_str>1951</m_str> (11_17) 	<br><blue>7(2)</blue>: <m_str>the university 's highest award</m_str> (20_18) 	<m_str>it</m_str> (20_24) 	<br><blue>8(5)</blue>: <m_str>his</m_str> (7_11) 	<m_str>Peron 's</m_str> (8_29) 	<m_str>Peron</m_str> (7_2) 	<m_str>Peron 's</m_str> (8_3) 	<m_str>Juan Peron</m_str> (6_5) 	<br><blue>9(2)</blue>: <m_str>It</m_str> (4_1) 	<m_str>a heart ailment</m_str> (3_7) 	<br><blue>10(38)</blue>: <m_str>His</m_str> (15_1) 	<m_str>his</m_str> (15_8) 	<m_str>Dr. Frondizi</m_str> (7_16) 	<m_str>his</m_str> (7_19) 	<m_str>he</m_str> (8_20) 	<m_str>Dr. Frondizi</m_str> (9_2) 	<m_str>his</m_str> (8_22) 	<m_str>his</m_str> (9_8) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Frondizi , whose parents were Italian immigrants</m_str> (17_1) 	<m_str>he</m_str> (9_12) 	<m_str>Dr. Frondizi</m_str> (16_25) 	<m_str>he</m_str> (8_37) 	<m_str>he</m_str> (10_8) 	<m_str>He</m_str> (18_1) 	<m_str>His</m_str> (3_1) 	<m_str>His family</m_str> (3_1) 	<m_str>he</m_str> (3_4) 	<m_str>Dr. Frondizi 's</m_str> (16_49) 	<m_str>his</m_str> (11_11) 	<m_str>his</m_str> (18_20) 	<m_str>Dr. Frondizi</m_str> (11_19) 	<m_str>he</m_str> (19_12) 	<m_str>Dr. Frondizi</m_str> (4_12) 	<m_str>his</m_str> (4_16) 	<m_str>he</m_str> (12_10) 	<m_str>Dr. Frondizi</m_str> (5_1) 	<m_str>he</m_str> (20_4) 	<m_str>his</m_str> (4_21) 	<m_str>his</m_str> (20_6) 	<m_str>him</m_str> (19_24) 	<m_str>His</m_str> (13_1) 	<m_str>his</m_str> (12_19) 	<m_str>he</m_str> (20_15) 	<m_str>he</m_str> (19_34) 	<m_str>he</m_str> (5_18) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (4_39) 	<br><blue>11(2)</blue>: <m_str>the 1958 election</m_str> (11_22) 	<m_str>his election in 1958</m_str> (4_16) 	<br><blue>12(1)</blue>: <m_str>Congress</m_str> (4_48) 	<br><blue>13(1)</blue>: <m_str>Radical Party</m_str> (20_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

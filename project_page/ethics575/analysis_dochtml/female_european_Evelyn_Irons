@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Evelyn Irons, War Reporter, Is Dead at 99 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Evelyn Graham Irons , a war correspondent who had a romance with the Bloomsbury novelist and poet Vita Sackville-West , died April 3 at her home in Brewster , N.Y . <br><blue>2</blue>She was two months short of her 100th birthday . <br><blue>3</blue>Ms. Irons was a 30-year-old editor of the women 's page of The Daily Mail in London when she met Sackville-West in 1931 . <br><blue>4</blue>She had gone to interview the 38-year-old writer at her home , Sissinghurst Castle , renowned for its famous gardens , which Sackville-West spent much of her life designing and tending . <br><blue>5</blue>The romance was tangled . <br><blue>6</blue>Sackville-West had already begun her enduring relationship with Violet Trefusis , the daughter of Alice Keppel , Edward VII 's mistress . <br><blue>7</blue>And Ms. Irons was romantically involved at the time with Olive Rinder , who soon also fell in love with Sackville-West . <br><blue>8</blue>Victoria Glendenning wrote in her 1983 biography , '' Vita : The Life of Vita Sackville-West , '' that by January 1932 , the three women were in a menage a trois that ended later that year when Ms. Irons met and fell in love with another woman , Joy McSweeney . <br><blue>9</blue>Ms. McSweeney remained her companion until she died in the 1980 's . <br><blue>10</blue>The love poems dated 1931 in Vita Sackville-West 's '' Collected Poems '' are addressed to Ms. Irons , although Ms. Glendenning notes that '' the more erotic ones '' were never published . <br><blue>11</blue>Ms. Irons and Sackville-West remained close friends and corresponded warmly until Sackville-West 's death in 1962 . <br><blue>12</blue>Evelyn Irons was born in Glasgow on June 17 , 1900 . <br><blue>13</blue>After graduating from Somerville College , Oxford , she began working as a journalist for The Daily Mail , then The Evening Standard . <br><blue>14</blue>At the outbreak of World War II , The Standard made her a war correspondent . <br><blue>15</blue>Suspecting that British commanders would not welcome a woman at their headquarters , she accredited herself to the First French Army and crossed the Rhine with Charles de Gaulle and accompanied French troops through Germany and Austria . <br><blue>16</blue>She is believed to be the first female war correspondent to reach Hitler 's retreat at Berchtesgaden and was the first to win the Croix de Guerre . <br><blue>17</blue>Ms. Irons moved to New York in 1952 . <br><blue>18</blue>In 1954 , she rode into Guatemala on a mule during a revolution there , getting to the action and filing her dispatches well ahead of her colleagues . <br><blue>19</blue>She became the New York bureau chief for The Sunday Times of London at the end of the 1950 's . <br><blue>20</blue>No immediate family members survive her . <br><hr><br><blue>1(2)</blue>: <m_str>The romance</m_str> (5_1) 	<m_str>a romance with the Bloomsbury novelist and poet Vita Sackville-West</m_str> (1_10) 	<br><blue>2(2)</blue>: <m_str>British commanders</m_str> (15_3) 	<m_str>their</m_str> (15_11) 	<br><blue>3(3)</blue>: <m_str>the three women</m_str> (8_24) 	<m_str>the 1980 's</m_str> (9_10) 	<m_str>the women 's</m_str> (3_8) 	<br><blue>4(2)</blue>: <m_str>1931</m_str> (3_23) 	<m_str>1931</m_str> (10_5) 	<br><blue>5(2)</blue>: <m_str>Sissinghurst Castle</m_str> (4_13) 	<m_str>its</m_str> (4_18) 	<br><blue>6(31)</blue>: <m_str>Ms. Glendenning</m_str> (10_21) 	<m_str>She</m_str> (19_1) 	<m_str>She</m_str> (4_1) 	<m_str>she</m_str> (3_19) 	<m_str>her</m_str> (18_22) 	<m_str>Victoria Glendenning</m_str> (8_1) 	<m_str>her</m_str> (8_5) 	<m_str>she</m_str> (15_14) 	<m_str>her</m_str> (18_27) 	<m_str>her</m_str> (4_10) 	<m_str>Evelyn Irons</m_str> (12_1) 	<m_str>herself</m_str> (15_16) 	<m_str>She</m_str> (16_1) 	<m_str>her</m_str> (20_6) 	<m_str>Ms. McSweeney</m_str> (9_1) 	<m_str>her</m_str> (9_4) 	<m_str>her</m_str> (4_27) 	<m_str>she</m_str> (9_7) 	<m_str>She</m_str> (2_1) 	<m_str>Ms. Irons</m_str> (17_1) 	<m_str>poet Vita Sackville-West</m_str> (1_17) 	<m_str>she</m_str> (13_9) 	<m_str>her</m_str> (2_7) 	<m_str>her</m_str> (1_25) 	<m_str>her</m_str> (6_5) 	<m_str>Ms. Irons</m_str> (8_39) 	<m_str>Ms. Irons</m_str> (3_1) 	<m_str>she</m_str> (18_4) 	<m_str>Ms. Irons</m_str> (7_2) 	<m_str>her</m_str> (14_12) 	<m_str>to Ms. Irons</m_str> (10_16) 	<br><blue>7(9)</blue>: <m_str>Vita Sackville-West 's</m_str> (10_7) 	<m_str>Olive Rinder , who soon also fell in love with Sackville-West</m_str> (7_11) 	<m_str>Sackville-West</m_str> (6_1) 	<m_str>Sackville-West 's</m_str> (11_12) 	<m_str>Sackville-West in 1931</m_str> (3_21) 	<m_str>Vita Sackville-West</m_str> (8_15) 	<m_str>Sackville-West</m_str> (4_23) 	<m_str>Sackville-West</m_str> (7_21) 	<m_str>Sackville-West</m_str> (11_4) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

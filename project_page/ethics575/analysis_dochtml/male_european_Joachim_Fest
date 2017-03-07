@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Joachim Fest, Expert on Hitler, Dies at 79 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Joachim Fest , a German journalist and author known internationally for his biographies and interpretations of Hitler , Albert Speer and the regime they embodied , died Monday in Kronberg-im-Taunus , his hometown , near Frankfurt-am-Main . <br><blue>2</blue>He was 79 . <br><blue>3</blue>His death was announced by the Frankfurter Allgemeine Zeitung , the conservative national daily newspaper , from which he retired in 1993 as co-publisher and director of its culture pages . <br><blue>4</blue>The paper did not give a cause of death . <br><blue>5</blue>Regarded as politically conservative , Mr. Fest refused to be pigeon-holed . <br><blue>6</blue>What was clear was his stature as an authoritative writer and one of Germany 's most respected and trenchant analysts of its Nazi period . <br><blue>7</blue>He left an indelible mark in 1973 with his comprehensive life of Hitler , which came out in the United States the following year , titled '' Hitler : A Biography '' ( Harcourt ) . <br><blue>8</blue>It has been reprinted , most recently in 2000 , and remains a valued reference work as well as a solid introduction for general readers . <br><blue>9</blue>The first major Hitler biography by a German , it devoted less space to detailing the crimes of the Nazi regime in its latter years of destruction and self-destruction than to explaining the phenomenon of Hitler and his improbable ascent to power . '' <br><blue>10</blue>Fest , '' wrote Walter Clemons in The New York Times Book Review , '' draws a convincing picture of the visionary and theatrical appeal of this figure to the German people and the tactical cunning with which he played off his adversaries during the decade between 1929 and 1939 . '' <br><blue>11</blue>That World War II occupies a scant 150 pages at the end of Fest 's long book arouses suspicion in an American reader , '' he went on . '' <br><blue>12</blue>But no questions are dodged . '' <br><blue>13</blue>In Mr. Fest 's perspective , Mr. Clemons wrote , '' Hitler had long been a defeated man when he appeared to have reached his zenith . '' <br><blue>14</blue>Joachim Fest had set the scene in an earlier , critically acclaimed work , '' The Face of the Third Reich : Portraits of the Nazi Leadership '' ( Pantheon , 1970 ) , in which he profiled 18 of the principal Nazi figures of that era . <br><blue>15</blue>While Mr. Fest 's many books ranged over topics as diverse as Richard Wagner 's '' Der Ring des Nibelungen , '' travel in Italy and philosophical reflections on life and history , he returned to the war years with '' Plotting Hitler 's Death : The Story of the German Resistance '' ( Holt , 1996 ) and '' Inside Hitler 's Bunker : The Last Days of the Third Reich '' ( Farrar , Straus ; 2004 ) . <br><blue>16</blue>His '' Speer : The Final Verdict '' ( Harcourt , 2002 ) , examined how Speer , the architect and an educated young man from the bourgeoisie , was taken in by Hitler , who chose him to design the grandiose structures envisioned for the Third Reich . <br><blue>17</blue>He also became the regime 's armaments minister and served 20 years in Spandau prison , in Berlin , for overseeing the use of slave labor . <br><blue>18</blue>Joachim Fest was born in Berlin on Dec. 8 , 1926 . <br><blue>19</blue>His father , a teacher , lost his job for opposing the Nazis . <br><blue>20</blue>Mr. Fest describes his upbringing in his memoir , '' Ich nicht '' ( '' Not Me '' ) , due out within weeks , according to the Frankfurter Allgemeine . <br><hr><br><blue>1(9)</blue>: <m_str>Walter Clemons</m_str> (10_5) 	<m_str>he</m_str> (13_20) 	<m_str>he</m_str> (15_34) 	<m_str>His</m_str> (16_1) 	<m_str>He</m_str> (17_1) 	<m_str>he</m_str> (14_37) 	<m_str>Mr. Clemons</m_str> (13_7) 	<m_str>his</m_str> (13_25) 	<m_str>him</m_str> (16_38) 	<br><blue>2(2)</blue>: <m_str>the regime 's</m_str> (17_4) 	<m_str>the regime</m_str> (1_22) 	<br><blue>3(2)</blue>: <m_str>Berlin</m_str> (17_18) 	<m_str>Berlin</m_str> (18_6) 	<br><blue>4(2)</blue>: <m_str>its</m_str> (6_22) 	<m_str>its</m_str> (3_28) 	<br><blue>5(3)</blue>: <m_str>its</m_str> (9_23) 	<m_str>it</m_str> (9_10) 	<m_str>It</m_str> (8_1) 	<br><blue>6(36)</blue>: <m_str>his</m_str> (7_9) 	<m_str>Mr. Fest 's</m_str> (15_2) 	<m_str>His</m_str> (19_1) 	<m_str>he</m_str> (3_19) 	<m_str>Fest 's</m_str> (11_14) 	<m_str>his</m_str> (19_8) 	<m_str>he</m_str> (10_39) 	<m_str>Hitler</m_str> (7_28) 	<m_str>Speer</m_str> (16_3) 	<m_str>his</m_str> (10_42) 	<m_str>he</m_str> (11_26) 	<m_str>Mr. Fest</m_str> (20_1) 	<m_str>his</m_str> (20_4) 	<m_str>his</m_str> (20_7) 	<m_str>Mr. Fest</m_str> (5_6) 	<m_str>his</m_str> (1_12) 	<m_str>Hitler</m_str> (9_4) 	<m_str>Mr. Fest 's</m_str> (13_2) 	<m_str>Hitler</m_str> (1_17) 	<m_str>He</m_str> (2_1) 	<m_str>Albert Speer</m_str> (1_19) 	<m_str>Me</m_str> (20_17) 	<m_str>Hitler</m_str> (13_12) 	<m_str>Hitler 's</m_str> (15_43) 	<m_str>his</m_str> (6_5) 	<m_str>Fest</m_str> (10_1) 	<m_str>Joachim Fest</m_str> (14_1) 	<m_str>his</m_str> (1_32) 	<m_str>Hitler</m_str> (16_34) 	<m_str>His</m_str> (3_1) 	<m_str>Joachim Fest</m_str> (18_1) 	<m_str>He</m_str> (7_1) 	<m_str>Hitler</m_str> (9_36) 	<m_str>Hitler 's</m_str> (15_62) 	<m_str>his</m_str> (9_38) 	<m_str>Hitler 's Bunker</m_str> (15_62) 	<br><blue>7(2)</blue>: <m_str>the Third Reich</m_str> (16_46) 	<m_str>the Third Reich</m_str> (15_70) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

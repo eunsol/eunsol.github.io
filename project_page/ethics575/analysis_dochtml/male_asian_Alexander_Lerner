@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Alexander Lerner, Cybernetics Expert, Is Dead at 90 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Alexander Yakob Lerner , a star of Soviet Russian cybernetics and patriarch of the Jewish '' refusenik '' colony in Moscow , died April 6 in Rehovot , Israel , where he had settled after finally being allowed to leave Russia in 1988 . <br><blue>2</blue>He was 90 . <br><blue>3</blue>The New York Times received word of his death in June but was unable to confirm it before this past weekend . <br><blue>4</blue>Dr. Lerner , an applied mathematician , was a member of the Soviet scientific and technological elite whose knowledge landed him in a special limbo when he strayed from the flock . <br><blue>5</blue>He was a leading practitioner of cybernetics , a term coined after World War II by Norbert Wiener at M.I.T . <br><blue>6</blue>It is an esoteric branch of science that deals with human control systems like the brain and nervous systems where they interconnect with complex electronic systems . <br><blue>7</blue>Dr. Lerner headed his own laboratory in Moscow , traveled freely abroad to attend meetings and conferences , lived in a spacious -- by Soviet standards -- apartment , with a country dacha , two cars and sundry privileges ordinary citizens could only dream about . <br><blue>8</blue>His mathematical equations were used , for instance , in forecasting supply and demand for vital materials like steel , or allocating scarce resources . <br><blue>9</blue>Information of that sort was considered highly sensitive , and Dr. Lerner was considered a walking repository of state secrets . <br><blue>10</blue>He published scores of scientific papers and several books , burnishing the reputation of the '' Soviet science '' at the height of the cold war . <br><blue>11</blue>His own international standing burgeoned with the publication of his '' Fundamentals of Cybernetics , '' a standard text , in 1967 . <br><blue>12</blue>But in 1971 he applied for an exit visa , ostensibly to reunite with his daughter , who had emigrated to Israel years before . <br><blue>13</blue>A standard procedure for such a request , it provided an opening for Soviet Jews to leave the country with official permission . <br><blue>14</blue>Dr. Lerner 's application was refused . <br><blue>15</blue>When he , in turn , refused to reconsider , he was stripped of his scientific positions . <br><blue>16</blue>He then endured nearly 17 years as one of the most vocal and most watched inhabitants of a limbo reserved for prominent refuseniks . <br><blue>17</blue>He was forbidden to leave on the ground that his knowledge must not leave the country . <br><blue>18</blue>Deprived of his own work , he was harassed with threats to find a job or face prosecution for parasitism . <br><blue>19</blue>His visitors risked police questioning . <br><blue>20</blue>Nonetheless , his standing in the international scientific community shielded him and others in post-Stalinist Moscow , when the authorities no longer felt free to simply bundle him off to the gulag . <br><hr><br><blue>1(2)</blue>: <m_str>Moscow</m_str> (1_21) 	<m_str>Moscow</m_str> (7_8) 	<br><blue>2(2)</blue>: <m_str>it</m_str> (3_17) 	<m_str>his death</m_str> (3_8) 	<br><blue>3(3)</blue>: <m_str>the country</m_str> (13_18) 	<m_str>the country</m_str> (17_15) 	<m_str>Israel</m_str> (12_22) 	<br><blue>4(1)</blue>: <m_str>Rehovot</m_str> (1_27) 	<br><blue>5(28)</blue>: <m_str>he</m_str> (15_2) 	<m_str>His</m_str> (19_1) 	<m_str>his</m_str> (11_10) 	<m_str>His</m_str> (8_1) 	<m_str>he</m_str> (15_11) 	<m_str>his</m_str> (15_15) 	<m_str>he</m_str> (12_4) 	<m_str>He</m_str> (16_1) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (20_3) 	<m_str>him</m_str> (4_21) 	<m_str>his</m_str> (12_15) 	<m_str>he</m_str> (4_27) 	<m_str>him</m_str> (20_11) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Lerner</m_str> (9_11) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (17_10) 	<m_str>Dr. Lerner 's</m_str> (14_1) 	<m_str>him</m_str> (20_28) 	<m_str>he</m_str> (1_32) 	<m_str>his</m_str> (18_3) 	<m_str>Dr. Lerner</m_str> (7_1) 	<m_str>he</m_str> (18_7) 	<m_str>his</m_str> (3_8) 	<m_str>his</m_str> (7_4) 	<m_str>His</m_str> (11_1) 	<br><blue>6(1)</blue>: <m_str>the cold war</m_str> (10_24) 	<br><blue>7(1)</blue>: <m_str>the authorities</m_str> (20_19) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

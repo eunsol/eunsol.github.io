@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Les Tremayne, 90, a Star of Radio Dramas </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Les Tremayne , a honey-voiced leading man of radio 's golden age , died on Friday at a hospital in Santa Monica , Calif . <br><blue>2</blue>He was 90 and lived in Los Angeles . <br><blue>3</blue>The cause was heart failure , said his wife , Joan . <br><blue>4</blue>Among his radio credits were '' The Thin Man , '' '' The Falcon , '' '' Betty and Bob '' and '' The Romance of Helen Trent . '' <br><blue>5</blue>Perhaps his most well-known role was as the debonair leading man of '' The First Nighter '' from 1936 to 1943 . <br><blue>6</blue>In that weekly show he and his leading lady , Barbara Luddy , performed short dramas amid the meticulously recreated mise-en-scène of a Broadway theater on opening night . <br><blue>7</blue>Before the drama began each week , the character of Mr. First Nighter walked out of the din of street traffic and into the busy lobby of the Little Theater Off Times Square . <br><blue>8</blue>He briefly commented on the show he was about to see and then took his seat , always third row center . '' <br><blue>9</blue>The house lights have dimmed and the curtain is about to go up on tonight 's production , '' Mr. First Nighter whispered to the radio listeners as the show was about to begin . <br><blue>10</blue>The program specialized in romantic comedies , whose principal roles were invariably played by Mr. Tremayne ( a predecessor was Don Ameche ) and Ms. Luddy . <br><blue>11</blue>Because the show was performed before a studio audience , the actors wore formal attire , with Mr. Tremayne in evening clothes and top hat and Ms. Luddy in a gown . <br><blue>12</blue>Born Lester Tremayne in London to an American father and a British mother , he came to the United States as a child and began work in radio as a teenager . <br><blue>13</blue>Besides his wife , he is survived by a brother , Charles Henning , of Vermont . <br><blue>14</blue>After '' The First Nighter , '' Mr. Tremayne acted in television and film , including a leading role as the general in the 1953 movie version of '' The War of the Worlds , '' but he never reached the level of success he found in radio . <br><blue>15</blue>Of his more than 40 film credits , most were for minor roles , like the auctioneer in Alfred Hitchcock 's '' North by Northwest . '' <br><blue>16</blue>One of his last roles was on '' General Hospital '' on television in the late 1980 's . <br><hr><br><blue>1(2)</blue>: <m_str>his wife</m_str> (13_2) 	<m_str>his wife , Joan</m_str> (3_8) 	<br><blue>2(8)</blue>: <m_str>his</m_str> (15_2) 	<m_str>he</m_str> (13_5) 	<m_str>his</m_str> (16_3) 	<m_str>he</m_str> (14_38) 	<m_str>Mr. Tremayne</m_str> (14_8) 	<m_str>he</m_str> (12_15) 	<m_str>he</m_str> (14_45) 	<m_str>his</m_str> (13_2) 	<br><blue>3(3)</blue>: <m_str>the show</m_str> (9_29) 	<m_str>the show he was about to see and then took his seat , always third row center</m_str> (8_5) 	<m_str>the show</m_str> (11_2) 	<br><blue>4(2)</blue>: <m_str>the actors</m_str> (11_11) 	<m_str>Mr. Tremayne -LRB- a predecessor was Don Ameche -RRB- and Ms. Luddy</m_str> (10_15) 	<br><blue>5(2)</blue>: <m_str>whose principal roles</m_str> (10_8) 	<m_str>his last roles</m_str> (16_3) 	<br><blue>6(2)</blue>: <m_str>Mr. First Nighter</m_str> (7_11) 	<m_str>Mr. First Nighter</m_str> (9_20) 	<br><blue>7(10)</blue>: <m_str>the character of Mr. First Nighter</m_str> (7_8) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (4_2) 	<m_str>his</m_str> (5_2) 	<m_str>his</m_str> (8_15) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (3_8) 	<m_str>he</m_str> (6_5) 	<m_str>his</m_str> (6_7) 	<m_str>he</m_str> (8_7) 	<br><blue>8(2)</blue>: <m_str>Ms. Luddy</m_str> (10_25) 	<m_str>Ms. Luddy</m_str> (11_27) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

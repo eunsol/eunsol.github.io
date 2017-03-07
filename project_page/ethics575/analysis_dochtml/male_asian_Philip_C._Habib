@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Philip C. Habib, a Leading U.S. Diplomat, Dies at 72 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Philip C. Habib , a Brooklyn-born Lebanese-American who was one of the United States policymakers in the Middle East and Asia for decades , died Monday while vacationing in France . <br><blue>2</blue>He was 72 years old . <br><blue>3</blue>Mr. Habib died of a heart attack , the United States Embassy said . <br><blue>4</blue>He lived in Belmont , Calif . <br><blue>5</blue>Mr. Habib served in the Foreign Service for nearly three decades , and many years in retirement as a trouble-shooter , crafting for himself a reputation as a tough and shrewd negotiator . <br><blue>6</blue>He is credited with helping to arrange the cease-fire in Lebanon and the Palestine Liberation Organization 's withdrawal from that country in 1982 following the Israeli invasion . <br><blue>7</blue>He also played an important role in persuading President Ferdinand E. Marcos of the Philippines to go into exile in 1986 . <br><blue>8</blue>Advisor to 3 Administrations A former Ambassador to South Korea , he helped craft foreign policy across the region both in that capacity and later as a top advisor to three Administrations . <br><blue>9</blue>Although he officially retired from the Foreign Service in 1978 , citing health problems , he was recalled just a year later to work as a special adviser to Secretary of State Cyrus R. Vance . <br><blue>10</blue>He became known as a tough trouble-shooter on behalf of the United States . <br><blue>11</blue>His final assignment came in 1987 , when he was called upon by President Reagan to be a special envoy in Central America . <br><blue>12</blue>He resigned that post , and severed his ties with Government in August of that year . <br><blue>13</blue>Just before his death , Mr. Habib had travelled to Evian , France to give a speech at the Bilderberg Conference , an annual meeting of European and United States scholars and intellectuals . <br><blue>14</blue>Dr. Henry A. Kissinger , who also spoke at that conference , yesterday recalled Mr. Habib as " every Secretary of State 's idea of a great foreign service officer . " <br><blue>15</blue>Dr. Kissinger first met Mr. Habib in Vietnam in the mid 1960 's and recalled having been immediately impressed with his acumen and irreverence . <br><blue>16</blue>" I was taken to meet him by Ambassador Lodge , " Dr. Kissinger said in a telephone interview , referring to Henry Cabot Lodge , who was then United States Ambassador to Saigon . <br><blue>17</blue>" And when I met him , he said , ' I bet you are one of those Harvard smart alecs who knows everything . ' <br><blue>18</blue>Then he told me to go to the provinces and ' see what was really going on . ' " <br><blue>19</blue>In his speech at the Bilderberg Conference , Mr. Habib spoke about the need to maintain the North Atlantic Treaty Organization and the importance of America 's ties with Europe . <br><blue>20</blue>Then , according to those who attended , in a departure from his usual preoccupations with foreign affairs , he spoke at length about United States domestic issues , stressing the need for America to stand by its moral principles . <br><hr><br><blue>1(2)</blue>: <m_str>the United States</m_str> (10_11) 	<m_str>the United States Embassy</m_str> (3_9) 	<br><blue>2(2)</blue>: <m_str>his speech at the Bilderberg Conference</m_str> (19_2) 	<m_str>a speech at the Bilderberg Conference , an annual meeting of European and United States</m_str> (13_16) 	<br><blue>3(2)</blue>: <m_str>his ties</m_str> (12_8) 	<m_str>America 's ties</m_str> (19_26) 	<br><blue>4(4)</blue>: <m_str>United States</m_str> (13_29) 	<m_str>United States</m_str> (20_25) 	<m_str>United States</m_str> (1_13) 	<m_str>United States</m_str> (16_30) 	<br><blue>5(2)</blue>: <m_str>the need</m_str> (19_13) 	<m_str>the need for America</m_str> (20_31) 	<br><blue>6(4)</blue>: <m_str>Central America</m_str> (11_22) 	<m_str>America</m_str> (20_34) 	<m_str>its</m_str> (20_38) 	<m_str>America 's</m_str> (19_26) 	<br><blue>7(1)</blue>: <m_str>Asia</m_str> (1_21) 	<br><blue>8(1)</blue>: <m_str>Vietnam</m_str> (15_8) 	<br><blue>9(1)</blue>: <m_str>the Middle East</m_str> (1_17) 	<br><blue>10(1)</blue>: <m_str>a heart attack</m_str> (3_5) 	<br><blue>11(1)</blue>: <m_str>the Foreign Service</m_str> (9_6) 	<br><blue>12(2)</blue>: <m_str>State 's</m_str> (14_22) 	<m_str>State</m_str> (9_32) 	<br><blue>13(3)</blue>: <m_str>the Bilderberg Conference , an annual meeting of European and United States</m_str> (13_19) 	<m_str>that conference</m_str> (14_10) 	<m_str>the Bilderberg Conference</m_str> (19_5) 	<br><blue>14(3)</blue>: <m_str>Lebanon</m_str> (6_11) 	<m_str>the Philippines</m_str> (7_14) 	<m_str>that country</m_str> (6_20) 	<br><blue>15(2)</blue>: <m_str>to Henry Cabot Lodge , who was then United States Ambassador to Saigon</m_str> (16_22) 	<m_str>Ambassador Lodge</m_str> (16_9) 	<br><blue>16(1)</blue>: <m_str>President Reagan</m_str> (11_14) 	<br><blue>17(1)</blue>: <m_str>France</m_str> (1_30) 	<br><blue>18(35)</blue>: <m_str>Dr. Kissinger</m_str> (15_1) 	<m_str>Mr. Habib in Vietnam</m_str> (15_5) 	<m_str>I</m_str> (16_2) 	<m_str>he</m_str> (8_12) 	<m_str>his</m_str> (15_21) 	<m_str>him</m_str> (16_7) 	<m_str>he</m_str> (9_2) 	<m_str>Dr. Kissinger</m_str> (16_13) 	<m_str>He</m_str> (2_1) 	<m_str>I</m_str> (17_4) 	<m_str>him</m_str> (17_6) 	<m_str>he</m_str> (9_16) 	<m_str>he</m_str> (17_8) 	<m_str>He</m_str> (10_1) 	<m_str>I</m_str> (17_12) 	<m_str>you</m_str> (17_14) 	<m_str>he</m_str> (18_2) 	<m_str>Mr. Habib</m_str> (3_1) 	<m_str>me</m_str> (18_4) 	<m_str>His</m_str> (11_1) 	<m_str>he</m_str> (11_9) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (19_2) 	<m_str>He</m_str> (12_1) 	<m_str>Mr. Habib</m_str> (19_9) 	<m_str>his</m_str> (12_8) 	<m_str>Mr. Habib</m_str> (5_1) 	<m_str>his</m_str> (13_3) 	<m_str>his</m_str> (20_13) 	<m_str>Mr. Habib</m_str> (13_6) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (20_20) 	<m_str>himself</m_str> (5_24) 	<m_str>He</m_str> (7_1) 	<m_str>Mr. Habib</m_str> (14_15) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

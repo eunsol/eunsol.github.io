@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Valentino Mazzia, 77, Student Of Deaths Under Anesthesia </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Valentino D. B. Mazzia , who was a pioneer in the investigation of operating room deaths in New York and who also served as chairman of the department of anesthesiology at the New York University School of Medicine , died on March 10 at Mount Sinai Hospital . <br><blue>2</blue>Dr. Mazzia , who held degrees in medicine and law , was 77 and lived in Manhattan . <br><blue>3</blue>Dr. Michael Baden , the forensic pathologist and a longtime friend , said Dr. Mazzia died of cirrhosis of the liver caused by hepatitis C , which he contracted years ago in his work as an anesthesiologist . <br><blue>4</blue>He had received two liver transplants , Dr. Baden said . <br><blue>5</blue>From 1961 to 1972 , before he turned to law , he worked with Dr. Baden and under Dr. Milton Helpern , who was then New York 's City 's Chief Medical Examiner . <br><blue>6</blue>Dr. Baden said that Dr. Mazzia 's work led to improvements in anesthesiology and surgical procedures in operating rooms around the world . '' <br><blue>7</blue>His greatest contribution was helping to create the specialty of forensic anesthesiology by actually going to the scene , which was the operating room , to see if something went wrong , '' Dr. Baden said . '' <br><blue>8</blue>He would go in and say , ' You ca n't use this room until it is checked out , ' if there was a death . <br><blue>9</blue>He investigated on the spot and not later from a file . '' <br><blue>10</blue>Dr. Mazzia was born in New York City on Feb. 17 , 1922 , the son of Alexander Mazzia and the former Francesca D'Alessandro . <br><blue>11</blue>A 1943 graduate of City College , he earned his medical degree from New York University in 1950 . <br><blue>12</blue>He taught at Cornell University Medical School from 1952 to 1961 . <br><blue>13</blue>He was chairman of the anesthesiology department at New York University in the 60 's . <br><blue>14</blue>He then became interested in the legal aspects of medicine , and in the early 1970 's he earned a law degree from the University of Southern California and a doctorate in jurisprudence from the University of Denver in 1978 . <br><blue>15</blue>For the next two decades , he worked as a malpractice lawyer , mostly in New York and in the South . <br><blue>16</blue>From 1971 to 1973 , Dr. Mazzia was director of anesthesiology at the Los Angeles County-Martin Luther King Jr . <br><blue>17</blue>General Hospital , and he practiced medicine in the 1970 's in Bakersfield , Calif. , and in Las Vegas , Nev . <br><blue>18</blue>Dr. Mazzia was a consultant in several well-known criminal cases . <br><blue>19</blue>He worked with the prosecution in the second murder trial of Dr. Carl Coppolino , in Naples , Fla. , in 1967 . <br><blue>20</blue>Dr. Coppolino , charged with killing his wife with a muscle-relaxing drug , was convicted of second-degree murder and sentenced to life in prison ; he was granted parole in 1979 . <br><hr><br><blue>1(2)</blue>: <m_str>New York University</m_str> (13_9) 	<m_str>New York University in 1950</m_str> (11_14) 	<br><blue>2(27)</blue>: <m_str>he</m_str> (14_18) 	<m_str>Dr. Mazzia</m_str> (3_14) 	<m_str>he</m_str> (11_8) 	<m_str>He</m_str> (19_1) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (11_10) 	<m_str>he</m_str> (15_7) 	<m_str>He</m_str> (8_1) 	<m_str>Dr. Baden</m_str> (4_8) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (3_28) 	<m_str>his</m_str> (3_33) 	<m_str>Dr. Mazzia</m_str> (16_6) 	<m_str>Dr. Baden</m_str> (7_34) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (20_7) 	<m_str>he</m_str> (5_7) 	<m_str>He</m_str> (13_1) 	<m_str>he</m_str> (5_12) 	<m_str>he</m_str> (17_5) 	<m_str>Dr. Baden</m_str> (6_1) 	<m_str>Dr. Mazzia 's</m_str> (6_5) 	<m_str>Dr. Mazzia</m_str> (10_1) 	<m_str>he</m_str> (20_26) 	<m_str>He</m_str> (14_1) 	<m_str>Dr. Mazzia</m_str> (18_1) 	<m_str>His</m_str> (7_1) 	<br><blue>3(5)</blue>: <m_str>then New York 's</m_str> (5_25) 	<m_str>New York</m_str> (15_16) 	<m_str>New York 's City 's</m_str> (5_26) 	<m_str>New York City</m_str> (10_6) 	<m_str>New York</m_str> (1_18) 	<br><blue>4(3)</blue>: <m_str>this room</m_str> (8_13) 	<m_str>it</m_str> (8_16) 	<m_str>the operating room , to see if something went wrong</m_str> (7_22) 	<br><blue>5(2)</blue>: <m_str>his work</m_str> (3_33) 	<m_str>Dr. Mazzia 's work</m_str> (6_5) 	<br><blue>6(2)</blue>: <m_str>1970 's</m_str> (17_10) 	<m_str>1970 's</m_str> (14_16) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

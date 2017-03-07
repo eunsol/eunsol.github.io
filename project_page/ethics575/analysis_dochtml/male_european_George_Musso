@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>George Musso, 90, a Hall of Fame Lineman </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>George Musso , a Hall of Fame lineman and captain of the Chicago Bears when they ruled professional football before and during World War II , died Tuesday in Edwardsville , Ill . <br><blue>2</blue>He was 90 . <br><blue>3</blue>Musso , called Moose , played for the Bears from 1933 to 1944 , when they were known as the Monsters of the Midway . <br><blue>4</blue>In that span , their record was 104-26-6 and they won four National Football League championships and seven Western Division titles . <br><blue>5</blue>One championship came in 1940 in a 73-0 rout of the Washington Redskins . <br><blue>6</blue>On a team with Red Grange ( for Musso 's first two years ) , Bronko Nagurski , Sid Luckman and Bulldog Turner , Musso was often overshadowed . <br><blue>7</blue>He started out as a $ 90-a-game offensive tackle . <br><blue>8</blue>In his fifth season , he was switched to offensive guard , and he became the first player to be voted All-Pro at two positions . <br><blue>9</blue>His coach , George Halas , called him '' the greatest guard in professional football ranks . '' <br><blue>10</blue>Musso was an intimidating middle guard on defense , an excellent blocker on pass plays and a quick pulling guard on running plays . <br><blue>11</blue>He had a ready explanation for that quickness . '' <br><blue>12</blue>I am blocking for Nagurski , and he waits for no one , '' he said . '' <br><blue>13</blue>If you do n't open the hole , he 'll hit you in the back , and the next time you will either open it or get out of the way quick . '' <br><blue>14</blue>For Musso 's last nine seasons , he was the Bears ' captain . '' <br><blue>15</blue>The players would n't have anyone else , '' Grange once said . '' <br><blue>16</blue>Halas let him give the pep talk to the players before the big games . <br><blue>17</blue>He had great spirit , and his talks would really get the guys fired up . '' <br><blue>18</blue>Becoming captain was a monumental achievement for someone who almost did not make the team . <br><blue>19</blue>In those days , there was little scouting of college players . <br><blue>20</blue>Halas saw Musso 's picture in a basketball uniform , grimaced at the mustache and said : '' This guy will never make it . <br><hr><br><blue>1(1)</blue>: <m_str>Grange</m_str> (15_10) 	<br><blue>2(1)</blue>: <m_str>the team</m_str> (18_14) 	<br><blue>3(3)</blue>: <m_str>you</m_str> (13_21) 	<m_str>you</m_str> (13_12) 	<m_str>you</m_str> (13_2) 	<br><blue>4(2)</blue>: <m_str>the hole</m_str> (13_6) 	<m_str>it</m_str> (13_25) 	<br><blue>5(5)</blue>: <m_str>He</m_str> (17_1) 	<m_str>his</m_str> (17_7) 	<m_str>This guy</m_str> (20_19) 	<m_str>Halas</m_str> (16_1) 	<m_str>Halas</m_str> (20_1) 	<br><blue>6(7)</blue>: <m_str>they</m_str> (1_16) 	<m_str>they</m_str> (3_16) 	<m_str>their</m_str> (4_5) 	<m_str>the Bears '</m_str> (14_10) 	<m_str>the Bears</m_str> (3_8) 	<m_str>they</m_str> (4_10) 	<m_str>the Chicago Bears</m_str> (1_12) 	<br><blue>7(2)</blue>: <m_str>Musso 's picture</m_str> (20_3) 	<m_str>it</m_str> (20_24) 	<br><blue>8(23)</blue>: <m_str>his</m_str> (8_2) 	<m_str>he</m_str> (8_6) 	<m_str>him</m_str> (16_3) 	<m_str>he</m_str> (8_14) 	<m_str>His</m_str> (9_1) 	<m_str>His coach , George Halas</m_str> (9_1) 	<m_str>George Halas</m_str> (9_4) 	<m_str>him</m_str> (9_8) 	<m_str>He</m_str> (2_1) 	<m_str>the greatest guard in professional football ranks</m_str> (9_10) 	<m_str>Musso</m_str> (10_1) 	<m_str>Musso , called Moose</m_str> (3_1) 	<m_str>Moose</m_str> (3_4) 	<m_str>He</m_str> (11_1) 	<m_str>he</m_str> (12_8) 	<m_str>Musso 's</m_str> (20_3) 	<m_str>he</m_str> (12_15) 	<m_str>he</m_str> (13_9) 	<m_str>Musso 's</m_str> (6_9) 	<m_str>Musso 's</m_str> (14_2) 	<m_str>he</m_str> (14_8) 	<m_str>He</m_str> (7_1) 	<m_str>Musso</m_str> (6_25) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

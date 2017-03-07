@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Tug McGraw, 59, Is Dead; Star With Mets and Phillies </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Tug McGraw , the colorful left-handed relief pitcher who helped the Mets and the Philadelphia Phillies capture World Series championships , died yesterday in the Nashville area . <br><blue>2</blue>He was 59 . <br><blue>3</blue>The cause was brain cancer , said Larry Shenk , a spokesman for the Phillies . <br><blue>4</blue>McGraw had surgery in Florida in March 2003 for removal of a malignant brain tumor , having worked during spring training as an instructor for the Phillies . <br><blue>5</blue>Last Sept. 28 , at a highly emotional ceremony at the closing of the Phillies ' Veterans Stadium after 33 seasons , McGraw threw a simulated pitch , then raised his arms in triumph as he had after throwing the pitch that gave the Phillies the 1980 World Series championship . <br><blue>6</blue>He made an appearance at Shea Stadium last July , receiving a standing ovation . '' <br><blue>7</blue>Tug McGraw was one of the great characters of the game of baseball , '' his Mets teammate Tom Seaver said in a statement yesterday . '' <br><blue>8</blue>He just had a joy for life and living . <br><blue>9</blue>But what people sometimes overlook because he was always happy go-lucky was what kind of competitior he was on the mound . <br><blue>10</blue>No one competed with more intensity that he did . '' <br><blue>11</blue>McGraw pitched for the Mets team that shocked the baseball world by winning the 1969 World Series . <br><blue>12</blue>He posted a 9-3 record and saved 12 games . <br><blue>13</blue>In 1973 , McGraw helped the Mets climb from last place to first in the National League East Division , then reach the World Series and come within one game of beating the Oakland Athletics . <br><blue>14</blue>That was the season that McGraw coined the Mets ' war cry : '' You Got ta Believe . '' <br><blue>15</blue>In 1980 , when the Phillies won a World Series for the first time , McGraw got the final out in the final game by striking out Willie Wilson of Kansas City with the bases loaded in the ninth inning . <br><blue>16</blue>He pitched on Phillies teams that also won East Division titles in 1976 , 1977 and 1978 and the National League pennant in 1983 . <br><blue>17</blue>His 1981 Phillies team reached the postseason in a strike-shortened schedule . <br><blue>18</blue>McGraw pitched for 19 years in the National League . <br><blue>19</blue>He was a Met from 1965 through 1974 , except for most of the 1967 season and all of 1968 , when he was in the minors . <br><blue>20</blue>After the 1974 season , with the Mets concerned about his torn shoulder muscle , they traded him to the Phillies . <br><hr><br><blue>1(2)</blue>: <m_str>National League</m_str> (16_20) 	<m_str>the National League</m_str> (18_7) 	<br><blue>2(3)</blue>: <m_str>the final game</m_str> (15_22) 	<m_str>one game of beating the Oakland Athletics</m_str> (13_29) 	<m_str>That</m_str> (14_1) 	<br><blue>3(4)</blue>: <m_str>the Philadelphia Phillies capture World Series</m_str> (1_14) 	<m_str>the World Series</m_str> (13_23) 	<m_str>a World Series</m_str> (15_8) 	<m_str>the 1969 World Series</m_str> (11_14) 	<br><blue>4(2)</blue>: <m_str>the 1967 season</m_str> (19_14) 	<m_str>the 1974 season</m_str> (20_2) 	<br><blue>5(24)</blue>: <m_str>his</m_str> (7_16) 	<m_str>He</m_str> (8_1) 	<m_str>McGraw</m_str> (15_16) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (9_7) 	<m_str>His</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (9_17) 	<m_str>he</m_str> (10_8) 	<m_str>McGraw</m_str> (18_1) 	<m_str>McGraw</m_str> (11_1) 	<m_str>He</m_str> (19_1) 	<m_str>McGraw</m_str> (4_1) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (19_23) 	<m_str>his</m_str> (20_11) 	<m_str>McGraw</m_str> (13_4) 	<m_str>him</m_str> (20_18) 	<m_str>He</m_str> (6_1) 	<m_str>McGraw</m_str> (5_23) 	<m_str>his</m_str> (5_31) 	<m_str>McGraw</m_str> (14_6) 	<m_str>he</m_str> (5_36) 	<m_str>Tug McGraw</m_str> (7_1) 	<br><blue>6(3)</blue>: <m_str>Mets</m_str> (11_5) 	<m_str>Mets</m_str> (13_7) 	<m_str>Mets</m_str> (7_17) 	<br><blue>7(3)</blue>: <m_str>they</m_str> (20_16) 	<m_str>the Mets '</m_str> (14_8) 	<m_str>the Mets</m_str> (20_7) 	<br><blue>8(8)</blue>: <m_str>Philadelphia Phillies</m_str> (1_15) 	<m_str>the Phillies</m_str> (3_14) 	<m_str>the Phillies</m_str> (5_44) 	<m_str>the Phillies '</m_str> (5_14) 	<m_str>Phillies</m_str> (16_4) 	<m_str>His 1981 Phillies team reached the postseason in a strike-shortened schedule</m_str> (17_1) 	<m_str>the Phillies</m_str> (15_5) 	<m_str>the Phillies</m_str> (4_26) 	<br><blue>9(1)</blue>: <m_str>1974</m_str> (20_3) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

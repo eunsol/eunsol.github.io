@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Thomas Connor, Last of Dillinger Detail, 91 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Thomas J. Connor , who had such a brief but decidedly eventful career with the Federal Bureau of Investigation that he dined out on it for six decades -- including 18 cold war years with the Central Intelligence Agency , died on April 14 at his home in Southbury , Conn . <br><blue>2</blue>He was 91 and the last surving member of the F.B.I. detail that gunned down John Dillinger outside the Biograph Theater in Chicago in 1934 . <br><blue>3</blue>Mr. Connor never intended to be an F.B.I. agent . <br><blue>4</blue>He wanted to be a baseball player . <br><blue>5</blue>His problem was that while he was good enough to make it to the high minor leagues in 1929 , he was smart enough to know he would never make the majors , and naive enough to think he might have a nice , quiet career as a Washington lawyer . <br><blue>6</blue>Mr. Connor , who grew up in Washington , did , in fact , get a law degree there from what is now Catholic University , and he eventually did work for several Federal agencies , including the C.I.A. , but his vision of a career sitting in a small , neat office , shuffling papers and making reasoned decisions went awry . <br><blue>7</blue>That 's because while working his way through law school he made the mistake of taking a clerical job with the F.B.I. and coming to the attention of the F.B.I. Director , J. Edgar Hoover . <br><blue>8</blue>Mr. Hoover was so impressed that as soon as Mr. Connor graduated in 1932 he was practically dragooned into becoming a full-fledged special agent . <br><blue>9</blue>As it turned out Mr. Hoover was not looking for a lawyer . <br><blue>10</blue>He was looking for a baseball player : to his practiced eye , Mr. Connor was just the man to help him win the Government league championship . <br><blue>11</blue>Mr. Connor did not disappoint , at least at first . <br><blue>12</blue>As captain he led the F.B.I. team to the 1932 championship , and became such a Hoover favorite that he soon had a standing appointment to spend an uninterrupted hour a week discussing sports with the director , a sports fan . <br><blue>13</blue>Then the team finished second in 1933 and the next thing Mr. Connor knew he had a Thompson machine gun in his hand and bullets were flying as he raced through the backroads of the Midwest in hot pursuit of such celebrated gangsters as '' Pretty Boy '' Floyd , Ma Barker and '' Baby Face '' Nelson . <br><blue>14</blue>In the 1930 's those were names to conjure with , but none approached the mystique of that of John Dillinger , the 31-year-old Indiana farm boy who by the middle of 1934 had robbed more than three dozen Midwestern banks , killed more than a dozen people and escaped from five jails , all with such headlined flair that he had become a Depression era folk hero even as he was listed by the F.B.I as '' Public Enemy No. 1 . '' <br><blue>15</blue>More than 60 years have passed since that sultry Chicago night of July 22 , 1934 , but there are those who can tell you what was playing at the Biograph at 2433 North Lincoln Avenue that night ( '' Manhattan Melodrama , '' starring Clark Gable and William Powell ) and the real name of '' the lady in red , '' ( Anna Sage ) the woman who tipped off the F.B.I. that Dillinger would be there . <br><blue>16</blue>And there are those who still argue whether the agents called out to Dillinger as he left the theater and saw him go for his gun before they opened fire , as the official report put it , or whether they simply gunned him down in cold blood , as several witnesses suggested . <br><blue>17</blue>Mr. Connor , who was stationed in an alley at a side entrance to the theater , did not see the fatal confrontation . <br><blue>18</blue>All he knew was that as one of the 18 agents under the command of Melvin Purvis he was there -- and had special reason to be apprehensive : He was told to keep his eyes peeled for a man of medium height and build with a pronounced cleft chin wearing a white suit and straw hat -- an exact description of Mr. Connor . <br><blue>19</blue>For all that , it was the revolver in his hand and the Tommy gun under his jacket that attracted the attention of some passing Chicago policemen and almost cost Mr. Connor his life until he was able to convince them of his identity . <br><blue>20</blue>Mr. Connor may not have witnessed the actual shooting , but as he later recalled it , he did see the unidentified woman who dipped her handkerchief in Dillinger 's blood for a souvenir . <br><hr><br><blue>1(2)</blue>: <m_str>it</m_str> (5_12) 	<m_str>His problem</m_str> (5_1) 	<br><blue>2(2)</blue>: <m_str>them</m_str> (19_41) 	<m_str>some passing Chicago policemen</m_str> (19_24) 	<br><blue>3(57)</blue>: <m_str>he</m_str> (6_28) 	<m_str>he</m_str> (7_11) 	<m_str>John Dillinger</m_str> (14_20) 	<m_str>Mr. Hoover</m_str> (8_1) 	<m_str>his</m_str> (6_42) 	<m_str>Mr. Connor</m_str> (8_10) 	<m_str>he</m_str> (8_15) 	<m_str>Mr. Hoover</m_str> (9_5) 	<m_str>he</m_str> (16_16) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Connor , who was stationed in an alley at a side entrance to the theater</m_str> (17_1) 	<m_str>he</m_str> (1_21) 	<m_str>him</m_str> (16_22) 	<m_str>his</m_str> (16_25) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (14_61) 	<m_str>John Dillinger</m_str> (2_16) 	<m_str>his</m_str> (10_10) 	<m_str>he</m_str> (18_2) 	<m_str>Mr. Connor</m_str> (3_1) 	<m_str>he</m_str> (14_71) 	<m_str>Mr. Connor</m_str> (10_14) 	<m_str>him</m_str> (16_44) 	<m_str>Mr. Connor</m_str> (11_1) 	<m_str>his</m_str> (1_46) 	<m_str>him</m_str> (10_22) 	<m_str>he</m_str> (18_18) 	<m_str>He</m_str> (4_1) 	<m_str>Dillinger</m_str> (15_76) 	<m_str>his</m_str> (19_10) 	<m_str>he</m_str> (12_3) 	<m_str>He</m_str> (18_30) 	<m_str>his</m_str> (19_17) 	<m_str>his</m_str> (18_35) 	<m_str>His</m_str> (5_1) 	<m_str>Mr. Connor</m_str> (20_1) 	<m_str>he</m_str> (5_6) 	<m_str>Hoover</m_str> (12_17) 	<m_str>he</m_str> (12_20) 	<m_str>he</m_str> (20_13) 	<m_str>Mr. Connor</m_str> (19_31) 	<m_str>his</m_str> (19_33) 	<m_str>he</m_str> (20_18) 	<m_str>he</m_str> (19_36) 	<m_str>Mr. Connor , who grew up in Washington</m_str> (6_1) 	<m_str>he</m_str> (5_21) 	<m_str>Mr. Connor</m_str> (13_12) 	<m_str>he</m_str> (13_15) 	<m_str>his</m_str> (19_43) 	<m_str>her</m_str> (20_26) 	<m_str>he</m_str> (5_27) 	<m_str>Dillinger 's</m_str> (20_29) 	<m_str>Mr. Connor</m_str> (18_63) 	<m_str>his</m_str> (13_22) 	<m_str>he</m_str> (13_29) 	<m_str>he</m_str> (5_39) 	<m_str>his</m_str> (7_6) 	<br><blue>4(2)</blue>: <m_str>it</m_str> (1_25) 	<m_str>such a brief but decidedly eventful career</m_str> (1_7) 	<br><blue>5(2)</blue>: <m_str>Washington</m_str> (5_49) 	<m_str>Washington</m_str> (6_8) 	<br><blue>6(2)</blue>: <m_str>it</m_str> (20_16) 	<m_str>the actual shooting</m_str> (20_7) 	<br><blue>7(2)</blue>: <m_str>the team</m_str> (13_2) 	<m_str>the F.B.I. team</m_str> (12_5) 	<br><blue>8(1)</blue>: <m_str>Nelson</m_str> (13_58) 	<br><blue>9(3)</blue>: <m_str>Chicago</m_str> (2_23) 	<m_str>Chicago</m_str> (15_10) 	<m_str>Chicago</m_str> (19_26) 	<br><blue>10(2)</blue>: <m_str>the theater</m_str> (16_18) 	<m_str>it</m_str> (16_37) 	<br><blue>11(2)</blue>: <m_str>they</m_str> (16_41) 	<m_str>they</m_str> (16_28) 	<br><blue>12(5)</blue>: <m_str>F.B.I.</m_str> (12_6) 	<m_str>F.B.I.</m_str> (7_30) 	<m_str>F.B.I.</m_str> (3_8) 	<m_str>F.B.I.</m_str> (2_11) 	<m_str>the F.B.I.</m_str> (7_21) 	<br><blue>13(2)</blue>: <m_str>his hand</m_str> (13_22) 	<m_str>his hand</m_str> (19_10) 	<br><blue>14(2)</blue>: <m_str>1932</m_str> (8_14) 	<m_str>1932</m_str> (12_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

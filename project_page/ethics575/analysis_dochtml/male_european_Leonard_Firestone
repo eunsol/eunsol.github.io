@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Leonard Firestone, 89, Executive Of Tire Company and U.S. Envoy </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Leonard Kimball Firestone , a former United States Ambassador to Belgium , board member of the Firestone Tire and Rubber Company and longtime friend of former Presidents Richard M. Nixon and Gerald R. Ford , died on Tuesday at his home in Pebble Beach , Calif . <br><blue>2</blue>He was 89 . <br><blue>3</blue>Mr. Firestone was the last of six children of Harvey S. Firestone , who founded the Firestone Tire and Rubber Company in 1900 . <br><blue>4</blue>Leonard Firestone joined the company after graduating from Princeton University in 1931 and worked there for 39 years until he retired , in 1970 , as president of the California division . <br><blue>5</blue>He served on the board from 1939 through 1974 , relinquished his seat during his ambassadorship and returned for three years beginning in 1980 . <br><blue>6</blue>His brother Raymond was chairman of the corporation until 1976 . <br><blue>7</blue>The company was acquired by the Bridgestone Corporation in 1988 . <br><blue>8</blue>Leonard Firestone had a long association with many Presidents , from golfing with President Dwight D. Eisenhower in 1954 to lending a condominium to President Clinton in 1993 for a family vacation . <br><blue>9</blue>Mr. Nixon appointed him Ambassador to Belgium in 1974 , a post he held until 1976 . <br><blue>10</blue>Mr. Firestone was one of several Nixon friends who worked to establish the Richard M. Nixon Library in Yorba Linda , Calif . <br><blue>11</blue>Mr. Ford was also a friend and golfing partner of Mr. Firestone . <br><blue>12</blue>The Fords built a home next to the Firestone home in Rancho Mirage , Calif . <br><blue>13</blue>The former President also invested with Mr. Firestone in two Colorado radio stations . <br><blue>14</blue>Mr. Firestone was a longtime supporter of several Republican candidates , including Ronald Reagan when he was Governor of California , and donated more than $ 100,000 to the Republican National Committee in 1988 . <br><blue>15</blue>Mr. Firestone , who was born in Akron , Ohio , became president of the Firestone Aviation Products Company in 1941 . <br><blue>16</blue>In World War II he headed the California division , which was producing tires and other rubber goods for the war effort . <br><blue>17</blue>After he retired as president of the division , he became involved in other business interests , including real estate , the Firestone Winery in Los Olivos , Calif. , and the communications industry . <br><blue>18</blue>He is survived by his third wife , Caroline Hudson Firestone , and a daughter and two sons by his first wife , Polly Curtis Firestone , who died in 1965 . <br><blue>19</blue>His second wife , Barbara K. Heatley , died in 1985 . <br><blue>20</blue>His daughter is Lendy Brown of Paris , Ky. , and his sons are Kimball C. Firestone of Middletown , Md. , and A. Brooks Firestone of Los Olivos , Calif . <br><hr><br><blue>1(4)</blue>: <m_str>the Firestone Tire and Rubber Company</m_str> (1_16) 	<m_str>the Firestone Tire</m_str> (3_16) 	<m_str>the company</m_str> (4_4) 	<m_str>The company</m_str> (7_1) 	<br><blue>2(4)</blue>: <m_str>Nixon</m_str> (10_7) 	<m_str>he</m_str> (9_13) 	<m_str>Mr. Nixon</m_str> (9_1) 	<m_str>him</m_str> (9_4) 	<br><blue>3(28)</blue>: <m_str>Mr. Firestone , who was born in Akron , Ohio</m_str> (15_1) 	<m_str>His</m_str> (19_1) 	<m_str>Leonard Firestone</m_str> (4_1) 	<m_str>his</m_str> (18_20) 	<m_str>Mr. Firestone</m_str> (11_11) 	<m_str>Leonard Firestone</m_str> (8_1) 	<m_str>Polly Curtis Firestone</m_str> (18_24) 	<m_str>he</m_str> (16_5) 	<m_str>His</m_str> (20_1) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (4_20) 	<m_str>his</m_str> (20_12) 	<m_str>his</m_str> (5_12) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_2) 	<m_str>his</m_str> (5_15) 	<m_str>Mr. Firestone</m_str> (13_7) 	<m_str>His</m_str> (6_1) 	<m_str>His brother Raymond</m_str> (6_1) 	<m_str>he</m_str> (17_10) 	<m_str>Mr. Firestone</m_str> (10_1) 	<m_str>Mr. Firestone</m_str> (14_1) 	<m_str>He</m_str> (18_1) 	<m_str>Mr. Firestone</m_str> (3_1) 	<m_str>his</m_str> (18_5) 	<m_str>his</m_str> (1_40) 	<m_str>he</m_str> (14_16) 	<m_str>Harvey S. Firestone , who founded the Firestone Tire and Rubber Company in 1900</m_str> (3_10) 	<br><blue>4(5)</blue>: <m_str>Calif.</m_str> (10_22) 	<m_str>Calif.</m_str> (20_31) 	<m_str>Calif.</m_str> (12_15) 	<m_str>Calif.</m_str> (17_29) 	<m_str>Calif.</m_str> (1_46) 	<br><blue>5(2)</blue>: <m_str>a daughter</m_str> (18_14) 	<m_str>His daughter</m_str> (20_1) 	<br><blue>6(2)</blue>: <m_str>Richard M. Nixon</m_str> (10_14) 	<m_str>Richard M. Nixon</m_str> (1_28) 	<br><blue>7(2)</blue>: <m_str>the California division</m_str> (4_29) 	<m_str>the division</m_str> (17_7) 	<br><blue>8(2)</blue>: <m_str>The former President</m_str> (13_1) 	<m_str>President Dwight D. Eisenhower in 1954</m_str> (8_14) 	<br><blue>9(3)</blue>: <m_str>California</m_str> (4_30) 	<m_str>California</m_str> (14_20) 	<m_str>California</m_str> (16_8) 	<br><blue>10(2)</blue>: <m_str>His second wife , Barbara K. Heatley</m_str> (19_1) 	<m_str>his first wife , Polly Curtis Firestone , who died in 1965</m_str> (18_20) 	<br><blue>11(2)</blue>: <m_str>1976</m_str> (6_10) 	<m_str>1976</m_str> (9_16) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

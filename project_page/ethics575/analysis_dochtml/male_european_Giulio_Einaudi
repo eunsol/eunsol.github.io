@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Giulio Einaudi, Italian Author And Publisher, Is Dead at 87 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Giulio Einaudi , a doctor , author and founder of the Italian publishing house he built into a European wellspring of fine literature , intellectual thought and political theory , died on Monday at his country house near Rome . <br><blue>2</blue>He was 87 . <br><blue>3</blue>A scholarly man , Mr. Einaudi was one of his country 's leading publishers on the political left and a leading cultural figure . <br><blue>4</blue>During his long career he befriended literary and cultural figures throughout Europe . <br><blue>5</blue>His stable of authors included Carlo Levi , Antonio Gramsci , Cesare Pavese , Natalia Ginzburg , Italo Calvino , Norberto Bobbio and Primo Levi . <br><blue>6</blue>He was born in Turin , the son of Luigi Einaudi , an economist and foe of Fascism who served as President of the Italian Republic from 1947 to 1955 . <br><blue>7</blue>The younger Mr. Einaudi took a degree in medicine and surgery but never practiced . <br><blue>8</blue>In 1933 he founded Giulio Einaudi Editore in Turin , where it still has its headquarters . <br><blue>9</blue>His first book was a translation of a work about New Deal economics in the United States by Henry A. Wallace . <br><blue>10</blue>Mussolini , in an article , praised the book but condemned the foreword added by Luigi Einaudi . <br><blue>11</blue>Giulio Einaudi went to jail for 45 days in 1935 , an indication that his fledgling publishing house was in trouble for the duration of the Fascist dictatorship . <br><blue>12</blue>But the company flourished with the dawning of democracy . <br><blue>13</blue>It poured out fiction and nonfiction , art books , the classics and translations of American literature . <br><blue>14</blue>It also was the first to publish Boris Pasternak 's novel '' Dr. Zhivago '' in 1957 when it was banned in the Soviet Union . <br><blue>15</blue>Mr. Einaudi , who had spoken against the creation of NATO , scored a coup in 1964 with a long interview with the Soviet Premier , Nikita S. Khrushchev . <br><blue>16</blue>It was reported worldwide but did not endear the publisher to the political right at home or to official Washington . <br><blue>17</blue>Khrushchev gave Mr. Einaudi permission to publish a collection of his speeches on international affairs and added a foreword in which he called for realism in East-West relations . <br><blue>18</blue>His call for peaceful coexistence and avoidance of a nuclear catastrophe was one of the early , post-Stalinist glimmers of East-West detente in the midst of a cold war . <br><blue>19</blue>Mr. Einaudi wrote books on literature , history , philosophy , art and science . <br><blue>20</blue>Among his pastimes were mountaineering and collecting rare books and prints . <br><hr><br><blue>1(2)</blue>: <m_str>It</m_str> (16_1) 	<m_str>a coup</m_str> (15_14) 	<br><blue>2(19)</blue>: <m_str>Mr. Einaudi</m_str> (19_1) 	<m_str>his</m_str> (4_2) 	<m_str>he</m_str> (4_5) 	<m_str>he</m_str> (8_3) 	<m_str>His</m_str> (5_1) 	<m_str>His</m_str> (9_1) 	<m_str>Antonio Gramsci</m_str> (5_9) 	<m_str>he</m_str> (1_15) 	<m_str>Cesare Pavese</m_str> (5_12) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Einaudi</m_str> (17_3) 	<m_str>He</m_str> (6_1) 	<m_str>Italo Calvino</m_str> (5_18) 	<m_str>Norberto Bobbio</m_str> (5_21) 	<m_str>his</m_str> (1_35) 	<m_str>A scholarly man , Mr. Einaudi</m_str> (3_1) 	<m_str>Mr. Einaudi</m_str> (3_5) 	<m_str>Mr. Einaudi</m_str> (7_3) 	<m_str>his</m_str> (3_10) 	<br><blue>3(4)</blue>: <m_str>it</m_str> (14_19) 	<m_str>It</m_str> (13_1) 	<m_str>the company</m_str> (12_2) 	<m_str>It</m_str> (14_1) 	<br><blue>4(4)</blue>: <m_str>his country house near Rome</m_str> (1_35) 	<m_str>the United States</m_str> (9_15) 	<m_str>his fledgling publishing house</m_str> (11_15) 	<m_str>his country 's</m_str> (3_10) 	<br><blue>5(2)</blue>: <m_str>Turin</m_str> (8_9) 	<m_str>Turin</m_str> (6_5) 	<br><blue>6(2)</blue>: <m_str>the book</m_str> (10_8) 	<m_str>His first book</m_str> (9_1) 	<br><blue>7(4)</blue>: <m_str>Mr. Einaudi , who had spoken against the creation of NATO</m_str> (15_1) 	<m_str>his</m_str> (11_15) 	<m_str>Luigi Einaudi</m_str> (10_16) 	<m_str>Giulio Einaudi</m_str> (11_1) 	<br><blue>8(3)</blue>: <m_str>it</m_str> (8_12) 	<m_str>its</m_str> (8_15) 	<m_str>Giulio Einaudi Editore</m_str> (8_5) 	<br><blue>9(6)</blue>: <m_str>Khrushchev</m_str> (17_1) 	<m_str>His</m_str> (18_1) 	<m_str>his</m_str> (20_2) 	<m_str>he</m_str> (17_22) 	<m_str>the Soviet Premier , Nikita S. Khrushchev</m_str> (15_23) 	<m_str>his</m_str> (17_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

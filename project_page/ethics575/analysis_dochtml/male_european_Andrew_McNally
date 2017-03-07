@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Andrew McNally, 92, Ex-Chief Of Company Known for Maps </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Andrew McNally III , a former president of the map maker Rand McNally &amp; Company , died on Thursday at his home in Chicago . <br><blue>2</blue>He was 92 . <br><blue>3</blue>He was a great-grandson of another Andrew McNally , who was a co-founder of the company in the mid-1800 's . <br><blue>4</blue>The company started out printing tickets and other documents for railroads . <br><blue>5</blue>In the 1870 's , it also took up making maps , at first for a railway guide . <br><blue>6</blue>Before long it was regarded as the foremost manufacturer of maps and related products . <br><blue>7</blue>In the mid-1950 's , with Mr. McNally as president , the company , based in Skokie , Ill. , turned out more than a quarter-million items a year , including globes and atlases , in addition to 65 million road maps . <br><blue>8</blue>Sales at the company more than doubled in his first seven years as president . <br><blue>9</blue>Mr. McNally joined the company in 1931 in Chicago and was president from 1948 to 1974 and chairman from 1974 to 1993 . <br><blue>10</blue>Its sales soared in the post-World War II years to $ 18.5 million in 1954 from $ 8.3 million in 1948 . '' <br><blue>11</blue>Wars and tight international situations make the biggest booms for the map business , '' he said in 1949 , when the company published '' Cosmopolitan World Atlas , '' 352 pages long and eight years in the making . <br><blue>12</blue>Also in 1949 , the company modernized its map production and bought a big book-manufacturing plant , the W. B. Conkey Company in Hammond , Ind . <br><blue>13</blue>Mr. McNally was succeeded as president and later as chairman by his son Andrew McNally IV . <br><blue>14</blue>In the late 1990 's , control of the company was acquired by an investment group , AEA , based in New York . <br><blue>15</blue>Mr. McNally , a son of yet another Andrew McNally , who became the company 's chairman , was born in Chicago and graduated in 1931 from Yale College . <br><blue>16</blue>He was an Army officer in World War II . <br><blue>17</blue>His wife , Margaret , died before him . <br><blue>18</blue>In addition to Andrew IV , Mr. McNally is survived by another son , Edward C. ; a daughter , Betsy Ravenel ; seven grandchildren and five great-grandchildren . <br><hr><br><blue>1(11)</blue>: <m_str>his</m_str> (8_9) 	<m_str>Mr. McNally , a son of yet another Andrew McNally , who became the company 's chairman</m_str> (15_1) 	<m_str>He</m_str> (16_1) 	<m_str>His</m_str> (17_1) 	<m_str>his</m_str> (13_12) 	<m_str>him</m_str> (17_8) 	<m_str>Mr. McNally</m_str> (18_7) 	<m_str>Mr. McNally</m_str> (9_1) 	<m_str>he</m_str> (11_16) 	<m_str>his son Andrew McNally IV</m_str> (13_12) 	<m_str>Mr. McNally</m_str> (13_1) 	<br><blue>2(3)</blue>: <m_str>Chicago</m_str> (9_9) 	<m_str>Chicago</m_str> (15_22) 	<m_str>Chicago</m_str> (1_24) 	<br><blue>3(15)</blue>: <m_str>the company in the mid-1800 's</m_str> (3_15) 	<m_str>the company , based in Skokie , Ill.</m_str> (7_12) 	<m_str>The company</m_str> (4_1) 	<m_str>it</m_str> (6_3) 	<m_str>Its</m_str> (10_1) 	<m_str>the company</m_str> (8_3) 	<m_str>the company 's</m_str> (15_14) 	<m_str>the company</m_str> (11_22) 	<m_str>the company</m_str> (12_5) 	<m_str>its</m_str> (12_8) 	<m_str>the 1870 's</m_str> (5_2) 	<m_str>the company</m_str> (14_9) 	<m_str>the mid-1950 's</m_str> (7_2) 	<m_str>it</m_str> (5_6) 	<m_str>the company</m_str> (9_4) 	<br><blue>4(2)</blue>: <m_str>another Andrew McNally , who was a co-founder of the company in the mid-1800 's</m_str> (3_6) 	<m_str>Mr. McNally as president</m_str> (7_7) 	<br><blue>5(4)</blue>: <m_str>He</m_str> (2_1) 	<m_str>He</m_str> (3_1) 	<m_str>his</m_str> (1_21) 	<m_str>the mid-1800 's</m_str> (3_18) 	<br><blue>6(2)</blue>: <m_str>1949</m_str> (11_19) 	<m_str>1949</m_str> (12_3) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

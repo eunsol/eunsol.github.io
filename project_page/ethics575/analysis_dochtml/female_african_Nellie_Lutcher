@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Nellie Lutcher, 94, R &amp; B Singer </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Nellie Lutcher , a singer and pianist who had a string of rhythm-and-blues hits in the late 1940s and continued performing into the early 1990s , died last Friday in Los Angeles . <br><blue>2</blue>She was 94 . <br><blue>3</blue>Her death was confirmed by her son , Talmadge Lewis of Concord , Calif . <br><blue>4</blue>Ms. Lutcher 's career was a classic case of seemingly overnight success that actually took years to achieve . <br><blue>5</blue>She had been performing in the Los Angeles area for more than a decade when a Capitol Records talent scout , Dave Dexter , heard her on a radio broadcast of a charity concert in 1947 and quickly signed her . <br><blue>6</blue>Over the next two years she went from obscurity to stardom , with four records reaching the Billboard R &amp; B Top 10 . <br><blue>7</blue>Her distinctively lively , lighthearted , mildly risqué approach , exemplified by her original compositions '' He 's a Real Gone Guy '' and '' Hurry On Down , '' earned her an international following and a booking at the New York nightclub Café Society . <br><blue>8</blue>But by 1952 a more rough-hewn brand of rhythm and blues was catching on , her sales were declining and Capitol released her . <br><blue>9</blue>She continued to record for other record companies , but with limited success . <br><blue>10</blue>By the end of the decade she was focusing on work for the Los Angeles musicians union . <br><blue>11</blue>In 1973 Barney Josephson , the former proprietor of Café Society , summoned Ms. Lutcher back to New York to perform at his Greenwich Village nightclub , the Cookery . <br><blue>12</blue>That engagement was enthusiastically received and began a comeback that lasted two decades . <br><blue>13</blue>Nellie Lutcher was born in Lake Charles , La. , on Oct. 15 , 1912 . <br><blue>14</blue>Her father was a jazz bassist , and her mother was a church organist . <br><blue>15</blue>By the age of 11 , she was accomplished enough as a pianist to be pressed into service accompanying the blues singer Ma Rainey , whose regular pianist was ill . <br><blue>16</blue>Within a few years she was playing and singing professionally , often in a band led by her father . <br><blue>17</blue>Besides her son , Mr. Lewis , her survivors include a sister , Margie Lutcher Levy ; and a granddaughter . <br><hr><br><blue>1(11)</blue>: <m_str>his</m_str> (11_23) 	<m_str>her</m_str> (16_18) 	<m_str>her</m_str> (17_2) 	<m_str>she</m_str> (16_5) 	<m_str>Ms. Lutcher 's</m_str> (4_1) 	<m_str>she</m_str> (15_7) 	<m_str>her</m_str> (14_9) 	<m_str>her</m_str> (17_8) 	<m_str>Ms. Lutcher back to New York</m_str> (11_14) 	<m_str>Nellie Lutcher</m_str> (13_1) 	<m_str>Her</m_str> (14_1) 	<br><blue>2(2)</blue>: <m_str>her son , Mr. Lewis</m_str> (17_2) 	<m_str>her son , Talmadge Lewis of Concord , Calif.</m_str> (3_6) 	<br><blue>3(3)</blue>: <m_str>Los Angeles</m_str> (1_31) 	<m_str>Los Angeles</m_str> (10_14) 	<m_str>Los Angeles</m_str> (5_7) 	<br><blue>4(14)</blue>: <m_str>She</m_str> (2_1) 	<m_str>her</m_str> (7_13) 	<m_str>she</m_str> (6_6) 	<m_str>her</m_str> (5_26) 	<m_str>she</m_str> (10_7) 	<m_str>Her</m_str> (3_1) 	<m_str>She</m_str> (5_1) 	<m_str>her</m_str> (7_32) 	<m_str>Her</m_str> (7_1) 	<m_str>her</m_str> (8_16) 	<m_str>her</m_str> (3_6) 	<m_str>She</m_str> (9_1) 	<m_str>her</m_str> (5_40) 	<m_str>her</m_str> (8_23) 	<br><blue>5(2)</blue>: <m_str>the New York nightclub Café Society</m_str> (7_40) 	<m_str>Café Society</m_str> (11_10) 	<br><blue>6(2)</blue>: <m_str>New York</m_str> (7_41) 	<m_str>New York</m_str> (11_18) 	<br><blue>7(2)</blue>: <m_str>Her father</m_str> (14_1) 	<m_str>her father</m_str> (16_18) 	<hr><br> gender:female	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

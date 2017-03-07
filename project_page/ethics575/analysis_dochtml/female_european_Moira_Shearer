@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Moira Shearer, Ballerina in 'The Red Shoes,' Dies at 80 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Moira Shearer , a luminous star in the galaxy of British ballerinas who brought the Royal Ballet to international attention and whose dramatic portrayal as the doomed heroine of the 1948 film '' The Red Shoes '' was searingly impressed on generations of moviegoers , died in Oxford , England , on Tuesday . <br><blue>2</blue>She was 80 . <br><blue>3</blue>Her death was announced by her husband , the writer and broadcaster Ludovic Kennedy . <br><blue>4</blue>He said Ms. Shearer had been weak since her birthday last month and died in John Radcliffe Hospital in Oxford , The Associated Press reported . '' <br><blue>5</blue>The Red Shoes , '' often called the most popular film about ballet , threatened to overshadow Ms. Shearer 's reputation as a classical dancer . <br><blue>6</blue>A Scottish beauty with flaming red hair , she created a sensation with her performance as a London debutante who aspires to be a ballerina but is driven to suicide by leaping in front of a train in Monte Carlo . <br><blue>7</blue>As Ms. Shearer said in later years , '' The Red Shoes '' was very different from the world of ballet that she knew . <br><blue>8</blue>The image created by the film 's directors , Michael Powell and Emeric Pressburger , was of a Russian émigré ballet troupe filled with clashing temperaments . <br><blue>9</blue>Dominated by a tyrannical impresario inspired in part by Serge Diaghilev , the troupe 's backstage life had the ring of overwrought truth . <br><blue>10</blue>But unlike the film 's heroine , Victoria Page , Ms. Shearer did not face a seemingly impossible choice between a career and a marriage . <br><blue>11</blue>During her dancing career , she acted in films and on the stage . <br><blue>12</blue>In later years , she wrote two books , including '' Balletmaster : A Dancer 's View of George Balanchine '' ( 1986 ) , and wrote a column for The Daily Telegraph . <br><blue>13</blue>She also had four children , who , with her husband , survive her . <br><blue>14</blue>They include a son , Alastair , and three daughters , Ailsa , Rachel and Fiona . <br><blue>15</blue>The recently established British ballet groups that Ms. Shearer joined in the 1940 's were identified with hard work and struggle , devoid of the surface glamour of the émigré companies that succeeded Diaghilev 's Ballets Russes . <br><blue>16</blue>After dancing with Mona Inglesby 's Ballet International in 1941 , Ms. Shearer joined Sadler 's Wells Ballet , which changed its name to the Royal Ballet in 1956 . <br><blue>17</blue>Rising from the ranks to ballerina from 1942 to 1952 , Ms. Shearer was identified both with leading roles in the 19th-century classics and works created by the great British choreographer Frederick Ashton . <br><blue>18</blue>She danced the title role in the premiere of his '' Cinderella '' in 1948 and along with Margot Fonteyn and Pamela May , led his seminal neoclassical ballet '' Symphonic Variations '' in 1946 . <br><blue>19</blue>Ms. Shearer , however , was never considered the reigning ballerina in Sadler 's Wells . <br><blue>20</blue>That position was clearly held by Ms. Fonteyn , who was promoted from the start by Ninette de Valois , the company 's founder . <br><hr><br><blue>1(3)</blue>: <m_str>the most popular film</m_str> (5_8) 	<m_str>the film 's</m_str> (8_5) 	<m_str>the film 's</m_str> (10_3) 	<br><blue>2(2)</blue>: <m_str>Sadler 's</m_str> (19_13) 	<m_str>Sadler 's</m_str> (16_15) 	<br><blue>3(3)</blue>: <m_str>the great British choreographer Frederick Ashton</m_str> (17_28) 	<m_str>his</m_str> (18_10) 	<m_str>his</m_str> (18_26) 	<br><blue>4(2)</blue>: <m_str>a career</m_str> (10_21) 	<m_str>her dancing career</m_str> (11_2) 	<br><blue>5(1)</blue>: <m_str>the reigning ballerina in Sadler 's Wells</m_str> (19_9) 	<br><blue>6(23)</blue>: <m_str>she</m_str> (11_6) 	<m_str>Ms. Shearer</m_str> (19_1) 	<m_str>Ms. Shearer</m_str> (4_3) 	<m_str>Ms. Shearer</m_str> (15_8) 	<m_str>she</m_str> (7_23) 	<m_str>she</m_str> (12_5) 	<m_str>Ms. Shearer</m_str> (16_12) 	<m_str>She</m_str> (13_1) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (13_10) 	<m_str>Ms. Shearer 's</m_str> (5_18) 	<m_str>her</m_str> (13_14) 	<m_str>Ms. Shearer</m_str> (17_12) 	<m_str>she</m_str> (6_9) 	<m_str>She</m_str> (18_1) 	<m_str>Her</m_str> (3_1) 	<m_str>her</m_str> (6_14) 	<m_str>Ms. Shearer</m_str> (10_11) 	<m_str>her</m_str> (3_6) 	<m_str>Ms. Shearer</m_str> (7_2) 	<m_str>Rachel</m_str> (14_14) 	<m_str>her</m_str> (11_2) 	<m_str>Fiona</m_str> (14_16) 	<br><blue>7(2)</blue>: <m_str>Oxford</m_str> (1_48) 	<m_str>Oxford</m_str> (4_20) 	<br><blue>8(2)</blue>: <m_str>four children , who , with her husband , survive her</m_str> (13_4) 	<m_str>They</m_str> (14_1) 	<br><blue>9(1)</blue>: <m_str>the company 's</m_str> (20_21) 	<br><blue>10(1)</blue>: <m_str>Margot Fonteyn</m_str> (18_19) 	<br><blue>11(3)</blue>: <m_str>The Red Shoes</m_str> (7_10) 	<m_str>The Red Shoes</m_str> (1_34) 	<m_str>The Red Shoes</m_str> (5_1) 	<br><blue>12(2)</blue>: <m_str>Sadler 's Wells Ballet , which changed its name to the Royal Ballet in 1956</m_str> (16_15) 	<m_str>Mona Inglesby 's Ballet International in 1941</m_str> (16_4) 	<br><blue>13(2)</blue>: <m_str>the troupe 's</m_str> (9_13) 	<m_str>a Russian émigré ballet troupe filled with clashing temperaments</m_str> (8_18) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

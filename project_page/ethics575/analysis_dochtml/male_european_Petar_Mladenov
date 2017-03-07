@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Petar Mladenov, Bulgarian Communist Leader, 63 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Petar T. Mladenov , who served for 18 years as foreign minister of Bulgaria under the Communist strongman Todor Zhivkov , then helped to oust him and became the country 's president , died on May 31 in Sofia , the state news agency B.T.A. reported . <br><blue>2</blue>He was 63 . <br><blue>3</blue>Mr. Mladenov underwent bypass surgery in Houston in 1986 and was believed to have been in frail health since then . <br><blue>4</blue>Hard-line Communist rule in Bulgaria did not collapse because of street demonstrations , as it had in Romania , Czechoslovakia and East Germany . <br><blue>5</blue>Rather , it fell in a coup when reform-minded Communist leaders , including Mr. Mladenov , seized control of the government . <br><blue>6</blue>Mr. Mladenov became president in November 1989 , and startled the nation when he declared a month later that the Communist monopoly on power should be abandoned and that free parliamentary elections should be held that year . <br><blue>7</blue>But change did not take place rapidly enough to satisfy many , and Mr. Mladenov was forced to resign in July 1990 in a dispute over whether or not he had suggested that tanks be used to disperse antigovernment demonstrators . <br><blue>8</blue>Mr. Mladenov was born to a family of peasants in the village of Toshevtsi . <br><blue>9</blue>His father was killed in 1944 while serving with the antifascist partisans . <br><blue>10</blue>Losing a parent in the fight against fascism established Mr. Mladenov after World War II as a patriot , and aided his rise through the ranks of the Communist government . <br><blue>11</blue>After graduating from a military school , he entered Sofia University , and in 1963 graduated from the Moscow State Institute for International Relations . <br><blue>12</blue>In 1971 , at 35 , he was elected to the central committee of the Bulgarian Communist Party and appointed minister for foreign affairs . <br><blue>13</blue>Six years later , he became a full member of the politburo . <br><blue>14</blue>In his role as minister of foreign affairs , Mr. Mladenov had to cope with such embarrassments as the notorious '' umbrella murder '' of 1978 , in which an exiled Bulgarian writer who criticized the Zhivkov government in broadcasts for Radio Free Europe was killed in London by an assailant who fired a poison pellet from a weapon disguised as an umbrella . <br><blue>15</blue>There were also charges in 1981 that Bulgarian agents were involved in the attempted assassination of the pope , but they were acquitted in an Italian trial . <br><blue>16</blue>Mr. Mladenov is survived by his wife , Ganka , and a daughter . <br><hr><br><blue>1(3)</blue>: <m_str>it</m_str> (4_15) 	<m_str>Hard-line Communist rule in Bulgaria</m_str> (4_1) 	<m_str>it</m_str> (5_3) 	<br><blue>2(2)</blue>: <m_str>they</m_str> (15_21) 	<m_str>Bulgarian agents</m_str> (15_8) 	<br><blue>3(2)</blue>: <m_str>Bulgaria</m_str> (4_5) 	<m_str>Bulgaria</m_str> (1_14) 	<br><blue>4(3)</blue>: <m_str>the Zhivkov government</m_str> (14_36) 	<m_str>the Communist government</m_str> (10_28) 	<m_str>the government</m_str> (5_20) 	<br><blue>5(20)</blue>: <m_str>his</m_str> (10_22) 	<m_str>he</m_str> (13_5) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (11_8) 	<m_str>including Mr. Mladenov</m_str> (5_13) 	<m_str>the Communist strongman Todor Zhivkov</m_str> (1_16) 	<m_str>Mr. Mladenov</m_str> (7_14) 	<m_str>Mr. Mladenov</m_str> (6_1) 	<m_str>Mr. Mladenov</m_str> (8_1) 	<m_str>him</m_str> (1_26) 	<m_str>his</m_str> (14_2) 	<m_str>Mr. Mladenov</m_str> (16_1) 	<m_str>he</m_str> (12_7) 	<m_str>he</m_str> (6_14) 	<m_str>Mr. Mladenov</m_str> (3_1) 	<m_str>he</m_str> (7_30) 	<m_str>Mr. Mladenov</m_str> (10_10) 	<m_str>his</m_str> (16_6) 	<m_str>Mr. Mladenov</m_str> (14_10) 	<m_str>His</m_str> (9_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

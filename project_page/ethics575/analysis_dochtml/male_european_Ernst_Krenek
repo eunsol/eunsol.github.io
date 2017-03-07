@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ernst Krenek, 91, a Composer Prolific in Many Modern Styles </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Ernst Krenek , a composer whose works touched on nearly every avant-garde style of composition in this century , died yesterday in a hospital in Palm Springs , Calif . <br><blue>2</blue>He was 91 years old and lived in Palm Springs . <br><blue>3</blue>He died of respiratory failure , said his wife , Gladys . <br><blue>4</blue>In a prolific career that began in Vienna , Mr. Krenek 's works were influenced by Bartok , jazz , Austrian Romanticism , Stravinsky 's Neo-Classicism , Schoenberg 's 12-tone compositions , the aleatoric music of the 1950 's and electronic instrumentation . <br><blue>5</blue>Opera With Jazz Influences His most famous work remains the opera " Jonny Spielt Auf " ( 1925-26 ) , a tale of a black jazz violinist . <br><blue>6</blue>The work was such a success in his native Austria that a brand of cigarettes was named after it . <br><blue>7</blue>The opera was performed in 100 cities and was translated into 18 languages . <br><blue>8</blue>Its Metropolitan Opera premiere was in 1929 in a production that was among the most expensive of its time . <br><blue>9</blue>" Jonny , " aside from its jazz influences , which were then in fashion in European composition , also included " concrete " sounds like automobile horns . <br><blue>10</blue>Mr. Krenek 's operas in the following decades , most with his own librettos , ranged in their subjects from a satire of sports heroes to the legend of the Argonauts . <br><blue>11</blue>A list of symphonies , concertos , choral works , piano works and string quartets -- most of which are rarely heard -- fills two columns in the New Grove Encyclopedia of Music and Musicians . <br><blue>12</blue>His compositions , with their varied styles , contrapuntal intricacies and episodic lyricism , have had many advocates among a select number of critics and performers . <br><blue>13</blue>The pianist Glenn Gould , for example , praised Mr. Krenek 's independence , his elegiac style and his " unique musical temperament . " <br><blue>14</blue>But his public reputation was linked to the style of Serial composition to which he attached himself . <br><blue>15</blue>' An Artistic Religion ' Writing about Mr. Krenek 's 1937 book about new music , for example , his fellow composer Roger Sessions described Mr. Krenek 's advocacy of Serial music as " an artistic religion " to which the book is a " confession of faith . " <br><blue>16</blue>Like other composers of his generation , and like the philosopher Theodor Adorno , who admired his work , Mr. Krenek thought it necessary to isolate himself from the public and to suggest in his music " the loneliness and alienation of humanity . " <br><blue>17</blue>For Mr. Krenek , this artistic faith combined with a devout Catholicism . <br><blue>18</blue>Despite his avowed independence , Mr. Krenek was continually integrating developments in composition into his works , while preserving the Schoenbergian attitude of proud opposition until his last works , written in his 80 's . <br><blue>19</blue>Mr. Krenek was born in Vienna on Aug. 23 , 1900 , and studied at the State Academy of Music in Berlin with Franz Schreker . <br><blue>20</blue>He assisted in conducting and composition at opera houses in Kassel and Wiesbaden before his big success with " Jonny . " <br><hr><br><blue>1(3)</blue>: <m_str>his work</m_str> (16_17) 	<m_str>The work</m_str> (6_1) 	<m_str>His most famous work</m_str> (5_5) 	<br><blue>2(1)</blue>: <m_str>Its Metropolitan Opera premiere</m_str> (8_1) 	<br><blue>3(2)</blue>: <m_str>their</m_str> (10_18) 	<m_str>Mr. Krenek 's operas in the following decades , most with his own librettos</m_str> (10_1) 	<br><blue>4(2)</blue>: <m_str>his music</m_str> (16_35) 	<m_str>Serial music</m_str> (15_31) 	<br><blue>5(2)</blue>: <m_str>Palm Springs , Calif.</m_str> (1_26) 	<m_str>Palm Springs</m_str> (2_9) 	<br><blue>6(33)</blue>: <m_str>his</m_str> (18_15) 	<m_str>Mr. Krenek</m_str> (19_1) 	<m_str>Mr. Krenek 's</m_str> (15_8) 	<m_str>His</m_str> (12_1) 	<m_str>his</m_str> (18_27) 	<m_str>Mr. Krenek 's</m_str> (4_10) 	<m_str>his</m_str> (15_20) 	<m_str>his</m_str> (18_33) 	<m_str>his</m_str> (16_5) 	<m_str>He</m_str> (20_1) 	<m_str>Opera With Jazz Influences His</m_str> (5_1) 	<m_str>Mr. Krenek 's</m_str> (15_26) 	<m_str>Schoenberg 's</m_str> (4_28) 	<m_str>his</m_str> (16_17) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (20_15) 	<m_str>Mr. Krenek</m_str> (17_2) 	<m_str>Mr. Krenek</m_str> (16_20) 	<m_str>Mr. Krenek 's</m_str> (13_10) 	<m_str>himself</m_str> (16_27) 	<m_str>Mr. Krenek 's</m_str> (10_1) 	<m_str>his</m_str> (13_15) 	<m_str>his</m_str> (6_8) 	<m_str>his</m_str> (13_19) 	<m_str>his</m_str> (14_2) 	<m_str>his</m_str> (16_35) 	<m_str>He</m_str> (3_1) 	<m_str>his</m_str> (18_2) 	<m_str>his</m_str> (10_12) 	<m_str>Mr. Krenek</m_str> (18_6) 	<m_str>his</m_str> (3_8) 	<m_str>he</m_str> (14_15) 	<m_str>himself</m_str> (14_17) 	<br><blue>7(2)</blue>: <m_str>the opera `` Jonny Spielt Auf '' -LRB- 1925-26 -RRB- , a tale of a black jazz violinist</m_str> (5_10) 	<m_str>The opera</m_str> (7_1) 	<br><blue>8(3)</blue>: <m_str>Mr. Krenek 's works</m_str> (4_10) 	<m_str>his works</m_str> (18_15) 	<m_str>his last works</m_str> (18_27) 	<br><blue>9(1)</blue>: <m_str>his wife , Gladys</m_str> (3_8) 	<br><blue>10(2)</blue>: <m_str>the book</m_str> (15_41) 	<m_str>Mr. Krenek 's 1937 book</m_str> (15_8) 	<br><blue>11(5)</blue>: <m_str>its</m_str> (9_7) 	<m_str>a brand of cigarettes</m_str> (6_12) 	<m_str>it</m_str> (6_19) 	<m_str>Its</m_str> (8_1) 	<m_str>its</m_str> (8_18) 	<br><blue>12(2)</blue>: <m_str>Vienna</m_str> (19_6) 	<m_str>Vienna</m_str> (4_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

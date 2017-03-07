@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>César Milstein, 74, Who Won Joint Nobel Prize in Medicine </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. César Milstein , who shared the 1984 Nobel Prize in Medicine for a revolutionary technique to produce antibodies that latch onto specific proteins , died on Sunday in Cambridge , England . <br><blue>2</blue>He was 74 . <br><blue>3</blue>The cause was a heart ailment , according to the laboratory at Cambridge University where he spent most of his career . <br><blue>4</blue>In 1975 , Dr. Milstein and Dr. Georges Köhler , a postdoctoral fellow of his at Cambridge , invented a method of forcing immune system cells to produce one particular type of antibody . <br><blue>5</blue>Usually , the body 's defense system generates a profusion of different antibodies to kill invading bacteria and viruses . <br><blue>6</blue>Dr. Milstein and Dr. Köhler 's research on pure antibodies , known as monoclonal antibodies , provided an important cornerstone in molecular biology research . <br><blue>7</blue>For basic immunological studies they wanted to produce long-lived laboratory cell lines that would make antibodies of a known and easily identifiable kind . <br><blue>8</blue>Antibody-producing cells could be harvested easily from the spleens of mice that had been exposed to a known protein . <br><blue>9</blue>But these cells would grow only briefly in laboratory cultures . <br><blue>10</blue>The scientists also had available cells of a cancer called myeloma that would grow indefinitely in the laboratory and would produce immunoglobulin , the substance of antibody , but would not produce specific antibodies of any kind that could be identified easily . <br><blue>11</blue>The scientists then had the idea of fusing the mouse spleen cells with the mouse myeloma cells in the hope that one would bring to the union the specificity the scientists needed , while the other would make the cells immortal . <br><blue>12</blue>The idea worked . <br><blue>13</blue>Today researchers routinely use monoclonal antibodies to identify whether particular proteins are present in cells . <br><blue>14</blue>In medical treatment , antibodies are used to neutralize toxins produced by deadly bacteria . <br><blue>15</blue>Researchers have envisioned using them like guided missiles against cancer . <br><blue>16</blue>The antibodies would be designed to hook onto only cancerous cells and then kill them with attached poison or radioactive elements . <br><blue>17</blue>Born in Bahía Blanca , Argentina , César Milstein was educated at the University of Buenos Aires and received his Ph.D. from Cambridge in 1960 . <br><blue>18</blue>He worked at the National Institute of Microbiology in Buenos Aires from 1961 to 1963 until political turmoil led him to resign and return to Cambridge , where he spent the rest of his career . <br><blue>19</blue>According to The Associated Press , Dr. Milstein is survived by his wife , Celia . <br><blue>20</blue>In addition to the Nobel , Dr. Milstein received the Wolf Prize in Medicine from the Wolf Foundation of Israel , the Louisa Gross Horwitz Prize from Columbia University , the Royal Society Wellcome Foundation Prize , the Albert Lasker Basic Medical Research Award and the General Motors Cancer Research Foundation Sloan Prize . <br><hr><br><blue>1(3)</blue>: <m_str>Cambridge</m_str> (4_17) 	<m_str>Cambridge</m_str> (17_23) 	<m_str>Cambridge</m_str> (1_30) 	<br><blue>2(5)</blue>: <m_str>Dr. Milstein and Dr. Köhler 's</m_str> (6_1) 	<m_str>the scientists</m_str> (11_30) 	<m_str>they</m_str> (7_5) 	<m_str>The scientists</m_str> (10_1) 	<m_str>The scientists</m_str> (11_1) 	<br><blue>3(3)</blue>: <m_str>the cells</m_str> (11_39) 	<m_str>Antibody-producing cells</m_str> (8_1) 	<m_str>these cells</m_str> (9_2) 	<br><blue>4(2)</blue>: <m_str>Dr. Köhler 's</m_str> (6_4) 	<m_str>Dr. Georges Köhler</m_str> (4_7) 	<br><blue>5(1)</blue>: <m_str>Argentina</m_str> (17_6) 	<br><blue>6(2)</blue>: <m_str>the idea of fusing the mouse spleen cells with the mouse myeloma cells in the hope that one would bring to the union the specificity the scientists needed</m_str> (11_5) 	<m_str>The idea</m_str> (12_1) 	<br><blue>7(2)</blue>: <m_str>his career</m_str> (18_34) 	<m_str>his career</m_str> (3_20) 	<br><blue>8(14)</blue>: <m_str>He</m_str> (2_1) 	<m_str>he</m_str> (3_16) 	<m_str>him</m_str> (18_20) 	<m_str>his</m_str> (3_20) 	<m_str>Dr. Milstein</m_str> (4_4) 	<m_str>César Milstein</m_str> (17_8) 	<m_str>Dr. Milstein</m_str> (19_7) 	<m_str>he</m_str> (18_29) 	<m_str>his</m_str> (19_12) 	<m_str>his</m_str> (4_15) 	<m_str>He</m_str> (18_1) 	<m_str>his</m_str> (18_34) 	<m_str>his</m_str> (17_20) 	<m_str>Dr. Milstein</m_str> (20_7) 	<br><blue>9(3)</blue>: <m_str>antibodies</m_str> (14_5) 	<m_str>them</m_str> (15_5) 	<m_str>them</m_str> (16_15) 	<br><blue>10(2)</blue>: <m_str>the Wolf Prize</m_str> (20_10) 	<m_str>the 1984 Nobel Prize</m_str> (1_7) 	<br><blue>11(2)</blue>: <m_str>The antibodies</m_str> (16_1) 	<m_str>monoclonal antibodies</m_str> (13_5) 	<br><blue>12(1)</blue>: <m_str>Albert Lasker</m_str> (20_39) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

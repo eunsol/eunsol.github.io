@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jimmy Witherspoon, Singer Of Blues and Jazz, Dies at 74 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jimmy Witherspoon , one of the great postwar blues singers and a figure who naturally bridged the worlds of blues and jazz , died on Thursday at his home in Los Angeles . <br><blue>2</blue>He was 74 . <br><blue>3</blue>He died in his sleep , said Michael James , his booking agent . <br><blue>4</blue>Mr. Witherspoon ( nicknamed Spoon ) was born in 1923 , in Gurdon , Ark. , where he grew up singing in the choir of the First Baptist Church . <br><blue>5</blue>He ran away from home in the mid-1930 's to work in Los Angeles , and from 1941 to 1943 was in the merchant marine . <br><blue>6</blue>His first break came during that time , sitting in with Teddy Weatherford 's jazz band on an Armed Forces Radio broadcast from Calcutta , India . <br><blue>7</blue>Returning in 1944 to San Francisco , where his mother then lived , he replaced Walter Brown in Jay McShann 's band during the group 's stay in Vallejo , Calif . <br><blue>8</blue>He toured and recorded with Mr. McShann for four years , forming his emotional and sophisticated singing style : a layering of fine jazz rhythms over gospel inflections in a deep , wide mellow baritone . <br><blue>9</blue>But he was not widely known until his first hit record under his own name , a version of '' Ai n't Nobody 's Business , '' made in 1949 , with Mr. McShann playing piano . <br><blue>10</blue>It became a No. 1 hit on the rhythm-and-blues charts for 34 weeks . <br><blue>11</blue>Though he later told the writer Arnold Shaw that he was paid a flat fee and made no royalties from it , the song made his career and led to a series of hits through the mid-50 's . <br><blue>12</blue>His popularity came , however , just at the advent of rock-and-roll , and that bad timing would profoundly affect his future . <br><blue>13</blue>To the new rock-and-roll audience , his stature was quickly forgotten . <br><blue>14</blue>He turned more and more to jazz , recording for many labels through the 50 's , including Atlantic Records , for whom he made an album in 1956 with the Wilbur de Paris New Orleans Jazz Band . <br><blue>15</blue>But his comeback performance at the 1959 Monterey Jazz Festival , in an all-star group including Ben Webster , Coleman Hawkins and Earl Hines , changed things . <br><blue>16</blue>He was a valuable property again , touring with Count Basie 's and Buck Clayton 's jazz groups . <br><blue>17</blue>He performed with organists like Jack McDuff and Richard ( Groove ) Holmes and took part in the late-60 's blues revival , accompanied by white blues-rock musicians . <br><blue>18</blue>During the 60 's , he also made recordings with the jazz trumpeter Harry ( Sweets ) Edison , the singer Jon Hendricks and the baritone saxophonist Gerry Mulligan . <br><blue>19</blue>Like his idol , Big Joe Turner , as well as Jimmy Rushing and Eddie ( Cleanhead ) Vinson , Mr. Witherspoon was a singer who had shared citizenship in the worlds of blues and jazz . '' <br><blue>20</blue>They call me an R &amp; B singer , '' he told Mr. Shaw . '' <br><hr><br><blue>1(1)</blue>: <m_str>me</m_str> (20_3) 	<br><blue>2(2)</blue>: <m_str>the choir of the First Baptist Church</m_str> (4_23) 	<m_str>the mid-1930 's</m_str> (5_7) 	<br><blue>3(2)</blue>: <m_str>the worlds of blues and jazz</m_str> (1_17) 	<m_str>the worlds of blues and jazz</m_str> (19_31) 	<br><blue>4(2)</blue>: <m_str>the 60 's</m_str> (18_2) 	<m_str>Jack McDuff and Richard -LRB- Groove -RRB- Holmes</m_str> (17_6) 	<br><blue>5(2)</blue>: <m_str>Los Angeles</m_str> (1_31) 	<m_str>Los Angeles</m_str> (5_13) 	<br><blue>6(2)</blue>: <m_str>it</m_str> (11_21) 	<m_str>a flat fee</m_str> (11_13) 	<br><blue>7(37)</blue>: <m_str>his</m_str> (7_9) 	<m_str>his</m_str> (15_2) 	<m_str>the writer Arnold Shaw</m_str> (11_5) 	<m_str>he</m_str> (7_14) 	<m_str>he</m_str> (11_10) 	<m_str>his</m_str> (19_2) 	<m_str>Mr. Witherspoon</m_str> (4_1) 	<m_str>he</m_str> (14_24) 	<m_str>Walter Brown</m_str> (7_16) 	<m_str>He</m_str> (8_1) 	<m_str>Jay McShann 's</m_str> (7_19) 	<m_str>His</m_str> (12_1) 	<m_str>Mr. McShann for four years</m_str> (8_6) 	<m_str>He</m_str> (16_1) 	<m_str>his</m_str> (8_13) 	<m_str>his</m_str> (11_26) 	<m_str>he</m_str> (4_18) 	<m_str>He</m_str> (5_1) 	<m_str>Mr. Witherspoon</m_str> (19_21) 	<m_str>he</m_str> (9_2) 	<m_str>he</m_str> (20_11) 	<m_str>his</m_str> (9_8) 	<m_str>his</m_str> (12_21) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (13_7) 	<m_str>his</m_str> (9_13) 	<m_str>His</m_str> (6_1) 	<m_str>his</m_str> (1_28) 	<m_str>He</m_str> (14_1) 	<m_str>Teddy Weatherford 's</m_str> (6_12) 	<m_str>He</m_str> (3_1) 	<m_str>his</m_str> (3_4) 	<m_str>he</m_str> (18_6) 	<m_str>Mr. McShann playing piano</m_str> (9_33) 	<m_str>he</m_str> (11_2) 	<m_str>his</m_str> (3_11) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Mate Boban, 57, Chief Builder Of Croatian Enclave in Bosnia </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Mate Boban , the hard-line leader of the Bosnian Croats during their war with the Bosnian Muslims and a close ally of President Franjo Tudjman of Croatia , died today after a stroke , according to hospital officials in Mostar . <br><blue>2</blue>He was 57 . <br><blue>3</blue>Mr. Boban , a former salesman for a clothing store , was handpicked by Mr. Tudjman in 1992 to form an independent enclave in Bosnia held by the Croats . <br><blue>4</blue>He oversaw the establishment of the enclave , armed and financed by Zagreb , and led a campaign to drive the Serbs and Muslims from the territory . <br><blue>5</blue>The enclave called itself the Croatian Community of Herzeg-Bosna and designed its own flag and raised its own army . <br><blue>6</blue>Later , it briefly declared itself the independent nation of Herzeg-Bosna . <br><blue>7</blue>Mr. Boban moved swiftly to integrate the enclave into Croatia . <br><blue>8</blue>He introduced the nationalist Croatian curriculum into the enclave 's schools , announced that '' Croatian '' was the official language and decreed that the Croatian kuna was the only acceptable currency . <br><blue>9</blue>His followers purged Muslims and Serbs from government offices and the police . <br><blue>10</blue>The enclave remains a Croatian version of the self-styled Bosnian Serb Republic . <br><blue>11</blue>It controls about 20 percent of Bosnian territory . <br><blue>12</blue>It was under Mr. Boban 's leadership that the Croatian forces in 1993 attacked their Muslim allies to expand the size of the enclave . <br><blue>13</blue>The Muslims and Croats , until the attack , had been allied against the Serbs . <br><blue>14</blue>The fighting , which left the picturesque city of Mostar a gutted shell and divided the city between Muslims and Croats , ended in 1994 , when Washington brokered the setting up of the Muslim-Croat Federation . <br><blue>15</blue>The fighting between the Muslims and Croats has not resumed . <br><blue>16</blue>But the Croatian enclave remains firmly allied with Zagreb and obstructs all cooperation with the Muslim-led Bosnian Government in Sarajevo . <br><blue>17</blue>The Bosnian Croats carry Croatian passports and vote in Croatian elections . <br><blue>18</blue>Only a handful of the thousands of Serbs and Muslims expelled by Mr. Boban 's police and army have been allowed to return to their homes in the enclave . <br><blue>19</blue>And Zagreb continues to pay for the army and the police and to direct the enclave 's ruling officials . <br><blue>20</blue>Washington secured Mr. Boban 's removal from office because of his role in the killings of Muslim civilians in towns captured by his army . <br><hr><br><blue>1(3)</blue>: <m_str>its own army</m_str> (5_17) 	<m_str>the army</m_str> (19_7) 	<m_str>his army</m_str> (20_23) 	<br><blue>2(1)</blue>: <m_str>the Muslim-led Bosnian Government in Sarajevo</m_str> (16_15) 	<br><blue>3(2)</blue>: <m_str>Mate Boban , the hard-line leader of the Bosnian Croats during their war with the Bosnian Muslims and a close ally of President Franjo Tudjman of Croatia</m_str> (1_1) 	<m_str>their</m_str> (1_12) 	<br><blue>4(2)</blue>: <m_str>the Croatian forces in 1993</m_str> (12_9) 	<m_str>their</m_str> (12_15) 	<br><blue>5(2)</blue>: <m_str>Mr. Tudjman in 1992</m_str> (3_15) 	<m_str>President Franjo Tudjman of Croatia</m_str> (1_23) 	<br><blue>6(2)</blue>: <m_str>Serbs</m_str> (18_8) 	<m_str>Serbs</m_str> (9_6) 	<br><blue>7(3)</blue>: <m_str>Muslims</m_str> (14_19) 	<m_str>Muslims</m_str> (4_24) 	<m_str>Muslims</m_str> (18_10) 	<br><blue>8(2)</blue>: <m_str>the thousands of Serbs and Muslims expelled by Mr. Boban 's police and army</m_str> (18_5) 	<m_str>their</m_str> (18_25) 	<br><blue>9(11)</blue>: <m_str>Mr. Boban 's</m_str> (18_13) 	<m_str>He</m_str> (4_1) 	<m_str>He</m_str> (8_1) 	<m_str>Mr. Boban 's</m_str> (12_4) 	<m_str>Mr. Boban 's</m_str> (20_3) 	<m_str>His</m_str> (9_1) 	<m_str>his</m_str> (20_11) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (20_23) 	<m_str>Mr. Boban , a former salesman for a clothing store</m_str> (3_1) 	<m_str>Mr. Boban</m_str> (7_1) 	<br><blue>10(2)</blue>: <m_str>Croatia</m_str> (7_10) 	<m_str>Croatia</m_str> (1_27) 	<br><blue>11(1)</blue>: <m_str>their war with the Bosnian Muslims</m_str> (1_12) 	<br><blue>12(2)</blue>: <m_str>Mostar</m_str> (14_10) 	<m_str>Mostar</m_str> (1_40) 	<br><blue>13(1)</blue>: <m_str>the killings of Muslim civilians</m_str> (20_14) 	<br><blue>14(16)</blue>: <m_str>its</m_str> (5_12) 	<m_str>the enclave</m_str> (12_23) 	<m_str>its</m_str> (5_17) 	<m_str>it</m_str> (6_3) 	<m_str>an independent enclave</m_str> (3_21) 	<m_str>itself</m_str> (6_6) 	<m_str>The enclave</m_str> (10_1) 	<m_str>It</m_str> (12_1) 	<m_str>the enclave</m_str> (18_28) 	<m_str>the enclave 's</m_str> (8_8) 	<m_str>the enclave 's</m_str> (19_15) 	<m_str>the Croatian enclave</m_str> (16_2) 	<m_str>The enclave</m_str> (5_1) 	<m_str>itself</m_str> (5_4) 	<m_str>It</m_str> (11_1) 	<m_str>the enclave</m_str> (7_7) 	<br><blue>15(3)</blue>: <m_str>Zagreb</m_str> (4_13) 	<m_str>Zagreb</m_str> (19_2) 	<m_str>Zagreb</m_str> (16_9) 	<br><blue>16(2)</blue>: <m_str>the police</m_str> (9_11) 	<m_str>the police</m_str> (19_10) 	<br><blue>17(3)</blue>: <m_str>the Croats</m_str> (3_28) 	<m_str>The Bosnian Croats</m_str> (17_1) 	<m_str>the Bosnian Croats</m_str> (1_8) 	<br><blue>18(2)</blue>: <m_str>Washington</m_str> (20_1) 	<m_str>Washington</m_str> (14_28) 	<br><blue>19(2)</blue>: <m_str>The fighting , which left the picturesque city of Mostar a gutted shell and divided the city between Muslims and Croats</m_str> (14_1) 	<m_str>The fighting between the Muslims and Croats</m_str> (15_1) 	<br><blue>20(2)</blue>: <m_str>the Bosnian Muslims</m_str> (1_15) 	<m_str>the Muslims</m_str> (15_4) 	<br><blue>21(1)</blue>: <m_str>Bosnia</m_str> (3_25) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

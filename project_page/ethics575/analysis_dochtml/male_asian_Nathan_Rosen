@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Nathan Rosen, 86, of Israel; Physicist Worked With Einstein </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Nathan Rosen , one of Israel 's foremost scientists , a theoretical physicist who collaborated with Albert Einstein on his historic and still argued-over attack on quantum mechanics , died on Monday at his home in Haifa . <br><blue>2</blue>He was 86 and had continued his research to the last day . <br><blue>3</blue>A native of Brooklyn , he was Gerard Swope Professor Emeritus of Physics at Technion-Israel Institute of Technology in Haifa and the founder of Technion 's Institute of Theoretical Physics . <br><blue>4</blue>He had a pivotal role in the transformation of Technion from a small technical college into a leading technological and scientific university . <br><blue>5</blue>He also was a founder of the Israel National Academy of Sciences and the Humanities and the Israel Physical Society , and he helped set up the engineering school at Ben Gurion University of the Negev in Beersheba . <br><blue>6</blue>He reached emeritus status at Technion in 1979 but continued to teach his course on general relativity until four years ago . <br><blue>7</blue>He contributed to scientific journals throughout his career , and his last two articles have yet to appear . <br><blue>8</blue>Even as a student he wrote some remarkable papers , including a lasting one that provided the first reliable calculation of the structure of the hydrogen molecule . <br><blue>9</blue>From 1934 to 1936 he was a young assistant to Einstein and jointly wrote several scientific papers with him . <br><blue>10</blue>The one that can still raise hackles with physicists was written with Boris Podolsky , another assistant to Einstein . <br><blue>11</blue>It was published in The Physical Review , one of the most impenetrable periodicals in the English language . <br><blue>12</blue>It advanced a " thought experiment " to show the wrong-headedness of the quantum theory , which many scientists of the time found highly unpalatable . <br><blue>13</blue>Einstein deemed it something akin to magic . <br><blue>14</blue>The paper pointed out conceptual problems that the authors had with the theory and what they saw as its paradoxical and contradictory aspects . <br><blue>15</blue>Quantum mechanics describes the motion of objects by the principles of quantum theory . <br><blue>16</blue>That theory holds that energy is not absorbed or radiated continuously but discontinuously , and only in multiples of definite , indivisible units , or quanta . <br><blue>17</blue>The paper drew a sharp response from Niels Bohr , and quantum theory has since been widely accepted . <br><blue>18</blue>Scientists use it as a primary tool to predict the interactions of atoms , molecules , elementary particles and radiation ; it plays a role in virtually all the chemical and physical reactions that control our lives and the world around us . <br><blue>19</blue>Dr. Rosen , who eventually accepted the theory , received a bachelor 's degree in electrochemical engineering , and a master 's and , in 1932 , a Ph.D. in physics from the Massachusetts Institute of Technology . <br><blue>20</blue>He worked as a national research fellow at the University of Michigan and Princeton University , where he developed a lifelong interest in gravitation . <br><hr><br><blue>1(2)</blue>: <m_str>the authors</m_str> (14_8) 	<m_str>they</m_str> (14_16) 	<br><blue>2(5)</blue>: <m_str>its</m_str> (14_19) 	<m_str>That theory</m_str> (16_1) 	<m_str>the quantum theory , which many scientists of the time found highly unpalatable</m_str> (12_13) 	<m_str>the theory</m_str> (14_12) 	<m_str>the theory</m_str> (19_7) 	<br><blue>3(2)</blue>: <m_str>He</m_str> (20_1) 	<m_str>he</m_str> (20_18) 	<br><blue>4(2)</blue>: <m_str>Quantum mechanics</m_str> (15_1) 	<m_str>quantum mechanics</m_str> (1_28) 	<br><blue>5(1)</blue>: <m_str>Israel 's</m_str> (1_7) 	<br><blue>6(2)</blue>: <m_str>Technion</m_str> (6_6) 	<m_str>Technion</m_str> (4_10) 	<br><blue>7(2)</blue>: <m_str>The paper</m_str> (14_1) 	<m_str>The paper</m_str> (17_1) 	<br><blue>8(2)</blue>: <m_str>quantum theory</m_str> (15_12) 	<m_str>quantum theory</m_str> (17_12) 	<br><blue>9(2)</blue>: <m_str>Haifa</m_str> (1_38) 	<m_str>Haifa</m_str> (3_20) 	<br><blue>10(3)</blue>: <m_str>it</m_str> (18_3) 	<m_str>a sharp response</m_str> (17_4) 	<m_str>it</m_str> (18_22) 	<br><blue>11(18)</blue>: <m_str>his</m_str> (7_11) 	<m_str>He</m_str> (2_1) 	<m_str>Albert Einstein</m_str> (1_18) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (1_21) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (2_7) 	<m_str>he</m_str> (5_23) 	<m_str>him</m_str> (9_19) 	<m_str>he</m_str> (8_5) 	<m_str>his</m_str> (6_13) 	<m_str>his</m_str> (1_35) 	<m_str>He</m_str> (5_1) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (3_6) 	<m_str>his</m_str> (7_7) 	<m_str>he</m_str> (9_5) 	<m_str>Einstein</m_str> (13_1) 	<br><blue>12(3)</blue>: <m_str>it</m_str> (13_3) 	<m_str>It</m_str> (11_1) 	<m_str>It</m_str> (12_1) 	<br><blue>13(3)</blue>: <m_str>Ben Gurion University of the Negev</m_str> (5_31) 	<m_str>a leading technological and scientific university</m_str> (4_17) 	<m_str>the University of Michigan and Princeton University</m_str> (20_9) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

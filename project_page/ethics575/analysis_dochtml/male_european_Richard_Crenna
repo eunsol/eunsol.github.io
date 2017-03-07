@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Richard Crenna, Veteran of TV and Films, Is Dead at 76 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Richard Crenna , the prolific actor who went from being a child performer in radio to roles of complexity and nuance in serious films , died Friday in Los Angeles . <br><blue>2</blue>He was 76 . <br><blue>3</blue>Mr. Crenna had pancreatic cancer and died of heart failure at Cedars-Sinai Medical Center , with his wife , Penni , and his three adult children by his side , said his daughter Seana Crenna . <br><blue>4</blue>Mr. Crenna worked continuously throughout a 65-year career , and much of his longevity stemmed from his remarkable range as an actor . <br><blue>5</blue>He earned an Emmy Award for his performance as a macho police officer who is sexually assaulted in the 1985 television movie '' The Rape of Richard Beck . '' <br><blue>6</blue>His portrayal of a card shark opposite Matt Dillon in the 1984 film '' The Flamingo Kid '' earned him a Golden Globe nomination for best supporting actor . <br><blue>7</blue>And who could forget him as the grizzled Army colonel called in to soothe the savage Sylvester Stallone in the Rambo movies ? '' <br><blue>8</blue>He had such a full career because he lived for his work , '' Seana Crenna said . '' <br><blue>9</blue>If you never saw him on the screen as an actor , you surely heard him through radio roles and voice-overs . '' <br><blue>10</blue>Ms. Crenna said that her father seemed in excellent health until about two months ago . <br><blue>11</blue>Illness kept him from filming several episodes of the CBS television series '' Judging Amy , '' on which he played Jared Duff . <br><blue>12</blue>Richard Donald Crenna was born in Los Angeles in 1926 . <br><blue>13</blue>At 10 he played a squeaky-voiced kid on '' The Burns and Allen Show '' on radio . <br><blue>14</blue>After serving in the Army during World War II , Mr. Crenna was cast as the squeaky-voiced teenager Walter Denton on the radio comedy '' Our Miss Brooks '' with Eve Arden and moved with the show to television in 1952 . <br><blue>15</blue>After that , he began working steadily , moving effortlessly between television and film . <br><blue>16</blue>He played the pitcher Daffy Dean in the 1953 film '' Pride of St. Louis . '' <br><blue>17</blue>From 1957 through 1963 he starred with Walter Brennan in the television comedy '' The Real McCoys . '' <br><blue>18</blue>He directed television movies and episodes of popular shows , including '' The Andy Griffith Show '' and '' Lou Grant . '' <br><blue>19</blue>Mr. Crenna played the goofy high school student Denton until he was 29 , and appeared in the movie version of '' Our Miss Brooks '' in 1955 . <br><blue>20</blue>But after '' The Real McCoys , '' he concentrated on more serious roles . <br><hr><br><blue>1(2)</blue>: <m_str>an actor</m_str> (9_10) 	<m_str>an actor</m_str> (4_21) 	<br><blue>2(2)</blue>: <m_str>you</m_str> (9_13) 	<m_str>you</m_str> (9_2) 	<br><blue>3(2)</blue>: <m_str>the Army</m_str> (14_4) 	<m_str>Our</m_str> (14_26) 	<br><blue>4(2)</blue>: <m_str>Los Angeles</m_str> (12_7) 	<m_str>Los Angeles</m_str> (1_29) 	<br><blue>5(37)</blue>: <m_str>he</m_str> (15_4) 	<m_str>the savage Sylvester Stallone in the Rambo movies</m_str> (7_15) 	<m_str>He</m_str> (8_1) 	<m_str>he</m_str> (8_8) 	<m_str>He</m_str> (16_1) 	<m_str>his</m_str> (8_11) 	<m_str>Seana Crenna</m_str> (8_15) 	<m_str>him</m_str> (9_5) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_5) 	<m_str>him</m_str> (9_16) 	<m_str>Ms. Crenna</m_str> (10_1) 	<m_str>her</m_str> (10_5) 	<m_str>He</m_str> (18_1) 	<m_str>Mr. Crenna</m_str> (3_1) 	<m_str>him</m_str> (11_3) 	<m_str>his</m_str> (3_17) 	<m_str>Mr. Crenna</m_str> (19_1) 	<m_str>Mr. Crenna</m_str> (4_1) 	<m_str>Penni</m_str> (3_20) 	<m_str>his</m_str> (3_23) 	<m_str>he</m_str> (19_11) 	<m_str>his</m_str> (3_28) 	<m_str>he</m_str> (11_20) 	<m_str>Richard Donald Crenna</m_str> (12_1) 	<m_str>his</m_str> (4_13) 	<m_str>his</m_str> (3_32) 	<m_str>his</m_str> (4_17) 	<m_str>Seana Crenna</m_str> (3_34) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (5_7) 	<m_str>he</m_str> (20_9) 	<m_str>he</m_str> (13_3) 	<m_str>His</m_str> (6_1) 	<m_str>him</m_str> (6_20) 	<m_str>Mr. Crenna</m_str> (14_11) 	<m_str>him</m_str> (7_5) 	<br><blue>6(1)</blue>: <m_str>Rambo</m_str> (7_21) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

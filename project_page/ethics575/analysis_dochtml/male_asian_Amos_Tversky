@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Amos Tversky, Expert on Decision Making, Is Dead at 59 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Amos Tversky , a cognitive psychologist who changed the way experts in many fields think about how people make decisions about risks , benefits and probabilities , died on Sunday at his home in Stanford , Calif . <br><blue>2</blue>He was 59 . <br><blue>3</blue>The cause was metastatic melanoma , said Stanford University , where he was the Davis-Brack Professor of Behavioral Sciences . <br><blue>4</blue>Dr. Tversky ( pronounced TUH-VER-skee ) once said he merely examined in a scientific way things about behavior that were already known to " advertisers and used-car salesmen , " and much of his work has indeed had an economic slant , shaping the way economists look at decision-making by consumers and business executives . <br><blue>5</blue>It also influenced statisticians and other researchers interested in how decisions involving risk are made in fields like medicine or public policy . <br><blue>6</blue>His research showed that people do not always behave rationally when they make decisions , that they generally put more emphasis on risk than benefits and that there are many more quirks in the human reasoning process than many earlier economic and psychological theories had contended . <br><blue>7</blue>Dr. Tversky began his work with decision-making in Israel with Dr. Daniel Kahneman , now of Princeton University . <br><blue>8</blue>When they were instructors at Hebrew University in 1968 , Dr. Kahneman said , they became fascinated by how fighter-pilot trainers , taking classes at the university , decided whether to use rewards or punishments to motivate their pilot trainees . <br><blue>9</blue>Even though the trainers were told that rewards were more effective , they argued against that idea . <br><blue>10</blue>The trainers said that when a student was praised for a good flight , he was more likely to do less well the next time . <br><blue>11</blue>When a student was berated for a poor flight , he tended to do better the next time . <br><blue>12</blue>Drs. Tversky and Kahneman recognized that the trainers were being misled because they did not recognize that the law of averages would predict that an unusual performance , good or bad , would be likely to be followed by a performance closer to average . <br><blue>13</blue>That led them to experiments in the early 1970 's showing that people could depend on things other than logic to make decisions , said Dr. Frank Yates , a psychologist at the University of Michigan . <br><blue>14</blue>In these experiments , for example , two bookbags would be filled with the same number of poker chips ; in one bag , two-thirds of the chips would be red and the rest white , with the opposite proportion in the other bag . <br><blue>15</blue>A sample of chips was drawn from each bag , and the task would be to determine , based on the samples drawn , whether a bag was more likely to have mostly red chips or white chips . <br><blue>16</blue>If 5 chips were pulled from one bag and 4 were red , while 30 chips were taken out of the other and 20 were red , most people would say that the first bag was more likely to have mostly red chips because 80 percent of the 5 chips were red -- even though the larger sample size meant that the results for the second bag would be more reliable . <br><blue>17</blue>Dr. Barbara Tversky , Amos Tversky 's wife and colleague in the Stanford psychology department , said the researchers showed that people tended to see patterns and make connections that were not really there and to base decisions on that . <br><blue>18</blue>People were given this scenario : Suppose you pay $ 10 for a theater ticket but you lose the ticket on the way in -- will you return to the ticket window and buy another ticket ? <br><blue>19</blue>Or , suppose you arrive at the ticket window to buy your $ 10 ticket but find that you 've lost $ 10 from your wallet . <br><blue>20</blue>You still have enough money to buy the ticket -- do you go ahead ? <br><hr><br><blue>1(3)</blue>: <m_str>the university</m_str> (8_26) 	<m_str>Princeton University</m_str> (7_17) 	<m_str>Hebrew University in 1968</m_str> (8_6) 	<br><blue>2(3)</blue>: <m_str>Kahneman</m_str> (12_4) 	<m_str>Dr. Daniel Kahneman , now of Princeton University</m_str> (7_11) 	<m_str>Dr. Kahneman</m_str> (8_11) 	<br><blue>3(9)</blue>: <m_str>them</m_str> (13_3) 	<m_str>they</m_str> (6_12) 	<m_str>they</m_str> (6_17) 	<m_str>they</m_str> (8_15) 	<m_str>they</m_str> (12_13) 	<m_str>they</m_str> (8_2) 	<m_str>people</m_str> (6_5) 	<m_str>their</m_str> (8_38) 	<m_str>Drs. Tversky and Kahneman</m_str> (12_1) 	<br><blue>4(3)</blue>: <m_str>a theater ticket</m_str> (18_13) 	<m_str>your $ 10 ticket</m_str> (19_12) 	<m_str>the ticket</m_str> (20_8) 	<br><blue>5(6)</blue>: <m_str>his</m_str> (1_33) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (4_34) 	<m_str>His</m_str> (6_1) 	<m_str>he</m_str> (4_9) 	<m_str>he</m_str> (3_12) 	<br><blue>6(1)</blue>: <m_str>the University of Michigan</m_str> (13_33) 	<br><blue>7(5)</blue>: <m_str>the trainers</m_str> (12_7) 	<m_str>they</m_str> (9_13) 	<m_str>The trainers</m_str> (10_1) 	<m_str>fighter-pilot trainers , taking classes at the university</m_str> (8_20) 	<m_str>the trainers</m_str> (9_3) 	<br><blue>8(1)</blue>: <m_str>Israel</m_str> (7_9) 	<br><blue>9(2)</blue>: <m_str>the 5 chips</m_str> (16_48) 	<m_str>white chips</m_str> (15_37) 	<br><blue>10(5)</blue>: <m_str>the first bag</m_str> (16_33) 	<m_str>the second bag</m_str> (16_65) 	<m_str>one bag</m_str> (14_22) 	<m_str>one bag</m_str> (16_7) 	<m_str>the other bag</m_str> (14_42) 	<br><blue>11(4)</blue>: <m_str>a student</m_str> (10_6) 	<m_str>he</m_str> (11_11) 	<m_str>he</m_str> (10_15) 	<m_str>a student</m_str> (11_2) 	<br><blue>12(4)</blue>: <m_str>Dr. Tversky -LRB- pronounced TUH-VER-skee -RRB-</m_str> (4_1) 	<m_str>Amos Tversky 's</m_str> (17_5) 	<m_str>Dr. Tversky</m_str> (7_1) 	<m_str>his</m_str> (7_4) 	<br><blue>13(2)</blue>: <m_str>Stanford</m_str> (1_36) 	<m_str>Stanford</m_str> (17_13) 	<br><blue>14(9)</blue>: <m_str>you</m_str> (20_12) 	<m_str>you</m_str> (18_17) 	<m_str>You</m_str> (20_1) 	<m_str>you</m_str> (19_19) 	<m_str>you</m_str> (19_4) 	<m_str>you</m_str> (18_8) 	<m_str>your</m_str> (19_25) 	<m_str>you</m_str> (18_27) 	<m_str>your</m_str> (19_12) 	<br><blue>15(2)</blue>: <m_str>his work</m_str> (4_34) 	<m_str>his work</m_str> (7_4) 	<br><blue>16(2)</blue>: <m_str>the researchers</m_str> (17_18) 	<m_str>other researchers</m_str> (5_6) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

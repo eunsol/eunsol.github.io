@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Anthony Gigliotti, 79, Philadelphia Clarinetist and Teacher </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Anthony Gigliotti , a mainstay of the Philadelphia Orchestra sound as principal clarinetist for 47 years and a polymath of the instrument who trained generations of colleagues , died on Dec. 3 at a hospital in Camden , N.J . <br><blue>2</blue>He was 79 and lived in Cherry Hill , N.J . <br><blue>3</blue>The cause was complications from myelodysplasia , a bone marrow ailment , said his wife , Tai-ling . <br><blue>4</blue>Through recordings and through his students , Mr. Gigliotti helped shape clarinet-playing in this country , transmitting a tradition of flexiblity and technical brilliance . <br><blue>5</blue>His musicianship made him equally at home in the Hungarian dances of Kodaly , the florid solos of Rachmaninoff and the gossamer lines of Ravel . <br><blue>6</blue>His tone quality was resonant but bright . '' <br><blue>7</blue>To project solo lines in the context of the famous Philadelphia string sound , one had to have that , '' said Larry Combs , principal clarinetist of the Chicago Symphony . <br><blue>8</blue>At the same time , he reflected the Philadelphia wind style of flowing , seamless lines , said Ronald Reuben , the Philadelphia Orchestra 's bass clarinetist and a former student of Mr. Gigliotti . <br><blue>9</blue>Mr. Gigliotti retired from the orchestra in 1996 , but maintained a busy teaching schedule until his death . <br><blue>10</blue>He taught at the Curtis Institute of Music and Temple University in Philadelphia , the Peabody Conservatory in Baltimore and Rowan University in Glassboro , N.J . <br><blue>11</blue>He also had private students and gave master classes around the country . <br><blue>12</blue>In June , he finished a recording of a concerto dedicated to him by George Rochberg . <br><blue>13</blue>Mr. Gigliotti also shaped the physical tools of the modern clarinetist , helping design clarinets for the Selmer clarinet company in Paris and producing his own mouthpieces and ligatures . <br><blue>14</blue>Mr. Gigliotti , who grew up in Phladelphia , is survived by his wife ; three sons , Mark , who is co-principal bassoonist in the Philadelphia Orchestra , Neal and Adam ; and by a daughter , Lynne . <br><blue>15</blue>Mr. Gigliotti attended Curtis , but interrupted his studies to serve in the Navy in World War II . <br><blue>16</blue>In an interview with The Philadelphia Inquirer , he recounted how one night a kamikaze crashed into his aircraft carrier , the U.S.S. Randolph , in the Pacific . '' <br><blue>17</blue>People used to ask me if I was n't nervous playing this or that , '' he said . '' <br><blue>18</blue>That kamikaze had cured me of nervousness . '' <br><hr><br><blue>1(24)</blue>: <m_str>his</m_str> (3_14) 	<m_str>Mr. Gigliotti</m_str> (15_1) 	<m_str>his</m_str> (16_18) 	<m_str>He</m_str> (2_1) 	<m_str>His</m_str> (6_1) 	<m_str>his</m_str> (15_8) 	<m_str>his</m_str> (4_5) 	<m_str>Mr. Gigliotti</m_str> (8_33) 	<m_str>his</m_str> (9_17) 	<m_str>He</m_str> (10_1) 	<m_str>Mr. Gigliotti</m_str> (4_8) 	<m_str>he</m_str> (8_6) 	<m_str>he</m_str> (12_4) 	<m_str>Mr. Gigliotti , who grew up in Phladelphia</m_str> (14_1) 	<m_str>he</m_str> (17_17) 	<m_str>His</m_str> (5_1) 	<m_str>his</m_str> (13_25) 	<m_str>him</m_str> (5_4) 	<m_str>him</m_str> (12_13) 	<m_str>he</m_str> (16_9) 	<m_str>Mr. Gigliotti</m_str> (9_1) 	<m_str>his</m_str> (14_13) 	<m_str>He</m_str> (11_1) 	<m_str>Mr. Gigliotti</m_str> (13_1) 	<br><blue>2(2)</blue>: <m_str>the Philadelphia Orchestra 's</m_str> (8_22) 	<m_str>the orchestra</m_str> (9_5) 	<br><blue>3(2)</blue>: <m_str>this country</m_str> (4_14) 	<m_str>the country</m_str> (11_11) 	<br><blue>4(3)</blue>: <m_str>me</m_str> (17_5) 	<m_str>me</m_str> (18_5) 	<m_str>I</m_str> (17_7) 	<br><blue>5(3)</blue>: <m_str>Philadelphia</m_str> (8_9) 	<m_str>Philadelphia</m_str> (7_11) 	<m_str>Philadelphia</m_str> (10_13) 	<br><blue>6(2)</blue>: <m_str>That kamikaze</m_str> (18_1) 	<m_str>a kamikaze</m_str> (16_14) 	<br><blue>7(2)</blue>: <m_str>one</m_str> (7_15) 	<m_str>that</m_str> (7_19) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

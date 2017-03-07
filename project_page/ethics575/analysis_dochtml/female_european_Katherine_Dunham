@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Katherine Dunham, Dance Icon, Dies at 96 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Katherine Dunham , the dancer , choreographer , teacher and anthropologist whose pioneering work introduced much of the black heritage in dance to the stage , died Sunday at her home in Manhattan . <br><blue>2</blue>She was 96 . <br><blue>3</blue>Her death was confirmed by Dr. Glory Van Scott , a friend and former Dunham dancer . <br><blue>4</blue>Miss Dunham also had homes in East St. Louis , Ill. , where she had run inner-city cultural programs for decades , and in Port-au-Prince , Haiti . <br><blue>5</blue>By creating popular and glamorous revues based on African and Caribbean folklore , Miss Dunham acquainted audiences , both on Broadway and around the world , with the historical roots of black dance . <br><blue>6</blue>In the late 1930 's she founded the nation 's first self-supporting black modern-dance troupe , one that visited more than 50 countries on six continents . <br><blue>7</blue>Her achievements came at a time of racial discrimination , which she fought against , refusing to return to segregated theaters in the South . '' <br><blue>8</blue>We were n't pushing ' Black Is Beautiful , ' we just showed it , '' she once wrote . <br><blue>9</blue>One of her works , '' Southland , '' depicted a lynching . <br><blue>10</blue>Miss Dunham also became attached to Haiti and its culture , first arriving there as a young anthropologist . <br><blue>11</blue>She later became a priestess of the Vaudun religion . <br><blue>12</blue>In 1992 , at the age of 82 and suffering from arthritis , she staged a much-publicized 47-day hunger strike to protest repatriation of Haitian refugees . <br><blue>13</blue>In East St. Louis , she found talented young people living in one of the nation 's most destitute areas and turned them into dancers . <br><blue>14</blue>Describing her work there , she said her aim was '' to make the individual aware of himself and his environment , to create a desire to be alive . '' <br><blue>15</blue>Miss Dunham was a recipient of some of the most prestigious awards in the arts , including the Presidential Medal of the Arts , the Albert Schweitzer Prize ( presented at Carnegie Hall ) , Kennedy Center Honors and decorations from the French and Haitian governments . <br><blue>16</blue>In her dance technique , Miss Dunham emphasized the isolation of individual parts of the body . <br><blue>17</blue>Some of her concepts continue to be taught at modern-dance schools across America . <br><blue>18</blue>Her work was an important influence on Alvin Ailey , among other contemporary choreographers . <br><blue>19</blue>George Balanchine cast Miss Dunham in a major role in '' Cabin in the Sky , '' a Broadway musical starring Ethel Waters , which he staged and choreographed in 1940 . <br><blue>20</blue>She then went to Hollywood and danced in and choreographed the movies '' Carnival of Rhythm '' ( 1941 ) , '' Star-Spangled Rhythm '' ( 1942 ) and '' Stormy Weather '' ( 1943 ) , among others . <br><hr><br><blue>1(25)</blue>: <m_str>Miss Dunham</m_str> (15_1) 	<m_str>she</m_str> (7_12) 	<m_str>her</m_str> (16_2) 	<m_str>Miss Dunham</m_str> (16_6) 	<m_str>she</m_str> (8_17) 	<m_str>her</m_str> (9_3) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (17_3) 	<m_str>Miss Dunham</m_str> (10_1) 	<m_str>her</m_str> (1_30) 	<m_str>Her</m_str> (18_1) 	<m_str>Her</m_str> (3_1) 	<m_str>She</m_str> (11_1) 	<m_str>Miss Dunham</m_str> (4_1) 	<m_str>Miss Dunham in a major role</m_str> (19_4) 	<m_str>she</m_str> (4_14) 	<m_str>She</m_str> (20_1) 	<m_str>she</m_str> (12_14) 	<m_str>she</m_str> (13_6) 	<m_str>Miss Dunham</m_str> (5_14) 	<m_str>she</m_str> (6_6) 	<m_str>her</m_str> (14_2) 	<m_str>she</m_str> (14_6) 	<m_str>her</m_str> (14_8) 	<m_str>Her</m_str> (7_1) 	<br><blue>2(2)</blue>: <m_str>George Balanchine</m_str> (19_1) 	<m_str>he</m_str> (19_26) 	<br><blue>3(1)</blue>: <m_str>African</m_str> (5_9) 	<br><blue>4(1)</blue>: <m_str>Carnegie Hall</m_str> (15_32) 	<br><blue>5(2)</blue>: <m_str>them</m_str> (13_23) 	<m_str>talented young people</m_str> (13_8) 	<br><blue>6(1)</blue>: <m_str>1943</m_str> (20_35) 	<br><blue>7(4)</blue>: <m_str>Broadway</m_str> (19_19) 	<m_str>Broadway</m_str> (5_21) 	<m_str>the nation 's</m_str> (13_15) 	<m_str>the nation 's</m_str> (6_8) 	<br><blue>8(2)</blue>: <m_str>himself</m_str> (14_18) 	<m_str>his</m_str> (14_20) 	<br><blue>9(2)</blue>: <m_str>Haiti</m_str> (10_7) 	<m_str>its</m_str> (10_9) 	<br><blue>10(1)</blue>: <m_str>Ill.</m_str> (4_11) 	<br><blue>11(2)</blue>: <m_str>we</m_str> (8_11) 	<m_str>We</m_str> (8_1) 	<br><blue>12(1)</blue>: <m_str>the Vaudun religion</m_str> (11_7) 	<br><blue>13(2)</blue>: <m_str>her work</m_str> (14_2) 	<m_str>Her work</m_str> (18_1) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

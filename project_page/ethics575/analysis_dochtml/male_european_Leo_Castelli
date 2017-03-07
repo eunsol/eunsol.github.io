@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Leo Castelli, Influential Art Dealer, Dies at 91 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Leo Castelli , the New York art dealer who played an extraordinary role in shaping contemporary American art and fostering international acceptance of painters like Jasper Johns , Robert Rauschenberg , Roy Lichtenstein and Frank Stella , died on Saturday night at his Manhattan home . <br><blue>2</blue>He was 91 . <br><blue>3</blue>Mr. Castelli emerged as one of the most influential American art dealers of the century in the late 1950 's , when Abstract Expressionism began to ebb , and for decades helped develop and promote the Pop , Minimal , Conceptual and Neo-Expressionist movements . <br><blue>4</blue>He gave Mr. Johns , Mr. Stella and Mr. Lichtenstein their first one-man shows and brought attention to Andy Warhol , Ellsworth Kelly , Cy Twombley , Donald Judd , Dan Flavin , Joseph Kosuth and Richard Serra among others . <br><blue>5</blue>Mr. Castelli stood out in the history of American art and in the history of American art dealing for two quite different reasons . <br><blue>6</blue>First , in his choice of artists he never looked back . <br><blue>7</blue>If he was not there first , he did not bother to begin . <br><blue>8</blue>In the case of the great masters of modernism -- Matisse and Picasso , for instance -- he never thought of dealing in them . <br><blue>9</blue>Not only were they out of reach , they were also yesterday , and he wanted today . <br><blue>10</blue>When he came to New York as a refugee from Europe during World War II and was on the fringes of the art world , he happened to have access more than once to paintings by the pioneer Russian abstractionist Wassily Kandinsky . <br><blue>11</blue>Sometimes he sold the Kandinsky paintings privately , but it never occurred to him to show them as a dealer in a gallery . <br><blue>12</blue>Similarly , at the end of World War II he was a close friend of Willem de Kooning , and they spent summers together in the Hamptons . <br><blue>13</blue>But it never crossed Mr. Castelli 's mind to show de Kooning 's work . <br><blue>14</blue>When he finally became a gallery dealer , he lived entirely for artists whom he had fostered from their beginnings . <br><blue>15</blue>The second reason for his special place in the trade was that he convinced Europeans that the new American art of the 1960 's was of the highest international importance . <br><blue>16</blue>Nothing like that had happened before . <br><blue>17</blue>Mr. Castelli was entirely and unmistakably European , and he knew how to overcome European doubts and hesitations in the context of the new American art . <br><blue>18</blue>It also helped that he was not a brash young boy but a man of the world who spoke several European languages perfectly and was almost 50 before he opened his New York gallery in 1957 . <br><blue>19</blue>Leo Castelli the cosmopolitan esthete chose the artists ( sometimes with a little help from friends ) . <br><blue>20</blue>But it was Leo Castelli the diplomat who wooed and won curators and collectors , both in the United States and in Europe . <br><hr><br><blue>1(1)</blue>: <m_str>the world who spoke several European languages perfectly and was almost 50 before he</m_str> (18_16) 	<br><blue>2(2)</blue>: <m_str>Mr. Johns , Mr. Stella and Mr. Lichtenstein</m_str> (4_3) 	<m_str>their</m_str> (4_11) 	<br><blue>3(1)</blue>: <m_str>a gallery</m_str> (11_22) 	<br><blue>4(2)</blue>: <m_str>artists whom he had fostered from their beginnings</m_str> (14_13) 	<m_str>the artists</m_str> (19_7) 	<br><blue>5(33)</blue>: <m_str>his</m_str> (15_5) 	<m_str>he</m_str> (15_13) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Castelli</m_str> (17_1) 	<m_str>he</m_str> (17_10) 	<m_str>Roy Lichtenstein</m_str> (1_32) 	<m_str>Mr. Castelli</m_str> (3_1) 	<m_str>he</m_str> (18_5) 	<m_str>his</m_str> (1_43) 	<m_str>He</m_str> (4_1) 	<m_str>Leo Castelli</m_str> (19_1) 	<m_str>Mr. Stella</m_str> (4_6) 	<m_str>Mr. Lichtenstein</m_str> (4_9) 	<m_str>he</m_str> (18_29) 	<m_str>his</m_str> (18_31) 	<m_str>Mr. Castelli</m_str> (5_1) 	<m_str>Leo Castelli</m_str> (20_4) 	<m_str>his</m_str> (6_4) 	<m_str>he</m_str> (6_8) 	<m_str>he</m_str> (7_2) 	<m_str>he</m_str> (7_8) 	<m_str>Matisse</m_str> (8_11) 	<m_str>he</m_str> (8_18) 	<m_str>he</m_str> (9_15) 	<m_str>he</m_str> (10_2) 	<m_str>he</m_str> (11_2) 	<m_str>he</m_str> (10_26) 	<m_str>him</m_str> (11_14) 	<m_str>he</m_str> (12_10) 	<m_str>Mr. Castelli 's</m_str> (13_5) 	<m_str>he</m_str> (14_2) 	<m_str>he</m_str> (14_9) 	<m_str>he</m_str> (14_15) 	<br><blue>6(2)</blue>: <m_str>Europe</m_str> (10_11) 	<m_str>Europe</m_str> (20_23) 	<br><blue>7(2)</blue>: <m_str>New York</m_str> (18_32) 	<m_str>New York</m_str> (1_5) 	<br><blue>8(4)</blue>: <m_str>them</m_str> (8_24) 	<m_str>they</m_str> (9_9) 	<m_str>they</m_str> (9_4) 	<m_str>the great masters of modernism -- Matisse and Picasso , for instance --</m_str> (8_5) 	<br><blue>9(1)</blue>: <m_str>the art world</m_str> (10_22) 	<br><blue>10(2)</blue>: <m_str>Kandinsky</m_str> (11_5) 	<m_str>the pioneer Russian abstractionist Wassily Kandinsky</m_str> (10_37) 	<br><blue>11(2)</blue>: <m_str>World War II</m_str> (12_7) 	<m_str>World War II</m_str> (10_13) 	<br><blue>12(4)</blue>: <m_str>the Kandinsky paintings</m_str> (11_4) 	<m_str>they</m_str> (12_21) 	<m_str>it</m_str> (11_10) 	<m_str>them</m_str> (11_17) 	<br><blue>13(2)</blue>: <m_str>the new American art of the 1960 's was of the highest international importance</m_str> (15_17) 	<m_str>the new American art</m_str> (17_23) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

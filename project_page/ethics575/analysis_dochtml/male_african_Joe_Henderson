@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Joe Henderson, Saxophonist And Composer, Dies at 64 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Joe Henderson , one of the great jazz saxophonists and a composer who wrote a handful of tunes known by almost every jazz student , died on Saturday in San Francisco . <br><blue>2</blue>He was 64 and lived in San Francisco . <br><blue>3</blue>The cause was heart failure after a long struggle with emphysema , The Associated Press reported . <br><blue>4</blue>Mr. Henderson was unmistakably modern . '' <br><blue>5</blue>Joe had one foot in the present , the other in the future , and he was just a step away from immortality , '' said the saxophonist Benny Golson . <br><blue>6</blue>His tenor saxophone sound was shaded , insinuating , full of layers , with quicksilver lines amid careful ballad phrases and short trills . <br><blue>7</blue>He had a clean , expressive upper register and a talent for improvising in semi-abstract harmony , and when the far-out years for jazz arrived in the mid-60 's , led by musicians like John Coltrane and Miles Davis , he was well positioned to take part . <br><blue>8</blue>He made a series of records for Milestone that used studio echo , Alice Coltrane 's harp , violins , wood flutes and other exotic accouterments . <br><blue>9</blue>But Mr. Henderson 's greatest strengths were more traditional : the ballad , the uptempo tune , the standard . <br><blue>10</blue>And by the early 1990 's , when he was a respected elder , he made some of his greatest statements on a series of well-produced , nearly theatrical albums for Verve Records . <br><blue>11</blue>Born in Lima , Ohio , he was one of 15 siblings . <br><blue>12</blue>His parents and his brother James encouraged him to study music because of the talents he displayed as a saxophonist in his high school band . <br><blue>13</blue>He attended Kentucky State College for a year , then transferred to Wayne State University in Detroit , where he was among fellow students like Yusef Lateef , Curtis Fuller and Hugh Lawson . <br><blue>14</blue>In Detroit he worked with the saxophonist Sonny Stitt , and eventually formed his own group before joining the Army in 1960 . <br><blue>15</blue>He played in the Army band at Fort Benning , Ga. , and toured military bases in the Far East and Europe with a revue called the Rolling Along Show . <br><blue>16</blue>In 1962 Mr. Henderson , who soon became a distinctive presence with his rail-thin body , thick black glasses and bushy mustache , was discharged and headed for New York . <br><blue>17</blue>He quickly joined the young musicians recording for Blue Note records , especially the trumpeter Kenny Dorham , who was acting as a talent scout for the label . <br><blue>18</blue>He made his recording debut in 1963 on Dorham 's '' Una Mas , '' one of the classic Blue Note records of the early 60 's . <br><blue>19</blue>Mr. Henderson was entering jazz at a fertile moment , when a few ambitious , challenging albums , like John Coltrane 's '' My Favorite Things '' and Miles Davis 's '' Kind of Blue , '' had broken through to a wide audience . <br><blue>20</blue>A new self-possessed intellectualism was widespread in black music , and the experimental and traditional factions had n't yet hardened their positions . <br><hr><br><blue>1(2)</blue>: <m_str>Detroit</m_str> (14_2) 	<m_str>Detroit</m_str> (13_17) 	<br><blue>2(2)</blue>: <m_str>his high school band</m_str> (12_22) 	<m_str>the Army band</m_str> (15_4) 	<br><blue>3(2)</blue>: <m_str>the Army in 1960</m_str> (14_19) 	<m_str>Army</m_str> (15_5) 	<br><blue>4(2)</blue>: <m_str>San Francisco</m_str> (1_30) 	<m_str>San Francisco</m_str> (2_7) 	<br><blue>5(3)</blue>: <m_str>Mr. Henderson</m_str> (19_1) 	<m_str>Mr. Henderson</m_str> (4_1) 	<m_str>Mr. Henderson 's</m_str> (9_2) 	<br><blue>6(3)</blue>: <m_str>Alice Coltrane 's</m_str> (8_14) 	<m_str>John Coltrane 's</m_str> (19_20) 	<m_str>John Coltrane</m_str> (7_35) 	<br><blue>7(2)</blue>: <m_str>Miles Davis 's</m_str> (19_29) 	<m_str>Miles Davis</m_str> (7_38) 	<br><blue>8(1)</blue>: <m_str>Dorham 's</m_str> (18_9) 	<br><blue>9(26)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (11_7) 	<m_str>He</m_str> (8_1) 	<m_str>His</m_str> (12_1) 	<m_str>his</m_str> (12_4) 	<m_str>his brother James</m_str> (12_4) 	<m_str>him</m_str> (12_8) 	<m_str>Joe</m_str> (5_1) 	<m_str>he</m_str> (12_16) 	<m_str>his</m_str> (16_13) 	<m_str>He</m_str> (13_1) 	<m_str>he</m_str> (7_41) 	<m_str>his</m_str> (12_22) 	<m_str>He</m_str> (17_1) 	<m_str>he</m_str> (5_16) 	<m_str>His</m_str> (6_1) 	<m_str>he</m_str> (13_20) 	<m_str>he</m_str> (14_3) 	<m_str>he</m_str> (10_9) 	<m_str>He</m_str> (18_1) 	<m_str>his</m_str> (18_3) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (10_15) 	<m_str>Curtis Fuller</m_str> (13_29) 	<m_str>his</m_str> (14_14) 	<m_str>his</m_str> (10_19) 	<br><blue>10(2)</blue>: <m_str>the experimental and traditional factions</m_str> (20_12) 	<m_str>their</m_str> (20_21) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

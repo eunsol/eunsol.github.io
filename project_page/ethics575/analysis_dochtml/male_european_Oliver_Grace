@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Oliver Grace, Businessman, Dies; Investment Firm Founder Was 82 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Oliver R. Grace , a philanthropist and co-founder of a major private investment company , died on Thursday while vacationing at the Everglades Club in Palm Beach , Fla . <br><blue>2</blue>He was 82 years old and was a resident of Oyster Bay , L.I . <br><blue>3</blue>He died of a heart attack , his family said . <br><blue>4</blue>Mr. Grace starting working in 1930 as a statistician at Grace National Bank , a family enterprise that became Marine Midland Bank . <br><blue>5</blue>In 1936 he and two others founded Sterling , Grace &amp; Company , an investment business based in Manhattan . <br><blue>6</blue>That company and their later firm , Sterling Grace Capital Management , eventually had holdings in hundreds of companies and assets in the hundreds of millions of dollars . <br><blue>7</blue>As an extension of his investments , Mr. Grace became involved in overseeing many companies . <br><blue>8</blue>He served on the boards of the American Distilling Company , American-Hawaiian Steamship Company , Foster Wheeler Corporation , Great Neck Trust Company , Kennecott Corporation , Reeves Telecom Corporation , Republic Automotive Parts , the Slattery Group , United Chemical , Universal American Corporation , Virginia Carolina Chemical Corporation and Webb &amp; Knapp , among others . <br><blue>9</blue>Founded Cancer Institute He also was chairman of the Andersen Group and two companies he founded , Grace &amp; White , an investment company , and Grace Geothermal Corporation , an energy company . <br><blue>10</blue>He remained active in business until his death . <br><blue>11</blue>As a philanthropist he co-founded the Cancer Research Institute in Manhattan in 1953 , serving as its president or chairman since then . <br><blue>12</blue>He was a trustee , executive committee member and benefactor of the Cold Spring Harbor Laboratory on Long Island and a vice president of the National Institute of Social Sciences . <br><blue>13</blue>He was also on the boards of the Theodore Roosevelt Association and Franklin College in Switzerland . <br><blue>14</blue>Born in Great Neck , L.I. , Mr. Grace was a distant cousin of J. Peter Grace of W. R. Grace &amp; Company . <br><blue>15</blue>He graduated from Yale University in 1930 . <br><blue>16</blue>Deferred from military service in World War II because of blindness in one eye , Mr. Grace worked for two years as a volunteer on the War Production Board . <br><blue>17</blue>Surviving are his wife , the former Lorraine Graves ; their daughters , Lori , of Tiburon , Calif. , and Gwendolyn Kull of Bethesda , Md. ; their two sons , Oliver Jr. , of Locust Valley , L.I. , and John , of Manalapan , Fla. ; three daughters by a prior marriage to Anne Chilton McDonnell : Helen Spencer of Greenwich , Conn. , Anne Kelly of Montecito , Calif. , and Ruth Jervis of Bel Air , Calif. ; two brothers , Morgan , of Great Neck , and Robert , of Palm Beach ; 20 grandchildren , and one great-grandchild . <br><hr><br><blue>1(2)</blue>: <m_str>the Cancer Research Institute in Manhattan</m_str> (11_6) 	<m_str>its</m_str> (11_17) 	<br><blue>2(5)</blue>: <m_str>Mr. Grace</m_str> (7_8) 	<m_str>He</m_str> (15_1) 	<m_str>Mr. Grace</m_str> (16_16) 	<m_str>his</m_str> (17_3) 	<m_str>Mr. Grace</m_str> (14_8) 	<br><blue>3(2)</blue>: <m_str>Universal American Corporation</m_str> (8_43) 	<m_str>Reeves Telecom Corporation</m_str> (8_28) 	<br><blue>4(2)</blue>: <m_str>the Andersen Group</m_str> (9_9) 	<m_str>the Slattery Group</m_str> (8_36) 	<br><blue>5(3)</blue>: <m_str>L.I.</m_str> (2_14) 	<m_str>L.I.</m_str> (14_6) 	<m_str>L.I.</m_str> (17_40) 	<br><blue>6(2)</blue>: <m_str>their</m_str> (17_11) 	<m_str>their</m_str> (17_29) 	<br><blue>7(2)</blue>: <m_str>Fla.</m_str> (17_48) 	<m_str>Fla.</m_str> (1_29) 	<br><blue>8(2)</blue>: <m_str>Manhattan</m_str> (11_11) 	<m_str>Manhattan</m_str> (5_19) 	<br><blue>9(4)</blue>: <m_str>American-Hawaiian Steamship Company</m_str> (8_12) 	<m_str>That company</m_str> (6_1) 	<m_str>their</m_str> (6_4) 	<m_str>Sterling , Grace & Company , an investment business based in Manhattan</m_str> (5_8) 	<br><blue>10(13)</blue>: <m_str>He</m_str> (2_1) 	<m_str>he</m_str> (9_15) 	<m_str>He</m_str> (8_1) 	<m_str>He</m_str> (10_1) 	<m_str>He</m_str> (12_1) 	<m_str>his</m_str> (10_7) 	<m_str>He</m_str> (3_1) 	<m_str>he</m_str> (5_3) 	<m_str>his</m_str> (3_8) 	<m_str>his</m_str> (7_5) 	<m_str>He</m_str> (9_4) 	<m_str>He</m_str> (13_1) 	<m_str>he</m_str> (11_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Rumer Godden, an Author Who Evoked Her Childhood in Colonial India, Is Dead at 90 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Rumer Godden , the prolific British author of '' Black Narcissus '' and '' The River , '' and a writer of children 's books that are enjoyed throughout the world , died on Sunday at her home in Dumfriesshire , Scotland . <br><blue>2</blue>She was 90 . <br><blue>3</blue>In a career that began in 1935 , Ms. Godden published some 70 novels , children 's books , memoirs , biographies and collections of poetry and stories , many set in India , where she spent her childhood and had her first success as a writer . <br><blue>4</blue>She also had the experience , rare for most authors , of seeing two of her most widely admired novels , '' Black Narcissus '' and '' The River , '' turned into films that became classics . <br><blue>5</blue>Ms. Godden 's third novel , '' Black Narcissus '' ( 1939 ) , first brought her critical attention and commercial success . <br><blue>6</blue>It told the story of nuns in the order of the Servants of Mary who try to overcome psychological and physical challenges to establish a hospital and school on a remote , windswept Himalaya mountain . '' <br><blue>7</blue>Black Narcissus '' was also the first of Ms. Godden 's novels to be brought to the screen , in a memorable 1946 film by Michael Powell and Emeric Pressburger that starred Deborah Kerr , David Farrar , Kathleen Byron , Sabu , Jean Simmons and Flora Robson . <br><blue>8</blue>Five years later Jean Renoir , the French director , made '' The River , '' recognized as one of the great color films , an adaptation of Ms. Godden 's novel about English children growing up in Bengal . <br><blue>9</blue>Ms. Godden adapted her novel with Renoir and said that she learned invaluable lessons from him . '' <br><blue>10</blue>The River '' and '' Black Narcissus '' bore many of the trademarks of Ms. Godden 's work . <br><blue>11</blue>She was frequently praised for her rich settings and sensitive psychological portraits of children and headstrong , independent women . <br><blue>12</blue>She was preoccupied with the loss of innocence , the moral problems of childhood and the nature of time . <br><blue>13</blue>The lyricism and evocative power she often brought to her books sometimes disguised a toughness that addressed dark themes like poverty , jealousy , violence , sexual vulnerability and prejudice . '' <br><blue>14</blue>Ms. Godden has a magical skill in conjuring up with a few suggestive details a veritable panorama of Indian life , '' Orville Prescott once observed in The New York Times . '' <br><blue>15</blue>And she has a wonderful way with fictional children , tender and true and never sentimental . '' <br><blue>16</blue>In writing about Ms. Godden 's book '' Cromartie v. the God Shiva : Acting Through the Government of India , '' published last year , Bill Vourvoulias wrote in Newsday , '' One of the delights of reading a Rumer Godden novel is the magnetic pull of the exotic settings , affecting readers and characters alike . '' <br><blue>17</blue>An Autobiography Written at Age 7 Margaret Rumer Godden was born on Dec. 10 , 1907 , in Sussex , England , the second of four daughters of Arthur Leigh and Katherine Hingley Godden . <br><blue>18</blue>The family moved to India when she was less than a year old . <br><blue>19</blue>Her father was a steamship agent and her childhood was spent in remote river towns throughout the British-ruled subcontinent . <br><blue>20</blue>Until she was 12 , Ms. Godden was largely educated by her family in a home that she later described as '' English streaked with Indian , or Indian streaked with English . '' <br><hr><br><blue>1(2)</blue>: <m_str>her childhood</m_str> (3_38) 	<m_str>her childhood</m_str> (19_8) 	<br><blue>2(2)</blue>: <m_str>her rich settings</m_str> (11_6) 	<m_str>the exotic settings</m_str> (16_49) 	<br><blue>3(2)</blue>: <m_str>India</m_str> (3_33) 	<m_str>India</m_str> (16_20) 	<br><blue>4(2)</blue>: <m_str>Renoir</m_str> (9_7) 	<m_str>him</m_str> (9_16) 	<br><blue>5(3)</blue>: <m_str>The River</m_str> (1_15) 	<m_str>The River</m_str> (4_28) 	<m_str>The River</m_str> (8_13) 	<br><blue>6(2)</blue>: <m_str>It</m_str> (6_1) 	<m_str>Ms. Godden 's third novel , '' Black Narcissus '' -LRB- 1939 -RRB-</m_str> (5_1) 	<br><blue>7(8)</blue>: <m_str>her</m_str> (20_12) 	<m_str>her family in a home</m_str> (20_12) 	<m_str>Her</m_str> (19_1) 	<m_str>she</m_str> (20_18) 	<m_str>her</m_str> (19_8) 	<m_str>The family</m_str> (18_1) 	<m_str>she</m_str> (20_2) 	<m_str>she</m_str> (18_7) 	<br><blue>8(33)</blue>: <m_str>Ms. Godden 's</m_str> (7_9) 	<m_str>she</m_str> (15_2) 	<m_str>Rumer Godden , the prolific British author of '' Black Narcissus '' and '' The River , '' and a writer of children 's books that are enjoyed throughout the world</m_str> (1_1) 	<m_str>Ms. Godden 's</m_str> (16_4) 	<m_str>Ms. Godden</m_str> (9_1) 	<m_str>her</m_str> (9_4) 	<m_str>Kathleen Byron</m_str> (7_39) 	<m_str>She</m_str> (2_1) 	<m_str>Jean Simmons</m_str> (7_44) 	<m_str>she</m_str> (9_11) 	<m_str>Ms. Godden 's novel about English children</m_str> (8_29) 	<m_str>Flora Robson</m_str> (7_47) 	<m_str>Margaret Rumer Godden</m_str> (17_7) 	<m_str>Bill Vourvoulias</m_str> (16_27) 	<m_str>her</m_str> (1_37) 	<m_str>Ms. Godden 's</m_str> (10_15) 	<m_str>Rumer Godden</m_str> (16_41) 	<m_str>She</m_str> (11_1) 	<m_str>Ms. Godden</m_str> (3_9) 	<m_str>her</m_str> (11_6) 	<m_str>Katherine Hingley Godden</m_str> (17_32) 	<m_str>She</m_str> (4_1) 	<m_str>She</m_str> (12_1) 	<m_str>her</m_str> (4_16) 	<m_str>she</m_str> (3_36) 	<m_str>Ms. Godden 's</m_str> (5_1) 	<m_str>her</m_str> (3_38) 	<m_str>Ms. Godden</m_str> (20_6) 	<m_str>her</m_str> (3_42) 	<m_str>she</m_str> (13_6) 	<m_str>her</m_str> (5_17) 	<m_str>her</m_str> (13_10) 	<m_str>Ms. Godden</m_str> (14_1) 	<br><blue>9(1)</blue>: <m_str>Bengal</m_str> (8_39) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

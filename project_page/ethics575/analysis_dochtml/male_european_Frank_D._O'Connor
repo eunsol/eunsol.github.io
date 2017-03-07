@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Frank D. O'Connor, 82, Is Dead; Retired New York Appellate Judge </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Frank D. O'Connor , a retired judge of the Appellate Division of the New York State Supreme Court who served as the Queens District Attorney and later as President of the City Council , died yesterday at Booth Memorial Hospital in Flushing , Queens . <br><blue>2</blue>He was 82 years old . <br><blue>3</blue>Judge O'Connor died from head injuries he suffered 13 days ago when he fell down a flight of stairs at his home in Jamaica Estates . <br><blue>4</blue>The judge , an unabashed liberal , had run for governor against Nelson A. Rockefeller in 1966 . <br><blue>5</blue>After that election , Mr. Rockefeller said of his Democratic opponent , " He never even told one lie about me . " <br><blue>6</blue>As a prosecutor , Judge O'Connor was an ardent supporter of defendants ' rights , throwing out cases when he felt the evidence was uncorroborated . <br><blue>7</blue>Mr. O'Connor was born on the West Side of Manhattan on Dec. 20 , 1909 , the son of Irish immigrants , James and Margaret O'Connor . <br><blue>8</blue>The family moved to Elmhurst , Queens , the following year . <br><blue>9</blue>Defended ' The Wrong Man ' Judge O'Connor graduated from Niagara University in 1932 , working his way through college as a lifeguard . <br><blue>10</blue>He received his law degree from Brooklyn Law School in 1934 . <br><blue>11</blue>During World War II , he served as a lieutenant in the Coast Guard . <br><blue>12</blue>In 1953 , when he was a State Senator but also a defense lawyer , Mr. O'Connor gained national attention when he defended Christopher Emanuel Balestrero , a musician at the Stork Club who had been wrongfully accused of two holdups in Queens . <br><blue>13</blue>Mr. O'Connor found 23 witnesses to support Mr. Balestrero 's insistence of innocence in the face of positive identifications by three victims . <br><blue>14</blue>Soon after , a man who nearly matched Mr. Balestrero 's description was arrested and confessed . <br><blue>15</blue>Three years later , Alfred Hitchcock directed a movie , " The Wrong Man , " based on the case , which starred Henry Fonda as the accused and Anthony Quayle as his lawyer . <br><blue>16</blue>Mr. O'Connor had been elected to the State Senate in 1948 from what was then the Sixth Senatorial District , which ran across the borough from Astoria to Bayside . <br><blue>17</blue>In 1952 , Mr. O'Connor lost his seat in the Eisenhower landslide , but returned to the Senate in 1954 . <br><blue>18</blue>Prosecuted Genovese Killer Three years later , Mr. O'Connor was elected the Queens District Attorney . <br><blue>19</blue>During his nine-year tenure , his office successfully prosecuted Winston Moseley , the killer of Kitty Genovese , the young woman whose cries for help on a Kew Gardens street went unheeded by at least 38 residents . <br><blue>20</blue>Although a prosecutor , Mr. O'Connor remained , in his words , " defense-conscious . " <br><hr><br><blue>1(3)</blue>: <m_str>Christopher Emanuel Balestrero , a musician at the Stork Club who had been wrongfully accused of two holdups in Queens</m_str> (12_24) 	<m_str>Mr. Balestrero 's</m_str> (13_8) 	<m_str>Mr. Balestrero 's</m_str> (14_9) 	<br><blue>2(33)</blue>: <m_str>Margaret O'Connor</m_str> (7_25) 	<m_str>Mr. O'Connor</m_str> (16_1) 	<m_str>Judge O'Connor</m_str> (9_7) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. O'Connor</m_str> (17_4) 	<m_str>his</m_str> (17_7) 	<m_str>his</m_str> (9_17) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (10_3) 	<m_str>Judge O'Connor</m_str> (3_1) 	<m_str>he</m_str> (3_7) 	<m_str>Mr. O'Connor</m_str> (18_8) 	<m_str>he</m_str> (3_13) 	<m_str>he</m_str> (11_6) 	<m_str>his</m_str> (19_2) 	<m_str>The judge , an unabashed liberal</m_str> (4_1) 	<m_str>his</m_str> (3_21) 	<m_str>his</m_str> (19_6) 	<m_str>he</m_str> (12_5) 	<m_str>Nelson A. Rockefeller</m_str> (4_13) 	<m_str>Mr. O'Connor</m_str> (20_5) 	<m_str>Mr. Rockefeller</m_str> (5_5) 	<m_str>Mr. O'Connor</m_str> (12_16) 	<m_str>his</m_str> (5_9) 	<m_str>his</m_str> (20_10) 	<m_str>Mr. O'Connor</m_str> (13_1) 	<m_str>his Democratic opponent</m_str> (5_9) 	<m_str>he</m_str> (12_22) 	<m_str>He</m_str> (5_14) 	<m_str>me</m_str> (5_21) 	<m_str>Judge O'Connor</m_str> (6_5) 	<m_str>Mr. O'Connor</m_str> (7_1) 	<m_str>he</m_str> (6_20) 	<br><blue>3(1)</blue>: <m_str>Queens</m_str> (12_43) 	<br><blue>4(1)</blue>: <m_str>the evidence</m_str> (6_22) 	<br><blue>5(2)</blue>: <m_str>his</m_str> (15_33) 	<m_str>Anthony Quayle</m_str> (15_30) 	<br><blue>6(1)</blue>: <m_str>that election</m_str> (5_2) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

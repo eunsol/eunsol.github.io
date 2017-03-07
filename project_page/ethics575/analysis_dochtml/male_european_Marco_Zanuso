@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Marco Zanuso, 85, Innovative Designer </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Marco Zanuso , one of the leading designers of furniture , appliances , buildings and more to emerge from postwar Italy , died on July 11 at his home in Milan . <br><blue>2</blue>He was 85 . <br><blue>3</blue>Mr. Zanuso belonged to a generation of designers dedicated to exploring the new technologies and materials developed during and after World War II . <br><blue>4</blue>His designs epitomized the elegance , practicality and irreverence that made Italy a world leader in design . <br><blue>5</blue>Trained as an architect , made famous at an early age by a plastic chair he designed for children , Mr. Zanuso did some of his best work as an industrial designer packaging functional ease within a snappy sculptural form . <br><blue>6</blue>His acrylic portable radio of 1964 , the TS-502 , was shaped like a cube that split open into a speaker and dial . <br><blue>7</blue>Designed for the Italian company Brionvega in collaboration with Richard Sapper , the TS-502 is now , along with several other Zanuso product designs , in the permanent collection of the Museum of Modern Art in New York . '' <br><blue>8</blue>Marco was always able to synthesize the task at hand using the most innovative tools and materials in order to come up with a brand new solution nobody had seen before , '' said Paola Antonelli , a design curator at the museum . <br><blue>9</blue>Mr. Zanuso was born in Milan on May 14 , 1916 . <br><blue>10</blue>He received his degree in architecture from the Milan Polytechnic in 1939 . <br><blue>11</blue>After serving in the navy in World War II , he opened his own design office in 1945 , and married Billa Zanuso . <br><blue>12</blue>He also became an editor of Domus and Casabella , two prominent design magazines , using their pages as a platform to promote modern Italian design and to report on some of his own experiments with materials like latex foam . <br><blue>13</blue>Zanuso 's '' Lady '' of 1951 , a chair made of foam rubber and Nastrocord ( a new rubber that could replace metal springs ) , is considered a pioneering piece of modern upholstered furniture . <br><blue>14</blue>From 1955 to 1957 , Mr. Zanuso served as architect for Olivetti , designing factories in São Paulo and Buenos Aires . <br><blue>15</blue>He then joined forces with Mr. Sapper , a promising young German designer living in Milan , with whom he collaborated until 1977 . <br><blue>16</blue>Together , Mr. Zanuso and Mr. Sapper revolutionized chair design with the 4999 model of 1964 , manufactured by Kartell , a bright red children 's stacking chair with cylindrical legs and a ribbed back to make it lightweight . <br><blue>17</blue>It was the first chair made entirely of injection-molded plastic . <br><blue>18</blue>Mr. Zanuso 's 1972 Lombrico , also known as the infinity sofa , was a modular fiberglass seating unit with a wide-wale polyfoam seat suggestive of an enlarged caterpillar . <br><blue>19</blue>His industrial designs , and particularly the radios and portable televisions designed for Brionvega , helped to define Italian design as sleek , daring and well-made . <br><blue>20</blue>In 1972 , the Museum of Modern Art commissioned Mr. Zanuso , along with other powerhouses of Italian design , including Ettore Sottsass , Mario Bellini and Gae Aulenti , to design an installation for the exhibition '' Italy : The New Domestic Landscape . '' <br><hr><br><blue>1(22)</blue>: <m_str>He</m_str> (15_1) 	<m_str>His</m_str> (19_1) 	<m_str>His</m_str> (4_1) 	<m_str>he</m_str> (11_11) 	<m_str>his</m_str> (11_13) 	<m_str>Zanuso</m_str> (7_22) 	<m_str>He</m_str> (12_1) 	<m_str>Billa Zanuso</m_str> (11_22) 	<m_str>he</m_str> (15_20) 	<m_str>Mr. Zanuso</m_str> (9_1) 	<m_str>Zanuso 's</m_str> (13_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (5_16) 	<m_str>His</m_str> (6_1) 	<m_str>Mr. Zanuso</m_str> (5_21) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (1_28) 	<m_str>his</m_str> (10_3) 	<m_str>his</m_str> (5_26) 	<m_str>Mr. Zanuso 's</m_str> (18_1) 	<m_str>Mr. Zanuso</m_str> (3_1) 	<m_str>Mr. Zanuso</m_str> (14_6) 	<br><blue>2(2)</blue>: <m_str>Mr. Sapper , a promising young German designer living</m_str> (15_6) 	<m_str>Mr. Sapper</m_str> (16_6) 	<br><blue>3(2)</blue>: <m_str>the TS-502</m_str> (7_13) 	<m_str>the TS-502</m_str> (6_8) 	<br><blue>4(3)</blue>: <m_str>It</m_str> (17_1) 	<m_str>Kartell , a bright red children 's</m_str> (16_20) 	<m_str>it</m_str> (16_38) 	<br><blue>5(1)</blue>: <m_str>the Milan Polytechnic in 1939</m_str> (10_8) 	<br><blue>6(2)</blue>: <m_str>Italy</m_str> (4_12) 	<m_str>Italy</m_str> (20_39) 	<br><blue>7(2)</blue>: <m_str>World War II</m_str> (11_7) 	<m_str>World War II</m_str> (3_21) 	<br><blue>8(3)</blue>: <m_str>the museum</m_str> (8_42) 	<m_str>the Museum of Modern Art in New York</m_str> (7_31) 	<m_str>the Museum of Modern Art</m_str> (20_4) 	<br><blue>9(3)</blue>: <m_str>Milan</m_str> (1_31) 	<m_str>Milan</m_str> (9_6) 	<m_str>Milan</m_str> (15_16) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

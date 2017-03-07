@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Marcel Bich, 79, Dies; Cheap Pens Yielded Riches </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Baron Marcel Bich , whose inexpensive Bic disposable pens , lighters and razors made him wealthy enough to sustain an 11-year quest for the America 's Cup , died on Monday in Paris . <br><blue>2</blue>He was 79 and lived in suburban Neuilly-sur-Seine . <br><blue>3</blue>After fixing up a leaky shed in Clichy , a northern Paris suburb , after World War II , Baron Bich and a partner , Edouard Buffard , began turning out inexpensive penholders and pencil cases . <br><blue>4</blue>Later he obtained the patent rights to a ball-point pen invented by a Hungarian , Ladislas Biro , and formed Societe Bic in 1953 . <br><blue>5</blue>( The baron 's name and the pen 's are pronounced beek in French . ) <br><blue>6</blue>The inexpensive pens proved irresistible to consumers , beginning with the French . <br><blue>7</blue>The corporation rapidly expanded , with factories in many countries turning out billions of pens sold singly or by the carton . <br><blue>8</blue>Later he produced disposable razors and lighters . <br><blue>9</blue>Annual Sales of $ 1.1 Billion In 1993 the Bic group reported worldwide sales of $ 1.1 billion and a profit of $ 70.5 million . <br><blue>10</blue>In the United States , the French parent is represented by the Bic Corporation , based in Milford , Conn. , and listed on the New York Stock Exchange . <br><blue>11</blue>Societe Bic also owns the French fashion and perfume house Guy Laroche , the stocking company Dim and the lingerie maker Rosy . <br><blue>12</blue>Last year the baron stepped down as chairman of Societe Bic in favor of Bruno Bich , one of his 11 children . <br><blue>13</blue>A stocky , flamboyant man , Baron Bich reveled in the publicity that his public ventures attracted but valued his personal privacy and family life . <br><blue>14</blue>He was born in Turin , Italy , the son of an engineer , on July 29 , 1914 . <br><blue>15</blue>He obtained French citizenship , studied law in Paris and served in the French Air Force at the outset of World War II . <br><blue>16</blue>The 12-Meter Racers He lavished many millions on his stubborn , even obsessive , pursuit of the America 's Cup , yachting 's prestigious prize . <br><blue>17</blue>His challenge in 1970 was the first from outside the English-speaking world , and he raced his handsome 12-meter sloops France and France I , II and III off Newport , R.I. , with a dash of high theater and in sartorial splendor . <br><blue>18</blue>After competing in 1970 , 1974 and 1977 , France III entered in 1980 with a 0-18 team record . <br><blue>19</blue>This time the sloop survived the initial round-robin trial against Lionheart of England but lost to Australia in the semifinals . <br><blue>20</blue>The Baron 's title , which goes back to 1848 and Duke Charles Albert of Savoy , now goes to his eldest son , Claude , executive vice president of Societe Bic . <br><hr><br><blue>1(3)</blue>: <m_str>France</m_str> (17_21) 	<m_str>France</m_str> (17_23) 	<m_str>France</m_str> (18_10) 	<br><blue>2(5)</blue>: <m_str>Bic</m_str> (9_10) 	<m_str>Societe Bic</m_str> (20_31) 	<m_str>Societe Bic</m_str> (12_10) 	<m_str>Societe Bic</m_str> (4_21) 	<m_str>Societe Bic</m_str> (11_1) 	<br><blue>3(2)</blue>: <m_str>America 's</m_str> (16_18) 	<m_str>the America 's</m_str> (1_24) 	<br><blue>4(11)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (17_15) 	<m_str>his</m_str> (13_20) 	<m_str>A stocky , flamboyant man , Baron Bich</m_str> (13_1) 	<m_str>His</m_str> (17_1) 	<m_str>his</m_str> (17_17) 	<m_str>He</m_str> (16_4) 	<m_str>his</m_str> (16_9) 	<m_str>I</m_str> (17_24) 	<m_str>his</m_str> (13_14) 	<m_str>He</m_str> (14_1) 	<br><blue>5(12)</blue>: <m_str>him</m_str> (1_15) 	<m_str>his</m_str> (12_20) 	<m_str>He</m_str> (2_1) 	<m_str>Baron Bich</m_str> (13_7) 	<m_str>he</m_str> (4_2) 	<m_str>Baron Bich</m_str> (3_20) 	<m_str>his</m_str> (20_21) 	<m_str>he</m_str> (8_2) 	<m_str>the baron</m_str> (12_3) 	<m_str>The Baron 's</m_str> (20_1) 	<m_str>The baron 's</m_str> (5_2) 	<m_str>Bruno Bich , one of his 11 children</m_str> (12_15) 	<br><blue>6(3)</blue>: <m_str>Paris</m_str> (1_33) 	<m_str>Paris</m_str> (15_9) 	<m_str>Paris</m_str> (3_12) 	<br><blue>7(2)</blue>: <m_str>World War II</m_str> (3_16) 	<m_str>World War II</m_str> (15_21) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

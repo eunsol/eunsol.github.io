@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Adelaide Hall, 92, International Star of Cabaret </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Adelaide Hall , a singer whose Broadway career began in the 1921 revue " Shuffle Along " and who went on to become an international cabaret star , performing into her 90 's , died on Sunday at Charing Cross Hospital in London . <br><blue>2</blue>She was 92 . <br><blue>3</blue>The cause was an infection after a fall , said Barry Sullivan , a friend . <br><blue>4</blue>Miss Hall 's most recent appearance in New York City was in March at Weill Recital Hall , where she sang an exuberant program that ran from 1920 's vaudeville tunes through Duke Ellington standards to such 1970 's songs as " The Way We Were . " <br><blue>5</blue>Scat With Ellington She first won prominence in 1927 , for her wordless , growling obbligato in " Creole Love Call " with the Duke Ellington Orchestra . <br><blue>6</blue>The next year , she introduced " I Ca n't Give You Anything but Love " in the Broadway revue " Blackbirds of 1928 . " <br><blue>7</blue>Through the years , she also worked with Count Basie , Art Tatum and Fats Waller . <br><blue>8</blue>She frequently embellished her concerts with reminiscences of Ellington , Ethel Waters , Cab Calloway , Al Capone , Josephine Baker and other notable figures she had encountered . <br><blue>9</blue>Miss Hall was born in Brooklyn and studied at Pratt Institute , where her father was a music teacher . <br><blue>10</blue>After making her Broadway debut in 1921 in " Shuffle Along , " a Eubie Blake-Noble Sissle revue , she starred in the 1923 revue " Runnin ' Wild . " <br><blue>11</blue>In 1927 , while she was touring in a revue with Duke Ellington , he heard her improvise a wordless countermelody to his " Creole Love Call . " <br><blue>12</blue>When they recorded it two days later , her vocal became an integral part of the piece ; it is among the first recorded examples of " scat " singing . <br><blue>13</blue>In " Blackbirds of 1928 , " Miss Hall starred opposite Bill ( Bojangles ) Robinson , and when the show moved to Paris in 1929 , Miss Hall went with it . <br><blue>14</blue>She remained there and starred at the Moulin Rouge and the Lido . <br><blue>15</blue>Moved to London In 1936 , she and her husband , Bert Hicks , opened a series of clubs in Paris and in London , which she was to make her home for half a century . <br><blue>16</blue>In London 's West End , she appeared in " Kiss Me Kate " ( 1951 ) , " Love From Judy " ( 1952 ) , " Someone to Talk To " ( 1956 ) and " Janie Jackson " ( 1968 ) . <br><blue>17</blue>Miss Hall returned to Broadway in 1957 to appear in the show " Jamaica , " with Lena Horne , Ricardo Montalban , Ossie Davis and Alvin Ailey . <br><blue>18</blue>In 1989 , she was the subject of a documentary film , " Sophisticated Lady . " <br><blue>19</blue>Miss Hall 's husband died in 1963 . <br><hr><br><blue>1(3)</blue>: <m_str>the show</m_str> (13_20) 	<m_str>it</m_str> (13_32) 	<m_str>the show</m_str> (17_11) 	<br><blue>2(2)</blue>: <m_str>Miss Hall 's husband</m_str> (19_1) 	<m_str>her husband</m_str> (15_9) 	<br><blue>3(3)</blue>: <m_str>London 's</m_str> (16_2) 	<m_str>London</m_str> (15_24) 	<m_str>London</m_str> (1_43) 	<br><blue>4(2)</blue>: <m_str>1927</m_str> (11_2) 	<m_str>1927</m_str> (5_9) 	<br><blue>5(3)</blue>: <m_str>a wordless countermelody</m_str> (11_19) 	<m_str>it</m_str> (12_4) 	<m_str>it</m_str> (12_19) 	<br><blue>6(3)</blue>: <m_str>Duke Ellington</m_str> (4_33) 	<m_str>Ellington</m_str> (5_3) 	<m_str>Duke Ellington</m_str> (11_12) 	<br><blue>7(3)</blue>: <m_str>Broadway</m_str> (1_7) 	<m_str>Broadway</m_str> (6_19) 	<m_str>Broadway</m_str> (10_4) 	<br><blue>8(2)</blue>: <m_str>his</m_str> (11_23) 	<m_str>he</m_str> (11_15) 	<br><blue>9(32)</blue>: <m_str>she</m_str> (11_5) 	<m_str>Miss Hall 's</m_str> (19_1) 	<m_str>Miss Hall 's</m_str> (4_1) 	<m_str>she</m_str> (15_7) 	<m_str>her</m_str> (15_9) 	<m_str>She</m_str> (8_1) 	<m_str>her</m_str> (8_4) 	<m_str>her</m_str> (11_17) 	<m_str>Ethel Waters</m_str> (8_11) 	<m_str>her</m_str> (12_9) 	<m_str>she</m_str> (16_7) 	<m_str>she</m_str> (4_20) 	<m_str>She</m_str> (5_4) 	<m_str>she</m_str> (15_27) 	<m_str>Miss Hall</m_str> (9_1) 	<m_str>Josephine Baker</m_str> (8_20) 	<m_str>her</m_str> (15_31) 	<m_str>her</m_str> (5_12) 	<m_str>she</m_str> (8_26) 	<m_str>She</m_str> (2_1) 	<m_str>Miss Hall</m_str> (17_1) 	<m_str>Miss Hall</m_str> (13_8) 	<m_str>her</m_str> (9_14) 	<m_str>she</m_str> (6_5) 	<m_str>her</m_str> (10_3) 	<m_str>I</m_str> (6_8) 	<m_str>She</m_str> (14_1) 	<m_str>her</m_str> (1_31) 	<m_str>she</m_str> (18_4) 	<m_str>Miss Hall</m_str> (13_28) 	<m_str>she</m_str> (7_5) 	<m_str>she</m_str> (10_20) 	<hr><br> gender:female	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

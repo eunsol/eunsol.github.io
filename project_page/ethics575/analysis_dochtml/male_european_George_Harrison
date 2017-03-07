@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>George Harrison, 'Quiet Beatle' And Lead Guitarist, Dies at 58 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>George Harrison , the Beatles ' lead guitarist and the youngster of the group , who composed some of their most venerated songs , ranging from the intentionally prosaic to the hauntingly serene , died on Thursday at a friend 's home in Los Angeles . <br><blue>2</blue>He was 58 . <br><blue>3</blue>The cause was cancer , which he had been fighting since 1998 . <br><blue>4</blue>News of his death saddened fans , who turned out by the hundreds in places of special significance , like Abbey Road in London , the site of the EMI recording studio , and Strawberry Fields in Central Park , planted in memory of John Lennon . <br><blue>5</blue>With a look and a wardrobe that seemed to zigzag along with the vicissitudes of the 1960 's , 70 's and 80 's , Mr. Harrison often took a back seat to the more flamboyant Lennon and Paul McCartney . <br><blue>6</blue>He was known as the reclusive one , '' the quiet Beatle , '' during the group 's manic touring years . <br><blue>7</blue>Yet he served as an anchor for the quartet , leading the others on a spiritual quest toward Eastern philosophy that influenced their music in the latter part of the 1960 's , epitomized for millions of fans by the sitar he played on '' Norwegian Wood . '' <br><blue>8</blue>Some of his best compositions , like '' While My Guitar Gently Weeps , '' and '' Something , '' stand alone in the Beatles ' canon for their introspective beauty . <br><blue>9</blue>Others , like '' Taxman '' and '' Piggies , '' were brutally mundane . <br><blue>10</blue>Before the group broke up , he helped steer it to exclusively studio recording , a compatible environment for experimentation . <br><blue>11</blue>And afterward , he continued composing and singing , with hits like '' My Sweet Lord '' that resonated with faith . <br><blue>12</blue>His quiet nature hid a dark sense of humor , even about his own mortality . <br><blue>13</blue>When '' Horse to Water , '' a new song that he wrote with his son , Dhani , appeared last month on '' Small World Big Band , '' a new album by the British keyboardist Jools Holland , it carried the publishing credit '' Rip Ltd. , 2001 , '' apparently implying '' Rest in Peace . '' <br><blue>14</blue>In the 31 years since the Beatles broke up , Mr. Harrison made a series of variably successful albums , including two with the Traveling Wilburys , a tongue-in-cheek supergroup that included Bob Dylan , Tom Petty , Jeff Lynne and Roy Orbison . <br><blue>15</blue>His 1971 concert to aid refugees in Bangladesh -- for which he enlisted Mr. Dylan and the musicians Eric Clapton , Leon Russell and Billy Preston and another former Beatle , Ringo Starr -- created the concept of the all-star charity rock concert . <br><blue>16</blue>Live Aid , Farm Aid and the recent Concert for New York followed its pattern . <br><blue>17</blue>He also produced a small but varied catalog of recordings by other performers for his own Dark Horse record label in the 1970 's . <br><blue>18</blue>Beyond his musical career , he was the executive producer of Handmade Films , an independent production company that had several hits between the late 1970 's and the early 1990 's . <br><blue>19</blue>He prepared several collections of memoirs and lyrics for Genesis Editions , a British publisher of expensive limited-edition books , and provided copious commentary for the books the company published by Derek Taylor , the Beatles ' former press aide , and Ravi Shankar , the sitar master with whom he studied in the mid-1960 's . <br><blue>20</blue>In the 1990 's Mr. Harrison participated with his former colleagues in the Beatles ' '' Anthology , '' a retrospective that included a 10-hour video history , six discs of previously unreleased recordings and a book . '' <br><hr><br><blue>1(10)</blue>: <m_str>His</m_str> (15_1) 	<m_str>his</m_str> (17_15) 	<m_str>He</m_str> (17_1) 	<m_str>his</m_str> (18_2) 	<m_str>He</m_str> (19_1) 	<m_str>he</m_str> (19_51) 	<m_str>he</m_str> (18_6) 	<m_str>Roy Orbison</m_str> (14_42) 	<m_str>he</m_str> (15_12) 	<m_str>Mr. Dylan</m_str> (15_14) 	<br><blue>2(2)</blue>: <m_str>New York</m_str> (16_11) 	<m_str>its</m_str> (16_14) 	<br><blue>3(1)</blue>: <m_str>Bangladesh</m_str> (15_8) 	<br><blue>4(2)</blue>: <m_str>the recent Concert for New York</m_str> (16_7) 	<m_str>the all-star charity rock concert</m_str> (15_39) 	<br><blue>5(4)</blue>: <m_str>the group</m_str> (10_2) 	<m_str>it</m_str> (10_10) 	<m_str>the group 's</m_str> (6_16) 	<m_str>the group , who composed some of their most venerated songs , ranging from the intentionally prosaic to the hauntingly serene</m_str> (1_13) 	<br><blue>6(2)</blue>: <m_str>1960 's</m_str> (5_17) 	<m_str>1960 's</m_str> (7_31) 	<br><blue>7(2)</blue>: <m_str>1990 's</m_str> (18_31) 	<m_str>1990 's</m_str> (20_3) 	<br><blue>8(6)</blue>: <m_str>the Beatles '</m_str> (1_4) 	<m_str>the Beatles '</m_str> (8_24) 	<m_str>the Beatles</m_str> (20_13) 	<m_str>their</m_str> (8_29) 	<m_str>the Beatles '</m_str> (19_35) 	<m_str>the Beatles</m_str> (14_6) 	<br><blue>9(1)</blue>: <m_str>London</m_str> (4_24) 	<br><blue>10(2)</blue>: <m_str>My</m_str> (8_10) 	<m_str>My</m_str> (11_14) 	<br><blue>11(2)</blue>: <m_str>it</m_str> (13_41) 	<m_str>a new album</m_str> (13_31) 	<br><blue>12(18)</blue>: <m_str>He</m_str> (2_1) 	<m_str>he</m_str> (3_7) 	<m_str>his</m_str> (4_3) 	<m_str>He</m_str> (6_1) 	<m_str>Mr. Harrison</m_str> (5_26) 	<m_str>he</m_str> (7_2) 	<m_str>his</m_str> (8_3) 	<m_str>he</m_str> (7_42) 	<m_str>he</m_str> (10_7) 	<m_str>he</m_str> (11_4) 	<m_str>His</m_str> (12_1) 	<m_str>his</m_str> (12_13) 	<m_str>he</m_str> (13_12) 	<m_str>his</m_str> (13_15) 	<m_str>Mr. Harrison</m_str> (14_11) 	<m_str>Jeff Lynne</m_str> (14_39) 	<m_str>Harrison</m_str> (20_6) 	<m_str>his</m_str> (20_9) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

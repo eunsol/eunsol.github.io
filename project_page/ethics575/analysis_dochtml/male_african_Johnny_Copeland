@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Johnny Copeland, 60, Who Sang Texas Blues and Played Guitar </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Johnny Copeland , one of the foremost Texas blues singers and guitarists of the 70 's and 80 's , died yesterday at Columbia-Presbyterian Hospital in Manhattan . <br><blue>2</blue>He was 60 and lived in Teaneck , N.J . <br><blue>3</blue>The cause was complications during a surgical repair of a heart valve , seven months after receiving a heart transplant , said his manager , Holly Bullamore . <br><blue>4</blue>Mr. Copeland was born in Louisiana and reared in Arkansas and Houston . <br><blue>5</blue>As a teen-ager , after seeing shows by Texas blues greats like T-Bone Walker , Mr. Copeland formed his own band , the Dukes of Rhythm . <br><blue>6</blue>He spent the next two decades playing the blues around Houston , dabbling in boxing as well . <br><blue>7</blue>He performed with Sonny Boy Williamson and Big Mama Thornton and recorded a few albums , but received little acclaim . <br><blue>8</blue>He moved to New York City in 1975 and worked in a restaurant while trying to make a career as a musician . <br><blue>9</blue>He soon began earning a reputation in blues circles , praised for his gruff , soulful voice and his fluid , communicative guitar playing . <br><blue>10</blue>In 1981 , after 27 years of playing , he was finally signed to Rounder Records , which released the '' Copeland Special '' album he had recorded four years previously with the saxophonists Arthur Blythe and Byard Lancaster . <br><blue>11</blue>He went on a 10-city tour of West Africa in 1982 , which eventually resulted in one of the first albums by an American blues musician recorded in Africa , '' Bringing It All Back Home . '' <br><blue>12</blue>In 1986 , he won a Grammy for his '' Showdown '' album with Albert Collins and Robert Cray . <br><blue>13</blue>In the following years , Mr. Copeland continued recording with an eclectic array of musicians , from Randy Weston to Buckwheat Zydeco . <br><blue>14</blue>In 1993 , he was diagnosed with cardiomyopathy , a heart disease . <br><blue>15</blue>He underwent seven open-heart operations in the years that followed , and his friends and fellow blues musicians helped cover his costs with a steady stream of benefit concerts . <br><blue>16</blue>Through it all , he continued performing -- even touring a little -- inspiring his doctor , Mehmet Oz , to begin research on music as therapy . <br><blue>17</blue>Mr. Copeland is survived by his wife , Sandra ; three sons , Daurence Copeland and Michael Collins of Houston and Tory Edwards of Teaneck ; and four daughters , Sharee Copeland of Houston , Brenda Walker of Brenham , Tex. , Demetria Brown of Corpus Christi , Tex. , and Shemekia Copeland of Teaneck . <br><hr><br><blue>1(4)</blue>: <m_str>Houston</m_str> (4_12) 	<m_str>Houston</m_str> (6_11) 	<m_str>Houston</m_str> (17_34) 	<m_str>Houston</m_str> (17_20) 	<br><blue>2(2)</blue>: <m_str>the first albums</m_str> (11_19) 	<m_str>a few albums</m_str> (7_13) 	<br><blue>3(2)</blue>: <m_str>Tex.</m_str> (17_49) 	<m_str>Tex.</m_str> (17_41) 	<br><blue>4(28)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (10_26) 	<m_str>Mr. Copeland</m_str> (4_1) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (3_23) 	<m_str>his manager , Holly Bullamore</m_str> (3_23) 	<m_str>his</m_str> (15_13) 	<m_str>he</m_str> (12_4) 	<m_str>Johnny Copeland , one of the foremost Texas blues singers and guitarists of the 70 's and 80 's</m_str> (1_1) 	<m_str>his</m_str> (15_21) 	<m_str>his</m_str> (12_9) 	<m_str>he</m_str> (16_5) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (16_15) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Copeland</m_str> (17_1) 	<m_str>Mr. Copeland</m_str> (13_6) 	<m_str>Mr. Copeland</m_str> (5_16) 	<m_str>his</m_str> (9_13) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (17_6) 	<m_str>his</m_str> (5_19) 	<m_str>his</m_str> (9_19) 	<m_str>Daurence Copeland</m_str> (17_14) 	<m_str>he</m_str> (14_4) 	<m_str>he</m_str> (10_10) 	<m_str>He</m_str> (7_1) 	<m_str>He</m_str> (11_1) 	<br><blue>5(2)</blue>: <m_str>Texas</m_str> (1_8) 	<m_str>Texas</m_str> (5_9) 	<br><blue>6(3)</blue>: <m_str>Teaneck</m_str> (17_55) 	<m_str>Teaneck</m_str> (2_7) 	<m_str>Teaneck</m_str> (17_25) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

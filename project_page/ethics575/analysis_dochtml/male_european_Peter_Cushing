@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Peter Cushing, Actor, Dies at 81; Known for Playing Frankenstein </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Peter Cushing , a British actor who chilled a generation of filmgoers as the evil Baron Frankenstein , died yesterday in a hospice in Canterbury , England . <br><blue>2</blue>He was 81 . <br><blue>3</blue>The cause was cancer , The Associated Press reported . <br><blue>4</blue>With his gaunt figure , gentlemanly demeanor and controlled acting , Mr. Cushing brought a creepy power to his portrayal of the mad scientist Baron Frankenstein in films like " Frankenstein and the Monster from Hell " and " Frankenstein Created Woman . " <br><blue>5</blue>His film roles also included Dracula . <br><blue>6</blue>Hammer 's Olivier The horror films were produced by Hammer Films in Britain . <br><blue>7</blue>In 1970 , in his review of " Frankenstein Must Be Destroyed " in The New York Times , Vincent Canby called Mr. Cushing " Hammer 's Laurence Olivier . " <br><blue>8</blue>He " plays the baron once again , " Mr. Canby wrote , " impeccably seedy in his spats and raspberry smoking jackets . <br><blue>9</blue>If for no other reason , I would cherish Cushing for having inspired the following biographical note in Leslie Halliwell 's ' Filmgoer 's Companion . ' <br><blue>10</blue>Cushing , says Halliwell , ' has played Baron Frankenstein , Van Helsing , Sherlock Holmes and Captain Clegg , and has dealt firmly with mummies and gorgons . ' " <br><blue>11</blue>Mr. Cushing was born on May 26 , 1913 , in Kenley , England , and won a scholarship to the Guildhall School of Music and Drama in London . <br><blue>12</blue>He made his stage debut in 1935 , then set off for Hollywood . <br><blue>13</blue>He found work in several films , including " The Man in the Iron Mask " and " A Chump at Oxford " with Laurel and Hardy . <br><blue>14</blue>He returned to Britain during World War II to help entertain the troops and met and married the actress Helen Beck , who died in 1971 . <br><blue>15</blue>After the war , he was a member of Olivier 's Old Vic company and was praised for his performance as the foppish courtier Osric in Olivier 's 1948 film version of " Hamlet . " <br><blue>16</blue>He branched into television and won awards in the 1950 's playing a range of classic roles , in " Pride and Prejudice , " " The Winslow Boy , " " Beau Brummell " and " 1984 . " <br><blue>17</blue>In the 1960 's , he starred with Christopher Lee in " Dr. Terror 's House of Horrors , " and in 1972 , he appeared with Vincent Price in " Dr. Phibes Rises Again . " <br><blue>18</blue>Among his many other film credits are " The Hound of the Baskervilles , " " The House That Dripped Blood , " " Tales From the Crypt " and " Star Wars . " <br><hr><br><blue>1(27)</blue>: <m_str>he</m_str> (15_5) 	<m_str>his</m_str> (4_2) 	<m_str>He</m_str> (8_1) 	<m_str>Vincent Canby</m_str> (7_20) 	<m_str>He</m_str> (12_1) 	<m_str>Mr. Cushing</m_str> (7_23) 	<m_str>his</m_str> (12_3) 	<m_str>Mr. Cushing</m_str> (4_12) 	<m_str>He</m_str> (16_1) 	<m_str>his</m_str> (15_19) 	<m_str>Peter Cushing , a British actor who chilled a generation of filmgoers as the evil Baron Frankenstein</m_str> (1_1) 	<m_str>Mr. Canby</m_str> (8_10) 	<m_str>His</m_str> (5_1) 	<m_str>his</m_str> (4_19) 	<m_str>his</m_str> (8_18) 	<m_str>He</m_str> (13_1) 	<m_str>I</m_str> (9_7) 	<m_str>He</m_str> (2_1) 	<m_str>Cushing</m_str> (9_10) 	<m_str>he</m_str> (17_6) 	<m_str>Hammer 's Olivier</m_str> (6_1) 	<m_str>Cushing</m_str> (10_1) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (18_2) 	<m_str>he</m_str> (17_25) 	<m_str>his</m_str> (7_5) 	<m_str>Mr. Cushing</m_str> (11_1) 	<br><blue>2(3)</blue>: <m_str>the evil Baron Frankenstein</m_str> (1_14) 	<m_str>`` Frankenstein</m_str> (4_30) 	<m_str>the mad scientist Baron Frankenstein</m_str> (4_22) 	<br><blue>3(2)</blue>: <m_str>the 1960 's</m_str> (17_2) 	<m_str>the troops</m_str> (14_12) 	<br><blue>4(2)</blue>: <m_str>Leslie Halliwell 's</m_str> (9_19) 	<m_str>Halliwell</m_str> (10_4) 	<br><blue>5(2)</blue>: <m_str>Olivier 's</m_str> (15_10) 	<m_str>Olivier 's</m_str> (15_27) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

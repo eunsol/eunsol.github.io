@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Greg Morris, 61, Debonair Star Of TV's 'Mission Impossible' </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Greg Morris , who in portraying the electronics expert on '' Mission : Impossible '' was one of the first black actors to star in a hit television show , died on Tuesday at his home in Las Vegas , Nev . <br><blue>2</blue>He was 61 . <br><blue>3</blue>The cause of death was not immediately known , but Mr. Morris had been suffering from lung and brain cancer in recent years , according to The Associated Press . <br><blue>4</blue>Mr. Morris played the self-effacing Barney Collier on '' Mission : Impossible '' from 1966 to 1973 . <br><blue>5</blue>Earlier he had appeared on '' Ben Casey , '' '' Dr. Kildare , '' '' The Dick Van Dyke Show '' and '' The Twilight Zone . '' <br><blue>6</blue>Later in his career he regularly appeared in the series '' Vegas . '' <br><blue>7</blue>Mr. Morris was born in Cleveland and spent part of his youth in New York City , where his mother was a secretary to A. Philip Randolph , the black labor leader who helped found the Brotherhood of Sleeping Car Porters . '' <br><blue>8</blue>I always had an awareness of the black revolution , '' he told The Christian Science Monitor in 1970 , at the peak of his fame . '' <br><blue>9</blue>When I was a kid , 9 or 10 , I used to walk down Seventh Avenue and 125th Street with a sandwich sign on my back that said ' Down With Jim Crow . ' '' <br><blue>10</blue>Mr. Morris attended Ohio State University and the University of Iowa , served in the Army for three years and worked as a wine steward before arriving in Hollywood in the early 1960 's after some minor theater work in Seattle . <br><blue>11</blue>He once said that his years on '' Mission : Impossible '' were '' seven of the most fun years of my career . '' '' <br><blue>12</blue>If I had turned down the role , Geller was going to ask a blond , blue-eyed Scandinavian , '' he said . <br><blue>13</blue>The show 's producer was Bruce Geller . '' <br><blue>14</blue>The part had nothing to do with the fact that I am black , '' he added . '' <br><blue>15</blue>I was one of the first black actors in a series , but not the first . <br><blue>16</blue>Ivan Dixon was in ' Hogan 's Heroes , ' and ' Cos ' was in ' I Spy , ' '' he noted , referring to the actor Bill Cosby . <br><blue>17</blue>When a new movie version of '' Mission : Impossible '' was released this year , Mr. Morris walked out less than halfway through the film , according to The Associated Press . '' <br><blue>18</blue>It 's an abomination , '' he said of the movie . <br><blue>19</blue>Mr. Morris is survived by his wife , Lee , and three children , Phil , Linda and Iona . <br><hr><br><blue>1(3)</blue>: <m_str>he</m_str> (12_21) 	<m_str>Bruce Geller</m_str> (13_6) 	<m_str>Geller</m_str> (12_9) 	<br><blue>2(2)</blue>: <m_str>It</m_str> (18_1) 	<m_str>the film</m_str> (17_25) 	<br><blue>3(9)</blue>: <m_str>I</m_str> (15_1) 	<m_str>my</m_str> (11_22) 	<m_str>I</m_str> (16_18) 	<m_str>my</m_str> (9_26) 	<m_str>I</m_str> (9_11) 	<m_str>I</m_str> (8_1) 	<m_str>I</m_str> (14_11) 	<m_str>I</m_str> (9_2) 	<m_str>I</m_str> (12_2) 	<br><blue>4(2)</blue>: <m_str>a hit television show</m_str> (1_26) 	<m_str>The show 's</m_str> (13_1) 	<br><blue>5(2)</blue>: <m_str>Ivan Dixon</m_str> (16_1) 	<m_str>he</m_str> (16_23) 	<br><blue>6(4)</blue>: <m_str>Mission : Impossible</m_str> (4_10) 	<m_str>Mission : Impossible</m_str> (11_9) 	<m_str>Mission : Impossible</m_str> (17_8) 	<m_str>Mission : Impossible</m_str> (1_12) 	<br><blue>7(2)</blue>: <m_str>his years</m_str> (11_5) 	<m_str>three years</m_str> (10_18) 	<br><blue>8(4)</blue>: <m_str>'' Mission</m_str> (11_8) 	<m_str>'' Mission</m_str> (17_7) 	<m_str>'' Mission</m_str> (1_11) 	<m_str>'' Mission</m_str> (4_9) 	<br><blue>9(21)</blue>: <m_str>his</m_str> (11_5) 	<m_str>his</m_str> (8_25) 	<m_str>Dr. Kildare</m_str> (5_12) 	<m_str>his</m_str> (7_11) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Morris</m_str> (19_1) 	<m_str>Mr. Morris</m_str> (4_1) 	<m_str>his</m_str> (6_3) 	<m_str>his</m_str> (19_6) 	<m_str>his</m_str> (7_19) 	<m_str>he</m_str> (6_5) 	<m_str>Mr. Morris</m_str> (10_1) 	<m_str>Mr. Morris</m_str> (17_17) 	<m_str>his</m_str> (1_35) 	<m_str>he</m_str> (8_12) 	<m_str>he</m_str> (5_2) 	<m_str>Mr. Morris</m_str> (7_1) 	<m_str>he</m_str> (18_7) 	<m_str>He</m_str> (11_1) 	<m_str>he</m_str> (14_16) 	<m_str>Mr. Morris</m_str> (3_11) 	<br><blue>10(2)</blue>: <m_str>according to The Associated Press</m_str> (3_25) 	<m_str>according to The Associated Press</m_str> (17_28) 	<br><blue>11(2)</blue>: <m_str>the first black actors</m_str> (1_19) 	<m_str>the first black actors in a series , but not the first</m_str> (15_5) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

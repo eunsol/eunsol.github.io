@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Lola Flores, 72, Spain's Definitive Flamenco Singer </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Lola Flores , one of Spain 's most popular singers and the star of many film musicals of the 1950 's and 60 's , died today at her home outside Madrid . <br><blue>2</blue>She was 72 . <br><blue>3</blue>She died after a long struggle with breast cancer , her family said . <br><blue>4</blue>Her body was transferred to the Villa Cultural Center here to lie in state , as thousands of mourners stood in line to pay their last respects . <br><blue>5</blue>Known as " Lola of Spain , " or " The Pharaohness " after a role she played in one of her films , Miss Flores came to represent popular flamenco and Spanish folk singing for generations of Spaniards and millions of fans in Latin America . <br><blue>6</blue>In a message of condolence to her family , King Juan Carlos and Queen Sofia said , " Spain has lost one of the greatest artists of this century . " <br><blue>7</blue>Dolores Flores Ruiz was born in 1923 in the southwestern Andalusian town of Jerez de la Frontera . <br><blue>8</blue>At age 10 , she began to sing in local bars and taverns . <br><blue>9</blue>She won national fame in the 1940 's , singing with the popular flamenco artist Manolo Caracol , and landed her first film contract at 17 . <br><blue>10</blue>She is best remembered for playing ethnic dancing and singing roles , and was often cast as a gypsy or a Mexican peasant . <br><blue>11</blue>Her most famous films were " Estrella de la Sierra Morena " ( " Star of Sierra Morena " ) of 1952 and " Maria de la O " ( 1958 ) . <br><blue>12</blue>Miss Flores was convicted for tax fraud in 1991 , fined 14 million pesetas ( $ 112,000 ) and sentenced to 16 months in prison , but was released on probation . <br><blue>13</blue>( " I do n't understand about paperwork , " she said in her own defense . ) <br><blue>14</blue>Last year the Spanish Government awarded her a gold medal for her life 's work . <br><blue>15</blue>She is survived by her husband , Antonio Gonzalez , a gypsy flamenco guitarist ; two daughters , and a son . <br><hr><br><blue>1(23)</blue>: <m_str>I</m_str> (13_3) 	<m_str>She</m_str> (15_1) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (15_5) 	<m_str>Her</m_str> (4_1) 	<m_str>she</m_str> (5_17) 	<m_str>she</m_str> (13_11) 	<m_str>her</m_str> (5_22) 	<m_str>She</m_str> (10_1) 	<m_str>her</m_str> (13_14) 	<m_str>her</m_str> (6_7) 	<m_str>she</m_str> (8_5) 	<m_str>her</m_str> (1_29) 	<m_str>her</m_str> (9_21) 	<m_str>Miss Flores</m_str> (12_1) 	<m_str>Miss Flores</m_str> (5_25) 	<m_str>Lola Flores , one of Spain 's most popular singers and the star of many film musicals of the 1950 's and 60 's</m_str> (1_1) 	<m_str>She</m_str> (3_1) 	<m_str>her</m_str> (14_7) 	<m_str>She</m_str> (9_1) 	<m_str>her</m_str> (14_12) 	<m_str>Her</m_str> (11_1) 	<m_str>her</m_str> (3_11) 	<br><blue>2(2)</blue>: <m_str>thousands of mourners</m_str> (4_17) 	<m_str>their</m_str> (4_25) 	<br><blue>3(2)</blue>: <m_str>Spain 's</m_str> (1_6) 	<m_str>Spain</m_str> (6_19) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jason Bernard, 58, an Actor In Television Films and Series </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jason Bernard , an actor who performed in several television series and had recently been nominated for a Cable Ace acting award , died on Friday at Providence St. Joseph 's Medical Center in Burbank , Calif . <br><blue>2</blue>He was 58 . <br><blue>3</blue>He died , apparently of a heart attack suffered while he was driving in Hollywood , where his car was involved in a rear-end accident on Cahuenga Boulevard , reported the City News Service of Los Angeles . <br><blue>4</blue>Mr. Bernard was nominated for one of the 18th Annual Cable Ace awards , for a supporting actor in a movie or miniseries . <br><blue>5</blue>The nominations were announced last month by the National Academy of Cable Programming . <br><blue>6</blue>His was for his acting in the movie '' Sophie and the Moonhanger , '' shown on the Lifetime cable channel in January . <br><blue>7</blue>The New York Times critic Janet Maslin said that Mr. Bernard was '' especially solid '' in the supporting role of the heroine 's ever-patient boss in the 1995 romantic comedy film '' While You Were Sleeping , '' starring Sandra Bullock and Bill Pullman . <br><blue>8</blue>Another critic said that Mr. Bernard was '' soft looking , even stuffy , yet immovable in his faith '' in the role of Dr. Martin Luther King Jr. in '' The Meeting , '' an American Playhouse adaptation of a 1987 one-act play about a fictional meeting between Dr. King and Malcolm X . <br><blue>9</blue>The adaptation was broadcast on PBS stations in 1989 . <br><blue>10</blue>Mr. Bernard had the parts of Deputy Inspector Marquette on the police-drama television series '' Cagney and Lacey '' in 1982 and 1983 and of Fletch in a 1983 adventure series , '' High Performance . '' <br><blue>11</blue>He also acted in '' Wilma '' -- starring Cicely Tyson as the Olympic athlete Wilma Rudolph , a 1977 made-for-TV movie . <br><blue>12</blue>No information on surviving family members was available . <br><hr><br><blue>1(2)</blue>: <m_str>The adaptation</m_str> (9_1) 	<m_str>an American Playhouse adaptation of a 1987 one-act play</m_str> (8_36) 	<br><blue>2(2)</blue>: <m_str>Sandra Bullock</m_str> (7_41) 	<m_str>You</m_str> (7_35) 	<br><blue>3(13)</blue>: <m_str>Mr. Bernard</m_str> (7_10) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (3_18) 	<m_str>Mr. Bernard</m_str> (4_1) 	<m_str>His</m_str> (6_1) 	<m_str>his</m_str> (6_4) 	<m_str>Mr. Bernard</m_str> (10_1) 	<m_str>the heroine 's</m_str> (7_22) 	<m_str>Mr. Bernard</m_str> (8_5) 	<m_str>He</m_str> (3_1) 	<m_str>his</m_str> (8_18) 	<m_str>He</m_str> (11_1) 	<m_str>he</m_str> (3_11) 	<br><blue>4(2)</blue>: <m_str>Dr. Martin Luther King Jr.</m_str> (8_25) 	<m_str>Dr. King</m_str> (8_50) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Gottfried von Einem, Composer, Dies at 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Gottfried von Einem , a composer whose eclectic theatrical style made him Austria 's best-known postwar composer , died on Friday at his home in Obernduernbach , a village about 30 miles north of Vienna . <br><blue>2</blue>He was 78 . <br><blue>3</blue>He died in his sleep after a long illness , The Associated Press reported . <br><blue>4</blue>Mr. von Einem was best known for a handful of operas , and was widely praised for the deftness with which he captured the atmosphere and drama of the often dark librettos that attracted him . <br><blue>5</blue>His early style combined a contemporary rhythmic spikiness with elements of atonality , yet he was never considered an excessively dissonant composer . <br><blue>6</blue>He made full use of the dynamic breadth and color of the modern orchestra , and sometimes drew on jazz rhythms and improvisatory elements . <br><blue>7</blue>In the 1960 's , he went through a neo-Classical period , and his recent works had an almost Romantic mellowness and heft . <br><blue>8</blue>Mr. von Einem 's first opera , " Danton 's Death , " was given its premiere at the Salzburg Festival in 1947 , and is often cited as one of the most important contemporary operas . <br><blue>9</blue>His second opera , " The Trial , " which was based on Kafka and referred to his own imprisonment by the Nazis , also had its first performances at Salzburg . <br><blue>10</blue>" The Visit of the Old Lady , " which was performed in Vienna and Glyndebourne in the 1970 's , is to be given its professional American premiere at the New York City Opera in September . <br><blue>11</blue>Probably his most controversial work was his 1980 opera " Jesus ' Wedding . " <br><blue>12</blue>Composed as a companion piece for Britten 's church parable , " The Prodigal Son , " it included an allegorical encounter between Jesus , who represented life and love , and a woman who represented death , as well as a representation of Mary Magdalene as a pop singer and theological riddler . <br><blue>13</blue>The original idea of performing it in a church with the Britten work was scuttled when the Catholic Church objected to its portrayals , and there were demonstrations at its premiere at the Theater an der Wien . <br><blue>14</blue>Mr. von Einem , the son of a military attache to the Austrian Embassy , was born in Bern , Switzerland , on Jan. 24 , 1918 , and grew up in Germany . <br><blue>15</blue>In the early 1930 's , he studied music at the Plon Gymnasium in Holstein . <br><blue>16</blue>His first musical job was as a coach at the Berlin State Opera and at the Bayreuth Festival , starting in 1938 . <br><blue>17</blue>During World War II , Mr. von Einem and his mother helped several fugitives escape the Nazis , an act for which they were arrested by the Gestapo and imprisoned for six months . <br><blue>18</blue>Mr. von Einem also maintained a close relationship with the composer Boris Blacher , whom the Nazis banned as " degenerate . " <br><blue>19</blue>Mr. von Einem studied privately with him from 1941 to 1943 , and engaged him as his librettist for " Danton 's Death " and three of his later works . <br><blue>20</blue>Mr. von Einem 's 1943 " Concerto for Orchestra " was also criticized by the Nazis , mainly because it included elements of jazz . <br><hr><br><blue>1(31)</blue>: <m_str>his</m_str> (11_7) 	<m_str>his</m_str> (7_14) 	<m_str>Mr. von Einem</m_str> (19_1) 	<m_str>Mr. von Einem</m_str> (4_1) 	<m_str>him</m_str> (19_7) 	<m_str>Mr. von Einem 's</m_str> (8_1) 	<m_str>Danton 's</m_str> (8_9) 	<m_str>him</m_str> (19_15) 	<m_str>his</m_str> (19_17) 	<m_str>His</m_str> (5_1) 	<m_str>Mr. von Einem 's</m_str> (20_1) 	<m_str>Danton 's</m_str> (19_21) 	<m_str>he</m_str> (4_22) 	<m_str>His</m_str> (9_1) 	<m_str>him</m_str> (1_12) 	<m_str>his</m_str> (19_28) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (5_15) 	<m_str>him</m_str> (4_35) 	<m_str>He</m_str> (6_1) 	<m_str>Kafka</m_str> (9_14) 	<m_str>his</m_str> (1_23) 	<m_str>Mr. von Einem</m_str> (17_6) 	<m_str>his</m_str> (9_18) 	<m_str>his</m_str> (17_10) 	<m_str>Mr. von Einem , the son of a military attache to the Austrian Embassy</m_str> (14_1) 	<m_str>He</m_str> (3_1) 	<m_str>Mr. von Einem</m_str> (18_1) 	<m_str>his</m_str> (3_4) 	<m_str>he</m_str> (7_6) 	<m_str>his</m_str> (11_2) 	<br><blue>2(2)</blue>: <m_str>his later works</m_str> (19_28) 	<m_str>his recent works</m_str> (7_14) 	<br><blue>3(6)</blue>: <m_str>the Nazis</m_str> (9_22) 	<m_str>the Nazis</m_str> (18_16) 	<m_str>its</m_str> (9_27) 	<m_str>its</m_str> (10_26) 	<m_str>the Nazis</m_str> (20_15) 	<m_str>it</m_str> (20_20) 	<br><blue>4(1)</blue>: <m_str>its premiere</m_str> (8_16) 	<br><blue>5(1)</blue>: <m_str>the Salzburg Festival in 1947</m_str> (8_19) 	<br><blue>6(2)</blue>: <m_str>His</m_str> (16_1) 	<m_str>he</m_str> (15_7) 	<br><blue>7(1)</blue>: <m_str>Austria 's</m_str> (1_13) 	<br><blue>8(2)</blue>: <m_str>Vienna</m_str> (1_35) 	<m_str>Vienna</m_str> (10_14) 	<br><blue>9(2)</blue>: <m_str>they</m_str> (17_23) 	<m_str>several fugitives</m_str> (17_13) 	<br><blue>10(1)</blue>: <m_str>the Bayreuth Festival</m_str> (16_16) 	<br><blue>11(3)</blue>: <m_str>Britten 's</m_str> (12_7) 	<m_str>Britten</m_str> (13_12) 	<m_str>The Prodigal Son</m_str> (12_13) 	<br><blue>12(1)</blue>: <m_str>a neo-Classical period</m_str> (7_9) 	<br><blue>13(2)</blue>: <m_str>parable</m_str> (12_10) 	<m_str>it</m_str> (12_18) 	<br><blue>14(2)</blue>: <m_str>his most controversial work</m_str> (11_2) 	<m_str>the Britten work</m_str> (13_11) 	<br><blue>15(1)</blue>: <m_str>the Old Lady , '' which was performed in Vienna and Glyndebourne in the 1970 's</m_str> (10_5) 	<br><blue>16(2)</blue>: <m_str>it</m_str> (13_6) 	<m_str>a representation of Mary Magdalene</m_str> (12_42) 	<br><blue>17(3)</blue>: <m_str>the Catholic Church</m_str> (13_17) 	<m_str>its</m_str> (13_22) 	<m_str>its</m_str> (13_30) 	<br><blue>18(1)</blue>: <m_str>His second opera , `` The Trial , '' which was based on Kafka and referred to his own imprisonment by the Nazis</m_str> (9_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

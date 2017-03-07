@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Edward Mulhare, 74, an Actor Who Moved From Stage to TV </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Edward Mulhare , an Irish-born actor who was a suave , handsome presence on the American stage and in films and television for four decades , died on Saturday at his home in Van Nuys , Calif . <br><blue>2</blue>He was 74 . <br><blue>3</blue>The cause was lung cancer , said Pegge Forrest , his publicist and friend . <br><blue>4</blue>Television audiences grew familiar with Mr. Mulhare 's clipped British accent , the result of work in England , on the series '' The Ghost and Mrs. Muir '' and '' Knight Rider . '' <br><blue>5</blue>Onstage , he stepped into Rex Harrison 's shoes as Professor Higgins in Lerner and Loewe 's '' My Fair Lady '' and made the role his own , touring nationally and overseas . <br><blue>6</blue>Mr. Mulhare made his American debut in 1957 on Broadway as the testy Henry Higgins , subbing for the vacationing Harrison . <br><blue>7</blue>But it was such a stormy debut that it threatened to derail not only the immensely successful '' My Fair Lady '' but to nip his own American career in the bud as well . <br><blue>8</blue>The musical and Mr. Mulhare got caught in the middle of a long-simmering dispute between Actors Equity and Broadway producers over the hiring of foreign actors . <br><blue>9</blue>Although Mr. Mulhare was a star in Britain , the actors union termed him '' an Irish actor relatively unknown in this country '' and thus unfit to take an important role away from an American . <br><blue>10</blue>With both sides digging in , the show 's future seemed threatened until the labor negotiator Theodore W. Kheel found a technicality that both sides could live with . <br><blue>11</blue>Mr. Mulhare proved a worthy replacement who won ovations from the audience and raves from critics , and went on to play the part on Broadway for more than 1,000 performances between 1957 and 1960 . <br><blue>12</blue>Alan Jay Lerner invited him to take the lead in the show 's first overseas tour to Moscow , Leningrad and Kiev in 1960 . <br><blue>13</blue>With national tours in the late 1970 's , summer theater , supper theaters and a spell in London , Mr. Mulhare 's longevity as Higgins may well have surpassed Harrison 's . <br><blue>14</blue>He also starred on Broadway in Dore Schary 's '' Devil 's Advocate '' ( 1960 ) and Jean Kerr 's '' Mary , Mary '' ( 1961 ) . <br><blue>15</blue>He appeared in a revival of Shaw 's '' Don Juan in Hell '' in 1973 , after which he took the role on tour . <br><blue>16</blue>Mr. Mulhare , who was born in Cork , Ireland , was 19 when he first played professionally in '' Othello '' at the Cork Opera House in 1942 . <br><blue>17</blue>He moved to England to appear in repertory , learning the trade and perfecting his diction along the way . <br><blue>18</blue>By 1951 he became leading man of the Liverpool Repertory Company . <br><blue>19</blue>His first appearance in London was in '' Othello , '' starring Orson Welles and directed by Laurence Olivier . <br><blue>20</blue>It was there that Mr. Lerner and his producer , Herman Levin , signed him to spell Harrison as Higgins in New York . <br><hr><br><blue>1(2)</blue>: <m_str>the role</m_str> (15_22) 	<m_str>the role</m_str> (5_25) 	<br><blue>2(4)</blue>: <m_str>Harrison</m_str> (20_18) 	<m_str>the vacationing Harrison</m_str> (6_19) 	<m_str>Rex Harrison 's</m_str> (5_6) 	<m_str>Harrison 's</m_str> (13_31) 	<br><blue>3(5)</blue>: <m_str>his</m_str> (1_31) 	<m_str>his</m_str> (5_27) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (5_3) 	<m_str>his</m_str> (3_11) 	<br><blue>4(4)</blue>: <m_str>him</m_str> (20_15) 	<m_str>Mr. Lerner</m_str> (20_5) 	<m_str>his</m_str> (20_8) 	<m_str>Alan Jay Lerner</m_str> (12_1) 	<br><blue>5(1)</blue>: <m_str>Mrs. Muir</m_str> (4_27) 	<br><blue>6(2)</blue>: <m_str>1960</m_str> (12_24) 	<m_str>1960</m_str> (14_16) 	<br><blue>7(3)</blue>: <m_str>Broadway</m_str> (6_10) 	<m_str>Broadway</m_str> (11_26) 	<m_str>Broadway</m_str> (8_19) 	<br><blue>8(17)</blue>: <m_str>He</m_str> (15_1) 	<m_str>He</m_str> (17_1) 	<m_str>His</m_str> (19_1) 	<m_str>him</m_str> (9_14) 	<m_str>Mr. Mulhare</m_str> (6_1) 	<m_str>his</m_str> (6_4) 	<m_str>Mr. Mulhare 's</m_str> (4_6) 	<m_str>Mr. Mulhare</m_str> (8_4) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (17_15) 	<m_str>Mr. Mulhare , who was born in Cork , Ireland</m_str> (16_1) 	<m_str>Mr. Mulhare 's</m_str> (13_21) 	<m_str>he</m_str> (15_20) 	<m_str>he</m_str> (18_3) 	<m_str>Mr. Mulhare</m_str> (9_2) 	<m_str>Mr. Mulhare</m_str> (11_1) 	<m_str>he</m_str> (16_15) 	<br><blue>9(2)</blue>: <m_str>My Fair Lady</m_str> (5_19) 	<m_str>My Fair Lady</m_str> (7_19) 	<br><blue>10(2)</blue>: <m_str>London</m_str> (13_19) 	<m_str>London</m_str> (19_5) 	<br><blue>11(2)</blue>: <m_str>it</m_str> (7_9) 	<m_str>it</m_str> (7_2) 	<br><blue>12(4)</blue>: <m_str>Professor Higgins in Lerner and Loewe 's</m_str> (5_11) 	<m_str>the testy Henry Higgins</m_str> (6_12) 	<m_str>Higgins</m_str> (13_26) 	<m_str>Higgins</m_str> (20_20) 	<br><blue>13(2)</blue>: <m_str>It</m_str> (20_1) 	<m_str>His first appearance in London</m_str> (19_1) 	<br><blue>14(2)</blue>: <m_str>the show 's future</m_str> (10_7) 	<m_str>the show 's</m_str> (12_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

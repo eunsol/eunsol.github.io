@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Beni Montresor, Artist in 2 Worlds, Dies at 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Beni Montresor , who conjured magical , dreamlike images in the children 's books he illustrated and the sets and costumes he designed for opera productions around the world , died on Thursday in Verona , Italy , near the village where he was born . <br><blue>2</blue>He was 78 . <br><blue>3</blue>The cause was pancreatic cancer , said Peter East , a friend . <br><blue>4</blue>Mr. Montresor 's twin artistic passions were shown in his designs for Mozart 's '' Magic Flute '' for the New York City Opera ( then City Center Opera ) and '' The Magic Flute '' ( G. P. Putnam 's Sons , 1966 ) , a children 's book based on the opera . <br><blue>5</blue>In 1985 , nearly two decades after the opera designs were first used , they were still popular with audiences and critics . '' <br><blue>6</blue>The sets call to mind a happy mixture of J. R. R. Tolkien and Maxfield Parrish ; the jungle animals that prowl the stage resemble magnified Steiff toys come to life , '' Tim Page wrote in The New York Times . <br><blue>7</blue>In 1981 Peter G. Davis wrote in The Times , '' Beni Montresor 's sensual uses of fabrics , forms , color and light proclaim him to be one of the few genuine romantics in the field of operatic stage design . '' <br><blue>8</blue>Mr. Montresor attempted to design a Wagnerian production only once or twice , Fiammetta Ponti , a friend , said . <br><blue>9</blue>His true métier was the lighthearted and playful . '' <br><blue>10</blue>He always had that twinkle in his eye , '' said Joseph Volpe , the administrator of the Metropolitan Opera , who worked with Mr. Montresor on productions dating back to the 1960 's . <br><blue>11</blue>In 1965 Mr. Montresor won a Caldecott Medal for his pictures for Beatrice Schenk de Regniers 's book '' May I Bring a Friend ? '' <br><blue>12</blue>It is the story of a boy who asks a king and a queen who have invited him for a visit if he can bring along his favorite animals , including a giraffe . <br><blue>13</blue>In 1995 the New York Times music critic Allan Kozinn said that Mr. Montresor 's pastel designs for the Metropolitan Opera 's production of Donizetti 's featherweight love story '' L'Elisir d'Amore '' '' offer a storybook view of the Italian countryside . '' <br><blue>14</blue>After the success of the Donizetti production , Mr. Montresor expressed his desire to direct opera , but the Met was not interested . '' <br><blue>15</blue>It was too much of a burden , '' Mr. Volpe said . <br><blue>16</blue>And so Mr. Montresor worked as a director at smaller opera houses around the world . <br><blue>17</blue>In an essay Mr. Montresor wrote for a book about his artistry published in Italy in 1995 , he said that for both the opera stage and children 's books , '' I must astonish and amaze myself first , and if I do , then the spectator will react in the same way . '' <br><blue>18</blue>He added that he liked to visit schools for inspiration . '' <br><blue>19</blue>I often go and visit schools and bring my books , '' he wrote . '' <br><blue>20</blue>I give no comments nor explanations . <br><hr><br><blue>1(2)</blue>: <m_str>I</m_str> (11_21) 	<m_str>Beatrice Schenk de Regniers 's</m_str> (11_13) 	<br><blue>2(2)</blue>: <m_str>Joseph Volpe , the administrator of the Metropolitan Opera , who worked with Mr. Montresor on productions dating back to the 1960 's</m_str> (10_12) 	<m_str>Mr. Volpe</m_str> (15_10) 	<br><blue>3(2)</blue>: <m_str>It</m_str> (15_1) 	<m_str>the Met</m_str> (14_19) 	<br><blue>4(2)</blue>: <m_str>the world</m_str> (1_28) 	<m_str>the world</m_str> (16_14) 	<br><blue>5(3)</blue>: <m_str>they</m_str> (5_15) 	<m_str>his designs for Mozart 's '' Magic Flute '' for the New York City Opera -LRB- then City Center Opera -RRB- and '' The Magic Flute '' -LRB- G. P. Putnam 's Sons , 1966 -RRB- , a children 's book based on the opera</m_str> (4_10) 	<m_str>the opera designs</m_str> (5_8) 	<br><blue>6(2)</blue>: <m_str>1995</m_str> (17_17) 	<m_str>1995</m_str> (13_2) 	<br><blue>7(1)</blue>: <m_str>my books</m_str> (19_9) 	<br><blue>8(37)</blue>: <m_str>Beni Montresor 's</m_str> (7_12) 	<m_str>Tim Page</m_str> (6_34) 	<m_str>Mr. Montresor</m_str> (8_1) 	<m_str>him</m_str> (7_26) 	<m_str>Mr. Montresor</m_str> (16_3) 	<m_str>His</m_str> (9_1) 	<m_str>he</m_str> (1_15) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Montresor</m_str> (17_4) 	<m_str>he</m_str> (1_22) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (17_11) 	<m_str>his</m_str> (10_7) 	<m_str>He</m_str> (18_1) 	<m_str>he</m_str> (17_19) 	<m_str>he</m_str> (18_4) 	<m_str>he</m_str> (1_43) 	<m_str>Mr. Montresor</m_str> (11_3) 	<m_str>I</m_str> (17_33) 	<m_str>Mr. Montresor</m_str> (10_25) 	<m_str>I</m_str> (19_1) 	<m_str>his</m_str> (11_10) 	<m_str>Mr. Montresor 's</m_str> (4_1) 	<m_str>myself</m_str> (17_38) 	<m_str>I</m_str> (17_43) 	<m_str>my</m_str> (19_9) 	<m_str>his</m_str> (4_10) 	<m_str>he</m_str> (19_13) 	<m_str>Mozart 's</m_str> (4_13) 	<m_str>I</m_str> (20_1) 	<m_str>him</m_str> (12_18) 	<m_str>he</m_str> (12_23) 	<m_str>his</m_str> (12_27) 	<m_str>the New York Times music critic Allan Kozinn</m_str> (13_3) 	<m_str>Mr. Montresor 's</m_str> (13_13) 	<m_str>Mr. Montresor</m_str> (14_9) 	<m_str>his</m_str> (14_12) 	<br><blue>9(2)</blue>: <m_str>New York Times</m_str> (13_4) 	<m_str>The New York Times</m_str> (6_38) 	<br><blue>10(1)</blue>: <m_str>the village where he was born</m_str> (1_40) 	<br><blue>11(1)</blue>: <m_str>Italy</m_str> (17_15) 	<br><blue>12(2)</blue>: <m_str>the Metropolitan Opera 's</m_str> (13_19) 	<m_str>the Metropolitan Opera</m_str> (10_18) 	<br><blue>13(2)</blue>: <m_str>Donizetti</m_str> (14_6) 	<m_str>Donizetti 's</m_str> (13_25) 	<br><blue>14(2)</blue>: <m_str>a Wagnerian production</m_str> (8_6) 	<m_str>the Donizetti production</m_str> (14_5) 	<br><blue>15(2)</blue>: <m_str>City Center Opera</m_str> (4_27) 	<m_str>the opera</m_str> (4_53) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

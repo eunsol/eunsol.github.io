@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ed Bradley, TV Correspondent And Trailblazer, Is Dead at 65 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Ed Bradley , a fixture in American living rooms on Sunday nights for a quarter century as a correspondent on '' 60 Minutes '' and one of the first black journalists prominently featured on network television , died yesterday in Manhattan . <br><blue>2</blue>He was 65 . <br><blue>3</blue>Mr. Bradley died at Mount Sinai Medical Center of complications from chronic lymphocytic leukemia , said Dr. Valentin Fuster , his cardiologist and the director of the Cardiovascular Institute at Mount Sinai . <br><blue>4</blue>Mr. Bradley , who underwent quintuple bypass heart surgery in 2003 , learned he had leukemia '' many years ago , '' Dr. Fuster said , but it had not posed a threat to his life until recently , when he was overtaken by an infection . <br><blue>5</blue>Even some close colleagues , including Mike Wallace , did not know that Mr. Bradley had leukemia or that his health had precipitously deteriorated over the last few weeks . <br><blue>6</blue>His most recent segments on '' 60 Minutes '' were on Oct. 15 ( on the rape allegations against three Duke University lacrosse players , whom he interviewed ) and on Oct. 29 ( an investigation of an oil refinery explosion in Texas City , Tex. ) . <br><blue>7</blue>On the day that that last segment was broadcast , he was admitted to Mount Sinai and remained there until his death . <br><blue>8</blue>Though Mr. Bradley had largely concealed his illness , he and his wife , Patricia Blanchet , had reached out in recent days to some of his closest friends -- including Charlayne Hunter-Gault of National Public Radio ( who traveled to his bedside from her home in South Africa ) and the singer Jimmy Buffett ( who rushed to New York to be with him following a concert in Hawaii ) . <br><blue>9</blue>Mr. Buffett said he told Mr. Bradley on Wednesday that '' the Knicks and the Democrats won , '' eliciting a smile from Mr. Bradley , who by that point could barely speak . <br><blue>10</blue>Mr. Buffett and Ms. Hunter-Gault were part of a close-knit circle gathered at Mr. Bradley 's hospital room at the time of his death . '' <br><blue>11</blue>This has been a long battle which he fought silently and courageously , '' Ms. Hunter-Gault said . '' <br><blue>12</blue>He did n't want people to know that this was a part of his struggle . <br><blue>13</blue>He did n't want people feeling sorry for him . <br><blue>14</blue>And for a good part of his life , he managed it . '' <br><blue>15</blue>To generations of television viewers , Mr. Bradley was a sober presence -- albeit one with salt-and-pepper stubble and a stud in one ear -- whose reporting for CBS across four decades ranged from the Vietnam War and Cambodian refugee crisis to the sexual abuse scandal in the Catholic Church and the Columbine High School shooting . <br><blue>16</blue>His most prominent interviews over the years included those with Timothy McVeigh and the convicted killer ( and author ) Jack Henry Abbott , and with the performers Michael Jackson , Robin Williams and Lena Horne . <br><blue>17</blue>He won 19 Emmy awards , according to CBS , including one for lifetime achievement in 2003 . <br><blue>18</blue>In the three years since his bypass operation , Mr. Bradley had more than 60 segments broadcast on '' 60 Minutes '' -- more than any other correspondent . '' <br><blue>19</blue>And he kept track , '' said Jeff Fager , the program 's executive producer . <br><blue>20</blue>But Mr. Bradley 's life off camera was often as rich and compelling as his life in the studio . <br><hr><br><blue>1(2)</blue>: <m_str>his life</m_str> (20_15) 	<m_str>his life</m_str> (14_7) 	<br><blue>2(2)</blue>: <m_str>his death</m_str> (10_23) 	<m_str>his death</m_str> (7_21) 	<br><blue>3(44)</blue>: <m_str>Mr. Bradley</m_str> (15_7) 	<m_str>His</m_str> (16_1) 	<m_str>Timothy McVeigh</m_str> (16_11) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Bradley</m_str> (3_1) 	<m_str>his</m_str> (18_6) 	<m_str>Mr. Bradley</m_str> (18_10) 	<m_str>he</m_str> (19_2) 	<m_str>Bradley</m_str> (4_2) 	<m_str>his</m_str> (3_21) 	<m_str>he</m_str> (4_14) 	<m_str>Mr. Bradley 's</m_str> (20_2) 	<m_str>Dr. Fuster</m_str> (4_23) 	<m_str>his</m_str> (20_15) 	<m_str>Mr. Bradley</m_str> (5_14) 	<m_str>his</m_str> (4_35) 	<m_str>His</m_str> (6_1) 	<m_str>his</m_str> (5_20) 	<m_str>he</m_str> (4_41) 	<m_str>he</m_str> (6_27) 	<m_str>he</m_str> (7_11) 	<m_str>Mr. Bradley</m_str> (8_2) 	<m_str>his</m_str> (7_21) 	<m_str>his</m_str> (8_7) 	<m_str>he</m_str> (8_10) 	<m_str>his</m_str> (8_12) 	<m_str>Mr. Buffett</m_str> (9_1) 	<m_str>he</m_str> (9_4) 	<m_str>Mr. Bradley on Wednesday that</m_str> (9_6) 	<m_str>his</m_str> (8_27) 	<m_str>his</m_str> (8_42) 	<m_str>Mr. Bradley , who by that point could barely speak</m_str> (9_24) 	<m_str>her</m_str> (8_45) 	<m_str>Mr. Bradley 's</m_str> (10_14) 	<m_str>his</m_str> (10_23) 	<m_str>he</m_str> (11_8) 	<m_str>him</m_str> (8_65) 	<m_str>He</m_str> (12_1) 	<m_str>his</m_str> (12_14) 	<m_str>He</m_str> (13_1) 	<m_str>him</m_str> (13_9) 	<m_str>his</m_str> (14_7) 	<m_str>he</m_str> (14_10) 	<br><blue>4(2)</blue>: <m_str>Ms. Hunter-Gault</m_str> (11_15) 	<m_str>Ms. Hunter-Gault</m_str> (10_4) 	<br><blue>5(3)</blue>: <m_str>this</m_str> (12_9) 	<m_str>Mr. Buffett and Ms. Hunter-Gault</m_str> (10_1) 	<m_str>This</m_str> (11_1) 	<br><blue>6(2)</blue>: <m_str>a good part of his life</m_str> (14_3) 	<m_str>it</m_str> (14_12) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

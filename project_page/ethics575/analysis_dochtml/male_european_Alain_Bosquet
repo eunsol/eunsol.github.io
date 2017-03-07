@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Alain Bosquet, French Writer And Critic, 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Alain BosquetAlain Bosquet , a prolific French poet , novelist and literary critic , died on March 17 in Paris , where he made his home . <br><blue>2</blue>He was 78 . <br><blue>3</blue>The cause was cancer , said William Jay Smith , a friend and a former Poet Laureate of the United States . <br><blue>4</blue>Mr. Bosquet was much admired in Europe but remained comparatively unknown in the United States . <br><blue>5</blue>He was named Anatole Bisk at his birth in Odessa in Ukraine , which was then under Soviet rule . <br><blue>6</blue>He was educated in Brussels and spent years as an American citizen in New York and in Berlin , where he served with the Allied Control Council after World War II . <br><blue>7</blue>His autobiographical novel , '' A Russian Mother , '' a best seller in France , was published in the United States in translation in 1996 . <br><blue>8</blue>It follows his family 's flight from the Russian Revolution to Bulgaria and Brussels and , after the German invasion of Belgium in 1940 , to Manhattan . <br><blue>9</blue>Mr. Bosquet served with the Belgian , French and American armies and eventually wound up in occupied Berlin , where he met and married his wife , Norma Caplan of Iowa , his sole survivor . <br><blue>10</blue>He gave up his American citizenship in the early 1950 's and settled in Paris . <br><blue>11</blue>He finished his education at the Sorbonne , and devoted himself entirely to writing . <br><blue>12</blue>He worked as a freelance critic for Le Monde and Le Figaro , among other publications , and his entire poetic oeuvre was published in France by Gallimard . <br><blue>13</blue>. <br><blue>14</blue>He produced 20 volumes of poetry and a like number of books of fiction . <br><blue>15</blue>Collections of his poems , which won every major prize in France , were issued in translation by New Directions , Louisiana State University Press and Ohio State University Press . <br><blue>16</blue>He edited the first complete French anthology of American poets in 1956 as well as translations of Emily Dickinson and Walt Whitman and selections from the poems of James Laughlin and Mr. Smith . '' <br><blue>17</blue>The poem , '' he once wrote , '' is totally useless , but it offers the reader a secular prayer , through which he can imagine new rapports between man and the universe , man and the void , man and himself . '' <br><hr><br><blue>1(2)</blue>: <m_str>Paris</m_str> (1_20) 	<m_str>Paris</m_str> (10_15) 	<br><blue>2(27)</blue>: <m_str>his</m_str> (15_3) 	<m_str>Mr. Bosquet</m_str> (4_1) 	<m_str>himself</m_str> (11_11) 	<m_str>his</m_str> (8_3) 	<m_str>himself</m_str> (17_43) 	<m_str>He</m_str> (12_1) 	<m_str>He</m_str> (16_1) 	<m_str>He</m_str> (5_1) 	<m_str>Mr. Bosquet</m_str> (9_1) 	<m_str>his</m_str> (5_7) 	<m_str>his</m_str> (12_19) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_5) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (1_23) 	<m_str>his</m_str> (1_25) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (9_21) 	<m_str>his</m_str> (10_4) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (9_25) 	<m_str>His</m_str> (7_1) 	<m_str>his</m_str> (9_33) 	<m_str>he</m_str> (17_25) 	<m_str>he</m_str> (6_21) 	<m_str>He</m_str> (11_1) 	<m_str>his</m_str> (11_3) 	<br><blue>3(2)</blue>: <m_str>it</m_str> (17_15) 	<m_str>The poem</m_str> (17_1) 	<br><blue>4(3)</blue>: <m_str>the United States</m_str> (4_13) 	<m_str>the United States</m_str> (3_19) 	<m_str>the United States</m_str> (7_20) 	<br><blue>5(3)</blue>: <m_str>France</m_str> (7_15) 	<m_str>France</m_str> (12_26) 	<m_str>France</m_str> (15_12) 	<br><blue>6(2)</blue>: <m_str>Brussels</m_str> (8_14) 	<m_str>Brussels</m_str> (6_5) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

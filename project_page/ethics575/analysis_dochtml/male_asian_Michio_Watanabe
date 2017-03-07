@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Michio Watanabe, 72, of Japan; Powerful Minister Despite Gaffes </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Michio Watanabe , one of the most influential politicians in Japan and long an aspirant to become Prime Minister , died early this morning in a Tokyo hospital . <br><blue>2</blue>He was 72 . <br><blue>3</blue>His aides said the cause of death was heart failure . <br><blue>4</blue>Mr. Watanabe had been in poor health for three years . <br><blue>5</blue>Mr. Watanabe was a leader of the Liberal Democratic Party , which held power for 38 years until being toppled in 1993 . <br><blue>6</blue>He served as Deputy Prime Minister and Foreign Minister from November 1991 to April 1993 . <br><blue>7</blue>Before that he led the ministries of trade , finance , agriculture and health and welfare . <br><blue>8</blue>In March , Mr. Watanabe led a delegation to North Korea , where Japan and North Korea agreed to resume talks aimed at normalizing relations . <br><blue>9</blue>But the talks , which were suspended in 1992 , have not yet reopened . <br><blue>10</blue>Colorful and outspoken , Mr. Watanabe created some international uproars with ill-considered remarks . <br><blue>11</blue>In 1988 , for example , he said American blacks had no qualms about not paying their bills . <br><blue>12</blue>That set off a round of criticism about Japanese racial attitudes , prompting Mr. Watanabe to apologize and retract his remarks . <br><blue>13</blue>This past June , Mr. Watanabe again apologized after setting off protests in South Korea by saying that Japan 's annexation of Korea in 1910 had been done amicably , with Korean consent . <br><blue>14</blue>Mr. Watanabe made little secret of his ambition to become Prime Minister . <br><blue>15</blue>He lost twice , in 1991 and 1993 , in elections to become the president of the Liberal Democratic Party , a post that carries with it the premiership if the party is in power . <br><blue>16</blue>In 1994 , after the Liberal Democrats had lost power , Mr. Watanabe considered jumping to another party if it would support him for Prime Minister , but he gave up after failing to attract enough supporters . <br><blue>17</blue>Mr. Watanabe was born on July 28 , 1923 , the son of a soldier . <br><blue>18</blue>His mother died 10 days after he was born , and he was raised by an uncle and aunt on a farm . <br><blue>19</blue>He graduated from the Tokyo University of Commerce and became an accountant . <br><blue>20</blue>He was elected to the lower house of Parliament in 1963 and held his seat ever since . <br><hr><br><blue>1(25)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (11_7) 	<m_str>He</m_str> (19_1) 	<m_str>Mr. Watanabe</m_str> (4_1) 	<m_str>Mr. Watanabe</m_str> (8_4) 	<m_str>He</m_str> (20_1) 	<m_str>Mr. Watanabe</m_str> (5_1) 	<m_str>Mr. Watanabe</m_str> (12_14) 	<m_str>Mr. Watanabe</m_str> (16_12) 	<m_str>his</m_str> (12_20) 	<m_str>his</m_str> (20_14) 	<m_str>He</m_str> (2_1) 	<m_str>This past June , Mr. Watanabe</m_str> (13_1) 	<m_str>Mr. Watanabe</m_str> (17_1) 	<m_str>He</m_str> (6_1) 	<m_str>him</m_str> (16_23) 	<m_str>he</m_str> (16_29) 	<m_str>Mr. Watanabe</m_str> (10_5) 	<m_str>Mr. Watanabe</m_str> (14_1) 	<m_str>His</m_str> (18_1) 	<m_str>His</m_str> (3_1) 	<m_str>his</m_str> (14_7) 	<m_str>he</m_str> (18_7) 	<m_str>he</m_str> (7_3) 	<m_str>he</m_str> (18_12) 	<br><blue>2(2)</blue>: <m_str>Prime Minister</m_str> (14_11) 	<m_str>Prime Minister</m_str> (16_25) 	<br><blue>3(2)</blue>: <m_str>his remarks</m_str> (12_20) 	<m_str>ill-considered remarks</m_str> (10_12) 	<br><blue>4(3)</blue>: <m_str>Japan 's</m_str> (13_19) 	<m_str>Japan</m_str> (8_14) 	<m_str>Japan</m_str> (1_11) 	<br><blue>5(2)</blue>: <m_str>American blacks</m_str> (11_9) 	<m_str>their</m_str> (11_17) 	<br><blue>6(2)</blue>: <m_str>the Liberal Democratic Party , which held power for 38 years until being toppled in 1993</m_str> (5_7) 	<m_str>the party</m_str> (15_31) 	<br><blue>7(2)</blue>: <m_str>it</m_str> (16_20) 	<m_str>the Liberal Democrats</m_str> (16_5) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

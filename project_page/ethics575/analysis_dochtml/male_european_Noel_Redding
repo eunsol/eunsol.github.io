@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Noel Redding, 57, Rock Bassist Who Played With Jimi Hendrix </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Noel Redding , who played bass behind Jimi Hendrix as one of the two Englishmen in the Jimi Hendrix Experience , was found dead on Monday at his home in Clonakilty , Ireland . <br><blue>2</blue>He was 57 . <br><blue>3</blue>The cause was not yet known , said his manager , Ian Grant . <br><blue>4</blue>Mr. Redding was recruited to join Hendrix 's band in 1966 by Chas Chandler , the bassist of the Animals , who took Hendrix to England after discovering him in a New York club . <br><blue>5</blue>At the time Mr. Redding was auditioning as a guitarist for the New Animals when Chandler offered him the job playing bass with Hendrix . <br><blue>6</blue>Though trained as a guitarist , Mr. Redding had a bass style whose steady , unembellished lines stood in stark contrast to Hendrix 's pyrotechnics and the jazzy drumming of Mitch Mitchell , and provided a solidity to the band 's sound . <br><blue>7</blue>He also had a look that was right , with a dandyish flair in dress and an untamed tuft of hair that complemented Hendrix 's Afro . <br><blue>8</blue>Mr. Redding played with Hendrix on some of the most revolutionary albums of the 1960 's . '' <br><blue>9</blue>Are You Experienced ? <br><blue>10</blue>, '' the debut album for both Hendrix and his group , was a No. 5 hit in 1967 and has become one of the pillars of rock guitar . <br><blue>11</blue>The group made two more albums , '' Axis : Bold as Love '' and '' Electric Ladyland , '' but Mr. Redding grew tired of Hendrix 's excesses and quit in 1969 . <br><blue>12</blue>Hendrix later formed the Band of Gypsys , though critics have long said that his best work was done with the Experience . <br><blue>13</blue>He died in 1970 . <br><blue>14</blue>Mr. Redding had two bands of his own , Fat Mattress and the Noel Redding Band , which released two albums each in the late 60 's and early 70 's , though none sold well . <br><blue>15</blue>He toured periodically and appeared over the years at many events in honor of Hendrix . <br><blue>16</blue>He wrote a memoir , '' Are You Experienced ? <br><blue>17</blue>: The Inside Story of the Jimi Hendrix Experience , '' in 1991 . <br><blue>18</blue>Mr. Redding claimed that he sold his royalty rights in the early 1970 's in an unfair contract and spent years trying to obtain what he considered his fair share , a battle that was continuing at the time of his death . <br><blue>19</blue>He is survived by a brother , Anthony , and a sister , Vicki . <br><hr><br><blue>1(22)</blue>: <m_str>He</m_str> (15_1) 	<m_str>He</m_str> (2_1) 	<m_str>He</m_str> (19_1) 	<m_str>Mr. Redding</m_str> (4_1) 	<m_str>him</m_str> (5_18) 	<m_str>Mr. Redding</m_str> (8_1) 	<m_str>he</m_str> (18_26) 	<m_str>his</m_str> (1_28) 	<m_str>Mr. Redding</m_str> (6_7) 	<m_str>his</m_str> (18_28) 	<m_str>Mr. Redding</m_str> (14_1) 	<m_str>He</m_str> (16_1) 	<m_str>Mr. Redding</m_str> (11_22) 	<m_str>Mr. Redding</m_str> (18_1) 	<m_str>his</m_str> (14_7) 	<m_str>he</m_str> (18_5) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (18_7) 	<m_str>Mr. Redding</m_str> (5_4) 	<m_str>his</m_str> (18_41) 	<m_str>his</m_str> (3_9) 	<m_str>his manager , Ian Grant</m_str> (3_9) 	<br><blue>2(16)</blue>: <m_str>him</m_str> (4_29) 	<m_str>Hendrix 's</m_str> (4_7) 	<m_str>Hendrix</m_str> (5_24) 	<m_str>Hendrix</m_str> (8_5) 	<m_str>Hendrix</m_str> (12_1) 	<m_str>Hendrix</m_str> (15_15) 	<m_str>Hendrix 's</m_str> (7_24) 	<m_str>Hendrix 's Afro</m_str> (7_24) 	<m_str>Hendrix</m_str> (10_8) 	<m_str>his</m_str> (10_10) 	<m_str>Hendrix 's</m_str> (11_27) 	<m_str>Jimi Hendrix</m_str> (1_8) 	<m_str>his</m_str> (12_15) 	<m_str>Hendrix</m_str> (4_24) 	<m_str>Hendrix 's</m_str> (6_23) 	<m_str>He</m_str> (13_1) 	<br><blue>3(2)</blue>: <m_str>two more albums</m_str> (11_4) 	<m_str>two albums</m_str> (14_20) 	<br><blue>4(2)</blue>: <m_str>1970</m_str> (13_4) 	<m_str>1970 's</m_str> (18_13) 	<br><blue>5(3)</blue>: <m_str>the Band of Gypsys</m_str> (12_4) 	<m_str>Hendrix 's band in 1966</m_str> (4_7) 	<m_str>the band 's</m_str> (6_39) 	<br><blue>6(2)</blue>: <m_str>the Experience</m_str> (12_21) 	<m_str>the Jimi Hendrix Experience</m_str> (1_17) 	<br><blue>7(2)</blue>: <m_str>Chas Chandler , the bassist of the Animals , who took Hendrix to England after discovering him in a New York club</m_str> (4_13) 	<m_str>Chandler</m_str> (5_16) 	<br><blue>8(2)</blue>: <m_str>his group</m_str> (10_10) 	<m_str>The group</m_str> (11_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

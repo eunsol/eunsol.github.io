@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Najeeb E. Halaby, Former Airline Executive, Dies at 87 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Najeeb E. Halaby , who was once a leader in the airline industry and was known more recently as the father of Queen Noor of Jordan , died today at his home in McLean , Va . <br><blue>2</blue>He was 87 . <br><blue>3</blue>Mr. Halaby , formerly of Alpine , N.J. , had lived in McLean in recent years . <br><blue>4</blue>He also had a home on Martha 's Vineyard , Mass . <br><blue>5</blue>At various times in his life , Mr. Halaby was a skydiver , test pilot , lawyer and businessman , most notably at Pan American World Airways . <br><blue>6</blue>He started as a senior vice president at Pan Am in 1965 , became president in 1968 , chief executive in 1969 and then chairman the next year . <br><blue>7</blue>In 1972 , he was forced to resign as chairman and chief executive when the board blamed him for the line 's worsening financial crisis . <br><blue>8</blue>Mr. Halaby 's tenure coincided with one of the worst slumps in the airline industry , compounded by a general recession , inflation , increased competition and the high cost of introducing the Boeing 747 . <br><blue>9</blue>Mr. Halaby had championed the jumbo jet , predicting correctly that it would become a mainstay of air travel . '' <br><blue>10</blue>A chief executive likes to leave a company better than when he found it , '' Mr. Halaby said upon his departure . '' <br><blue>11</blue>I believe I have . '' <br><blue>12</blue>After leaving Pan Am , Mr. Halaby wrote a book , '' Crosswinds : an Airman 's Memoir '' ( Doubleday , 1978 ) , ran an international law practice and headed a company that provided aviation technology to Arab countries . <br><blue>13</blue>Mr. Halaby became the father-in-law to royalty in 1978 , when his daughter Lisa wed King Hussein and became Queen Noor al-Hussein . <br><blue>14</blue>Ms. Halaby had studied architecture at Princeton University and had met the king a year earlier , at a ceremony in Amman marking the delivery of the Jordanian airline 's first Boeing 747 . <br><blue>15</blue>At 42 , the king was 16 years older than his bride . <br><blue>16</blue>Mr. Halaby later acknowledged some initial unease over the romance . <br><blue>17</blue>But he said the king 's vigor , directness and charm had won him over . <br><blue>18</blue>Mr. Halaby first became well known when President John F. Kennedy named him administrator of the Federal Aviation Administration in 1961 . <br><blue>19</blue>News reports of the era called him the first Arab-American to rise so high in government . <br><blue>20</blue>In fact , he was already a veteran of government service , having been a foreign affairs adviser to the Pentagon and then a deputy assistant secretary of defense from 1948 to 1952 . <br><hr><br><blue>1(2)</blue>: <m_str>a company</m_str> (10_7) 	<m_str>it</m_str> (10_14) 	<br><blue>2(2)</blue>: <m_str>I</m_str> (11_1) 	<m_str>I</m_str> (11_3) 	<br><blue>3(3)</blue>: <m_str>Pan American World Airways</m_str> (5_24) 	<m_str>Pan Am</m_str> (12_3) 	<m_str>Pan Am</m_str> (6_9) 	<br><blue>4(2)</blue>: <m_str>McLean</m_str> (3_13) 	<m_str>McLean</m_str> (1_34) 	<br><blue>5(25)</blue>: <m_str>him</m_str> (7_18) 	<m_str>Mr. Halaby 's</m_str> (8_1) 	<m_str>Mr. Halaby</m_str> (16_1) 	<m_str>Mr. Halaby</m_str> (9_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_2) 	<m_str>him</m_str> (17_14) 	<m_str>his</m_str> (1_31) 	<m_str>Mr. Halaby</m_str> (18_1) 	<m_str>Mr. Halaby , formerly of Alpine , N.J.</m_str> (3_1) 	<m_str>he</m_str> (10_12) 	<m_str>Mr. Halaby</m_str> (10_17) 	<m_str>his</m_str> (10_21) 	<m_str>him</m_str> (18_13) 	<m_str>He</m_str> (4_1) 	<m_str>him</m_str> (19_7) 	<m_str>Mr. Halaby wrote a book , '' Crosswinds : an Airman 's Memoir '' -LRB- Doubleday , 1978 -RRB-</m_str> (12_6) 	<m_str>he</m_str> (20_4) 	<m_str>his</m_str> (5_5) 	<m_str>Mr. Halaby</m_str> (5_8) 	<m_str>Mr. Halaby</m_str> (13_1) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (13_12) 	<m_str>Ms. Halaby</m_str> (14_1) 	<m_str>he</m_str> (7_4) 	<br><blue>6(2)</blue>: <m_str>1978</m_str> (12_23) 	<m_str>1978</m_str> (13_9) 	<br><blue>7(1)</blue>: <m_str>Arab</m_str> (12_40) 	<br><blue>8(5)</blue>: <m_str>the king</m_str> (15_4) 	<m_str>the king 's</m_str> (17_4) 	<m_str>his</m_str> (15_11) 	<m_str>the king</m_str> (14_12) 	<m_str>King Hussein</m_str> (13_16) 	<br><blue>9(2)</blue>: <m_str>the jumbo jet</m_str> (9_5) 	<m_str>it</m_str> (9_12) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Kurt S. Adler, 83, Importer Who Created a Santa's World </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Kurt S. Adler , who helped change the look of Christmas décor as a major importer of handcrafted ornaments and convincing artificial trees , died on Nov. 25 at his home in Manhattan . <br><blue>2</blue>He was 83 . <br><blue>3</blue>The cause was heart failure , said his son Clifford . <br><blue>4</blue>Mr. Adler also had Parkinson 's disease . <br><blue>5</blue>Mr. Adler , whose products are often sold under the brand name Santa 's World , helped restore a European sensibility to Christmas decorations after World War II , when glass balls and other adornments from Germany were boycotted . <br><blue>6</blue>A Jewish refugee from Hitler 's Germany who did not celebrate Christmas , Mr. Adler recognized the holiday 's commercial potential after importing hand-carved angels from his native Bavaria . <br><blue>7</blue>He began providing American retailers with elaborate European snow globes and figurines that often became collectibles . <br><blue>8</blue>In the 1950 's , he began selling artificial trees from Nuremberg that looked so real a fire marshal demanded that he remove them from his Broadway showroom . <br><blue>9</blue>In the late 1960 's , he was among the first to sell strands of miniature lights from Italy . <br><blue>10</blue>He later helped start a trend by featuring images licensed from Walt Disney , Warner Brothers and even the Vatican Library . <br><blue>11</blue>Now run by his four children , his company , Kurt S. Adler Inc. / Santa 's World , offers more than 20,000 knickknacks for Christmas , Halloween , Easter , Thanksgiving and , most recently , Hanukkah . <br><blue>12</blue>Kurt Stephan Adler was born June 19 , 1921 , in Würzburg , Germany , and moved to Manhattan when he was 13 . <br><blue>13</blue>After serving in the United States Army during World War II , he drew on his experience as a shipping clerk to begin importing and exporting a hodgepodge of products like pottery , pineapples and glassware . <br><blue>14</blue>In addition to his son Clifford , of Scarsdale , N.Y. , Mr. Adler is survived by his wife , Marianne ; two sons , Howard , of Scarsdale , and Richard , of Manhattan ; one daughter , Karen , of Manhattan ; a sister , Hilda Schwartz , of Fort Lee , N.J. ; and nine grandchildren . <br><blue>15</blue>Mr. Adler 's first wife , Beatrice , died in 1992 . <br><hr><br><blue>1(2)</blue>: <m_str>Germany</m_str> (5_37) 	<m_str>Hitler 's Germany who did not celebrate Christmas , Mr. Adler</m_str> (6_5) 	<br><blue>2(2)</blue>: <m_str>them</m_str> (8_24) 	<m_str>artificial trees</m_str> (8_9) 	<br><blue>3(2)</blue>: <m_str>World War II</m_str> (5_26) 	<m_str>World War II</m_str> (13_9) 	<br><blue>4(3)</blue>: <m_str>Manhattan</m_str> (14_35) 	<m_str>Manhattan</m_str> (1_33) 	<m_str>Manhattan</m_str> (14_43) 	<br><blue>5(17)</blue>: <m_str>his</m_str> (14_18) 	<m_str>he</m_str> (12_21) 	<m_str>Mr. Adler 's</m_str> (15_1) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Adler</m_str> (4_1) 	<m_str>he</m_str> (13_13) 	<m_str>his</m_str> (13_16) 	<m_str>his</m_str> (1_30) 	<m_str>Kurt Stephan Adler</m_str> (12_1) 	<m_str>his</m_str> (14_4) 	<m_str>Clifford , of Scarsdale , N.Y. , Mr. Adler</m_str> (14_6) 	<m_str>Mr. Adler</m_str> (6_14) 	<m_str>Mr. Adler , whose products are often sold under the brand name Santa 's World</m_str> (5_1) 	<m_str>his</m_str> (3_8) 	<m_str>his son</m_str> (3_8) 	<m_str>Scarsdale , N.Y. , Mr. Adler</m_str> (14_9) 	<m_str>Clifford</m_str> (3_10) 	<br><blue>6(10)</blue>: <m_str>he</m_str> (9_7) 	<m_str>his</m_str> (6_27) 	<m_str>his</m_str> (8_26) 	<m_str>his</m_str> (11_8) 	<m_str>He</m_str> (7_1) 	<m_str>A Jewish refugee from Hitler 's Germany who did not celebrate Christmas , Mr. Adler</m_str> (6_1) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (8_6) 	<m_str>he</m_str> (8_22) 	<m_str>his</m_str> (11_4) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

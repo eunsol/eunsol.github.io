@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ernesto Geisel, 88, Is Dead; Eased Military Rule in Brazil </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Former President Ernesto Geisel , the Brazilian military dictator associated with the gradual reopening of Brazil to the outside world , died in a Rio clinic today . <br><blue>2</blue>He was 88 . <br><blue>3</blue>A stern figure whose father immigrated from Germany at the turn of the century , General Geisel was the fourth of five military leaders during the dictatorship that ran Brazil from 1964 to 1985 . <br><blue>4</blue>Stirrings toward democracy were evident during his administration , which ran from 1974 to 1979 , and he called his policy a '' slow , gradual and sure relaxation '' of military authority . <br><blue>5</blue>But he made frequent recourse to the repressive powers vested in him as the head of a military state . <br><blue>6</blue>Two years after General Geisel took office , he shut down an already weak Congress after the opposition party blocked a bill he had presented on judicial reform . <br><blue>7</blue>A few months later , Congress was back at work , but the pro-Government majority party passed a law restricting the speech of candidates in coming elections . <br><blue>8</blue>Walder de Goes , a Brasilia-based political consultant and author of '' The Brazil of General Geisel , '' said the former leader 's authoritarian bent was typified by his reaction when his Finance Minister , Mario Henrique Simonsen , told him he wanted to resign . <br><blue>9</blue>General Geisel turned his minister away with the scalding admonition , '' The day I do n't need you anymore , I 'll be the one to tell you . '' '' <br><blue>10</blue>He was probably the President with the single greatest awareness of his own power , '' Mr. de Goes said . <br><blue>11</blue>General Geisel 's administration was not notable for the widespread use of torture and the large number of unexplained killings that tarnished the tenure of his predecessor , Gen. Emilio Medici , largely because the dictatorship 's perceived enemies had already been silenced or killed by the time he took office , Mr. de Goes said . <br><blue>12</blue>General Geisel , who had been president of the state petroleum company , Petrobras , took office as the so-called '' Brazilian miracle '' of economic growth was winding down . <br><blue>13</blue>He faced the world petroleum crisis , increasing Brazil 's foreign debt to pay for oil imports . <br><blue>14</blue>He also increased the state 's role in industry and production and concentrated the country 's budget on developing communications , railroads , ports and shipping . <br><blue>15</blue>He also reduced the traditional trade dependence of Brazil on Europe and the United States , increasing its trade with Africa and Asia . <br><blue>16</blue>He signed a $ 10 billion contract with Germany to build eight nuclear power plants to lessen the country 's dependence on foreign energy sources , though the plan was severely criticized . <br><blue>17</blue>Even after he was succeeded by another general , Joao Figueiredo , who completed the transition to democracy , General Geisel remained a respected figure . <br><blue>18</blue>President Fernando Henrique Cardoso , who has been wrestling with military dissatisfaction as Brazil begins to recognize and compensate the victims of military repression during the dictatorship , made it a point to visit General Geisel in recent weeks . <br><blue>19</blue>In a statement today , Mr. Cardoso praised General Geisel , whose political presence , he said , '' was marked by his efforts to end repression , and his determination to bring Brazil back to democracy in what seemed to him the most appropriate way . '' <br><hr><br><blue>1(2)</blue>: <m_str>its</m_str> (15_18) 	<m_str>the United States</m_str> (15_13) 	<br><blue>2(2)</blue>: <m_str>Mr. de</m_str> (11_53) 	<m_str>Mr. de</m_str> (10_17) 	<br><blue>3(2)</blue>: <m_str>you</m_str> (9_29) 	<m_str>you</m_str> (9_19) 	<br><blue>4(2)</blue>: <m_str>Germany</m_str> (16_9) 	<m_str>Germany</m_str> (3_8) 	<br><blue>5(4)</blue>: <m_str>the state 's</m_str> (14_4) 	<m_str>the country 's</m_str> (16_18) 	<m_str>a military state</m_str> (5_17) 	<m_str>the country 's</m_str> (14_14) 	<br><blue>6(2)</blue>: <m_str>the country 's dependence</m_str> (16_18) 	<m_str>the traditional trade dependence of Brazil</m_str> (15_4) 	<br><blue>7(6)</blue>: <m_str>Brazil</m_str> (18_14) 	<m_str>Brazil</m_str> (1_16) 	<m_str>Brazil</m_str> (3_30) 	<m_str>Brazil</m_str> (19_34) 	<m_str>Brazil 's</m_str> (13_9) 	<m_str>Brazil</m_str> (15_9) 	<br><blue>8(23)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (19_30) 	<m_str>General Geisel</m_str> (3_16) 	<m_str>he</m_str> (17_3) 	<m_str>General Geisel</m_str> (6_4) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (11_49) 	<m_str>him</m_str> (19_42) 	<m_str>General Geisel , who had been president of the state petroleum company , Petrobras</m_str> (12_1) 	<m_str>I</m_str> (9_22) 	<m_str>He</m_str> (14_1) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (19_16) 	<m_str>his</m_str> (11_26) 	<m_str>his</m_str> (10_12) 	<m_str>General Geisel</m_str> (17_20) 	<m_str>General Geisel in recent weeks</m_str> (18_35) 	<m_str>General Geisel</m_str> (8_16) 	<m_str>his</m_str> (19_23) 	<m_str>General Geisel</m_str> (9_1) 	<m_str>his</m_str> (9_4) 	<m_str>General Geisel 's</m_str> (11_1) 	<m_str>He</m_str> (13_1) 	<br><blue>9(15)</blue>: <m_str>him</m_str> (5_12) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (8_30) 	<m_str>his</m_str> (8_33) 	<m_str>his</m_str> (4_7) 	<m_str>he</m_str> (6_9) 	<m_str>him</m_str> (8_42) 	<m_str>he</m_str> (8_43) 	<m_str>Former President Ernesto Geisel , the Brazilian military dictator associated with the gradual reopening of Brazil to the outside world</m_str> (1_1) 	<m_str>he</m_str> (4_18) 	<m_str>he</m_str> (5_2) 	<m_str>whose father</m_str> (3_4) 	<m_str>his</m_str> (4_20) 	<m_str>he</m_str> (6_23) 	<m_str>the former leader 's</m_str> (8_21) 	<br><blue>10(2)</blue>: <m_str>the pro-Government majority party</m_str> (7_13) 	<m_str>the opposition party</m_str> (6_17) 	<br><blue>11(2)</blue>: <m_str>de Goes</m_str> (11_54) 	<m_str>de Goes</m_str> (10_18) 	<br><blue>12(2)</blue>: <m_str>his administration , which ran from 1974 to 1979</m_str> (4_7) 	<m_str>General Geisel 's administration</m_str> (11_1) 	<br><blue>13(3)</blue>: <m_str>the dictatorship</m_str> (18_26) 	<m_str>the dictatorship that ran Brazil from 1964 to 1985</m_str> (3_26) 	<m_str>the dictatorship 's</m_str> (11_35) 	<br><blue>14(2)</blue>: <m_str>it</m_str> (18_30) 	<m_str>military repression</m_str> (18_23) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

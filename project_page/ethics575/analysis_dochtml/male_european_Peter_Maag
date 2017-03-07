@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Peter Maag, 81, Conductor With a Fondness for Mozart </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Peter Maag , a Swiss conductor who enjoyed a career on both sides of the Atlantic , died on Monday in Verona , Italy . <br><blue>2</blue>He was 81 . <br><blue>3</blue>Mr. Maag was born in St. Gall , Switzerland , on May 10 , 1919 , to musical parents : his mother played second violin in the Capet Quartet , while his father , a former Lutheran pastor , was a philosophy professor and music critic . <br><blue>4</blue>His father encouraged him to study theology and philosophy at the universities of Zurich , Basel and Geneva , and he completed a thesis on Spinoza . <br><blue>5</blue>He also studied the piano with Czeslaw Marek in Zurich and later with Alfred Cortot in Paris . <br><blue>6</blue>Like many musicians in German-speaking Europe , Mr. Maag started his career in the theater , and like some , he found himself moving from the keyboard to the podium . <br><blue>7</blue>In the late 1940 's he became Ernest Ansermet 's assistant with the Orchestre de la Suisse Romande . <br><blue>8</blue>He was chief conductor in Düsseldorf from 1952 to 1955 and general music director in Bonn from 1955 to 1959 . <br><blue>9</blue>Thereafter he worked mainly as a guest conductor , especially of Mozart . <br><blue>10</blue>He made his American debut with the Minneapolis Symphony in 1959 , and his operatic debut in this country with the Chicago Lyric two years later , in '' Così Fan Tutte . '' <br><blue>11</blue>But as his career developed , he began to feel a distance from the personal forces that had made him a musician . <br><blue>12</blue>He sought guidance in the Greek Orthodox Church . <br><blue>13</blue>In 1962 he retired for two years to a Buddhist monastery in Hong Kong . <br><blue>14</blue>Then he took up where he had left off . <br><blue>15</blue>His first New York performances were in programs of Mozart and Haydn with the New York Chamber Orchestra in August 1968 , and he returned many times to conduct Mostly Mozart concerts . <br><blue>16</blue>At the Met he appeared for the first time in the fall of 1972 , conducting '' Don Giovanni '' and '' The Magic Flute , '' and returned for '' La Traviata '' the next season and '' Norma '' in 1979 . <br><blue>17</blue>In Europe and on recordings , he was more associated with unusual operas , such as Francesco Paer 's '' Leonora , '' though he also recorded a lot of Mozart . <br><blue>18</blue>He was chief conductor of the Berne Symphony ( 1984-91 ) , after which he spent most of his time in Italy . <br><blue>19</blue>Twice married , he had a son by his first wife and a daughter by his second . <br><hr><br><blue>1(2)</blue>: <m_str>this country</m_str> (10_18) 	<m_str>Düsseldorf</m_str> (8_6) 	<br><blue>2(3)</blue>: <m_str>his career</m_str> (6_11) 	<m_str>a career</m_str> (1_9) 	<m_str>his career</m_str> (11_3) 	<br><blue>3(4)</blue>: <m_str>Mozart</m_str> (17_31) 	<m_str>Mozart</m_str> (9_12) 	<m_str>Mozart</m_str> (15_10) 	<m_str>Mozart</m_str> (15_31) 	<br><blue>4(38)</blue>: <m_str>His</m_str> (15_1) 	<m_str>he</m_str> (18_15) 	<m_str>he</m_str> (11_7) 	<m_str>His</m_str> (4_1) 	<m_str>his</m_str> (18_19) 	<m_str>His father</m_str> (4_1) 	<m_str>he</m_str> (19_4) 	<m_str>his</m_str> (3_21) 	<m_str>him</m_str> (4_4) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (19_9) 	<m_str>He</m_str> (12_1) 	<m_str>him</m_str> (11_20) 	<m_str>his</m_str> (3_32) 	<m_str>his</m_str> (19_16) 	<m_str>his father , a former Lutheran pastor</m_str> (3_32) 	<m_str>he</m_str> (16_4) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (15_24) 	<m_str>he</m_str> (4_21) 	<m_str>he</m_str> (9_2) 	<m_str>he</m_str> (13_3) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_7) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (10_3) 	<m_str>Mr. Maag</m_str> (6_8) 	<m_str>he</m_str> (14_2) 	<m_str>his</m_str> (6_11) 	<m_str>He</m_str> (18_1) 	<m_str>he</m_str> (14_6) 	<m_str>Mr. Maag</m_str> (3_1) 	<m_str>his</m_str> (10_14) 	<m_str>he</m_str> (17_25) 	<m_str>he</m_str> (6_21) 	<m_str>himself</m_str> (6_23) 	<m_str>he</m_str> (7_6) 	<m_str>his</m_str> (11_3) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

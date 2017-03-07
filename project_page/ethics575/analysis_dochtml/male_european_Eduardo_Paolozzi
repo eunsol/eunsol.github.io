@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Eduardo Paolozzi, a Leading British Pop Artist, Is Dead at 81 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Sir Eduardo Paolozzi , a father of British Pop Art and a leading sculptor of the postwar era , died in a London hospital on Friday . <br><blue>2</blue>He was 81 . <br><blue>3</blue>Sir Eduardo 's death followed a period of decline that began when he suffered a stroke four years ago , said Emily Bishop , director of the New York branch of Flowers , the London gallery that handles his work . <br><blue>4</blue>Long before Pop Art emerged in the United States , Sir Eduardo made collages using mass-media images that reflected the impact of commercialism and consumerism on contemporary culture . <br><blue>5</blue>He went on to create sculptures resembling futuristic and surrealistic machines , satirizing the mechanization of modern life . <br><blue>6</blue>Eduardo Luigi Paolozzi was born in Edinburgh on March 7 , 1924 , the son of Italian immigrants who ran a confectionery shop . <br><blue>7</blue>He began creating scrapbooks of images from magazines and comic books as a boy before receiving any formal training in art . <br><blue>8</blue>Intending to study commercial art , he attended art schools in Edinburgh and London . <br><blue>9</blue>It was while he was living in Paris , from 1947 to 1949 , that his education in fine art began . <br><blue>10</blue>He met Constantin Brancusi and Alberto Giacometti , as well as artists associated with Dada and Surrealism , and he began making the collages that would establish his reputation . <br><blue>11</blue>Back in London , Sir Eduardo was one of the original members of the Independent Group , a collection of younger artists , including Richard Hamilton , William Turnbull and Victor Pasmore , who rebelled against the conservative formalism of Modernists like Henry Moore and Barbara Hepworth . <br><blue>12</blue>In 1952 , Sir Eduardo presented '' Bunk , '' a mock lecture in which he rapidly showed slides of commercial imagery without commentary . <br><blue>13</blue>The Independent Group 's interest in connecting art with different dimensions of culture , including advertising , movies , fashion , science fiction and car design , culminated in a 1956 exhibition called '' This Is Tomorrow . '' <br><blue>14</blue>The show included Mr. Hamilton 's famous small collage '' Just What Is It That Makes Today 's Homes So Different , So Appealing ? <br><blue>15</blue>, '' which was directly indebted to collages of Sir Eduardo . <br><blue>16</blue>In the late 50 's , Sir Eduardo created crusty , expressionist bronze sculptures under the influence of Jean Dubuffet , but in the early 60 's he shifted to futuristic , playful sculptures resembling robots and functional machines , with surfaces of shiny chrome or bright colors . <br><blue>17</blue>Also a prolific printmaker , he produced many compositions combining Pop , Cubist and Surrealist styles . <br><blue>18</blue>In the 80 's and 90 's , he focused on public commissions . <br><blue>19</blue>One of the most notable was a monumental bronze based on William Blake 's allegorical image of Isaac Newton , which was installed in the forecourt of the British Library in 1997 . <br><blue>20</blue>Sir Eduardo taught throughout his life . <br><hr><br><blue>1(3)</blue>: <m_str>The show</m_str> (14_1) 	<m_str>It</m_str> (14_14) 	<m_str>That</m_str> (14_15) 	<br><blue>2(2)</blue>: <m_str>The Independent Group 's</m_str> (13_1) 	<m_str>the Independent Group</m_str> (11_14) 	<br><blue>3(24)</blue>: <m_str>he</m_str> (3_13) 	<m_str>Sir Eduardo</m_str> (11_5) 	<m_str>his</m_str> (10_28) 	<m_str>Sir Eduardo</m_str> (15_10) 	<m_str>he</m_str> (8_7) 	<m_str>Sir Eduardo</m_str> (4_11) 	<m_str>Sir Eduardo</m_str> (12_4) 	<m_str>He</m_str> (5_1) 	<m_str>Sir Eduardo</m_str> (20_1) 	<m_str>Sir Eduardo</m_str> (16_7) 	<m_str>his</m_str> (20_5) 	<m_str>his</m_str> (3_39) 	<m_str>he</m_str> (12_16) 	<m_str>he</m_str> (9_4) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_6) 	<m_str>Eduardo Luigi Paolozzi</m_str> (6_1) 	<m_str>his</m_str> (9_16) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (16_28) 	<m_str>Sir Eduardo 's</m_str> (3_1) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (18_9) 	<m_str>he</m_str> (10_20) 	<br><blue>4(4)</blue>: <m_str>London</m_str> (3_35) 	<m_str>London</m_str> (8_14) 	<m_str>London</m_str> (1_23) 	<m_str>London</m_str> (11_3) 	<br><blue>5(2)</blue>: <m_str>Sir Eduardo 's death</m_str> (3_1) 	<m_str>It</m_str> (9_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

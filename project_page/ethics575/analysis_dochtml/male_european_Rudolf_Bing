@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Rudolf Bing, Titan of the Met, Dies at 95 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Sir Rudolf Bing , who as the dapper and acerbic general manager of the Metropolitan Opera from 1950 to 1972 ushered the company into the modern era and into Lincoln Center , died yesterday at St. Joseph 's Hospital in Yonkers . <br><blue>2</blue>He was 95 and lived at the Hebrew Home for the Aged at Riverdale in the Bronx . <br><blue>3</blue>Sir Rudolf firmly established the Met as not only the biggest but also in many ways the most prominent company on the world stage today . <br><blue>4</blue>He used his well-developed European contacts to draw some of most prominent international stars to the Met , and he offered significant new opportunities for Americans . <br><blue>5</blue>In particular , he broke the company 's racial barrier by hiring Leontyne Price in 1953 and Marian Anderson in 1955 . <br><blue>6</blue>He cut an autocratic figure at the Met , where he seemed to relish controversy when he did not actively court it . <br><blue>7</blue>He had run-ins with some of the top international stars of the time , including Maria Callas and Lauritz Melchior . <br><blue>8</blue>In 1968 , he was called the man who '' fired '' Callas , although the incident , as he later took pains to explain , was not so simple , and he made attempts , which were unsuccessful , to lure her back to the Met . <br><blue>9</blue>His tenure included devastating strikes by members of the company in 1961 and 1969 . <br><blue>10</blue>He offered the Met board his resignation after the first one and resigned not long after the second . '' <br><blue>11</blue>He revolutionized the way the company 's productions looked by bringing to the Met the world 's greatest directors and designers , '' said Joseph Volpe , the Met 's current general manager , who started with the company as a carpenter . '' <br><blue>12</blue>On a personal note , I shall always remember that it was Mr. Bing who gave me my first opportunity when he put me in charge of getting the opening production of ' Antony and Cleopatra ' on the stage . '' <br><blue>13</blue>Sir Rudolf 's later years took a farcical turn with a romance that was played out in the tabloids . <br><blue>14</blue>In 1987 , at 85 , he married Carroll Douglass , who was 47 and had a history of three hospitalizations for psychiatric causes and three marriages to significantly older men . <br><blue>15</blue>Sir Rudolf was suffering from Alzheimer 's disease , those close to him said , and they were able to have the marriage annulled in 1989 . <br><blue>16</blue>Sir Rudolf was born in Vienna in 1902 , the youngest of three children . <br><blue>17</blue>He studied voice . '' <br><blue>18</blue>I still believe that if I had stayed with it I might have become a lieder singer of real distinction , '' he wrote many years later . <br><blue>19</blue>Menial jobs with bookstores opened a new avenue when the Hugo Heller bookstore entered the field of concert management . <br><blue>20</blue>Sir Rudolf took an active hand in the agency in 1921 , establishing contacts that led to appointments as assistant manager of the Darmstadt Opera in 1928 and the Municipal Opera in Berlin in 1931 . <br><hr><br><blue>1(2)</blue>: <m_str>they</m_str> (15_17) 	<m_str>those</m_str> (15_10) 	<br><blue>2(1)</blue>: <m_str>His tenure</m_str> (9_1) 	<br><blue>3(3)</blue>: <m_str>I</m_str> (18_1) 	<m_str>I</m_str> (18_6) 	<m_str>I</m_str> (18_11) 	<br><blue>4(1)</blue>: <m_str>Lincoln Center</m_str> (1_30) 	<br><blue>5(2)</blue>: <m_str>controversy</m_str> (6_15) 	<m_str>it</m_str> (6_22) 	<br><blue>6(2)</blue>: <m_str>the Met 's</m_str> (11_28) 	<m_str>the Met</m_str> (6_7) 	<br><blue>7(27)</blue>: <m_str>Sir Rudolf</m_str> (15_1) 	<m_str>him</m_str> (15_13) 	<m_str>Sir Rudolf</m_str> (16_1) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>Sir Rudolf</m_str> (3_1) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (4_3) 	<m_str>he</m_str> (18_23) 	<m_str>Sir Rudolf</m_str> (20_1) 	<m_str>he</m_str> (4_20) 	<m_str>he</m_str> (5_4) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (6_11) 	<m_str>he</m_str> (6_17) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (8_4) 	<m_str>the man who</m_str> (8_7) 	<m_str>His</m_str> (9_1) 	<m_str>he</m_str> (8_20) 	<m_str>he</m_str> (8_33) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (10_6) 	<m_str>He</m_str> (11_1) 	<m_str>Sir Rudolf 's</m_str> (13_1) 	<m_str>he</m_str> (12_22) 	<m_str>he</m_str> (14_7) 	<br><blue>8(1)</blue>: <m_str>1928</m_str> (20_27) 	<br><blue>9(3)</blue>: <m_str>her</m_str> (8_43) 	<m_str>Callas</m_str> (8_13) 	<m_str>including Maria Callas</m_str> (7_15) 	<br><blue>10(1)</blue>: <m_str>Sir Rudolf 's later years</m_str> (13_1) 	<br><blue>11(1)</blue>: <m_str>` Antony and Cleopatra ' on the stage</m_str> (12_33) 	<br><blue>12(6)</blue>: <m_str>the Metropolitan Opera from 1950 to 1972</m_str> (1_14) 	<m_str>the company 's</m_str> (11_5) 	<m_str>the company</m_str> (11_38) 	<m_str>it</m_str> (12_11) 	<m_str>the company</m_str> (1_22) 	<m_str>the company 's</m_str> (5_6) 	<br><blue>13(4)</blue>: <m_str>I</m_str> (12_6) 	<m_str>me</m_str> (12_24) 	<m_str>me</m_str> (12_17) 	<m_str>my</m_str> (12_18) 	<br><blue>14(1)</blue>: <m_str>Alzheimer 's disease</m_str> (15_6) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Armand Zildjian, 81, Head Of Family of Cymbal Makers </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Armand Zildjian , who ran a family-owned company that has been making cymbals for almost 400 years , died on Thursday at his home in Scottsdale , Ariz . <br><blue>2</blue>He was 81 and also had a home in Quechee , Vt . <br><blue>3</blue>The cause was cancer , the family said . <br><blue>4</blue>The company , Avedis Zildjian , now based in Norwell , Mass. , was founded in 1623 by a man of that name , an ancestor of Armand Zildjian , in what was then Constantinople and is now Istanbul . <br><blue>5</blue>The company 's founder is credited with formulating an alloy of copper , tin and silver that made particularly fine cymbals , now prized by rock musicians and symphonic percussionists alike . <br><blue>6</blue>The company says it still uses that alloy and has kept its original formula , which remains a secret . <br><blue>7</blue>A family member moved to the United States in 1929 . <br><blue>8</blue>Armand Zildjian had been president of the company since 1977 and chairman since 1979 . <br><blue>9</blue>He began running the company after his father died in 1979 , at the same time that a rift developed with his brother , Robert , who left the company and founded a rival , Sabian , in Canada . <br><blue>10</blue>In 1999 Mr. Zildjian designated his daughter , Craigie Zildjian , as his successor , the first woman to hold the post in the company 's long history . <br><blue>11</blue>Mr. Zildjian was born in Quincy , Mass. , grew up there and attended Thayer Academy in Braintree , Mass. , and Colgate University . <br><blue>12</blue>He was in the Coast Guard in the Philippines during World War II . <br><blue>13</blue>In addition to his daughter Craigie of Cohasset , Mass. , and his brother , he is survived by his wife , the former Andra Potter ; two other daughters , Wendy Mets of Virginia and Debbie Zildjian of Hingham , Mass. , who is the company 's vice president for human resources ; a son , Robert , of England ; a stepdaughter , Kristy Thompson of Vermont ; two stepsons , Mark Field of Rhode Island and Peter Field of the state of Washington ; eight grandchildren ; and two great-grandchildren . <br><hr><br><blue>1(4)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_23) 	<m_str>The company 's founder</m_str> (5_1) 	<m_str>the family</m_str> (3_6) 	<br><blue>2(2)</blue>: <m_str>1979</m_str> (9_11) 	<m_str>1979</m_str> (8_14) 	<br><blue>3(9)</blue>: <m_str>its</m_str> (6_12) 	<m_str>the company 's</m_str> (10_24) 	<m_str>The company , Avedis Zildjian , now based in Norwell , Mass.</m_str> (4_1) 	<m_str>The company 's</m_str> (5_1) 	<m_str>the company</m_str> (9_29) 	<m_str>The company</m_str> (6_1) 	<m_str>it</m_str> (6_4) 	<m_str>the company 's</m_str> (13_46) 	<m_str>the company</m_str> (9_4) 	<br><blue>4(2)</blue>: <m_str>Mass.</m_str> (13_10) 	<m_str>Mass.</m_str> (11_20) 	<br><blue>5(14)</blue>: <m_str>his</m_str> (9_7) 	<m_str>Armand Zildjian</m_str> (4_28) 	<m_str>his</m_str> (13_4) 	<m_str>Armand Zildjian</m_str> (8_1) 	<m_str>his</m_str> (13_13) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (13_16) 	<m_str>his</m_str> (9_22) 	<m_str>his</m_str> (10_6) 	<m_str>his</m_str> (13_20) 	<m_str>Craigie Zildjian</m_str> (10_9) 	<m_str>his</m_str> (10_13) 	<m_str>He</m_str> (9_1) 	<m_str>Mr. Zildjian</m_str> (11_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

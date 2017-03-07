@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Raoul Bott, an Innovator In Mathematics, Dies at 82 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Raoul Bott , a mathematician who made innovative contributions to differential geometry and topology , a field that examines the properties of spaces , died on Dec. 20 in Carlsbad , Calif . <br><blue>2</blue>He was 82 . <br><blue>3</blue>The cause was lung cancer , his family said . <br><blue>4</blue>Although he began his career studying engineering , Dr. Bott , who was born in Hungary , turned to mathematics as a graduate student in the 1940 's and later defined a mathematician as '' someone who likes to get at the root of things . '' <br><blue>5</blue>He taught at Harvard from 1959 until 1999 . <br><blue>6</blue>Beginning in the 1960 's , in a long and fruitful collaboration with Sir Michael Atiyah of the University of Edinburgh , Dr. Bott worked on refinements of mathematical index theory to find topological ways of investigating solutions to differential equations . <br><blue>7</blue>All are aspects in theoretical mathematics . <br><blue>8</blue>The collaboration yielded the Atiyah-Bott fixed-point theorem , which in part shows that a mathematical map has a fixed point and also provides a means to count the number of fixed points on a given map . <br><blue>9</blue>Dr. Bott was also widely known for earlier work , when he developed what became known as the Bott periodicity theorem in 1959 , the importance of which some mathematicians have compared to the discovery of the periodic table of the elements . '' <br><blue>10</blue>It came as a great surprise and provided a whole set of new tools , '' Sir Michael said . '' <br><blue>11</blue>Astonishingly , it has also proved useful in the fundamental physics of string theory . '' <br><blue>12</blue>Loring W. Tu , an associate professor of mathematics at Tufts University in Medford , Mass. , said the theory '' describes the topology , or shapes , of rotations in spaces of large dimension and explains that the rotations are not as complicated as once thought . '' <br><blue>13</blue>Dr. Tu , who also collaborated with Dr. Bott and wrote about his research , added , '' The theory helped shed light on aspects of geometry and was a big discovery . '' <br><blue>14</blue>In other work , Dr. Bott contributed to the Borel-Weil-Bott theorem and studied foliations , which are a type of differential equation . <br><blue>15</blue>More recently , his research was directed toward developing mathematical tools to aid physicists working to reconcile theories of general and quantum relativity . <br><blue>16</blue>Robert D. MacPherson , a professor of mathematics at the Institute for Advanced Study in Princeton , N.J. , and a former student of Dr. Bott 's , said his research '' represents an attempt to present mathematics as a unified thing and to bring ideas together -- itself a remarkable achievement . '' <br><blue>17</blue>Raoul Harry Bott was born in Budapest . <br><blue>18</blue>He received undergraduate and master 's degrees from McGill University in Montreal , and his doctorate from the Carnegie Institute of Technology , part of Carnegie Mellon , in 1949 . <br><blue>19</blue>He joined Harvard after earlier appointments at the Institute for Advanced Study and the University of Michigan . <br><blue>20</blue>He became an American citizen in the 1950 's . <br><hr><br><blue>1(2)</blue>: <m_str>the 1950 's</m_str> (20_7) 	<m_str>Advanced Study and the University of Michigan</m_str> (19_11) 	<br><blue>2(2)</blue>: <m_str>the rotations</m_str> (12_39) 	<m_str>rotations in spaces of large dimension</m_str> (12_30) 	<br><blue>3(3)</blue>: <m_str>The collaboration</m_str> (8_1) 	<m_str>It</m_str> (10_1) 	<m_str>it</m_str> (11_3) 	<br><blue>4(2)</blue>: <m_str>The theory</m_str> (13_19) 	<m_str>string theory</m_str> (11_13) 	<br><blue>5(2)</blue>: <m_str>his research</m_str> (15_4) 	<m_str>his research</m_str> (13_13) 	<br><blue>6(2)</blue>: <m_str>Harvard</m_str> (19_3) 	<m_str>Harvard</m_str> (5_4) 	<br><blue>7(21)</blue>: <m_str>his</m_str> (18_15) 	<m_str>his</m_str> (15_4) 	<m_str>He</m_str> (19_1) 	<m_str>he</m_str> (4_2) 	<m_str>his</m_str> (4_4) 	<m_str>Dr. Bott , who was born in Hungary</m_str> (4_9) 	<m_str>He</m_str> (20_1) 	<m_str>He</m_str> (5_1) 	<m_str>Dr. Bott</m_str> (9_1) 	<m_str>He</m_str> (2_1) 	<m_str>Raoul Harry Bott</m_str> (17_1) 	<m_str>he</m_str> (9_12) 	<m_str>Dr. Bott</m_str> (13_8) 	<m_str>his</m_str> (13_13) 	<m_str>Dr. Bott 's</m_str> (16_25) 	<m_str>his</m_str> (16_30) 	<m_str>He</m_str> (18_1) 	<m_str>Dr. Bott</m_str> (14_5) 	<m_str>his</m_str> (3_7) 	<m_str>his family</m_str> (3_7) 	<m_str>Dr. Bott</m_str> (6_23) 	<br><blue>8(2)</blue>: <m_str>the Carnegie Institute of Technology , part of Carnegie Mellon</m_str> (18_18) 	<m_str>the Institute</m_str> (19_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

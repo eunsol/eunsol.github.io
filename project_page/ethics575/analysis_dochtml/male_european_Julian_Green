@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Julian Green, an Expatriate American Lionized as a French Literary Figure, Dies at 97 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Julian Green , the prolific and highly idiosyncratic novelist , playwright and memoirist who was the first American elected to the Academie Francaise , France 's gallery of 40 literary luminaries , died on Thursday in Paris . <br><blue>2</blue>He was 97 . <br><blue>3</blue>Mr. Green , who had his first novel published in 1927 , is believed to have had the longest career of any major 20th-century writer . <br><blue>4</blue>His life was distinguished , and to a great extent defined , by startling contrasts and contradictions . <br><blue>5</blue>Born in Paris on Sept. 6 , 1900 , of American parents , he was fascinated by his ancestors but visited the United States infrequently , spending most of his life in France . <br><blue>6</blue>All but a few of his books were written in French , and he came to be regarded as one of the preeminent stylists in the language , on a level with Paul Valery , Marcel Proust and Andre Gide . <br><blue>7</blue>He was one of the few modern writers to have his collected works published in Gallimard 's Pleiade library during his lifetime . <br><blue>8</blue>Although he knew many of the century 's leading French writers , and was an amused observer of their internecine battles , his own novels , like '' Moira '' and '' Each Man in His Darkness , '' owed more to Dickens , Balzac , Hawthorne and Poe . <br><blue>9</blue>His books consistently received substantial attention in France , yet only intermittent , modest coverage in the United States . <br><blue>10</blue>Mr. Green balanced a native reticence with a profound need to publicly explore his psyche , to chart his long , deeply tormented struggle to master physical desire and submit to faith , eventually publishing 14 volumes of his journals as well as five frank volumes of memoirs . <br><blue>11</blue>( He and Gide , longtime friends , traded diaries so that they could read what each had said of the other . ) <br><blue>12</blue>He was both a devout Roman Catholic and a homosexual . <br><blue>13</blue>Mr. Green was the youngest of seven children . <br><blue>14</blue>His parents were from long-established Southern families , and he recollected in a 1991 interview with Alan Riding in The New York Times that when his father was sent to Europe in 1895 by an American firm , his mother , given the choice between Germany and France , had decided that they should live in Paris because '' the French had been defeated in 1870 and would understand the Southerners . '' <br><blue>15</blue>His mother 's longing for the idealized world of her childhood , for plantations populated by gracious ladies and courtly gentlemen , and her stories of that lost world , made a powerful impression on Mr. Green . '' <br><blue>16</blue>She told us all about the splendid victories , '' he said . '' <br><blue>17</blue>But she was always bursting into tears . <br><blue>18</blue>She did n't tell us until very late in the day that we had lost the war . '' <br><blue>19</blue>His father 's success as a businessman provided the family with a life of privilege in a well-to-do neighborhood of Paris . <br><blue>20</blue>In '' Green Paradise , '' the first of a quartet of memoirs devoted to his youth , Mr. Green wrote that while his childhood appeared unremarkable , by the age of 5 or 6 he had begun to sense a '' monstrous hunger , '' a vague but persistent and increasingly frantic yearning for sensual pleasure . <br><hr><br><blue>1(3)</blue>: <m_str>his</m_str> (20_16) 	<m_str>his</m_str> (20_24) 	<m_str>he</m_str> (20_36) 	<br><blue>2(2)</blue>: <m_str>His books</m_str> (9_1) 	<m_str>his books</m_str> (6_6) 	<br><blue>3(2)</blue>: <m_str>the idealized world of her childhood</m_str> (15_6) 	<m_str>that lost world</m_str> (15_27) 	<br><blue>4(4)</blue>: <m_str>us</m_str> (16_3) 	<m_str>the Southerners</m_str> (14_70) 	<m_str>us</m_str> (18_5) 	<m_str>we</m_str> (18_13) 	<br><blue>5(11)</blue>: <m_str>Alan Riding</m_str> (14_17) 	<m_str>His</m_str> (15_1) 	<m_str>She</m_str> (16_1) 	<m_str>she</m_str> (17_2) 	<m_str>She</m_str> (18_1) 	<m_str>His</m_str> (19_1) 	<m_str>his</m_str> (14_39) 	<m_str>her</m_str> (15_24) 	<m_str>his</m_str> (14_26) 	<m_str>her</m_str> (15_10) 	<m_str>he</m_str> (16_11) 	<br><blue>6(2)</blue>: <m_str>His father 's</m_str> (19_1) 	<m_str>his father</m_str> (14_26) 	<br><blue>7(2)</blue>: <m_str>her childhood</m_str> (15_10) 	<m_str>his childhood</m_str> (20_24) 	<br><blue>8(1)</blue>: <m_str>Poe</m_str> (8_49) 	<br><blue>9(2)</blue>: <m_str>his life</m_str> (5_30) 	<m_str>His life</m_str> (4_1) 	<br><blue>10(1)</blue>: <m_str>Hawthorne</m_str> (8_47) 	<br><blue>11(2)</blue>: <m_str>His mother 's</m_str> (15_1) 	<m_str>his mother , given the choice between Germany and France</m_str> (14_39) 	<br><blue>12(2)</blue>: <m_str>the United States</m_str> (9_17) 	<m_str>the United States</m_str> (5_22) 	<br><blue>13(31)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Mr. Green</m_str> (15_36) 	<m_str>Green</m_str> (3_2) 	<m_str>his</m_str> (3_6) 	<m_str>His</m_str> (4_1) 	<m_str>Green</m_str> (20_3) 	<m_str>he</m_str> (5_14) 	<m_str>his</m_str> (5_18) 	<m_str>Mr. Green</m_str> (20_19) 	<m_str>his</m_str> (6_6) 	<m_str>his</m_str> (5_30) 	<m_str>he</m_str> (6_14) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (7_11) 	<m_str>he</m_str> (8_2) 	<m_str>Marcel Proust</m_str> (6_36) 	<m_str>his</m_str> (7_21) 	<m_str>Andre Gide</m_str> (6_39) 	<m_str>His</m_str> (9_1) 	<m_str>his</m_str> (8_23) 	<m_str>His</m_str> (8_36) 	<m_str>Mr. Green</m_str> (10_1) 	<m_str>his</m_str> (10_14) 	<m_str>his</m_str> (10_19) 	<m_str>He</m_str> (11_2) 	<m_str>Gide</m_str> (11_4) 	<m_str>He</m_str> (12_1) 	<m_str>his</m_str> (10_39) 	<m_str>Mr. Green</m_str> (13_1) 	<m_str>His</m_str> (14_1) 	<m_str>he</m_str> (14_10) 	<br><blue>14(1)</blue>: <m_str>the war</m_str> (18_16) 	<br><blue>15(1)</blue>: <m_str>Germany</m_str> (14_46) 	<br><blue>16(4)</blue>: <m_str>France</m_str> (9_8) 	<m_str>France</m_str> (5_33) 	<m_str>France 's</m_str> (1_25) 	<m_str>France</m_str> (14_48) 	<br><blue>17(4)</blue>: <m_str>Paris</m_str> (1_37) 	<m_str>Paris</m_str> (14_57) 	<m_str>Paris</m_str> (5_3) 	<m_str>Paris</m_str> (19_21) 	<br><blue>18(2)</blue>: <m_str>French writers</m_str> (8_10) 	<m_str>their</m_str> (8_19) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

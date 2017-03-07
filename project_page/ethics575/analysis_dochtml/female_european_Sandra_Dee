@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Sandra Dee, 62, Perky Star Of 'Gidget' and Teenage Idol </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Sandra Dee , the perennially perky , blond-haired and blue-eyed actress who helped American teenagers of the late 1950 's and early 1960 's cope with the frustrations of adolescent romance and the temptations of premarital sex , died yesterday at the Los Robles Hospital and Medical Center in Thousand Oaks , Calif . <br><blue>2</blue>She was 62 . <br><blue>3</blue>The cause of the death was complications from kidney disease , said Steve Blauner , a family friend . <br><blue>4</blue>Ms. Dee was probably best remembered for her portrayal of Gidget , a tomboyish California teenager who discovered the joys of surfing and boys in Paul Wendkos 's 1959 film of the same name . <br><blue>5</blue>The bright , chirpy Ms. Dee defined a new kind of natural , sun-soaked innocence that America , and much of the rest of the world , quickly embraced as the radiantly healthy , outdoorsy essence of Southern California living . <br><blue>6</blue>In 1960 she married the singer Bobby Darin , her costar in the 1961 romantic comedy '' Come September , '' after a whirlwind courtship . <br><blue>7</blue>The story of her marriage to Darin , whom she divorced in 1967 and who himself died in 1973 at the age of 37 , was chronicled in Kevin Spacey 's recent theatrical film '' Beyond the Sea , '' in which Mr. Spacey played Darin and Ms. Dee was played by Kate Bosworth . <br><blue>8</blue>Ms. Dee followed '' Gidget '' with Delmer Daves 's film '' A Summer Place '' ( 1959 ) , in which she was paired with Troy Donohue as teenage lovers whose innocent confusion about how far their relationship should go ran up against the hypocrisy of an adult world -- a hypocrisy vividly embodied by their adulterous parents , played by Richard Egan and Dorothy McGuire . <br><blue>9</blue>A tremendous commercial success , '' A Summer Place '' was among the earliest studio films to commodify youthful rebelliousness , though Ms. Dee was hardly an icon of adolescent revolt with her shiny helmet of flipped hair and color-coordinated outfits . <br><blue>10</blue>Born Alexandra Zuck on April 23 , 1942 , in Bayonne , N.J. , she began modeling in New York at an early age . <br><blue>11</blue>Appearances in television commercials led her to Hollywood , where she made her film debut in Robert Wise 's 1957 '' Until They Sail . '' <br><blue>12</blue>Her first substantial role came in Vincent Minnelli 's romantic comedy '' The Reluctant Debutante '' ( 1958 ) , in which she played the American-raised daughter of the Londoners Rex Harrison and Kay Kendall . <br><blue>13</blue>Ms. Dee soon proved to be as at home in melodrama as in comedy . <br><blue>14</blue>She moved to Universal for Helmut Kautner 's '' Restless Years , '' portraying the illegitimate daughter of a neurotic woman ( Teresa Wright ) trapped in a stifling small town . <br><blue>15</blue>She remained at Universal for what was probably her finest sustained performance in certainly the most important of all her films , Douglas Sirk 's grandly Brechtian soap opera '' Imitation of Life '' ( 1959 ) . <br><blue>16</blue>Playing the neglected daughter of a driven , manipulative Broadway star ( Lana Turner ) , Ms. Dee projected a genuinely touching fragility , and convincingly turned on her uncaring mother in one notable scene . '' <br><blue>17</blue>Imitation of Life '' was Universal 's biggest success of the 1950 's , and prompted the studio to reunite Ms. Dee and Turner in the garish crime thriller '' Portrait in Black . '' <br><blue>18</blue>Although Universal kept pushing her into teenage roles -- as the barefoot , backwoods heroine of '' Tammy , Tell Me True '' ( 1961 ) and '' Tammy and the Doctor '' ( 1963 , opposite an equally innocent young Peter Fonda ) -- her widely publicized marriage to Darin made her seem less acceptable as an adolescent . <br><blue>19</blue>In addition to '' Come September , '' Ms. Dee starred with her finger-snapping husband as a jealous young wife in '' If a Man Answers '' ( 1962 ) and as a maid posing as a successful publisher in '' That Funny Feeling '' ( 1965 ) . <br><blue>20</blue>In between , however , Ms. Dee returned to teenage roles , playing James Stewart 's peacenik daughter in '' Take Her , She 's Mine '' ( 1963 ) . <br><hr><br><blue>1(2)</blue>: <m_str>Paul Wendkos 's 1959 film of the same name</m_str> (4_26) 	<m_str>Kevin Spacey 's recent theatrical film</m_str> (7_29) 	<br><blue>2(2)</blue>: <m_str>September</m_str> (6_19) 	<m_str>September</m_str> (19_6) 	<br><blue>3(2)</blue>: <m_str>Mr. Spacey</m_str> (7_43) 	<m_str>Kevin Spacey 's</m_str> (7_29) 	<br><blue>4(2)</blue>: <m_str>1959</m_str> (4_29) 	<m_str>1959</m_str> (8_18) 	<br><blue>5(2)</blue>: <m_str>Darin</m_str> (7_46) 	<m_str>the singer Bobby Darin , her costar in the 1961 romantic comedy ''</m_str> (6_5) 	<br><blue>6(4)</blue>: <m_str>their</m_str> (8_57) 	<m_str>Ms. Dee and Turner</m_str> (17_21) 	<m_str>Darin and Ms. Dee</m_str> (7_46) 	<m_str>their</m_str> (8_38) 	<br><blue>7(2)</blue>: <m_str>1963</m_str> (20_29) 	<m_str>1963</m_str> (18_35) 	<br><blue>8(2)</blue>: <m_str>'' Tammy</m_str> (18_17) 	<m_str>Tammy</m_str> (18_29) 	<br><blue>9(2)</blue>: <m_str>James Stewart 's peacenik daughter</m_str> (20_14) 	<m_str>the illegitimate daughter of a neurotic woman -LRB- Teresa Wright -RRB- trapped in a stifling small town</m_str> (14_15) 	<br><blue>10(1)</blue>: <m_str>her marriage to Darin</m_str> (7_4) 	<br><blue>11(2)</blue>: <m_str>Me</m_str> (18_21) 	<m_str>Mine</m_str> (20_26) 	<br><blue>12(2)</blue>: <m_str>Universal</m_str> (18_2) 	<m_str>Universal 's</m_str> (17_6) 	<br><blue>13(3)</blue>: <m_str>Delmer Daves 's</m_str> (8_8) 	<m_str>Troy Donohue</m_str> (8_27) 	<m_str>himself</m_str> (7_16) 	<br><blue>14(35)</blue>: <m_str>She</m_str> (15_1) 	<m_str>she</m_str> (7_10) 	<m_str>her</m_str> (15_9) 	<m_str>Ms. Dee</m_str> (8_1) 	<m_str>her</m_str> (15_20) 	<m_str>she</m_str> (8_23) 	<m_str>Ms. Dee</m_str> (16_17) 	<m_str>She</m_str> (2_1) 	<m_str>Kate Bosworth</m_str> (7_53) 	<m_str>her</m_str> (16_29) 	<m_str>Ms. Dee</m_str> (9_23) 	<m_str>her</m_str> (18_5) 	<m_str>she</m_str> (10_15) 	<m_str>her</m_str> (9_33) 	<m_str>her</m_str> (11_6) 	<m_str>Ms. Dee</m_str> (4_1) 	<m_str>she</m_str> (11_11) 	<m_str>her</m_str> (11_13) 	<m_str>Dorothy McGuire</m_str> (8_66) 	<m_str>her</m_str> (4_8) 	<m_str>Her</m_str> (12_1) 	<m_str>Ms. Dee</m_str> (19_9) 	<m_str>her</m_str> (19_13) 	<m_str>The bright , chirpy Ms. Dee</m_str> (5_1) 	<m_str>Ms. Dee</m_str> (20_6) 	<m_str>Ms. Dee</m_str> (13_1) 	<m_str>her</m_str> (18_46) 	<m_str>she</m_str> (12_23) 	<m_str>her</m_str> (18_53) 	<m_str>she</m_str> (6_3) 	<m_str>Her</m_str> (20_22) 	<m_str>She</m_str> (20_24) 	<m_str>She</m_str> (14_1) 	<m_str>her</m_str> (6_10) 	<m_str>her</m_str> (7_4) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

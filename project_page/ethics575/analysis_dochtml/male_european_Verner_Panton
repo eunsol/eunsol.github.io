@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Verner Panton, 72, Is Dead; Dane Designed Stacking Chair </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Verner Panton , the Danish industrial designer and architect known for his radical molded-plastic chairs , Op Art-inspired textiles and lighting , died at his home in Copenhagen on Sept. 5 . <br><blue>2</blue>He was 72 . <br><blue>3</blue>The cause was a heart attack , according to his office in Basel , Switzerland , where he also had a residence . <br><blue>4</blue>Mr. Panton was in the forefront of postwar European and American designers who were exploring new materials and their potential for mass production . <br><blue>5</blue>Like Charles and Ray Eames and Eero Saarinen before him , Mr. Panton focused on the marriage between organic form and new technologies , adding his own imaginative twist , which made his designs Pop icons of the 1960 's . <br><blue>6</blue>Verner Panton was born on Feb. 13 , 1926 , in Gamtofte , Denmark . <br><blue>7</blue>He studied at the Odense Technical School and at the Royal Danish Academy of Fine Arts in Copenhagen . <br><blue>8</blue>From 1950 to 1952 , Mr. Panton worked for Arne Jacobsen , Denmark 's premier designer , and in 1955 he established his own architecture and design office , first in Denmark and later in Binningen , Switzerland , where he moved in 1963 . <br><blue>9</blue>In 1964 , he married Marianne Pherson , who continues to work in his design studio . <br><blue>10</blue>Mr. Panton 's most significant design contribution was his 1960 's curved and cantilevered plastic stacking side chair , also known as the Panton chair . <br><blue>11</blue>It is credited with being the first single-piece molded plastic chair to succeed in production . <br><blue>12</blue>Mr. Panton prepared for the design by visiting factories that made crash helmets and plastic buckets . <br><blue>13</blue>For at least seven years he was unable to find a manufacturer capable or willing to take it on . <br><blue>14</blue>Finally , in 1967 , it went into production in Switzerland at the Vitra factory , where it is still being made . <br><blue>15</blue>The sinuous Panton chair was quickly lauded as a breakthrough and was acquired by the most important design collections , including the one at the Museum of Modern Art in 1969 . '' <br><blue>16</blue>He was one of the first to give form to the aspirations of a whole generation that had some ideas about a new kind of living and a new kind of society , '' said Terence Riley , chief curator of the department of architecture and design at the Museum of Modern Art . '' <br><blue>17</blue>Verner was there before anyone else and put his personal stamp on that vision . '' <br><blue>18</blue>With designs like a 1963 inflatable plastic stool , a wire-frame cone chair with pivot joint in place of legs , and Op-Art-patterned rugs , Mr. Panton 's work had more in common with that of leading Italian designers than with the designs of Scandinavians who were working in fine , handcrafted wood . <br><blue>19</blue>Not all his experiments were conducted on a small scale . <br><blue>20</blue>In 1960 , he designed two buildings , called the Cardboard House and the Plastic House . <br><hr><br><blue>1(2)</blue>: <m_str>Mr. Panton 's most significant design contribution</m_str> (10_1) 	<m_str>It</m_str> (11_1) 	<br><blue>2(4)</blue>: <m_str>it</m_str> (14_18) 	<m_str>the design</m_str> (12_5) 	<m_str>it</m_str> (14_6) 	<m_str>it</m_str> (13_18) 	<br><blue>3(4)</blue>: <m_str>his</m_str> (5_33) 	<m_str>Charles</m_str> (5_2) 	<m_str>him</m_str> (5_10) 	<m_str>his</m_str> (5_26) 	<br><blue>4(3)</blue>: <m_str>Gamtofte , Denmark</m_str> (6_12) 	<m_str>Denmark 's</m_str> (8_13) 	<m_str>Denmark</m_str> (8_32) 	<br><blue>5(2)</blue>: <m_str>1960 's</m_str> (10_10) 	<m_str>1960 's</m_str> (5_39) 	<br><blue>6(4)</blue>: <m_str>postwar European and American designers</m_str> (4_8) 	<m_str>their</m_str> (4_19) 	<m_str>Charles and Ray Eames</m_str> (5_2) 	<m_str>the 1960 's</m_str> (5_38) 	<br><blue>7(2)</blue>: <m_str>Copenhagen</m_str> (7_18) 	<m_str>Copenhagen</m_str> (1_28) 	<br><blue>8(2)</blue>: <m_str>the Museum of Modern Art</m_str> (16_49) 	<m_str>the Museum of Modern Art in 1969</m_str> (15_25) 	<br><blue>9(28)</blue>: <m_str>Panton</m_str> (10_24) 	<m_str>Panton</m_str> (15_3) 	<m_str>he</m_str> (3_18) 	<m_str>Mr. Panton</m_str> (4_1) 	<m_str>his</m_str> (19_3) 	<m_str>Mr. Panton 's</m_str> (18_26) 	<m_str>Mr. Panton</m_str> (12_1) 	<m_str>Mr. Panton</m_str> (8_6) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (20_4) 	<m_str>his</m_str> (1_12) 	<m_str>Eero Saarinen</m_str> (5_7) 	<m_str>he</m_str> (8_21) 	<m_str>he</m_str> (9_4) 	<m_str>his</m_str> (8_23) 	<m_str>Mr. Panton</m_str> (5_12) 	<m_str>Verner</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (13_6) 	<m_str>his</m_str> (9_14) 	<m_str>Verner Panton</m_str> (6_1) 	<m_str>his</m_str> (1_25) 	<m_str>his</m_str> (17_9) 	<m_str>Mr. Panton 's</m_str> (10_1) 	<m_str>he</m_str> (8_41) 	<m_str>his</m_str> (10_9) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (3_10) 	<br><blue>10(2)</blue>: <m_str>Switzerland</m_str> (14_11) 	<m_str>Switzerland</m_str> (8_38) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

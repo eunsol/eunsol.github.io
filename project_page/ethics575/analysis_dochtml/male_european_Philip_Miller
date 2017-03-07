@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Philip Miller, 90, Dies; Headed Public Library Music Division </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Philip Lieson Miller , a musicologist and for many years a distinctive presence on the New York cultural scene , died last Saturday at Cabrini Hospital . <br><blue>2</blue>He was 90 and lived in Greenwich Village . <br><blue>3</blue>When Mr. Miller retired as chief of the music division of the New York Public Library in 1966 , he was nearly as much of an institution as the library itself . <br><blue>4</blue>He was instrumental in building its collections into one of the world 's finest and largest repositories of recordings and music lore , second in this country only to that of the Library of Congress . <br><blue>5</blue>Under his guidance the archives grew to some 70,000 recordings , ranging from wax cylinders of Metropolitan Opera performances , vintage 1901 to 1903 , to the best of the latest LP 's . <br><blue>6</blue>He wrote extensively on music . <br><blue>7</blue>He was ubiquitous as a commentator , arranger or presenter at library concerts , music exhibitions and countless events with rare recordings or opera stars , in person or on the radio . <br><blue>8</blue>In 1948 he instituted the al fresco summer concerts in Bryant Park , which resumed only recently in a newly reclaimed and refurbished park . <br><blue>9</blue>He oversaw the move of the music collections from their cramped quarters to the spacious Library and Museum of the Performing Arts at Lincoln Center . <br><blue>10</blue>The move , completed in the spring of 1965 , was a miracle of logistics . <br><blue>11</blue>It permitted researchers and the public alike to search for treasures and sample them in a listening room , luxuries for which the main library on Fifth Avenue lacked the space . <br><blue>12</blue>At the time , he also helped establish the Rodgers and Hammerstein Archives of Recorded Sound and the Toscanini Memorial Archives . <br><blue>13</blue>He served as president of both the Music Library Association and the Association for Recorded Sound Collections . <br><blue>14</blue>When Mr. Miller retired , Harold C. Schonberg , the music critic of The New York Times , spoke for the many who thought he had been around since 1906 , or 1910 , or forever . '' <br><blue>15</blue>The point is , '' Mr. Schonberg wrote in a farewell , '' that as long as anybody seems to remember , Phil Miller has been a necessary adjunct of the music division , and if he had not been there it would have been necessary , as the saying goes , to invent him . '' <br><blue>16</blue>Joining the musicologists , musicians , librarians and well-wishers , Mr. Schonberg recalled Mr. Miller 's firm grasp and sharp wit , tempered with enough informality and charm to ease one 's dusty researches . <br><blue>17</blue>Philip Miller was born in Woodland , N.Y. , and studied at the Choristers School in Rhinebeck , N.Y. , and at the choir school of the Cathedral Church of St. John the Divine . <br><blue>18</blue>He trained at the Neighborhood School of Music ( now the Manhattan School of Music ) , and the Institute of Musical Art ( now Juilliard School of Music ) , where he studied voice . <br><blue>19</blue>His association with the Public Library began in 1927 . <br><blue>20</blue>He started as a reference assistant , became assistant chief in 1946 and chief in 1959 . <br><hr><br><blue>1(2)</blue>: <m_str>them</m_str> (11_14) 	<m_str>researchers and the public</m_str> (11_3) 	<br><blue>2(2)</blue>: <m_str>N.Y.</m_str> (17_19) 	<m_str>N.Y.</m_str> (17_8) 	<br><blue>3(24)</blue>: <m_str>His</m_str> (19_1) 	<m_str>He</m_str> (4_1) 	<m_str>Mr. Schonberg</m_str> (15_6) 	<m_str>he</m_str> (3_20) 	<m_str>he</m_str> (14_25) 	<m_str>he</m_str> (8_3) 	<m_str>he</m_str> (12_5) 	<m_str>he</m_str> (18_33) 	<m_str>He</m_str> (20_1) 	<m_str>his</m_str> (5_2) 	<m_str>Phil Miller</m_str> (15_23) 	<m_str>He</m_str> (9_1) 	<m_str>Mr. Schonberg</m_str> (16_11) 	<m_str>He</m_str> (13_1) 	<m_str>Mr. Miller 's</m_str> (16_14) 	<m_str>He</m_str> (2_1) 	<m_str>Philip Miller</m_str> (17_1) 	<m_str>he</m_str> (15_37) 	<m_str>He</m_str> (6_1) 	<m_str>Mr. Miller</m_str> (14_2) 	<m_str>He</m_str> (18_1) 	<m_str>Mr. Miller</m_str> (3_2) 	<m_str>him</m_str> (15_55) 	<m_str>He</m_str> (7_1) 	<br><blue>4(5)</blue>: <m_str>the library itself</m_str> (3_29) 	<m_str>itself</m_str> (3_31) 	<m_str>the New York Public Library</m_str> (3_12) 	<m_str>the Public Library</m_str> (19_4) 	<m_str>its</m_str> (4_6) 	<br><blue>5(1)</blue>: <m_str>The New York Times</m_str> (14_14) 	<br><blue>6(2)</blue>: <m_str>the Choristers School in Rhinebeck , N.Y.</m_str> (17_13) 	<m_str>the Neighborhood School of Music -LRB- now the Manhattan School of Music -RRB- , and the Institute of Musical Art -LRB- now Juilliard School of Music -RRB-</m_str> (18_4) 	<br><blue>7(1)</blue>: <m_str>Bryant Park</m_str> (8_11) 	<br><blue>8(3)</blue>: <m_str>The move , completed in the spring of 1965</m_str> (10_1) 	<m_str>It</m_str> (11_1) 	<m_str>the move of the music collections from their cramped quarters</m_str> (9_3) 	<br><blue>9(2)</blue>: <m_str>the music division</m_str> (15_31) 	<m_str>the music division of the New York Public Library</m_str> (3_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Nadav Safran, 77, a Professor And an Expert in Mideast Politics </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Nadav Safran , a professor of government at Harvard and an expert in Middle Eastern politics whose background as a Jew born in Cairo gave him an unusually wide perspective on a volatile region , died on July 5 in State College , Pa . <br><blue>2</blue>He was 77 . <br><blue>3</blue>The cause was cancer , his daughter Abigail said . <br><blue>4</blue>Dr. Safran had lived in Newton Center , Mass. , until entering a nursing facility in State College . <br><blue>5</blue>Dr. Safran , who joined Harvard 's faculty in 1959 , wrote a number of encyclopedic political histories , including '' Israel : The Embattled Ally '' ( 1978 ) , '' Egypt in Search of Political Community '' ( 1981 ) and '' Saudi Arabia : The Ceaseless Quest for Security '' ( 1985 ) , which John C. Campbell , writing in The New York Times Book Review , called '' the most comprehensive , informative and reliable account of Saudi foreign policy yet written . '' <br><blue>6</blue>Dr. Safran resigned as director of Harvard University 's Center for Middle Eastern Studies in 1986 after it was revealed that he had accepted grants from the Central Intelligence Agency . <br><blue>7</blue>In October 1985 , The Harvard Crimson reported that he had received a grant of almost $ 46,000 from the C.I.A. to organize a conference on Islamic fundamentalism . <br><blue>8</blue>The Boston Globe reported that the agency had also given him more than $ 100,000 in research money for a study of Saudi foreign policy . <br><blue>9</blue>The controversy spread as far as the Middle East , where , one of Dr. Safran 's colleagues at Harvard said , it bolstered '' the widespread perception that American scholars all have close ties to the C.I.A. '' Harvard conducted an inquiry and found that Dr. Safran had notified the university about the research funds when he had received them but had not revealed that the money for the conference came from the C.I.A . <br><blue>10</blue>In accepting his resignation in January 1986 , the dean of Harvard 's faculty of arts and sciences , A. Michael Spence , called him '' a distinguished scholar whose erudition and objectivity as a scholar have not been questioned despite the recent controversy . '' <br><blue>11</blue>Dr. Safran remained at Harvard as a professor in the department of government until he retired in 2002 . <br><blue>12</blue>Nadav Safran was born on Aug. 25 , 1925 , and raised in a large , nonobservant Jewish family . <br><blue>13</blue>After becoming observant as a teenager and developing an interest in Zionism , he moved to a kibbutz in Palestine in 1946 and fought in the war for Israeli independence two years later . <br><blue>14</blue>He moved to the United States in 1950 to attend Brandeis University and received his doctorate from Harvard in 1958 . <br><blue>15</blue>Dr. Safran is survived by his daughters , Nina Safran Beaver , of Lemont , Pa. , Abigail Safran , of Montclair , N.J. , and Elizabeth Safran Cohn , of Portland , Ore. ; his brothers , Shlomo , Uri and Moshe , and his sisters , Ruti and Rachele , all of whom live in Israel ; two grandchildren ; and his former wife , Anna Safran . <br><hr><br><blue>1(27)</blue>: <m_str>he</m_str> (7_10) 	<m_str>Dr. Safran</m_str> (15_1) 	<m_str>him</m_str> (10_25) 	<m_str>his</m_str> (15_6) 	<m_str>Dr. Safran</m_str> (4_1) 	<m_str>Dr. Safran</m_str> (9_47) 	<m_str>he</m_str> (11_15) 	<m_str>Nina Safran Beaver</m_str> (15_9) 	<m_str>Nadav Safran</m_str> (12_1) 	<m_str>him</m_str> (8_11) 	<m_str>he</m_str> (9_58) 	<m_str>Dr. Safran , who joined Harvard 's faculty in 1959</m_str> (5_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (15_36) 	<m_str>Dr. Safran</m_str> (6_1) 	<m_str>Dr. Safran 's</m_str> (9_15) 	<m_str>him</m_str> (1_26) 	<m_str>he</m_str> (13_14) 	<m_str>his</m_str> (10_3) 	<m_str>his</m_str> (15_46) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (3_6) 	<m_str>his daughter Abigail</m_str> (3_6) 	<m_str>he</m_str> (6_22) 	<m_str>Dr. Safran</m_str> (11_1) 	<m_str>his</m_str> (14_15) 	<m_str>his</m_str> (15_64) 	<br><blue>2(2)</blue>: <m_str>the Central Intelligence Agency</m_str> (6_27) 	<m_str>the agency</m_str> (8_6) 	<br><blue>3(2)</blue>: <m_str>Middle Eastern Studies in 1986</m_str> (6_12) 	<m_str>it</m_str> (6_18) 	<br><blue>4(2)</blue>: <m_str>the research funds</m_str> (9_54) 	<m_str>them</m_str> (9_61) 	<br><blue>5(2)</blue>: <m_str>Israel</m_str> (15_58) 	<m_str>Israel</m_str> (5_22) 	<br><blue>6(2)</blue>: <m_str>a conference</m_str> (7_24) 	<m_str>the conference</m_str> (9_70) 	<br><blue>7(2)</blue>: <m_str>State College</m_str> (4_17) 	<m_str>State College , Pa.</m_str> (1_41) 	<br><blue>8(3)</blue>: <m_str>the C.I.A.</m_str> (9_74) 	<m_str>the C.I.A.</m_str> (7_20) 	<m_str>C.I.A.</m_str> (9_38) 	<br><blue>9(2)</blue>: <m_str>Pa.</m_str> (1_44) 	<m_str>Pa.</m_str> (15_16) 	<br><blue>10(2)</blue>: <m_str>it</m_str> (9_23) 	<m_str>The Boston Globe</m_str> (8_1) 	<br><blue>11(7)</blue>: <m_str>Harvard</m_str> (11_5) 	<m_str>Harvard</m_str> (14_18) 	<m_str>Harvard 's</m_str> (10_12) 	<m_str>Harvard</m_str> (1_9) 	<m_str>Harvard 's</m_str> (5_6) 	<m_str>Harvard</m_str> (9_20) 	<m_str>The Harvard Crimson</m_str> (7_5) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Malcolm Todd, 87, a 'Father' Of Federal Medicare System </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Malcolm C. Todd , a former president of the American Medical Association who helped develop a precursor of the Medicare program , died on Monday at Long Beach Memorial Medical Center in California . <br><blue>2</blue>He was 87 . <br><blue>3</blue>In the late 1940 's , as a consultant to the Navy , he collaborated with Adm. Jimmy James in developing a program that provided medical care to dependents of service members . <br><blue>4</blue>A longtime friend , Rhoda Weiss , who is a consultant to the medical center , said the program for military dependents served as a model when , in the 1950 's Dr. Todd advised federal officials about ways to provide health insurance to people 65 and older . <br><blue>5</blue>Ms. Weiss said Presidents John F. Kennedy and Lyndon B. Johnson consulted Dr. Todd about plans for the Medicare program , which Johnson signed into law in 1965 . <br><blue>6</blue>Dr. Todd also served as a personal physician to Richard M. Nixon and accompanied him on political campaigns in the 1950 's . <br><blue>7</blue>He was president of the American Medical Association in 1974 and 1975 . <br><blue>8</blue>Dr. Todd devoted much of his term as president to encouraging doctors to investigate unfit colleagues and to look for new policing mechanisms . <br><blue>9</blue>Local medical societies , he said , were often '' derelict in exercising their responsibilities . '' <br><blue>10</blue>In an interview in 1975 , Dr. Todd said : '' Physicians have the responsibility to see that doctors are removed from practice where they are not meeting their colleagues ' standards . <br><blue>11</blue>If we do n't stand up and take disciplinary action against such individuals , we 're subject to criticism that the public rightly throws at us . '' <br><blue>12</blue>Addressing the medical group 's House of Delegates in 1974 , he urged American doctors to fight any proposed national health programs . <br><blue>13</blue>In 1974 , he led a 16-member delegation from the medical association on a visit to China to observe noteworthy medical advances and methods of delivering medical care . <br><blue>14</blue>After a three-week tour of medical sites in China , the delegation issued a report praising Chinese advances in setting broken bones , reattaching severed limbs and treating burns . <br><blue>15</blue>Dr. Todd was born in Carlyle , Ill. , earned degrees from the University of Illinois and Northwestern University Medical School and was an Army surgeon in Europe in World War II . <br><blue>16</blue>A general surgeon who specialized in stomach and colon surgery and gastroenterology , he had been affiliated with Long Beach Memorial Medical Center since 1946 and was a former chief of staff . <br><blue>17</blue>His wife of 52 years , the former Ruth Holle Schlake , died in 1997 . <br><blue>18</blue>He is survived by his wife , the former Betty Ann Eastman , whom he married in 1998 ; a son , Douglas , of Alexandria , Va. ; a brother , Dr. William Todd of Long Beach ; a sister , Jean Dunning of Iowa ; three stepsons , Timothy , Douglas and Brian Toews ; a grandson ; and five step-grandchildren . <br><hr><br><blue>1(2)</blue>: <m_str>China</m_str> (14_9) 	<m_str>China</m_str> (13_17) 	<br><blue>2(2)</blue>: <m_str>Medicare</m_str> (1_21) 	<m_str>Medicare</m_str> (5_19) 	<br><blue>3(2)</blue>: <m_str>Lyndon B. Johnson</m_str> (5_9) 	<m_str>Johnson</m_str> (5_23) 	<br><blue>4(2)</blue>: <m_str>a 16-member delegation</m_str> (13_6) 	<m_str>the delegation</m_str> (14_11) 	<br><blue>5(2)</blue>: <m_str>the Medicare program</m_str> (1_20) 	<m_str>the Medicare program</m_str> (5_18) 	<br><blue>6(5)</blue>: <m_str>they</m_str> (10_25) 	<m_str>their</m_str> (10_29) 	<m_str>the 1950 's</m_str> (6_20) 	<m_str>Presidents John F. Kennedy and Lyndon B. Johnson</m_str> (5_4) 	<m_str>that doctors</m_str> (10_18) 	<br><blue>7(2)</blue>: <m_str>unfit colleagues</m_str> (8_15) 	<m_str>their colleagues '</m_str> (10_29) 	<br><blue>8(2)</blue>: <m_str>1950 's</m_str> (4_31) 	<m_str>1950 's</m_str> (6_21) 	<br><blue>9(3)</blue>: <m_str>us</m_str> (11_26) 	<m_str>we</m_str> (11_15) 	<m_str>we</m_str> (11_2) 	<br><blue>10(19)</blue>: <m_str>he</m_str> (3_14) 	<m_str>he</m_str> (13_4) 	<m_str>Dr. Todd</m_str> (15_1) 	<m_str>he</m_str> (18_15) 	<m_str>His</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Todd about plans for the Medicare program , which Johnson signed into law in 1965</m_str> (5_13) 	<m_str>Todd</m_str> (4_34) 	<m_str>Dr. Todd</m_str> (6_1) 	<m_str>his</m_str> (8_6) 	<m_str>Dr. Todd</m_str> (10_7) 	<m_str>He</m_str> (18_1) 	<m_str>him</m_str> (6_15) 	<m_str>Dr. William Todd of Long Beach</m_str> (18_33) 	<m_str>his</m_str> (18_5) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (12_12) 	<m_str>he</m_str> (9_5) 	<m_str>he</m_str> (16_14) 	<br><blue>11(2)</blue>: <m_str>the American Medical Association</m_str> (1_10) 	<m_str>the American Medical Association in 1974 and 1975</m_str> (7_5) 	<br><blue>12(2)</blue>: <m_str>Long Beach Memorial Medical Center in California</m_str> (1_28) 	<m_str>Long Beach Memorial Medical Center</m_str> (16_19) 	<br><blue>13(2)</blue>: <m_str>1974</m_str> (12_10) 	<m_str>1974</m_str> (13_2) 	<br><blue>14(2)</blue>: <m_str>the program for military dependents</m_str> (4_18) 	<m_str>a program that provided medical care to dependents of service members</m_str> (3_22) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Joe Niekro, a Master of the Knuckleball, Is Dead at 61 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Joe Niekro , the knuckleballing right-hander who won 221 major league games in 22 seasons and combined with his Hall of Fame brother Phil to win more games than any pair of brothers in major league history , died Friday in Tampa , Fla . <br><blue>2</blue>He was 61 . <br><blue>3</blue>His death was announced by Tal Smith , the president of the Houston Astros , The Associated Press said . <br><blue>4</blue>Niekro , who pitched 11 seasons for the Astros , had a brain aneurysm , the news agency reported . <br><blue>5</blue>The Niekros , each featuring a knuckler and each pitching into their 40s , combined for 539 victories , pitching from the 1960s into the 1980s . <br><blue>6</blue>They were teammates on the Atlanta Braves and the Yankees . <br><blue>7</blue>Joe Niekro was a two-time 20-game winner and he finished second in the National League Cy Young award balloting in 1979 . <br><blue>8</blue>But he was remembered as well for a misadventure that he turned into a late-night television comedy sketch . <br><blue>9</blue>On the night of Aug. 3 , 1987 , pitching for the visiting Minnesota Twins against the California Angels , Niekro was ejected in the fourth inning after the umpires approached him , looking for something that might have defaced the baseballs he was throwing . <br><blue>10</blue>When Niekro turned his pants pockets inside out at the umpires ' request , an emery board tumbled onto the grass . <br><blue>11</blue>The discovery of the board and an examination of five scuffed baseballs that Niekro had thrown brought a 10-day suspension from the American League president , Bobby Brown . <br><blue>12</blue>Niekro maintained that he used sandpaper and the emery board to manicure his fingernails . '' <br><blue>13</blue>Being a knuckleball pitcher , I sometimes have to file my nails between innings , so I carry an emery board with me to the mound , '' The A.P. quoted him as saying . <br><blue>14</blue>While serving his suspension , Niekro appeared on '' Late Night With David Letterman , '' coming onstage with a power sander and a carpenter 's apron containing Vaseline , emery boards , sandpaper , a nail file , and fingernail and toenail clippers . <br><blue>15</blue>Mr. Letterman asked him if he had ever thrown a scuffed , cut or otherwise doctored baseball . '' <br><blue>16</blue>I ca n't say I 've never thrown one , '' The A.P. quoted Niekro as saying . '' <br><blue>17</blue>I think every pitcher fools around with one . <br><blue>18</blue>And I 've had games where I 've pitched where there 's been a baseball that 's had some marks on it . '' <br><blue>19</blue>Asked how the marks got there , Niekro replied , '' The ball hitting the ground , hitting AstroTurf . '' <br><blue>20</blue>Niekro had a record career of 221 victories and 204 defeats . <br><hr><br><blue>1(2)</blue>: <m_str>the Houston Astros</m_str> (3_12) 	<m_str>the Astros</m_str> (4_8) 	<br><blue>2(9)</blue>: <m_str>I</m_str> (16_1) 	<m_str>I</m_str> (17_1) 	<m_str>I</m_str> (13_6) 	<m_str>me</m_str> (13_23) 	<m_str>I</m_str> (18_2) 	<m_str>I</m_str> (16_5) 	<m_str>my</m_str> (13_11) 	<m_str>I</m_str> (18_7) 	<m_str>I</m_str> (13_17) 	<br><blue>3(1)</blue>: <m_str>the Atlanta Braves and the Yankees</m_str> (6_5) 	<br><blue>4(2)</blue>: <m_str>the umpires '</m_str> (10_10) 	<m_str>the umpires</m_str> (9_29) 	<br><blue>5(2)</blue>: <m_str>some marks on it</m_str> (18_19) 	<m_str>the marks</m_str> (19_3) 	<br><blue>6(2)</blue>: <m_str>their</m_str> (5_12) 	<m_str>They</m_str> (6_1) 	<br><blue>7(3)</blue>: <m_str>the board</m_str> (11_4) 	<m_str>the emery board</m_str> (12_8) 	<m_str>an emery board</m_str> (10_15) 	<br><blue>8(2)</blue>: <m_str>his suspension</m_str> (14_3) 	<m_str>a 10-day suspension</m_str> (11_18) 	<br><blue>9(23)</blue>: <m_str>he</m_str> (7_9) 	<m_str>Mr. Letterman</m_str> (15_1) 	<m_str>him</m_str> (15_4) 	<m_str>he</m_str> (9_43) 	<m_str>he</m_str> (15_6) 	<m_str>Niekro</m_str> (11_14) 	<m_str>he</m_str> (8_2) 	<m_str>Niekro</m_str> (19_8) 	<m_str>Niekro</m_str> (12_1) 	<m_str>he</m_str> (12_4) 	<m_str>he</m_str> (8_11) 	<m_str>Niekro</m_str> (20_1) 	<m_str>his</m_str> (12_13) 	<m_str>Niekro</m_str> (16_15) 	<m_str>Niekro</m_str> (10_2) 	<m_str>Niekro</m_str> (9_21) 	<m_str>his</m_str> (10_4) 	<m_str>his</m_str> (14_3) 	<m_str>Niekro</m_str> (14_6) 	<m_str>Joe Niekro</m_str> (7_1) 	<m_str>him</m_str> (9_32) 	<m_str>David Letterman</m_str> (14_13) 	<m_str>him</m_str> (13_32) 	<br><blue>10(4)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_19) 	<m_str>His</m_str> (3_1) 	<m_str>Fame brother Phil</m_str> (1_22) 	<br><blue>11(2)</blue>: <m_str>The A.P.</m_str> (13_29) 	<m_str>The A.P.</m_str> (16_12) 	<br><blue>12(1)</blue>: <m_str>the Yankees</m_str> (6_9) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

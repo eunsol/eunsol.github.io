@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Angus Ogilvy, 76, Banker With Ties to British Royalty </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Sir Angus Ogilvy , a prominent British businessman and financier closely tied to the royal family by friendship and by marriage to Princess Alexandra , Queen Elizabeth 's popular first cousin , died Sunday at a hospital near his London home . <br><blue>2</blue>He was 76 . <br><blue>3</blue>The British news media reported that he had died of cancer . <br><blue>4</blue>His last public appearance was in February 2003 , when he accompanied his wife on an official visit to Thailand . <br><blue>5</blue>Sir Angus was a son of a Scottish nobleman , the 12th Earl of Airie , Ogilvy being the family name . <br><blue>6</blue>He married Princess Alexandra at Westminster Abbey in 1963 , an event of great pageantry . <br><blue>7</blue>He was the first person to come into the royal family and decline a peerage of his own , despite considerable pressure . <br><blue>8</blue>He was knighted in 1989 and was named a Privy Councilor in 1997 . <br><blue>9</blue>He was born Angus James Bruce Ogilvy . <br><blue>10</blue>The Ogilvys trace their family back to King James VI of Scotland , who became King James I of England . <br><blue>11</blue>( Princess Alexandra was a descendant of the same King James and was a 10th cousin , once removed , of her husband . ) <br><blue>12</blue>Sir Angus was educated at Eton . <br><blue>13</blue>He then served in the army , was commissioned into the Scots Guard , and earned his degree at Oxford , studying philosophy , politics and economics . <br><blue>14</blue>He went straight into investment banking with the Drayton Group . <br><blue>15</blue>At 34 , at the time of his marriage , he held 30 company directorships , which he eventually built to about 50 . <br><blue>16</blue>His reputation as an astute and hard-working businessman was tarnished in the 1970 's when he became embroiled in Britain 's so-called Lonrho affair . <br><blue>17</blue>Mr. Ogilvy had to resign from the board of Lonrho , a British-own African mining and finance conglomerate led by Roland ( Tiny ) Rowland . <br><blue>18</blue>When it collapsed in an international scandal , Mr. Ogilvy was accused of failing his responsibilities as a director in the affair , detailed in 1973 in an official report allocating blame all around . <br><blue>19</blue>Mr. Ogilvy was absolved by the Director of Public Prosecutions but withdrew from all his business connections . <br><blue>20</blue>Devoting himself to charitable causes , he reclaimed his good name and rebuilt a résumé of directorships and charitable activities . <br><hr><br><blue>1(12)</blue>: <m_str>Angus James Bruce Ogilvy</m_str> (9_4) 	<m_str>his</m_str> (18_15) 	<m_str>Mr. Ogilvy</m_str> (17_1) 	<m_str>Mr. Ogilvy</m_str> (19_1) 	<m_str>Ogilvy</m_str> (5_17) 	<m_str>the same King James</m_str> (11_8) 	<m_str>his</m_str> (19_15) 	<m_str>himself</m_str> (20_2) 	<m_str>James</m_str> (10_17) 	<m_str>he</m_str> (20_7) 	<m_str>Mr. Ogilvy</m_str> (18_9) 	<m_str>his</m_str> (20_9) 	<br><blue>2(2)</blue>: <m_str>it</m_str> (18_2) 	<m_str>Lonrho , a British-own African mining and finance conglomerate led by Roland -LRB- Tiny -RRB- Rowland</m_str> (17_10) 	<br><blue>3(3)</blue>: <m_str>her</m_str> (11_22) 	<m_str>Princess Alexandra</m_str> (6_3) 	<m_str>Princess Alexandra</m_str> (11_2) 	<br><blue>4(2)</blue>: <m_str>The Ogilvys</m_str> (10_1) 	<m_str>their</m_str> (10_4) 	<br><blue>5(22)</blue>: <m_str>he</m_str> (16_16) 	<m_str>the 12th Earl of Airie , Ogilvy</m_str> (5_11) 	<m_str>He</m_str> (2_1) 	<m_str>His</m_str> (4_1) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (15_8) 	<m_str>his</m_str> (7_17) 	<m_str>He</m_str> (8_1) 	<m_str>he</m_str> (15_11) 	<m_str>Sir Angus</m_str> (12_1) 	<m_str>his</m_str> (13_17) 	<m_str>he</m_str> (4_11) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (4_13) 	<m_str>he</m_str> (15_18) 	<m_str>His</m_str> (16_1) 	<m_str>Sir Angus</m_str> (5_1) 	<m_str>his</m_str> (1_39) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (3_7) 	<m_str>He</m_str> (9_1) 	<m_str>He</m_str> (13_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

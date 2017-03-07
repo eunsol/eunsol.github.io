@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jackie McLean, Jazz Saxophonist and Mentor, Dies at 74 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jackie McLean , an acclaimed saxophonist who took a midcareer detour to become a prominent jazz educator , died on Friday at his home in Hartford . <br><blue>2</blue>He was 74 . <br><blue>3</blue>His death was confirmed by a spokesman for the University of Hartford , where Mr. McLean had taught since 1970 . <br><blue>4</blue>No cause was given . <br><blue>5</blue>Mr. McLean was one of many gifted young musicians who burst onto the New York scene after World War II in the wake of the musical revolution known as bebop . <br><blue>6</blue>He worked with Bud Powell and Miles Davis before he was out of his teens , and later he gained valuable seasoning in the bands of Art Blakey and Charles Mingus before he began leading his own groups . <br><blue>7</blue>Also a prolific composer , Mr. McLean was one of the first alto saxophonists to absorb the pervasive influence of Charlie Parker and shape it into a distinctive personal style . <br><blue>8</blue>While the influence was clear , especially in his approach to harmony , Mr. McLean 's astringent tone and impassioned phrasing marked him as more than just another Parker disciple . <br><blue>9</blue>His career had a second act as well . <br><blue>10</blue>In the late 1960 's he put performing aside to concentrate on teaching . <br><blue>11</blue>On his arrival at the University of Hartford in 1970 , he was a music instructor at the Hartt School . <br><blue>12</blue>Ten years later he was named director of the university 's newly formed African-American music program , one of the first degree programs in the field . <br><blue>13</blue>In 2000 , a year before he received a Jazz Masters grant from the National Endowment for the Arts , the university renamed the program the Jackie McLean Institute of Jazz . <br><blue>14</blue>For more than two decades he performed and recorded only occasionally . <br><blue>15</blue>He devoted most of his energy to teaching , both at the university and at the Artists Collective , a community cultural center in Hartford that offered classes in music , theater , dance and the visual arts to local young people , which he founded and ran with his wife , Dollie . <br><blue>16</blue>She survives him , along with his son Rene , of New York , a saxophonist who frequently performed with him ; another son , Vernone , and a daughter , Melonae , both of Hartford ; and several grandchildren and great-grandchildren . <br><blue>17</blue>In the early 1990 's Mr. McLean shifted some of his focus back to performing . '' <br><blue>18</blue>I 've always wanted to be remembered for being more than a saxophone player , '' he told Peter Watrous of The New York Times in 1990 , when he returned to New York to perform at the Village Vanguard . '' <br><blue>19</blue>It 's been important to put aside my horn and help people , act on what I believe . <br><blue>20</blue>But the building for Artists Collective will be going up in the next two years , and the music department is now a full-degree program , so it 's time to get back to playing . '' <br><hr><br><blue>1(18)</blue>: <m_str>he</m_str> (6_33) 	<m_str>his</m_str> (6_36) 	<m_str>Mr. McLean 's</m_str> (8_14) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_23) 	<m_str>Mr. McLean</m_str> (17_6) 	<m_str>his</m_str> (17_11) 	<m_str>His</m_str> (3_1) 	<m_str>Mr. McLean</m_str> (3_15) 	<m_str>he</m_str> (18_17) 	<m_str>he</m_str> (18_30) 	<m_str>Mr. McLean</m_str> (5_1) 	<m_str>He</m_str> (6_1) 	<m_str>Miles Davis</m_str> (6_7) 	<m_str>he</m_str> (6_10) 	<m_str>his</m_str> (6_14) 	<m_str>he</m_str> (6_19) 	<m_str>Mr. McLean</m_str> (7_6) 	<br><blue>2(4)</blue>: <m_str>the University of Hartford in 1970</m_str> (11_5) 	<m_str>the university</m_str> (13_21) 	<m_str>the university</m_str> (12_9) 	<m_str>the university</m_str> (15_12) 	<br><blue>3(2)</blue>: <m_str>1990 's</m_str> (17_4) 	<m_str>1990</m_str> (18_27) 	<br><blue>4(3)</blue>: <m_str>it</m_str> (7_25) 	<m_str>the pervasive influence of Charlie Parker</m_str> (7_17) 	<m_str>the influence</m_str> (8_2) 	<br><blue>5(3)</blue>: <m_str>Hartford</m_str> (16_36) 	<m_str>Hartford</m_str> (15_25) 	<m_str>Hartford</m_str> (1_26) 	<br><blue>6(3)</blue>: <m_str>I</m_str> (18_1) 	<m_str>I</m_str> (19_17) 	<m_str>my</m_str> (19_8) 	<br><blue>7(18)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (13_7) 	<m_str>his</m_str> (15_5) 	<m_str>Parker</m_str> (8_29) 	<m_str>him</m_str> (16_21) 	<m_str>he</m_str> (11_12) 	<m_str>he</m_str> (15_45) 	<m_str>Charlie Parker</m_str> (7_21) 	<m_str>he</m_str> (10_6) 	<m_str>he</m_str> (12_4) 	<m_str>his</m_str> (8_9) 	<m_str>his</m_str> (15_50) 	<m_str>him</m_str> (16_3) 	<m_str>he</m_str> (14_6) 	<m_str>his</m_str> (16_7) 	<m_str>His</m_str> (9_1) 	<m_str>his</m_str> (11_2) 	<m_str>him</m_str> (8_23) 	<br><blue>8(2)</blue>: <m_str>it</m_str> (20_28) 	<m_str>the music department</m_str> (20_18) 	<br><blue>9(2)</blue>: <m_str>the program</m_str> (13_24) 	<m_str>African-American music program , one of the first degree programs in the field</m_str> (12_14) 	<br><blue>10(1)</blue>: <m_str>His career</m_str> (9_1) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

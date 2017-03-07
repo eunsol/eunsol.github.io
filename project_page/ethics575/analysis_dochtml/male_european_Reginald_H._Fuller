@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Reginald H. Fuller, 92, New Testament Scholar </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Reginald H. Fuller , a prominent British-born New Testament scholar who used his knowledge of Hebrew and Greek to hunt for the historical Jesus and his fluency in German to debate the nuances with theologians , died on April 4 in Richmond , Va . <br><blue>2</blue>He was 92 . <br><blue>3</blue>The cause was complications of surgery for a broken hip , said the Very Rev. Martha J. Horne , dean and president of the Virginia Theological Seminary , where Dr. Fuller taught for many years . <br><blue>4</blue>In addition to expounding on his biblical criticism in about 20 books , Dr. Fuller translated works by the German pastor and theologian Dietrich Bonhoeffer , who was executed in a concentration camp in 1945 , accused of having had a role in a plot to kill Hitler . <br><blue>5</blue>Dr. Fuller helped translate the New Revised Standard Version of the Bible and wrote books on liturgical priorities and theology . <br><blue>6</blue>He also was a practicing Anglican priest for most of his adult life . <br><blue>7</blue>" I 've tried to combine an honestly critical approach to the Bible and the New Testament with a firm commitment to the orthodox teachings of the church , '' he said in an interview with The Richmond Times-Dispatch in 2001 . '' <br><blue>8</blue>There 's always a tension between these things , but one has to live in that tension . '' <br><blue>9</blue>In his long scholarly career , Dr. Fuller dissected the Bible , which he saw as a series of books and teaching traditions with multifarious layers . <br><blue>10</blue>His interest lay not in archaeology , psychology , philosophy and other disciplines that are now part of Bible scholarship , but in the sacred text itself . <br><blue>11</blue>This emphasis grew out of the year he spent in Germany after graduating from Cambridge in 1937 . <br><blue>12</blue>He studied the critical analysis being done by German Bible scholars , who saw the Resurrection and biblical miracles as mythological . <br><blue>13</blue>Dr. Fuller did not always read the Bible literally either , but he read it carefully . <br><blue>14</blue>In an interview with The Los Angeles Times in 1988 , he disputed the concept of an actual corporeal Resurrection . <br><blue>15</blue>He said the Greek word '' appeared '' that Paul used to describe Jesus ' visits after his crucifixion was the same word used elsewhere for visionary experiences . <br><blue>16</blue>Dr. Fuller nonetheless differed with German theologians like Rudolf Bultmann , who dismissed the Resurrection as a myth concocted by the early church . <br><blue>17</blue>His counterargument was that Jesus ' actual message , the coming of the Kingdom , as uncovered by critical Bible study , was convincingly and accurately echoed by early Christians . <br><blue>18</blue>This placed Dr. Fuller in the scholarly camp called '' neo-orthodox . '' <br><blue>19</blue>Hal Taussig , visiting professor of New Testament at Union Theological Seminary in New York , said Dr. Fuller 's views were a credible response to the influential Germans . <br><blue>20</blue>In subsequent decades , American scholars further challenged the German stance and today are often seen to be leading the scholarly quest for the historical Jesus , though in ways different from Dr. Fuller 's . <br><hr><br><blue>1(1)</blue>: <m_str>Hal Taussig</m_str> (19_1) 	<br><blue>2(2)</blue>: <m_str>that tension</m_str> (8_16) 	<m_str>a tension between these things</m_str> (8_4) 	<br><blue>3(2)</blue>: <m_str>This</m_str> (18_1) 	<m_str>early Christians</m_str> (17_29) 	<br><blue>4(1)</blue>: <m_str>Germany</m_str> (11_11) 	<br><blue>5(3)</blue>: <m_str>the Resurrection</m_str> (12_15) 	<m_str>it</m_str> (13_15) 	<m_str>the Resurrection</m_str> (16_14) 	<br><blue>6(27)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (15_18) 	<m_str>Dr. Fuller</m_str> (16_1) 	<m_str>he</m_str> (7_31) 	<m_str>his</m_str> (9_2) 	<m_str>his</m_str> (1_13) 	<m_str>Dr. Fuller</m_str> (9_7) 	<m_str>His</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (9_14) 	<m_str>his</m_str> (1_26) 	<m_str>His</m_str> (10_1) 	<m_str>Dr. Fuller in the scholarly camp called '' neo-orthodox</m_str> (18_3) 	<m_str>he</m_str> (11_8) 	<m_str>his</m_str> (4_6) 	<m_str>He</m_str> (12_1) 	<m_str>Dr. Fuller</m_str> (3_30) 	<m_str>Dr. Fuller</m_str> (4_14) 	<m_str>Dr. Fuller 's</m_str> (19_18) 	<m_str>Dr. Fuller</m_str> (5_1) 	<m_str>Dr. Fuller</m_str> (13_1) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (13_13) 	<m_str>his</m_str> (6_11) 	<m_str>Dr. Fuller 's</m_str> (20_33) 	<m_str>I</m_str> (7_2) 	<m_str>he</m_str> (14_12) 	<br><blue>7(2)</blue>: <m_str>the historical Jesus</m_str> (1_22) 	<m_str>the historical Jesus</m_str> (20_24) 	<br><blue>8(2)</blue>: <m_str>the sacred text itself</m_str> (10_24) 	<m_str>itself</m_str> (10_27) 	<br><blue>9(2)</blue>: <m_str>the church</m_str> (7_27) 	<m_str>the early church</m_str> (16_21) 	<br><blue>10(2)</blue>: <m_str>the Bible</m_str> (13_7) 	<m_str>German Bible</m_str> (12_9) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

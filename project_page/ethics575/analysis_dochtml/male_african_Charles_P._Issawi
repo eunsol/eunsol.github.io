@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Charles P. Issawi, 84, Dies; Studied Mideast Economics </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Charles P. Issawi , an Egyptian-born authority on Middle East economics and history who taught at Princeton and Columbia , died Dec. 8 at a retirement community in Newtown , Pa . <br><blue>2</blue>He was 84 . <br><blue>3</blue>Professor Issawi was the Bayard E. Dodge Professor of Near Eastern Studies at Princeton from 1975 to 1986 , when he retired from that post . <br><blue>4</blue>He was a professor of economics at Columbia from 1961 to 1975 and director of its Near and Middle East Institute from 1962 to 1964 . <br><blue>5</blue>After leaving Princeton , he was an adjunct professor of economics at New York University from 1987 to 1991 . <br><blue>6</blue>An Oxford graduate , he held Egyptian government posts in finance and banking from 1937 to 1943 . <br><blue>7</blue>He wrote an official report that became his first book , '' Egypt : An Economic and Social Analysis '' ( 1947 ) , and he went on to achieve prominence as an economic historian . '' <br><blue>8</blue>He was the father of the study of the modern economic history of the Middle East , '' said Roger Owen , the A. J. Meyer Professor of Middle East History at Harvard . <br><blue>9</blue>Professor Issawi was a United Nations economic affairs officer in New York from 1948 to 1955 and then began teaching Middle East economics and economic history at Columbia . '' <br><blue>10</blue>He decided to do it by producing books that were a combination of translations and tidbits and pieces by other people with linked passages by him , '' Professor Owen recalled . <br><blue>11</blue>Professor Issawi produced four books of that type . <br><blue>12</blue>The first was '' The Economic History of the Middle East , 1800-1914 '' ( 1966 ) . <br><blue>13</blue>He also wrote influential articles for journals , especially in the 1960 's . '' <br><blue>14</blue>He was applying contemporary theories of economic development , which were very much in the air in the 50 's and 60 's , to a much longer look at the economic history of the Middle East countries , '' Professor Owen said . '' <br><blue>15</blue>He used them creatively , and he was the first person to write about most of these problems in a Middle Eastern context . '' <br><blue>16</blue>Bernard Lewis , emeritus Cleveland E. Dodge Professor of Near Eastern Studies at Princeton , said Professor Issawi 's most influential books were probably his economic histories and his books on Egypt , '' Egypt at Mid-Century '' ( 1954 ) , '' Egypt in Revolution : An Economic Analysis '' ( 1963 ) and the 1947 work . <br><blue>17</blue>Professor Issawi advocated free enterprise but was not militant on behalf of any cause or ideology . <br><blue>18</blue>He was born in Cairo to Syrian parents ; his father was a civil servant . <br><blue>19</blue>He was educated at Victoria College in Alexandria , and then at Oxford , where he specialized in economics and received a bachelor 's degree in 1937 and a master 's degree in 1944 . <br><blue>20</blue>He taught at the American University of Beirut from 1943 to 1947 . <br><hr><br><blue>1(2)</blue>: <m_str>Near Eastern Studies at Princeton</m_str> (16_10) 	<m_str>Near Eastern Studies at Princeton</m_str> (3_10) 	<br><blue>2(2)</blue>: <m_str>them</m_str> (15_3) 	<m_str>the Middle East countries</m_str> (14_35) 	<br><blue>3(4)</blue>: <m_str>Princeton</m_str> (3_14) 	<m_str>Princeton and Columbia</m_str> (1_17) 	<m_str>Princeton</m_str> (5_3) 	<m_str>Princeton</m_str> (16_14) 	<br><blue>4(2)</blue>: <m_str>Columbia</m_str> (1_19) 	<m_str>Columbia</m_str> (9_28) 	<br><blue>5(4)</blue>: <m_str>Egypt</m_str> (16_32) 	<m_str>Egypt</m_str> (16_35) 	<m_str>Egypt</m_str> (7_13) 	<m_str>Egypt</m_str> (16_44) 	<br><blue>6(2)</blue>: <m_str>the modern economic history of the Middle East</m_str> (8_9) 	<m_str>the economic history of the Middle East countries</m_str> (14_31) 	<br><blue>7(3)</blue>: <m_str>Professor Owen</m_str> (10_29) 	<m_str>Professor Owen</m_str> (14_41) 	<m_str>Roger Owen , the A. J. Meyer Professor of Middle East History at Harvard</m_str> (8_20) 	<br><blue>8(28)</blue>: <m_str>He</m_str> (15_1) 	<m_str>him</m_str> (10_26) 	<m_str>He</m_str> (19_1) 	<m_str>He</m_str> (4_1) 	<m_str>he</m_str> (15_7) 	<m_str>he</m_str> (3_21) 	<m_str>He</m_str> (8_1) 	<m_str>he</m_str> (7_26) 	<m_str>he</m_str> (19_16) 	<m_str>He</m_str> (20_1) 	<m_str>he</m_str> (5_5) 	<m_str>Professor Issawi</m_str> (9_1) 	<m_str>He</m_str> (13_1) 	<m_str>Professor Issawi 's</m_str> (16_17) 	<m_str>He</m_str> (2_1) 	<m_str>Professor Issawi</m_str> (17_1) 	<m_str>his</m_str> (16_25) 	<m_str>he</m_str> (6_5) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (16_29) 	<m_str>He</m_str> (14_1) 	<m_str>He</m_str> (18_1) 	<m_str>Professor Issawi</m_str> (3_1) 	<m_str>He</m_str> (7_1) 	<m_str>Bayard E. Dodge</m_str> (3_5) 	<m_str>his</m_str> (18_10) 	<m_str>Professor Issawi</m_str> (11_1) 	<m_str>his</m_str> (7_8) 	<br><blue>9(5)</blue>: <m_str>Middle East</m_str> (14_36) 	<m_str>Middle East</m_str> (8_29) 	<m_str>the Middle East</m_str> (8_14) 	<m_str>Middle East</m_str> (1_9) 	<m_str>Middle East</m_str> (9_21) 	<br><blue>10(2)</blue>: <m_str>its</m_str> (4_16) 	<m_str>Columbia from 1961 to 1975</m_str> (4_8) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

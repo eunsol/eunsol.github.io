@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Wellington Mara, Patriarch of N.F.L., Dies at 89 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Wellington Mara , the patriarch of the National Football League , who served as a ball boy for the leather-helmeted 1925 Giants and later turned the team -- founded by his father -- into one of the marquee names in professional sports , died yesterday at his home in Rye , N.Y . <br><blue>2</blue>He was 89 . <br><blue>3</blue>The cause was cancer of the lymph nodes , the Giants said . <br><blue>4</blue>Mr. Mara had a front-row seat in the world of pro sports going back to the afternoon of Oct. 18 , 1925 , when the Giants played their first home game , losing to the Frankford Yellow Jackets . <br><blue>5</blue>He witnessed the famed Sneakers Game , when the Giants outmaneuvered the Chicago Bears by wearing rubber-soled footgear in the 1934 championship game on a frozen Polo Grounds field . <br><blue>6</blue>After 31 seasons at the Polo Grounds , Mr. Mara took the Giants to Yankee Stadium in 1956 , and they became the glamour franchise of the N.F.L. , winning the league championship that season and playing in the title game five times in the next seven years . <br><blue>7</blue>Mr. Mara moved the Giants again , to the New Jersey Meadowlands , in 1976 , despite an outcry led by the city 's mayor at the time , John V. Lindsay , when the plans were announced several years earlier . <br><blue>8</blue>The Giants went to the Super Bowl three times after that , winning it twice , and their games at the 76,000-seat Giants Stadium are invariably sellouts . <br><blue>9</blue>Through the decades , Mr. Mara remained an owner who was also a gentleman of the old school , a serious businessman and a serious fan maintaining a careful reserve in contrast to more voluble or explosive sports executives . <br><blue>10</blue>At Giants road games , he often sat in the press box , watching quietly , expressing his thoughts in a low voice , projecting the aura of a man who had been through countless triumphs and travails and could take them all in stride . <br><blue>11</blue>A fixture at practices , always low-key and polite , Mr. Mara was also a man who appreciated coaches of the old school . <br><blue>12</blue>Bill Parcells , a disciplinarian , was one of his favorites . <br><blue>13</blue>Mr. Mara assembled the fabled Giants teams of the 1950 's and 60 's ; they included Frank Gifford , Kyle Rote , Y.A. Tittle , Sam Huff , Andy Robustelli , Roosevelt Brown and Roosevelt Grier . <br><blue>14</blue>And he helped fuel the immense prosperity that all the N.F.L. franchises enjoy by championing a formula in which all the teams share equally in national television broadcast revenue . <br><blue>15</blue>He devoted his life to his large family , his Catholic faith and his extended Giants family , whose members revered him for his integrity and kindness . '' <br><blue>16</blue>One of the things I miss the most this year is seeing him at every practice , sitting on that golf chair he always had , '' Giants running back Tiki Barber said . '' <br><blue>17</blue>After games , you 'd walk into the locker room and he 'd be standing right there to shake your hand , win or lose . <br><blue>18</blue>He was such a dignified and in some ways regal character who always respected the game and respected what this league is about . '' <br><blue>19</blue>Two Generations in Hall Tim Mara , the Giants ' founder , who died in 1959 , was a charter member of the Pro Football Hall of Fame . <br><blue>20</blue>Wellington Mara , the Giants ' president and co-chief executive officer , was elected to the Hall in 1997 as the Maras became the first father and son to be inducted . <br><hr><br><blue>1(1)</blue>: <m_str>the N.F.L.</m_str> (6_27) 	<br><blue>2(26)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (15_3) 	<m_str>his</m_str> (15_6) 	<m_str>his</m_str> (15_10) 	<m_str>his</m_str> (15_14) 	<m_str>him</m_str> (15_22) 	<m_str>his</m_str> (15_24) 	<m_str>him</m_str> (16_13) 	<m_str>Mr. Mara</m_str> (9_5) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (16_23) 	<m_str>he</m_str> (17_12) 	<m_str>his</m_str> (1_31) 	<m_str>he</m_str> (10_6) 	<m_str>Tiki Barber</m_str> (16_31) 	<m_str>He</m_str> (18_1) 	<m_str>his</m_str> (10_18) 	<m_str>his</m_str> (1_47) 	<m_str>Mr. Mara</m_str> (4_1) 	<m_str>Mr. Mara</m_str> (11_11) 	<m_str>Tim Mara</m_str> (19_5) 	<m_str>He</m_str> (5_1) 	<m_str>Mr. Mara</m_str> (13_1) 	<m_str>Mr. Mara</m_str> (6_9) 	<m_str>he</m_str> (14_2) 	<m_str>Mr. Mara</m_str> (7_1) 	<br><blue>3(2)</blue>: <m_str>you</m_str> (17_4) 	<m_str>your</m_str> (17_20) 	<br><blue>4(2)</blue>: <m_str>the 1934 championship game on a frozen Polo Grounds field</m_str> (5_20) 	<m_str>the title game</m_str> (6_39) 	<br><blue>5(17)</blue>: <m_str>The Giants</m_str> (8_1) 	<m_str>the city 's</m_str> (7_22) 	<m_str>Giants</m_str> (15_16) 	<m_str>it</m_str> (8_14) 	<m_str>the leather-helmeted 1925 Giants</m_str> (1_19) 	<m_str>Giants</m_str> (10_2) 	<m_str>Giants</m_str> (16_28) 	<m_str>the Giants</m_str> (3_10) 	<m_str>the Giants '</m_str> (19_8) 	<m_str>the Giants '</m_str> (20_4) 	<m_str>the Giants</m_str> (4_25) 	<m_str>the Giants</m_str> (5_9) 	<m_str>their</m_str> (4_28) 	<m_str>the fabled Giants</m_str> (13_4) 	<m_str>they</m_str> (13_16) 	<m_str>the Giants</m_str> (6_12) 	<m_str>the Giants</m_str> (7_4) 	<br><blue>6(1)</blue>: <m_str>this league</m_str> (18_20) 	<br><blue>7(2)</blue>: <m_str>the old school</m_str> (11_21) 	<m_str>the old school</m_str> (9_16) 	<br><blue>8(2)</blue>: <m_str>his</m_str> (12_10) 	<m_str>Bill Parcells , a disciplinarian</m_str> (12_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

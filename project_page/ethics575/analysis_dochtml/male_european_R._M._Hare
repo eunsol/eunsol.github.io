@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>R. M. Hare, British Philosopher, Dies at 82; Looked for Logic in Morals </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>R.M. Hare , a moral philosopher who wrestled ethical questions out of the murky realm of emotion and into the hard-edged arena of logic , died on Jan. 29 in his home in Ewelme , England . <br><blue>2</blue>He was 82 . <br><blue>3</blue>Professor Hare had suffered a number of strokes in recent years , his son , John , said . <br><blue>4</blue>One of the pre-eminent moral philosophers of the postwar era , he wrote the classic book '' The Language of Morals '' ( 1952 ) , taught for nearly four decades at Oxford University and was later graduate research professor emeritus at the University of Florida . <br><blue>5</blue>Moral philosophy , which preoccupied thinkers from Socrates on , aims to answer the question : What is the essential form and function of ethical statements ? <br><blue>6</blue>Professor Hare sought an answer by peeling back the surface of everyday moral statements -- '' I should not cheat my employer , '' '' I ought to give to the poor '' -- to reveal the logical infrastructure below . '' <br><blue>7</blue>My life 's ambition , '' he once said , was '' to find a way of answering moral questions rationally . '' <br><blue>8</blue>In the first half of the 20th century , moral philosophy was more concerned with feeling . <br><blue>9</blue>A dominant school , called emotivism , viewed ethical propositions as simple mirrors of emotional states . <br><blue>10</blue>As such , the emotivists said , they reflected speakers ' inward feelings , like disapproval ( of cheating ) or approbation ( of generosity ) . <br><blue>11</blue>But to some philosophers , emotivism was facile and subjective , trafficking in unverifiable speculation ; critics called it the '' Boo-Hooray '' theory of morality . <br><blue>12</blue>How , they asked , could an utterance be proved beyond doubt to be a window to the impenetrable landscape of interior states ? <br><blue>13</blue>What was needed , they argued , was an objective method of unknotting the tangled logic of moral questions . <br><blue>14</blue>Professor Hare devised one . <br><blue>15</blue>Combining the linguistic analysis of the philosopher J. L. Austin with Kant 's idea of the categorical imperative ( the injunction to behave as if one 's actions were universal law ) , he developed a theory of morality that set forth two essential properties of moral statements : First , a moral statement is prescriptive , functioning not as a barometer of emotional weather but as an actual declaration of behavior , committing the speaker to a pragmatic course of action , like behaving honestly or giving to charity . <br><blue>16</blue>Second , a moral proposition is universalizable , or an instance of a larger truth ( like the general concept of charity as a virtue ) that applies to virtually everyone . <br><blue>17</blue>Professor Hare 's theory , known as prescriptivism , dominated moral philosophy in the 1950 's and 60 's . <br><blue>18</blue>Richard Mervyn Hare was born March 21 , 1919 , in Backwell , England . <br><blue>19</blue>While studying at Oxford in the late 1930 's , he agonized over whether to enlist or declare himself a pacifist as war loomed in Europe . <br><blue>20</blue>It was a choice , he would later say , that helped direct him toward moral philosophy . <br><hr><br><blue>1(2)</blue>: <m_str>they</m_str> (10_8) 	<m_str>the emotivists</m_str> (10_4) 	<br><blue>2(1)</blue>: <m_str>a moral proposition</m_str> (16_3) 	<br><blue>3(1)</blue>: <m_str>Oxford</m_str> (19_4) 	<br><blue>4(20)</blue>: <m_str>his</m_str> (3_13) 	<m_str>I</m_str> (6_26) 	<m_str>his son , John</m_str> (3_13) 	<m_str>he</m_str> (19_11) 	<m_str>he</m_str> (4_12) 	<m_str>himself</m_str> (19_19) 	<m_str>he</m_str> (20_6) 	<m_str>he</m_str> (15_34) 	<m_str>him</m_str> (20_14) 	<m_str>He</m_str> (2_1) 	<m_str>Professor Hare 's</m_str> (17_1) 	<m_str>Professor Hare</m_str> (6_1) 	<m_str>his</m_str> (1_31) 	<m_str>Professor Hare</m_str> (14_1) 	<m_str>Professor Hare</m_str> (3_1) 	<m_str>Richard Mervyn Hare</m_str> (18_1) 	<m_str>I</m_str> (6_17) 	<m_str>My</m_str> (7_1) 	<m_str>my</m_str> (6_21) 	<m_str>he</m_str> (7_7) 	<br><blue>5(2)</blue>: <m_str>they</m_str> (13_5) 	<m_str>they</m_str> (12_3) 	<br><blue>6(2)</blue>: <m_str>the University of Florida</m_str> (4_43) 	<m_str>Oxford University</m_str> (4_33) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

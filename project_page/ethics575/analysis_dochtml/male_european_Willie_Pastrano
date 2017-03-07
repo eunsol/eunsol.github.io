@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Willie Pastrano, 62, Boxing Champ in 1960's </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Willie Pastrano , who went from a chubby adolescent to a world light-heavyweight boxing champion , died of cancer in New Orleans on Saturday night . <br><blue>2</blue>He was 62 . <br><blue>3</blue>Pastrano had been hospitalized at Tulane Medical Center in New Orleans for two weeks . <br><blue>4</blue>Angelo Dundee , his former trainer , said Pastrano had known since last year that he had liver cancer . <br><blue>5</blue>Pastrano , a pudgy child growing up in New Orleans , took up boxing to lose weight after being prodded by his friend Ralph Dupas , a junior middleweight champion whose nickname for Pastrano was '' Fatmeat . '' <br><blue>6</blue>Pastrano was so embarrassed by his physique as a child that he would go to the boxing gym to train only late at night when there were not a lot of people around . <br><blue>7</blue>He began working with the trainer Whitey Esenault and turned pro at the age of 15 . <br><blue>8</blue>Many of his early bouts were grudge matches against young men from his neighborhood who had teased him about his weight . <br><blue>9</blue>In a 1963 interview he said he would tell them : '' Remember me ? <br><blue>10</blue>Remember the fat boy you used to throw his sandwich in the street every day at lunchtime at Colton School ? <br><blue>11</blue>Yeah , that 's me and I 'm gon na straighten out all the jive you laid on me . '' <br><blue>12</blue>His father , Frank , was a Works Progress Administration laborer who later worked on a merchant ship as a cook . <br><blue>13</blue>His mother , Martherina , took care of Willie , a half brother and an adopted sister at a three-room French Quarter flat . <br><blue>14</blue>Frank Pastrano forced Willie into his first fight , though it was not in the ring . <br><blue>15</blue>After catching sight of a bully smacking Willie in the back of the neck , Frank Pastrano told his son to fight the bully or get a licking from Frank . <br><blue>16</blue>Willie fought the other boy . <br><blue>17</blue>Esenault sent Pastrano and Dupas to train with Dundee in Miami during summer breaks from high school . <br><blue>18</blue>Because Pastrano and Dupas were both teen-agers , Dundee could not allow them to fight 10-round fights . '' <br><blue>19</blue>So my brother , Chris , invented the two-minute round for Willie and he could fight up to eight rounds , '' Dundee said . '' <br><blue>20</blue>In the summer of 1952 , while he was here on high school vacation , Willie fought six times . <br><hr><br><blue>1(3)</blue>: <m_str>Pastrano and Dupas</m_str> (17_3) 	<m_str>Pastrano and Dupas</m_str> (18_2) 	<m_str>them</m_str> (18_13) 	<br><blue>2(4)</blue>: <m_str>me</m_str> (11_5) 	<m_str>I</m_str> (11_7) 	<m_str>me</m_str> (9_14) 	<m_str>me</m_str> (11_19) 	<br><blue>3(2)</blue>: <m_str>you</m_str> (11_16) 	<m_str>you</m_str> (10_5) 	<br><blue>4(2)</blue>: <m_str>a bully smacking Willie in the back of the neck</m_str> (15_5) 	<m_str>the bully</m_str> (15_23) 	<br><blue>5(2)</blue>: <m_str>the other boy</m_str> (16_3) 	<m_str>the fat boy you used to throw his sandwich in the street every day at lunchtime at Colton School</m_str> (10_2) 	<br><blue>6(2)</blue>: <m_str>Esenault</m_str> (17_1) 	<m_str>the trainer Whitey Esenault</m_str> (7_5) 	<br><blue>7(3)</blue>: <m_str>he</m_str> (19_14) 	<m_str>my brother , Chris</m_str> (19_2) 	<m_str>he</m_str> (20_8) 	<br><blue>8(3)</blue>: <m_str>Dundee</m_str> (17_9) 	<m_str>Dundee</m_str> (19_23) 	<m_str>Dundee</m_str> (18_9) 	<br><blue>9(3)</blue>: <m_str>New Orleans</m_str> (1_21) 	<m_str>New Orleans</m_str> (3_10) 	<m_str>New Orleans</m_str> (5_9) 	<br><blue>10(2)</blue>: <m_str>Dupas</m_str> (17_5) 	<m_str>Dupas</m_str> (18_4) 	<br><blue>11(27)</blue>: <m_str>his</m_str> (4_4) 	<m_str>his</m_str> (8_3) 	<m_str>Pastrano</m_str> (4_9) 	<m_str>His</m_str> (12_1) 	<m_str>Frank Pastrano</m_str> (15_16) 	<m_str>his</m_str> (15_19) 	<m_str>Willie Pastrano , who went from a chubby adolescent to a world light-heavyweight boxing champion</m_str> (1_1) 	<m_str>he</m_str> (4_16) 	<m_str>his</m_str> (8_13) 	<m_str>Pastrano , a pudgy child growing up in New Orleans</m_str> (5_1) 	<m_str>him</m_str> (8_18) 	<m_str>his</m_str> (8_20) 	<m_str>he</m_str> (9_5) 	<m_str>His</m_str> (13_1) 	<m_str>he</m_str> (9_7) 	<m_str>He</m_str> (2_1) 	<m_str>Pastrano</m_str> (6_1) 	<m_str>his</m_str> (5_22) 	<m_str>his</m_str> (6_6) 	<m_str>Ralph Dupas , a junior middleweight champion whose nickname for Pastrano was</m_str> (5_24) 	<m_str>Frank Pastrano</m_str> (14_1) 	<m_str>he</m_str> (6_12) 	<m_str>his</m_str> (10_9) 	<m_str>Pastrano</m_str> (3_1) 	<m_str>his</m_str> (14_6) 	<m_str>Pastrano</m_str> (5_34) 	<m_str>He</m_str> (7_1) 	<br><blue>12(6)</blue>: <m_str>Willie</m_str> (16_1) 	<m_str>Willie</m_str> (14_4) 	<m_str>Willie</m_str> (20_16) 	<m_str>Willie</m_str> (13_9) 	<m_str>Willie</m_str> (15_8) 	<m_str>Willie</m_str> (19_12) 	<br><blue>13(1)</blue>: <m_str>Miami</m_str> (17_11) 	<br><blue>14(2)</blue>: <m_str>his first fight</m_str> (14_6) 	<m_str>it</m_str> (14_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

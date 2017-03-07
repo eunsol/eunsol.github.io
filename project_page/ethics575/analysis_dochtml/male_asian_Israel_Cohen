@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Israel Cohen, 83, Who Helped Pioneer the U.S. Supermarket </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Israel Cohen , whose family helped develop the concept of the supermarket , died in Washington , his hometown , on Wednesday , four months after taking a medical leave of absence as chairman and chief executive of Giant Food Inc . <br><blue>2</blue>He was 83 . <br><blue>3</blue>The company , based in the Washington suburb of Landover , Md. , said the cause of death was complications from non-Hodgkin 's lymphoma . <br><blue>4</blue>For more than three decades after the 1964 retirement of his father , Nehemiah M. Cohen , Israel Cohen was a leading figure in the expansion of Giant Food into a huge regional supermarket chain . <br><blue>5</blue>The company , which had 90 stores when Nehemiah Cohen left , now has 164 from New Jersey to Virginia and annual revenue of nearly $ 4 billion . <br><blue>6</blue>Almost halfof the consumers in the Washington area do their grocery shopping at a Giant Food store . <br><blue>7</blue>The elder Mr. Cohen and his partner , Samuel Lehrman , opened the first Giant Food store , in Washington , during a driving snowstorm in 1936 . <br><blue>8</blue>Israel Cohen , then 24 years old , stocked the store 's shelves and drove the company truck , along with his brother , Emmanuel , now deceased . <br><blue>9</blue>At a time when most grocery shopping was done at small stores that specialized in meat , vegetables or canned goods , Giant Food helped pioneer large stores that offered a wide variety at low prices , making them especially attractive to cash-strapped customers during the Depression . <br><blue>10</blue>Israel Cohen , known as Izzy to friends and employees alike , became president of Giant Food in 1977 and chairman in 1978 . <br><blue>11</blue>During his tenure , the company 's stores became larger and more diversified , with drug departments and gardening shops . <br><blue>12</blue>In 1979 , Giant Food became one of the first supermarket chains to introduce electronic scanning of merchandise at checkout counters and to offer ready-to-eat foods that could be reheated at home . <br><blue>13</blue>Earlier this year , J. Sainsbury P.L.C. , a British supermarket company , bought 17 percent of Giant Food 's nonvoting class A shares , as well as all 125,000 class AL shares , which give Sainsbury the right to elect three of Giant 's seven directors . <br><blue>14</blue>Still , Mr. Cohen remained the controlling shareholder . <br><blue>15</blue>Because Sainsbury has expressed interest in buying more shares , word of Mr. Cohen 's death caused Giant Food 's stock to rise sharply in very active trading yesterday , on speculation that the company would ultimately be sold to Sainsbury outright . <br><blue>16</blue>Giant Food 's shares gained $ 2.75 , to close at $ 34.25 , on the American Stock Exchange . <br><blue>17</blue>Giant Food declined comment on the market speculation . <br><blue>18</blue>Mr. Cohen is survived by a daughter , Dana , of McLean , Va. ; a son , Peter , of Altamonte Springs , Fla. ; a sister , Lillian Cohen Solomon of Washington , and two grandchildren . <br><hr><br><blue>1(3)</blue>: <m_str>the store 's</m_str> (8_10) 	<m_str>a Giant Food store</m_str> (6_14) 	<m_str>the first Giant Food store</m_str> (7_13) 	<br><blue>2(2)</blue>: <m_str>Giant Food 's shares</m_str> (16_1) 	<m_str>Giant Food 's nonvoting class A shares</m_str> (13_18) 	<br><blue>3(9)</blue>: <m_str>Giant Food 's</m_str> (13_18) 	<m_str>Giant Food</m_str> (9_23) 	<m_str>Giant Food</m_str> (12_4) 	<m_str>Giant Food 's</m_str> (15_18) 	<m_str>Giant Food 's</m_str> (16_1) 	<m_str>Giant Food</m_str> (17_1) 	<m_str>Giant Food</m_str> (6_15) 	<m_str>Giant Food</m_str> (7_15) 	<m_str>Giant Food Inc.</m_str> (1_39) 	<br><blue>4(13)</blue>: <m_str>non-Hodgkin 's</m_str> (3_22) 	<m_str>Israel Cohen</m_str> (8_1) 	<m_str>Israel Cohen , known as Izzy to friends and employees alike</m_str> (10_1) 	<m_str>Mr. Cohen 's</m_str> (15_13) 	<m_str>his</m_str> (4_11) 	<m_str>Mr. Cohen</m_str> (14_3) 	<m_str>Mr. Cohen</m_str> (18_1) 	<m_str>Israel Cohen</m_str> (4_18) 	<m_str>Mr. Cohen</m_str> (7_3) 	<m_str>his</m_str> (7_6) 	<m_str>his</m_str> (11_2) 	<m_str>his</m_str> (8_22) 	<m_str>Nehemiah Cohen</m_str> (5_9) 	<br><blue>5(5)</blue>: <m_str>Washington</m_str> (1_16) 	<m_str>Washington</m_str> (18_34) 	<m_str>Washington</m_str> (3_7) 	<m_str>Washington</m_str> (7_20) 	<m_str>Washington</m_str> (6_7) 	<br><blue>6(3)</blue>: <m_str>the company 's</m_str> (11_5) 	<m_str>the company</m_str> (15_34) 	<m_str>The company , which had 90 stores when Nehemiah Cohen left</m_str> (5_1) 	<br><blue>7(3)</blue>: <m_str>Israel Cohen , whose family helped develop the concept of the supermarket</m_str> (1_1) 	<m_str>his</m_str> (1_18) 	<m_str>He</m_str> (2_1) 	<br><blue>8(2)</blue>: <m_str>Sainsbury</m_str> (15_2) 	<m_str>Sainsbury</m_str> (13_37) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

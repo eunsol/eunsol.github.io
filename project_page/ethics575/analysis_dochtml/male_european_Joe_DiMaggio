@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Joe DiMaggio, Yankee Clipper, Dies at 84 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Joe DiMaggio , the flawless center fielder for the New York Yankees who , along with Babe Ruth and Mickey Mantle , symbolized the team 's dynastic success across the 20th century and whose 56-game hitting streak in 1941 made him an instant and indelible American folk hero , died early today at his home here . <br><blue>2</blue>He was 84 years old . <br><blue>3</blue>DiMaggio died shortly after midnight , nearly five months after undergoing surgery for cancer of the lungs . <br><blue>4</blue>He had spent 99 days in the hospital while battling lung infections and pneumonia , and his illness generated a national vigil as he was reported near death several times . <br><blue>5</blue>He went home on Jan. 19 , alert but weak and with little hope of surviving . <br><blue>6</blue>Several family members and close friends were at his bedside this morning . <br><blue>7</blue>DiMaggio 's body was flown to Northern California for a funeral Thursday and for burial in San Francisco , his hometown . <br><blue>8</blue>In a country that has idolized and even immortalized its 20th century heroes , from Charles A. Lindbergh to Elvis Presley , no one more embodied the American dream of fame and fortune or created a more enduring legend than Joe DiMaggio . <br><blue>9</blue>He became a figure of unequaled romance and integrity in the national mind because of his consistent professionalism on the baseball field , his marriage to the Hollywood star Marilyn Monroe , his devotion to her after her death , and the pride and courtliness with which he carried himself throughout his life . <br><blue>10</blue>DiMaggio burst onto the baseball scene from San Francisco in the 1930 's and grew into the game 's most gallant and graceful center fielder . <br><blue>11</blue>He wore No. 5 and became the successor to Babe Ruth ( No. 3 ) and Lou Gehrig ( No. 4 ) in the Yankees ' pantheon . <br><blue>12</blue>DiMaggio was the team 's superstar for 13 seasons , beginning in 1936 and ending in 1951 , and appeared in 11 All-Star Games and 10 World Series . <br><blue>13</blue>He was , as the writer Roy Blount Jr. once observed , '' the class of the Yankees in times when the Yankees outclassed everybody else . '' <br><blue>14</blue>He was called the Yankee Clipper and was acclaimed at baseball 's centennial in 1969 as '' the greatest living ballplayer , '' the man who in 1,736 games with the Yankees had a career batting average of .325 and hit 361 home runs while striking out only 369 times , one of baseball 's most amazing statistics . <br><blue>15</blue>( By way of comparison , Mickey Mantle had 536 homers and struck out 1,710 times ; Reggie Jackson slugged 563 homers and struck out 2,597 times . ) <br><blue>16</blue>But DiMaggio 's game was so complete and elegant that it transcended statistics ; as The New York Times said in an editorial when he retired , '' The combination of proficiency and exquisite grace which Joe DiMaggio brought to the art of playing center field was something no baseball averages can measure and that must be seen to be believed and appreciated . '' <br><blue>17</blue>DiMaggio glided across the vast expanse of center field at Yankee Stadium with such incomparable grace that long after he stopped playing , the memory of him in full stride remains evergreen . <br><blue>18</blue>He disdained theatrical flourishes and exaggerated moves , never climbing walls to make catches and rarely diving headlong . <br><blue>19</blue>He got to the ball just as it fell into his glove , making the catch seem inevitable , almost preordained . <br><blue>20</blue>The writer Wilfrid Sheed wrote , '' In dreams I can still see him gliding after fly balls as if he were skimming the surface of the moon . '' <br><hr><br><blue>1(2)</blue>: <m_str>baseball 's</m_str> (14_54) 	<m_str>baseball 's</m_str> (14_11) 	<br><blue>2(2)</blue>: <m_str>563 homers</m_str> (15_21) 	<m_str>536 homers</m_str> (15_10) 	<br><blue>3(2)</blue>: <m_str>DiMaggio 's game</m_str> (16_2) 	<m_str>it</m_str> (16_11) 	<br><blue>4(1)</blue>: <m_str>Yankee Stadium</m_str> (17_11) 	<br><blue>5(1)</blue>: <m_str>the catch</m_str> (19_15) 	<br><blue>6(2)</blue>: <m_str>San Francisco</m_str> (10_8) 	<m_str>San Francisco</m_str> (7_17) 	<br><blue>7(4)</blue>: <m_str>the Yankees</m_str> (14_31) 	<m_str>the Yankees</m_str> (13_17) 	<m_str>the Yankees '</m_str> (11_24) 	<m_str>the Yankees</m_str> (13_22) 	<br><blue>8(2)</blue>: <m_str>the team 's</m_str> (12_3) 	<m_str>the team 's</m_str> (1_24) 	<br><blue>9(2)</blue>: <m_str>Mickey Mantle</m_str> (1_20) 	<m_str>Mickey Mantle</m_str> (15_7) 	<br><blue>10(39)</blue>: <m_str>He</m_str> (2_1) 	<m_str>DiMaggio</m_str> (3_1) 	<m_str>him</m_str> (1_41) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (1_54) 	<m_str>his</m_str> (4_17) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (4_24) 	<m_str>his</m_str> (6_9) 	<m_str>DiMaggio 's</m_str> (7_1) 	<m_str>his</m_str> (7_20) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (9_16) 	<m_str>DiMaggio</m_str> (10_1) 	<m_str>his</m_str> (9_24) 	<m_str>Joe DiMaggio</m_str> (8_41) 	<m_str>his</m_str> (9_33) 	<m_str>He</m_str> (11_1) 	<m_str>her</m_str> (9_36) 	<m_str>her</m_str> (9_38) 	<m_str>he</m_str> (9_48) 	<m_str>himself</m_str> (9_50) 	<m_str>his</m_str> (9_52) 	<m_str>DiMaggio</m_str> (12_1) 	<m_str>He</m_str> (13_1) 	<m_str>He</m_str> (14_1) 	<m_str>DiMaggio 's</m_str> (16_2) 	<m_str>DiMaggio</m_str> (17_1) 	<m_str>he</m_str> (16_25) 	<m_str>He</m_str> (18_1) 	<m_str>he</m_str> (17_20) 	<m_str>Joe DiMaggio</m_str> (16_37) 	<m_str>him</m_str> (17_27) 	<m_str>He</m_str> (19_1) 	<m_str>his</m_str> (19_11) 	<m_str>The writer Wilfrid Sheed</m_str> (20_1) 	<m_str>I</m_str> (20_10) 	<m_str>him</m_str> (20_14) 	<m_str>he</m_str> (20_21) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

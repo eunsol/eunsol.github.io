@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Edward Dmytryk, Film Director, Dies at 90 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Edward Dmytryk , the versatile director whose best films were taut , realistic and at times explosive and who , as one of the '' Hollywood 10 , '' was jailed for refusing to tell a Congressional committee whether he was a Communist , died on Thursday at his home in Encino , Calif . <br><blue>2</blue>He was 90 and the only member of the 10 who recanted and named names . <br><blue>3</blue>In 1947 , when the House Un-American Activities Committee held hearings on subversive activities in the entertainment industry , Mr. Dmytryk had been nominated for an Academy Award as best director for '' Crossfire , '' a powerful film about anti-Semitism that he made with Adrian Scott , another member of the Hollywood 10 , and which starred Robert Ryan , Robert Mitchum and Robert Young . <br><blue>4</blue>After a long apprenticeship in Hollywood , Mr. Dmytryk was regarded as one of the industry 's bright new directors . <br><blue>5</blue>His early films included '' Hitler 's Children '' and '' Behind the Rising Sun , '' graphic 1943 anti-Fascist melodramas ; '' Murder , My Sweet '' ( 1944 ) and '' Cornered '' ( 1945 ) , thrillers that established a macho image for the actor Dick Powell and won him a new career ; '' Back to Bataan , '' with John Wayne as tough as ever , and '' Till the End of Time , '' a sympathetic drama of returning soldiers . <br><blue>6</blue>What many of these films shared was a faith in common people , dedication to team efforts and respect for traditional values , often focusing on a character 's faith and commitment . <br><blue>7</blue>But all this ended in 1947 when Mr. Dmytryk was one of the group of screenwriters , directors and producers who were cited for contempt of Congress by the House Un-American Activities Committee for refusing to acknowledge a Communist affiliation . <br><blue>8</blue>For his silence , the director paid a $ 1,000 fine and served four and a half months at a Federal prison camp in Mill Point , W. Va . <br><blue>9</blue>In his 1978 autobiography , '' It 's a Hell of a Life , but Not a Bad Living , '' published by Times Books , Mr. Dmytryk said he was blacklisted after his release from prison and unable to work . <br><blue>10</blue>He said he hunted for ways to break the blacklist and concluded : '' I had to purge myself : Hollywood 's right wing had to have its pound of flesh . <br><blue>11</blue>They were riding high now , and there was no way they were going to let anyone off the hook . <br><blue>12</blue>It was an eye-for-eye attitude , but who could blame them ? '' <br><blue>13</blue>In 1951 he reappeared before the panel , acknowledged that he had been a Communist Party member from 1944 to 1945 and confirmed other witnesses ' party membership . <br><blue>14</blue>In his autobiography , Mr. Dmytryk said he did not feel guilty about his reversal , unlike some other reluctant witnesses who eventually cooperated . '' <br><blue>15</blue>I had long been convinced , '' he said , '' that the fight of the Hollywood 10 was political , that the battle for freedom of thought , in which I believed completely , had been twisted into a conspiracy of silence . <br><blue>16</blue>I was being forced to sacrifice my family and my career in defense of the Communist Party , from which I had long been separated and which I had grown to dislike and distrust . '' '' <br><blue>17</blue>My decision was made easier , '' he continued , because '' my experience as an actual party member had been rather meager , and I could n't name anybody who had n't already been identified . '' <br><blue>18</blue>He expressed pride that '' there was no new or startling information '' in his testimony , which ended his blacklisting by the American film industry . '' <br><blue>19</blue>For the first time in three and a half years , '' he wrote , '' I felt free of guilt . '' <br><blue>20</blue>After he recanted , Mr. Dmytryk found work . <br><hr><br><blue>1(2)</blue>: <m_str>the Communist Party</m_str> (16_15) 	<m_str>Communist Party</m_str> (13_15) 	<br><blue>2(2)</blue>: <m_str>It</m_str> (12_1) 	<m_str>the hook</m_str> (11_19) 	<br><blue>3(2)</blue>: <m_str>His early films</m_str> (5_1) 	<m_str>these films</m_str> (6_4) 	<br><blue>4(3)</blue>: <m_str>they</m_str> (11_12) 	<m_str>them</m_str> (12_11) 	<m_str>They</m_str> (11_1) 	<br><blue>5(2)</blue>: <m_str>It</m_str> (9_7) 	<m_str>a $ 1,000 fine</m_str> (8_8) 	<br><blue>6(45)</blue>: <m_str>Mr. Dmytryk</m_str> (7_8) 	<m_str>I</m_str> (15_1) 	<m_str>he</m_str> (15_8) 	<m_str>him</m_str> (5_53) 	<m_str>his</m_str> (8_2) 	<m_str>the director</m_str> (8_5) 	<m_str>I</m_str> (16_1) 	<m_str>John Wayne</m_str> (5_65) 	<m_str>my</m_str> (16_7) 	<m_str>my</m_str> (16_10) 	<m_str>his</m_str> (9_2) 	<m_str>I</m_str> (15_32) 	<m_str>My</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>I</m_str> (16_21) 	<m_str>he</m_str> (17_8) 	<m_str>He</m_str> (10_1) 	<m_str>I</m_str> (16_28) 	<m_str>he</m_str> (10_3) 	<m_str>my</m_str> (17_13) 	<m_str>He</m_str> (18_1) 	<m_str>Mr. Dmytryk</m_str> (9_27) 	<m_str>he</m_str> (9_30) 	<m_str>he</m_str> (1_40) 	<m_str>his</m_str> (9_34) 	<m_str>I</m_str> (17_26) 	<m_str>his</m_str> (18_15) 	<m_str>his</m_str> (1_49) 	<m_str>his</m_str> (18_20) 	<m_str>Mr. Dmytryk</m_str> (3_20) 	<m_str>Mr. Dmytryk</m_str> (4_8) 	<m_str>he</m_str> (19_13) 	<m_str>I</m_str> (19_17) 	<m_str>His</m_str> (5_1) 	<m_str>he</m_str> (20_2) 	<m_str>Mr. Dmytryk</m_str> (20_5) 	<m_str>Hitler 's</m_str> (5_6) 	<m_str>he</m_str> (3_43) 	<m_str>he</m_str> (13_3) 	<m_str>he</m_str> (13_11) 	<m_str>his</m_str> (14_2) 	<m_str>Robert Mitchum</m_str> (3_62) 	<m_str>Mr. Dmytryk</m_str> (14_5) 	<m_str>he</m_str> (14_8) 	<m_str>his</m_str> (14_14) 	<br><blue>7(1)</blue>: <m_str>Robert Young</m_str> (3_65) 	<br><blue>8(2)</blue>: <m_str>his autobiography</m_str> (14_2) 	<m_str>his 1978 autobiography , '' It 's a Hell of a Life , but Not a Bad Living , '' published by Times Books</m_str> (9_2) 	<br><blue>9(3)</blue>: <m_str>the industry 's</m_str> (4_15) 	<m_str>the entertainment industry</m_str> (3_16) 	<m_str>the American film industry</m_str> (18_23) 	<br><blue>10(1)</blue>: <m_str>a powerful film about anti-Semitism that he made with Adrian Scott , another member of the Hollywood 10 , and which starred Robert Ryan , Robert Mitchum and Robert Young</m_str> (3_37) 	<br><blue>11(2)</blue>: <m_str>the House Un-American Activities Committee</m_str> (7_29) 	<m_str>the House Un-American Activities Committee</m_str> (3_5) 	<br><blue>12(2)</blue>: <m_str>I</m_str> (10_15) 	<m_str>myself</m_str> (10_19) 	<br><blue>13(3)</blue>: <m_str>its</m_str> (10_28) 	<m_str>Hollywood</m_str> (4_6) 	<m_str>Hollywood 's</m_str> (10_21) 	<br><blue>14(3)</blue>: <m_str>the Hollywood 10</m_str> (15_16) 	<m_str>the Hollywood 10</m_str> (3_52) 	<m_str>Hollywood 10</m_str> (1_26) 	<br><blue>15(1)</blue>: <m_str>my family</m_str> (16_7) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

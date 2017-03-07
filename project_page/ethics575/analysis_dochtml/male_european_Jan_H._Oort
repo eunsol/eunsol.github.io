@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jan H. Oort, Dutch Astronomer In Forefront of Field, Dies at 92 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jan H. Oort , the Dutch astronomer who made major discoveries about the dynamics of the Milky Way galaxy , the mass of the cosmos and the origin of comets , died last Thursday in Leiden , the Netherlands . <br><blue>2</blue>He was 92 years old and lived in Leiden . <br><blue>3</blue>He died as a result of complications from a broken hip , Dr. Tyeerd Van Albada , an astronomer at the University of Groningen in the Netherlands , said yesterday . <br><blue>4</blue>A memorial service was held on Monday near Leiden . <br><blue>5</blue>As an astronomy professor at the University of Leiden and for years director of its observatory , Dr. Oort established a reputation as one of the century 's foremost explorers of the universe . <br><blue>6</blue>One of his earliest and most important achievements was to establish the rotation of the Milky Way and to chart the solar system 's place in that galaxy . <br><blue>7</blue>Soon after he joined the Leiden faculty in 1926 , Dr. Oort obtained the first direct observational evidence of the Milky Way 's rotation . <br><blue>8</blue>Through complex calculations , he measured the relative velocities of stars moving with the rotating galaxy and deduced their distances from the galactic center . <br><blue>9</blue>In this way , he determined that the Sun and its planets were not even close to the galaxy 's center but 30,000 light years away , in the galactic hinterland , traveling an orbit of that center that takes 300 million years to complete . <br><blue>10</blue>Insight on ' Missing Mass ' " Like a modern Copernicus , Oort showed that our position in nature 's grand scheme was not so special , " said Dr. Seth Shostak , an astronomer at the SETI Institute in Mountain View , Calif. , who worked for many years at the University of Groningen . <br><blue>11</blue>Other pioneering research by Dr. Oort included observations of galactic structure and dynamics showing the effects of much more mass in the universe than could be detected visually or by current indirect means . <br><blue>12</blue>This led to one of the earliest recognitions of what is known as the " missing mass , " the undetected matter that could constitute more than 90 percent of the universe and account for gravity 's causing the clustering of stars into galaxies and galaxies into connecting strings of galaxies . <br><blue>13</blue>But Dr. Oort was probably more widely known for an idea that sprang from work in his astronomical sideline , the study of comets . <br><blue>14</blue>In the 1940 's , a student interested him in comets . <br><blue>15</blue>By studying their trajectories , Dr. Oort traced these blazing objects back to what he considered the most likely mother lode for nearly all comets . <br><blue>16</blue>This is a region on the outskirts of the solar system , far beyond Pluto and Neptune and well out toward the next star . <br><blue>17</blue>Tens of millions of icy objects occupied this region , he suggested , and from time to time the gravity of a passing star and of the solar system 's outer planets would pull some out of the swarm and send them hurtling into the inner solar system . <br><blue>18</blue>The idea is widely accepted by astronomers as the best explanation for the origin of comets . <br><blue>19</blue>And this reservoir of comets is known as the Oort Cloud . <br><blue>20</blue>' Father of Dutch Astronomy ' Colleagues credited Dr. Oort with promoting radio astronomy in its early years after World War II and putting the Netherlands in the forefront of postwar astronomy . <br><hr><br><blue>1(2)</blue>: <m_str>the origin of comets</m_str> (18_13) 	<m_str>the origin of comets</m_str> (1_27) 	<br><blue>2(2)</blue>: <m_str>the century 's</m_str> (5_26) 	<m_str>its</m_str> (5_15) 	<br><blue>3(2)</blue>: <m_str>their</m_str> (15_3) 	<m_str>these</m_str> (15_9) 	<br><blue>4(2)</blue>: <m_str>the universe</m_str> (11_22) 	<m_str>the universe</m_str> (5_32) 	<br><blue>5(2)</blue>: <m_str>the galactic center</m_str> (8_22) 	<m_str>that center that takes 300 million years to complete</m_str> (9_37) 	<br><blue>6(3)</blue>: <m_str>the Milky Way</m_str> (6_15) 	<m_str>this way</m_str> (9_2) 	<m_str>the Milky Way 's</m_str> (7_20) 	<br><blue>7(2)</blue>: <m_str>This</m_str> (16_1) 	<m_str>This</m_str> (12_1) 	<br><blue>8(4)</blue>: <m_str>that galaxy</m_str> (6_27) 	<m_str>the Milky Way galaxy</m_str> (1_16) 	<m_str>the rotating galaxy</m_str> (8_14) 	<m_str>the galaxy 's</m_str> (9_18) 	<br><blue>9(16)</blue>: <m_str>Dr. Oort</m_str> (13_2) 	<m_str>Dr. Oort</m_str> (11_5) 	<m_str>He</m_str> (2_1) 	<m_str>Dr. Oort</m_str> (7_11) 	<m_str>Dr. Oort</m_str> (15_6) 	<m_str>Dr. Oort</m_str> (5_18) 	<m_str>his</m_str> (6_3) 	<m_str>he</m_str> (17_11) 	<m_str>he</m_str> (8_5) 	<m_str>his</m_str> (13_17) 	<m_str>he</m_str> (15_15) 	<m_str>He</m_str> (3_1) 	<m_str>Oort</m_str> (10_13) 	<m_str>him</m_str> (14_9) 	<m_str>he</m_str> (7_3) 	<m_str>he</m_str> (9_5) 	<br><blue>10(4)</blue>: <m_str>Leiden , the Netherlands</m_str> (1_36) 	<m_str>Leiden</m_str> (2_9) 	<m_str>Leiden</m_str> (4_9) 	<m_str>Leiden</m_str> (7_6) 	<br><blue>11(3)</blue>: <m_str>the inner solar system</m_str> (17_45) 	<m_str>the solar system 's</m_str> (6_21) 	<m_str>the solar system 's</m_str> (17_27) 	<br><blue>12(2)</blue>: <m_str>its</m_str> (20_16) 	<m_str>Dutch Astronomy ' Colleagues</m_str> (20_4) 	<br><blue>13(3)</blue>: <m_str>the Sun</m_str> (9_8) 	<m_str>its</m_str> (9_11) 	<m_str>our</m_str> (10_16) 	<br><blue>14(2)</blue>: <m_str>the rotation of the Milky Way</m_str> (6_12) 	<m_str>the Milky Way 's rotation</m_str> (7_20) 	<br><blue>15(2)</blue>: <m_str>the Netherlands</m_str> (1_38) 	<m_str>the Netherlands</m_str> (3_26) 	<br><blue>16(2)</blue>: <m_str>the solar system 's outer planets</m_str> (17_27) 	<m_str>its planets</m_str> (9_11) 	<br><blue>17(2)</blue>: <m_str>the University of Groningen in the Netherlands</m_str> (3_21) 	<m_str>the University of Groningen</m_str> (10_52) 	<br><blue>18(2)</blue>: <m_str>The idea</m_str> (18_1) 	<m_str>an idea that sprang from work in his astronomical sideline , the study of comets</m_str> (13_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Alfredo Silipigni, 74, Who Founded An Opera Company </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Alfredo Silipigni , a conductor and specialist in lesser-known Italian operas who founded the New Jersey State Opera and ran it for four decades , died on Saturday in Livingston , N.J . <br><blue>2</blue>He was 74 and lived in West Orange , N.J . <br><blue>3</blue>The cause was complications of pneumonia , said Astera Argyris , a spokeswoman for the company . <br><blue>4</blue>Mr. Silipigni , a dapper figure of old-world elegance with his pencil-thin mustache , manicured nails and ascot , was as meticulous with his productions as he was with his appearance . <br><blue>5</blue>Before conducting works like Leoncavallo 's '' Zazà , '' Cilea 's '' Adriana Lecouvreur '' and Verdi 's '' Attila , '' he did painstaking research . <br><blue>6</blue>For a production of '' Tosca '' six years ago , he matched the color of choir robes used in Rome in 1800 . <br><blue>7</blue>Often , the works had not been heard in the United States for decades before Mr. Silipigni presented them , turning Newark , where the company was based , into a destination for lovers of verismo and operatic obscurities . <br><blue>8</blue>He also did things on a grand scale . <br><blue>9</blue>In 2000 , he conducted two performances of '' Aida '' before tens of thousands of people at a stadium in Shanghai , with a cast put at 3,000 . <br><blue>10</blue>Alfredo Silipigni was born in Atlantic City on April 9 , 1931 , a son of Italian immigrants . <br><blue>11</blue>He attended the Westminster Choir College in Princeton and the Juilliard School . <br><blue>12</blue>He made his Carnegie Hall debut at 25 with the NBC Symphony Orchestra , and went on to conduct at the Vienna State Opera and the English National Opera , among others . <br><blue>13</blue>But his home was in New Jersey . <br><blue>14</blue>In 1965 , an amateur troupe , the Opera Theater of Westfield , asked him to take charge , and he set about turning it into a professional operation . <br><blue>15</blue>Many singers with big reputations chose to sing with Mr. Silipigni and his modest company . <br><blue>16</blue>Beverly Sills , Birgit Nilsson , Anna Moffo and Plácido Domingo were a few . <br><blue>17</blue>Mr. Silipigni is survived by his wife , Gloria ; three children , Marisa , Elisabetta and Alfred ; a brother , Richard ; and two grandchildren . <br><blue>18</blue>In an interview with The New York Times in 2000 , Mr. Silipigni said his goal at the start of his career was to make great music . '' <br><blue>19</blue>Now , that just seems grand and pompous , '' he said . '' <br><blue>20</blue>I conduct for myself . <br><hr><br><blue>1(26)</blue>: <m_str>his</m_str> (18_15) 	<m_str>he</m_str> (14_21) 	<m_str>his</m_str> (18_21) 	<m_str>Mr. Silipigni</m_str> (7_16) 	<m_str>He</m_str> (8_1) 	<m_str>Mr. Silipigni</m_str> (15_10) 	<m_str>his</m_str> (15_13) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (19_11) 	<m_str>his</m_str> (4_11) 	<m_str>his</m_str> (12_3) 	<m_str>Leoncavallo 's</m_str> (5_5) 	<m_str>his</m_str> (4_24) 	<m_str>he</m_str> (9_4) 	<m_str>he</m_str> (4_27) 	<m_str>his</m_str> (13_2) 	<m_str>his</m_str> (4_30) 	<m_str>Mr. Silipigni</m_str> (17_1) 	<m_str>his</m_str> (17_6) 	<m_str>Attila</m_str> (5_21) 	<m_str>Alfredo Silipigni</m_str> (10_1) 	<m_str>he</m_str> (5_24) 	<m_str>he</m_str> (6_12) 	<m_str>He</m_str> (11_1) 	<m_str>him</m_str> (14_15) 	<m_str>Mr. Silipigni</m_str> (18_12) 	<br><blue>2(2)</blue>: <m_str>charge</m_str> (14_18) 	<m_str>it</m_str> (14_25) 	<br><blue>3(2)</blue>: <m_str>the New Jersey State Opera</m_str> (1_14) 	<m_str>it</m_str> (1_21) 	<br><blue>4(2)</blue>: <m_str>Livingston , N.J.</m_str> (1_30) 	<m_str>N.J.</m_str> (2_10) 	<br><blue>5(2)</blue>: <m_str>I</m_str> (20_1) 	<m_str>myself</m_str> (20_4) 	<br><blue>6(1)</blue>: <m_str>the Vienna State Opera</m_str> (12_21) 	<br><blue>7(2)</blue>: <m_str>them</m_str> (7_19) 	<m_str>the works</m_str> (7_3) 	<br><blue>8(2)</blue>: <m_str>the company</m_str> (7_25) 	<m_str>the company</m_str> (3_15) 	<br><blue>9(1)</blue>: <m_str>the NBC Symphony Orchestra</m_str> (12_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

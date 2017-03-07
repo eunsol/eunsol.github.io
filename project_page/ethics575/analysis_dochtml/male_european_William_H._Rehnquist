@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>William H. Rehnquist, Chief Justice of Supreme Court, Is Dead at 80 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>William H. Rehnquist , who died Saturday at the age of 80 almost a year after learning he had thyroid cancer , helped lead a conservative revolution on the Supreme Court during 19 notably successful years as chief justice of the United States . <br><blue>2</blue>Including 14 years as an associate justice , Chief Justice Rehnquist 's tenure on the court was not only one of the longest in the institution 's history but also one of the most consequential . <br><blue>3</blue>With a steady hand , a focus and commitment that never wavered , and the muscular use of the power of judicial review , he managed to translate many of his long-held views into binding national precedent . <br><blue>4</blue>Chief among those was an enhanced role for the states within the federal system , which the court accomplished under his leadership by overturning dozens of federal laws that sought to project federal authority into what the Supreme Court majority viewed as the domain of the states . <br><blue>5</blue>In the zero-sum game of the tri-partite separation of powers , the Supreme Court 's own power grew correspondingly as the justices circumscribed the power of Congress . <br><blue>6</blue>The court 's institutional enhancement was an irony of Chief Justice Rehnquist 's tenure , because another goal that he accomplished in large measure was to shrink the role of the federal courts by taking them out of the business of running prisons , school systems and other institutions of government . <br><blue>7</blue>The Rehnquist years included one historic episode of galvanizing drama and deep divisiveness , the decision in Bush v. Gore that decided the 2000 presidential election by ending the recount in Florida and handing a wafer-thin victory to George W. Bush . <br><blue>8</blue>While Chief Justice Rehnquist voted with the 5 to 4 majority , his central role in the case was largely behind the scenes and the controlling opinion did not carry his name . <br><blue>9</blue>While Chief Justice Rehnquist was a self-confident and not unduly modest man , that near-invisibility was itself quite characteristic and led many people to assume incorrectly that one of his flashier colleagues , Justice Antonin Scalia , had played the stage-manager 's role in the events that resulted in the final decision in Bush v. Gore . '' <br><blue>10</blue>Rehnquist is the opposite of Scalia , '' Professor Robert C. Post of the law school at the University of California at Berkeley said in an interview . '' <br><blue>11</blue>Rehnquist does n't particularly want to be noticed . <br><blue>12</blue>He 's not interested in getting credit . <br><blue>13</blue>He 's just interested in getting the job done . '' <br><blue>14</blue>Chief Justice Rehnquist also had the unusual experience of presiding over a presidential impeachment trial , a role ordained for the chief justice by the Constitution . <br><blue>15</blue>During the five weeks in early 1999 that it took the Senate to try and acquit President Bill Clinton on charges of perjury and obstruction of justice , the chief justice was an unfamiliar presence in the Senate chamber , occasionally moving the proceedings along but having little of substance to do . '' <br><blue>16</blue>I did nothing in particular and I did it very well , '' he told a television interviewer , Charlie Rose , two years later , borrowing a line from one of his favorite Gilbert and Sullivan operettas , '' Iolanthe . '' '' <br><blue>17</blue>Iolanthe '' also inspired Chief Justice Rehnquist to modify his basic black judicial robe by adding four gold stripes to each sleeve , copying the costume worn by the Lord Chancellor in a local production of the operetta . <br><blue>18</blue>Since the chief justice had never paid any noticeable attention to his attire , the new adornment was startling . <br><blue>19</blue>Where some saw self-aggrandizement , others saw the sartorial manifestation of a wry sense of humor . <br><blue>20</blue>Chief Justice Rehnquist was an efficient administrator who had the affection and respect of even those colleagues who disagreed with him most vigorously . <br><hr><br><blue>1(4)</blue>: <m_str>his</m_str> (3_31) 	<m_str>he</m_str> (1_18) 	<m_str>his</m_str> (4_21) 	<m_str>he</m_str> (3_25) 	<br><blue>2(2)</blue>: <m_str>the Supreme Court 's own power</m_str> (5_12) 	<m_str>the power of Congress</m_str> (5_24) 	<br><blue>3(2)</blue>: <m_str>Chief Justice Rehnquist 's tenure</m_str> (6_10) 	<m_str>Chief Justice Rehnquist 's tenure on the court</m_str> (2_9) 	<br><blue>4(18)</blue>: <m_str>Chief Justice Rehnquist</m_str> (8_2) 	<m_str>Chief Justice Rehnquist</m_str> (9_2) 	<m_str>he</m_str> (16_14) 	<m_str>Chief Justice Rehnquist</m_str> (17_5) 	<m_str>Rehnquist</m_str> (10_1) 	<m_str>his</m_str> (17_10) 	<m_str>Chief Justice Rehnquist 's</m_str> (2_9) 	<m_str>his</m_str> (16_33) 	<m_str>Rehnquist</m_str> (11_1) 	<m_str>his</m_str> (18_12) 	<m_str>He</m_str> (12_1) 	<m_str>Chief Justice Rehnquist</m_str> (20_1) 	<m_str>He</m_str> (13_1) 	<m_str>him</m_str> (20_21) 	<m_str>Chief Justice Rehnquist</m_str> (14_1) 	<m_str>Chief Justice Rehnquist 's</m_str> (6_10) 	<m_str>Rehnquist</m_str> (7_2) 	<m_str>he</m_str> (6_20) 	<br><blue>5(2)</blue>: <m_str>the states</m_str> (4_46) 	<m_str>the United States</m_str> (1_41) 	<br><blue>6(2)</blue>: <m_str>the 5 to 4 majority</m_str> (8_7) 	<m_str>the Supreme Court majority</m_str> (4_37) 	<br><blue>7(2)</blue>: <m_str>Bush</m_str> (7_18) 	<m_str>Bush</m_str> (9_54) 	<br><blue>8(2)</blue>: <m_str>Gore</m_str> (9_56) 	<m_str>Gore</m_str> (7_20) 	<br><blue>9(3)</blue>: <m_str>his</m_str> (8_13) 	<m_str>his</m_str> (8_31) 	<m_str>his</m_str> (9_30) 	<br><blue>10(2)</blue>: <m_str>near-invisibility</m_str> (9_15) 	<m_str>itself</m_str> (9_17) 	<br><blue>11(6)</blue>: <m_str>the Supreme Court 's</m_str> (5_12) 	<m_str>The court 's</m_str> (6_1) 	<m_str>Supreme Court</m_str> (4_38) 	<m_str>the Supreme Court</m_str> (1_29) 	<m_str>the court</m_str> (2_15) 	<m_str>the court</m_str> (4_17) 	<br><blue>12(2)</blue>: <m_str>Senate</m_str> (15_38) 	<m_str>the Senate</m_str> (15_11) 	<br><blue>13(2)</blue>: <m_str>the Constitution</m_str> (14_25) 	<m_str>it</m_str> (15_9) 	<br><blue>14(2)</blue>: <m_str>I</m_str> (16_1) 	<m_str>I</m_str> (16_7) 	<br><blue>15(2)</blue>: <m_str>nothing</m_str> (16_3) 	<m_str>it</m_str> (16_9) 	<br><blue>16(1)</blue>: <m_str>the federal courts</m_str> (6_31) 	<br><blue>17(3)</blue>: <m_str>the chief justice</m_str> (14_21) 	<m_str>the chief justice</m_str> (18_2) 	<m_str>the chief justice</m_str> (15_29) 	<br><blue>18(1)</blue>: <m_str>his flashier colleagues</m_str> (9_30) 	<br><blue>19(1)</blue>: <m_str>The Rehnquist years</m_str> (7_1) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

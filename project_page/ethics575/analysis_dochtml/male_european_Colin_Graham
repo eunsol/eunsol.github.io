@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Colin Graham, 75, Director Of St. Louis Opera Company </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Colin Graham , the artistic director of the Opera Theater of St. Louis , died on Friday in Creve Coeur , Mo. , near St. Louis . <br><blue>2</blue>He was 75 . <br><blue>3</blue>The cause was respiratory and cardiac arrest , the Opera Theater announced . <br><blue>4</blue>Mr. Graham staged 48 new productions at St. Louis , including Britten 's '' Gloriana , '' '' Billy Budd '' and '' Paul Bunyan '' ; Purcell 's '' King Arthur '' ; and the United States premiere productions of Rossini 's '' Viaggio a Reims '' and Bernstein 's final version of '' Candide . '' <br><blue>5</blue>His staging of David Carlson 's '' Anna Karenina , '' for which he wrote the libretto , has its world premiere on April 28 at Florida Grand Opera in Miami , then opens in St. Louis in June -- his 57th premiere production . <br><blue>6</blue>Other major premieres he directed include Minoru Miki 's '' Tale of Genji '' for St. Louis , John Corigliano 's '' Ghosts of Versailles '' for the Metropolitan Opera , Bright Sheng 's '' Madame Mao '' for Santa Fe Opera and André Previn 's '' Streetcar Named Desire '' for San Francisco Opera . <br><blue>7</blue>A prolific librettist , Mr. Graham often wrote the librettos for the operas he directed , including works by Britten , Mr. Previn , Stephen Paulus , Richard Rodney Bennett , Mr. Sheng and Mr. Miki . <br><blue>8</blue>Mr. Graham was born in London and attended the Royal Academy of Dramatic Art in 1951 . <br><blue>9</blue>He initially worked as an actor and hoped to sing opera before joining the Royal Opera House as an assistant stage manager . <br><blue>10</blue>In 1953 he moved to the English Opera Group , the beginning of a long association with Britten and his music . <br><blue>11</blue>He directed all but one of the composer 's stage works , including the world premieres of '' Noye 's Fludde , '' '' Curlew River , '' '' The Burning Fiery Furnace '' and '' The Prodigal Son . '' <br><blue>12</blue>He staged '' Owen Wingrave '' for BBC Television and made his United States debut with the same work at the Santa Fe Opera in 1974 . <br><blue>13</blue>His production of '' Death in Venice '' for the Metropolitan Opera and Royal Opera was nominated for an Olivier Award in London . <br><blue>14</blue>Writing in The New York Times in 1994 , Bernard Holland described it as an '' aphoristic , elegant staging , '' one that was '' swift and relentless . '' <br><blue>15</blue>Japanese theater was another interest , and Mr. Graham commissioned and directed Mr. Miki 's kabuki opera '' An Actor 's Revenge , '' as well as his '' Joruri '' and '' Tale of Genji . '' <br><blue>16</blue>His first position at the Opera Theater of St. Louis was as director of productions in 1978 ; he became its artistic director in 1985 . <br><blue>17</blue>He also held prominent positions at the Aldeburgh Festival and Sadler 's Wells Opera , now the English National Opera . <br><blue>18</blue>A United States citizen , Mr. Graham was awarded the Order of the British Empire in 2001 for service to British and American opera . <br><blue>19</blue>The citation particularly mentioned his 1972 production of Prokofiev 's '' War and Peace '' at Sadler 's Wells . <br><blue>20</blue>He was also awarded honorary doctor of arts degrees from Webster University and the University of Missouri . <br><hr><br><blue>1(17)</blue>: <m_str>He</m_str> (2_1) 	<m_str>the composer 's</m_str> (11_7) 	<m_str>Graham</m_str> (4_2) 	<m_str>his</m_str> (19_5) 	<m_str>Mr. Graham</m_str> (8_1) 	<m_str>he</m_str> (10_3) 	<m_str>He</m_str> (12_1) 	<m_str>Colin Graham , the artistic director of the Opera Theater of St. Louis</m_str> (1_1) 	<m_str>He</m_str> (20_1) 	<m_str>Billy Budd</m_str> (4_19) 	<m_str>his</m_str> (12_12) 	<m_str>Mr. Graham</m_str> (18_6) 	<m_str>He</m_str> (9_1) 	<m_str>He</m_str> (11_1) 	<m_str>Mr. Graham</m_str> (7_5) 	<m_str>his</m_str> (10_20) 	<m_str>His</m_str> (13_1) 	<br><blue>2(7)</blue>: <m_str>His</m_str> (16_1) 	<m_str>He</m_str> (17_1) 	<m_str>he</m_str> (16_19) 	<m_str>Mr. Miki</m_str> (7_35) 	<m_str>his</m_str> (15_28) 	<m_str>Miki 's</m_str> (15_14) 	<m_str>Minoru Miki 's</m_str> (6_7) 	<br><blue>3(2)</blue>: <m_str>the Metropolitan Opera and Royal Opera</m_str> (13_10) 	<m_str>it</m_str> (14_13) 	<br><blue>4(4)</blue>: <m_str>St. Louis</m_str> (5_36) 	<m_str>St. Louis</m_str> (16_9) 	<m_str>St. Louis</m_str> (1_25) 	<m_str>St. Louis</m_str> (1_12) 	<br><blue>5(3)</blue>: <m_str>United States</m_str> (18_2) 	<m_str>United States</m_str> (4_37) 	<m_str>United States</m_str> (12_13) 	<br><blue>6(2)</blue>: <m_str>Santa Fe Opera</m_str> (6_40) 	<m_str>the Santa Fe Opera</m_str> (12_21) 	<br><blue>7(2)</blue>: <m_str>André Previn 's</m_str> (6_44) 	<m_str>Mr. Previn</m_str> (7_22) 	<br><blue>8(2)</blue>: <m_str>London</m_str> (13_23) 	<m_str>London</m_str> (8_6) 	<br><blue>9(2)</blue>: <m_str>its</m_str> (16_21) 	<m_str>the Opera Theater of St. Louis</m_str> (16_5) 	<br><blue>10(2)</blue>: <m_str>the Opera Theater of St. Louis</m_str> (1_8) 	<m_str>the Opera Theater</m_str> (3_9) 	<br><blue>11(6)</blue>: <m_str>he</m_str> (5_14) 	<m_str>he</m_str> (7_14) 	<m_str>Bernstein 's</m_str> (4_50) 	<m_str>His</m_str> (5_1) 	<m_str>he</m_str> (6_4) 	<m_str>his</m_str> (5_41) 	<br><blue>12(2)</blue>: <m_str>Sadler 's</m_str> (19_17) 	<m_str>Sadler 's</m_str> (17_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

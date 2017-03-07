@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ian MacNaughton, a 'Monty Python' Director, Dies at 76 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Ian MacNaughton , a British director who helped a group of young comedians shape '' Monty Python 's Flying Circus '' into a watershed of absurdist television comedy , died on Dec. 10 in Munich after being injured in a car crash , The Times of London reported . <br><blue>2</blue>He was 76 . <br><blue>3</blue>A former actor , Mr. MacNaughton came to work with the Monty Python troupe after directing the '' Q5 '' television series with Spike Milligan in 1969 , when he distinguished himself by keeping a madcap sketch-comedy program under tight control . <br><blue>4</blue>He directed all but 4 of the 45 episodes of '' Monty Python 's Flying Circus '' from 1969 to 1972 , as well as the group 's first feature film , '' And Now for Something Completely Different , '' in 1971 . <br><blue>5</blue>He also directed two German versions of the show in 1971 and '72 and a short-lived revival of the series in 1974 . <br><blue>6</blue>Michael Palin , an original member of Monty Python , told The Times of London : '' In the early shows none of us were certain what shape or form ' Python ' was going to take . <br><blue>7</blue>We were learning as we went along , so it needed a special kind of director to control that . <br><blue>8</blue>You needed indulgence , but also somebody who , at the end of the week , would say : ' Right , that 's it , this is the show , now we have to put it on tape . ' <br><blue>9</blue>And Ian did that . '' '' <br><blue>10</blue>He appreciated the spirit of Python , '' Mr. Palin added . '' <br><blue>11</blue>The subversiveness and a touch of anarchy struck a chord with him , and being a bit of a wild Scotsman , he loved the fact that we were trying to do something new . '' <br><blue>12</blue>He went on to more comedy series , working on '' Charley 's Grants '' and '' Milligan In . . . '' in the early 1970 's . <br><blue>13</blue>Mr. MacNaughton was born in Glasgow and served in the Royal Marines during World War II , where he joined the Globe Players , the marines ' amateur theater group . <br><blue>14</blue>He acted throughout the 1950 's and into the 1960 's , appearing in stage productions in Scotland and in several films , in which he specialized in Scottish characters . <br><blue>15</blue>He was Callum MacGregor in '' Rob Roy , the Highland Rogue '' ( 1953 ) and played a character named Haggis in the 1956 science-fiction picture '' X the Unknown , '' in which a remote Scottish research center leaks radiation onto the surrounding moor . <br><blue>16</blue>He took a course on television directing in 1964 and worked on police dramas and light entertainment shows before getting the job on '' Q5 . '' <br><blue>17</blue>After working with Monty Python , he worked on the series '' Rising Damp '' and four sequels to '' Q5 '' in the late 70 's . <br><blue>18</blue>He also directed a short film , '' Le Petomane , '' in 1979 , about Joseph Pujol , a cafe entertainer in turn-of-the-century France who made music out of flatulence . <br><blue>19</blue>Since the mid-1970 's Mr. MacNaughton lived in Germany with his wife Ike , and two children from a previous marriage . <br><blue>20</blue>They , along with his first wife , Rita , all survive him . <br><hr><br><blue>1(2)</blue>: <m_str>Ike , and two children from a previous marriage</m_str> (19_13) 	<m_str>They</m_str> (20_1) 	<br><blue>2(2)</blue>: <m_str>it</m_str> (7_10) 	<m_str>this</m_str> (8_27) 	<br><blue>3(2)</blue>: <m_str>his first wife , Rita</m_str> (20_5) 	<m_str>his wife</m_str> (19_11) 	<br><blue>4(3)</blue>: <m_str>it</m_str> (8_25) 	<m_str>indulgence , but also somebody who , at the end of the week , would say</m_str> (8_3) 	<m_str>it</m_str> (8_37) 	<br><blue>5(2)</blue>: <m_str>the marines '</m_str> (13_25) 	<m_str>the Royal Marines</m_str> (13_10) 	<br><blue>6(1)</blue>: <m_str>Germany</m_str> (19_9) 	<br><blue>7(3)</blue>: <m_str>a group of young comedians shape</m_str> (1_9) 	<m_str>the marines ' amateur theater group</m_str> (13_25) 	<m_str>the group 's</m_str> (4_26) 	<br><blue>8(5)</blue>: <m_str>Python</m_str> (10_6) 	<m_str>Monty Python 's</m_str> (4_12) 	<m_str>Monty Python 's</m_str> (1_16) 	<m_str>Monty Python</m_str> (17_4) 	<m_str>Monty Python</m_str> (6_8) 	<br><blue>9(14)</blue>: <m_str>He</m_str> (15_1) 	<m_str>him</m_str> (11_12) 	<m_str>he</m_str> (14_26) 	<m_str>he</m_str> (17_7) 	<m_str>You</m_str> (8_1) 	<m_str>He</m_str> (10_1) 	<m_str>He</m_str> (12_1) 	<m_str>He</m_str> (14_1) 	<m_str>he</m_str> (13_19) 	<m_str>He</m_str> (16_1) 	<m_str>he</m_str> (11_23) 	<m_str>He</m_str> (18_1) 	<m_str>Mr. Palin</m_str> (10_9) 	<m_str>Ian</m_str> (9_2) 	<br><blue>10(2)</blue>: <m_str>The Times of London</m_str> (6_12) 	<m_str>The Times of London</m_str> (1_44) 	<br><blue>11(2)</blue>: <m_str>the 1950 's</m_str> (14_4) 	<m_str>World War II , where he joined the Globe Players , the marines ' amateur theater group</m_str> (13_14) 	<br><blue>12(13)</blue>: <m_str>him</m_str> (20_13) 	<m_str>He</m_str> (2_1) 	<m_str>He</m_str> (4_1) 	<m_str>the mid-1970 's Mr. MacNaughton</m_str> (19_2) 	<m_str>Spike Milligan</m_str> (3_24) 	<m_str>his</m_str> (19_11) 	<m_str>he</m_str> (3_30) 	<m_str>himself</m_str> (3_32) 	<m_str>He</m_str> (5_1) 	<m_str>Mr. MacNaughton</m_str> (3_5) 	<m_str>his</m_str> (20_5) 	<m_str>Milligan</m_str> (12_18) 	<m_str>Mr. MacNaughton</m_str> (13_1) 	<br><blue>13(2)</blue>: <m_str>a special kind of director</m_str> (7_12) 	<m_str>that</m_str> (7_19) 	<br><blue>14(5)</blue>: <m_str>we</m_str> (11_28) 	<m_str>We</m_str> (7_1) 	<m_str>we</m_str> (8_33) 	<m_str>we</m_str> (7_5) 	<m_str>us</m_str> (6_24) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

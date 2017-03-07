@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>James Coburn, 74, Is Dead; A Sly Presence in 80 Films </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>James Coburn , the rugged actor who reveled in playing rakish men of action and slyly humorous villains and overcame a debilitating illness to win an Academy Award for his performance in '' Affliction '' in 1998 , died on Monday in Los Angeles . <br><blue>2</blue>He was 74 . <br><blue>3</blue>A spokeswoman for Cedars-Sinai Hospital in Los Angeles said Mr. Coburn was in cardiac arrest when he arrived there . <br><blue>4</blue>A man of lean good looks , Mr. Coburn first established his reputation in '' The Magnificent Seven '' in 1960 and went on to star in more than 80 movies , many of them Westerns and action films , including '' The Great Escape , '' '' Charade '' and '' Our Man Flint . '' <br><blue>5</blue>His lanky body and Mephistophelean laugh led directors to type him as a villain , and though he became well known for those roles he never made it to the front rank of Hollywood stars . <br><blue>6</blue>In the early 1980 's he developed rheumatoid arthritis so severe that it hampered his career for most of a decade . <br><blue>7</blue>After a long and difficult recovery , he appeared in television commercials and in some films his admirers felt were beneath him . <br><blue>8</blue>But in 1999 , he received an Academy Award as best supporting actor for his role as Nick Nolte 's alcoholic father in Paul Schrader 's acclaimed film '' Affliction . '' <br><blue>9</blue>Although many critics hailed it as the best performance of his career , he found it difficult to find work afterward . <br><blue>10</blue>Mr. Coburn was born in Laurel , Neb. , the son of an auto mechanic and schoolteacher , and grew up in the Los Angeles suburb of Compton . <br><blue>11</blue>He served briefly in the Army , where he worked as a radio service operator , and made his stage debut at the La Jolla Playhouse in San Diego opposite Vincent Price in '' Billy Budd . '' <br><blue>12</blue>He moved to New York City in the mid-1950 's to study acting with Stella Adler , appearing in plays and some television dramas on programs including '' Studio One '' and '' General Electric Theater . '' <br><blue>13</blue>He made his film debut as an outlaw in a Randolph Scott Western , '' Ride Lonesome , '' in 1959 . <br><blue>14</blue>By that time he was a veteran of the genre , having done at least 40 television shows , most of them Westerns . <br><blue>15</blue>He appeared in another Western , '' Face of a Fugitive , '' the same year . <br><blue>16</blue>But it was his role as the knife-throwing Britt in '' The Magnificent Seven , '' where he appeared with Steve McQueen and Charles Bronson , that first put him on the map . <br><blue>17</blue>He had few lines , but his gaunt physique and bass-baritone voice had a powerful impact . <br><blue>18</blue>Soon he was playing in Sam Peckinpah Westerns , including '' Major Dundee '' and '' Pat Garrett and Billy the Kid . '' <br><blue>19</blue>He continued to play mostly supporting roles until the crime drama '' Dead Heat on a Merry-Go-Round '' ( 1966 ) . <br><blue>20</blue>His fame reached a new level with his portrayal of Derek Flint in the James Bond spoof '' Our Man Flint '' ( 1966 ) and its sequel in the following year , '' In Like Flint . '' <br><hr><br><blue>1(2)</blue>: <m_str>his career</m_str> (9_11) 	<m_str>his career</m_str> (6_15) 	<br><blue>2(3)</blue>: <m_str>Affliction</m_str> (8_30) 	<m_str>it</m_str> (9_16) 	<m_str>it</m_str> (9_5) 	<br><blue>3(2)</blue>: <m_str>1966</m_str> (19_20) 	<m_str>1966</m_str> (20_24) 	<br><blue>4(39)</blue>: <m_str>He</m_str> (15_1) 	<m_str>his</m_str> (7_17) 	<m_str>him</m_str> (7_22) 	<m_str>he</m_str> (8_5) 	<m_str>his</m_str> (16_4) 	<m_str>his</m_str> (8_15) 	<m_str>Nick Nolte 's</m_str> (8_18) 	<m_str>Paul Schrader 's</m_str> (8_24) 	<m_str>he</m_str> (16_18) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (9_11) 	<m_str>he</m_str> (9_14) 	<m_str>his</m_str> (17_7) 	<m_str>Mr. Coburn</m_str> (10_1) 	<m_str>him</m_str> (16_30) 	<m_str>his</m_str> (1_30) 	<m_str>he</m_str> (18_2) 	<m_str>He</m_str> (11_1) 	<m_str>Mr. Coburn</m_str> (3_10) 	<m_str>he</m_str> (3_17) 	<m_str>he</m_str> (11_9) 	<m_str>He</m_str> (19_1) 	<m_str>Mr. Coburn</m_str> (4_8) 	<m_str>He</m_str> (12_1) 	<m_str>his</m_str> (11_19) 	<m_str>his</m_str> (4_12) 	<m_str>His</m_str> (20_1) 	<m_str>His</m_str> (5_1) 	<m_str>his</m_str> (20_8) 	<m_str>He</m_str> (13_1) 	<m_str>him</m_str> (5_11) 	<m_str>his</m_str> (13_3) 	<m_str>he</m_str> (5_18) 	<m_str>he</m_str> (6_6) 	<m_str>he</m_str> (5_25) 	<m_str>he</m_str> (14_4) 	<m_str>his</m_str> (6_15) 	<m_str>he</m_str> (7_8) 	<br><blue>5(2)</blue>: <m_str>his stage debut</m_str> (11_19) 	<m_str>his film debut</m_str> (13_3) 	<br><blue>6(2)</blue>: <m_str>a new level with his portrayal of Derek Flint in the James Bond</m_str> (20_4) 	<m_str>its</m_str> (20_27) 	<br><blue>7(3)</blue>: <m_str>Los Angeles</m_str> (10_24) 	<m_str>Los Angeles</m_str> (3_7) 	<m_str>Los Angeles</m_str> (1_43) 	<br><blue>8(3)</blue>: <m_str>Derek Flint</m_str> (20_11) 	<m_str>Our Man Flint</m_str> (20_19) 	<m_str>Flint</m_str> (20_37) 	<br><blue>9(2)</blue>: <m_str>it</m_str> (6_13) 	<m_str>rheumatoid arthritis so severe</m_str> (6_8) 	<br><blue>10(2)</blue>: <m_str>it</m_str> (5_28) 	<m_str>Our Man Flint</m_str> (4_53) 	<br><blue>11(1)</blue>: <m_str>a debilitating illness</m_str> (1_21) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Paul Tsongas, Who Made Presidential Bid, Dies at 55 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Paul E. Tsongas , the former Senator from Massachusetts who was the only candidate in the 1992 Democratic Presidential campaign to offer painful solutions to the nation 's economic problems , died on Saturday at a hospital in Boston . <br><blue>2</blue>He was 55 . <br><blue>3</blue>Mr. Tsongas , who was hospitalized on Jan. 3 with a liver problem related to his treatments for non-Hodgkin 's lymphoma , a slow-growing cancer of the lymph system , and later developed pneumonia , died at Brigham and Women 's Hospital . <br><blue>4</blue>Mr. Tsongas made his survival from cancer an issue in his Presidential campaign when he and two of his doctors , Dr. Tak Takvorian and Dr. George P. Canellos , said he had been cancer-free since a bone-marrow transplant in 1986 . <br><blue>5</blue>In May 1996 , he underwent another transplant , getting bone marrow from his twin sister , Thaleia Schlesinger , to correct myelodysplasia , a bone-marrow disorder that can occur in people who have recovered from lymph cancer . <br><blue>6</blue>In seeking the nomination in 1992 , Mr. Tsongas offered a somber analysis of the nation 's economic plight in a book published by his campaign , '' Economic Call to Arms . '' <br><blue>7</blue>He opposed a tax cut for the middle class but advocated one on capital gains to stimulate investment . <br><blue>8</blue>Instead of fire-in-the-belly oratory , Mr. Tsongas offered a wry , self-deprecatory and occasionally moralistic message about responsibility . <br><blue>9</blue>He began the primary campaign with a victory in New Hampshire and went on to win three other state primaries and the caucuses of four states . <br><blue>10</blue>He suspended his campaign after losing primaries in Illinois and Michigan . <br><blue>11</blue>Bill Clinton went on to win the nomination and the Presidency . <br><blue>12</blue>After leaving the Presidential race , Mr. Tsongas practiced law and , with former Senator Warren Rudman of New Hampshire , a Republican , helped start the Concord Coalition , a nonprofit group that focused attention on the budget deficit and other economic problems . <br><blue>13</blue>He also remained active in public affairs in his home state . <br><blue>14</blue>Mr. Tsongas once said three things defined him : working as a young man in his father 's dry-cleaning business in the economically depressed city of Lowell , Mass. , serving in the Peace Corps and contracting the cancer that interrupted his political career in 1983 . <br><blue>15</blue>He said the first made him aware of economic hardships ; the second brought a joy in public service that led to a political career , and the third tempered what he called an overriding ambition . '' <br><blue>16</blue>Pre-cancer , I was one of the pettiest people you 've ever run into , '' Mr. Tsongas said in an interview in 1992 . '' <br><blue>17</blue>I would get angry at my wife for leaving the top off the toothpaste . <br><blue>18</blue>I 'd get angry at my kids for the dumbest things . <br><blue>19</blue>Looking back on it I feel mortified . <br><blue>20</blue>I was a fool . '' <br><hr><br><blue>1(5)</blue>: <m_str>his campaign</m_str> (6_25) 	<m_str>his Presidential campaign</m_str> (4_11) 	<m_str>the 1992 Democratic Presidential campaign to offer painful solutions to the nation 's economic problems</m_str> (1_16) 	<m_str>the primary campaign</m_str> (9_3) 	<m_str>his campaign</m_str> (10_3) 	<br><blue>2(1)</blue>: <m_str>his political career</m_str> (14_42) 	<br><blue>3(1)</blue>: <m_str>my wife</m_str> (17_6) 	<br><blue>4(1)</blue>: <m_str>a Republican</m_str> (12_22) 	<br><blue>5(7)</blue>: <m_str>I</m_str> (17_1) 	<m_str>I</m_str> (16_3) 	<m_str>I</m_str> (18_1) 	<m_str>I</m_str> (20_1) 	<m_str>my</m_str> (17_6) 	<m_str>my</m_str> (18_6) 	<m_str>I</m_str> (19_5) 	<br><blue>6(2)</blue>: <m_str>the nomination</m_str> (11_7) 	<m_str>the nomination</m_str> (6_3) 	<br><blue>7(1)</blue>: <m_str>Bill Clinton</m_str> (11_1) 	<br><blue>8(2)</blue>: <m_str>the nation 's</m_str> (6_15) 	<m_str>the nation 's</m_str> (1_26) 	<br><blue>9(31)</blue>: <m_str>He</m_str> (15_1) 	<m_str>him</m_str> (15_6) 	<m_str>his</m_str> (14_42) 	<m_str>he</m_str> (15_32) 	<m_str>Mr. Tsongas</m_str> (16_17) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (3_16) 	<m_str>Mr. Tsongas</m_str> (4_1) 	<m_str>his</m_str> (4_4) 	<m_str>his</m_str> (4_11) 	<m_str>he</m_str> (4_15) 	<m_str>his</m_str> (4_19) 	<m_str>he</m_str> (5_5) 	<m_str>Dr. Tak Takvorian</m_str> (4_22) 	<m_str>his</m_str> (5_14) 	<m_str>he</m_str> (4_32) 	<m_str>Thaleia Schlesinger</m_str> (5_18) 	<m_str>Mr. Tsongas</m_str> (6_8) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (6_25) 	<m_str>Mr. Tsongas</m_str> (8_6) 	<m_str>He</m_str> (9_1) 	<m_str>He</m_str> (10_1) 	<m_str>his</m_str> (10_3) 	<m_str>Mr. Tsongas</m_str> (12_7) 	<m_str>He</m_str> (13_1) 	<m_str>his</m_str> (13_9) 	<m_str>Mr. Tsongas</m_str> (14_1) 	<m_str>him</m_str> (14_8) 	<m_str>his</m_str> (14_16) 	<m_str>his father 's</m_str> (14_16) 	<br><blue>10(2)</blue>: <m_str>1992</m_str> (1_17) 	<m_str>1992</m_str> (6_6) 	<br><blue>11(1)</blue>: <m_str>a liver problem related to his treatments for non-Hodgkin 's lymphoma , a slow-growing cancer of the lymph system</m_str> (3_11) 	<br><blue>12(1)</blue>: <m_str>Boston</m_str> (1_39) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

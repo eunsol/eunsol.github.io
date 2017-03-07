@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Orlandus Wilson, 81, Singer In Influential Gospel Quartet </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Orlandus Wilson , whose bass voice was the foundation of the Golden Gate Quartet 's gospel harmonies , died on Dec. 30 in Paris , where he lived . <br><blue>2</blue>He was 81 . <br><blue>3</blue>The Golden Gate Quartet had a huge influence on American sacred and secular music . <br><blue>4</blue>Performing in clubs and concert halls as well as churches , and backing up blues singers like Lead Belly and Josh White , the quartet demonstrated that gospel had all the vitality of secular music . <br><blue>5</blue>Its driving versions of spirituals were a model of vocal harmony for groups from the Dixie Hummingbirds to the Spaniels . <br><blue>6</blue>And Mr. Wilson , who joined the group in 1934 , provided its syncopated bass lines for six decades . <br><blue>7</blue>Mr. Wilson was born in Chesapeake , Va . <br><blue>8</blue>When he joined the Golden Gate Jubilee Singers in 1934 , all four members were still in high school . <br><blue>9</blue>Two years later the group was singing five days a week for a radio station in Columbia , S.C. , and in 1937 , they signed to RCA Records ' Bluebird label , releasing a new single every month . <br><blue>10</blue>In 1938 , they were part of the program at John Hammond 's historic '' Spirituals to Swing '' concert at Carnegie Hall , sharing the bill with Joe Turner , Sidney Bechet , Lionel Hampton and Benny Goodman . <br><blue>11</blue>The quartet stayed in New York City with a regular engagement at Cafe Society , where their sets included gospel and popular material . <br><blue>12</blue>In churches , the quartet sang only gospel songs . <br><blue>13</blue>The group moved to Columbia Records in 1941 and shortened its name to the Golden Gate Quartet . <br><blue>14</blue>During World War II , it recorded songs like '' Stalin Was n't Stallin ' '' along with spirituals . <br><blue>15</blue>Mr. Wilson left the group to join the Navy in 1944 and returned in 1946 . <br><blue>16</blue>The quartet had a national radio show on the CBS network and appeared in a number of films , including '' Star Spangled Rhythm , '' '' Hollywood Canteen , '' '' Bring On the Girls '' and '' A Song Is Born . '' <br><blue>17</blue>It had performed at the inauguration of Franklin Delano Roosevelt , becoming the first black group to sing in Constitution Hall , and also sang for the Roosevelts at the White House . <br><blue>18</blue>In 1958 , after a 28-country tour sponsored by the State Department , the Golden Gate Quartet relocated to Paris . <br><blue>19</blue>With Mr. Wilson as its manager and arranger , the group continued to be a major concert draw in Europe and on world tours . <br><blue>20</blue>Since the 1970 's , the group has included Mr. Wilson 's grandnephew , Paul Brembly . <br><hr><br><blue>1(2)</blue>: <m_str>The quartet had a national radio show on the CBS network and appeared in a number of films , including '' Star Spangled Rhythm , '' '' Hollywood Canteen , '' '' Bring On the Girls '' and '' A Song</m_str> (16_1) 	<m_str>It</m_str> (17_1) 	<br><blue>2(2)</blue>: <m_str>they</m_str> (9_25) 	<m_str>they</m_str> (10_4) 	<br><blue>3(2)</blue>: <m_str>its</m_str> (6_13) 	<m_str>Its</m_str> (5_1) 	<br><blue>4(2)</blue>: <m_str>1934</m_str> (6_10) 	<m_str>1934</m_str> (8_10) 	<br><blue>5(5)</blue>: <m_str>the quartet</m_str> (12_4) 	<m_str>The Golden Gate Quartet</m_str> (3_1) 	<m_str>the quartet</m_str> (4_24) 	<m_str>The quartet</m_str> (11_1) 	<m_str>the Golden Gate Quartet 's</m_str> (1_11) 	<br><blue>6(7)</blue>: <m_str>Mr. Wilson</m_str> (15_1) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Wilson as its manager and arranger</m_str> (19_2) 	<m_str>Mr. Wilson</m_str> (7_1) 	<m_str>he</m_str> (8_2) 	<m_str>he</m_str> (1_27) 	<m_str>Mr. Wilson 's</m_str> (20_10) 	<br><blue>7(10)</blue>: <m_str>it</m_str> (14_6) 	<m_str>the group</m_str> (15_4) 	<m_str>the Dixie Hummingbirds</m_str> (5_15) 	<m_str>its</m_str> (13_11) 	<m_str>its</m_str> (19_5) 	<m_str>the group</m_str> (20_6) 	<m_str>the group</m_str> (6_7) 	<m_str>the group</m_str> (9_4) 	<m_str>the group</m_str> (19_10) 	<m_str>The group</m_str> (13_1) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

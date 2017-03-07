@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Fritz John, a Master Mathematician, Dies at 83 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dr. Fritz John , who charted new paths in mathematics as a leading expert on partial differential equations , died on Thursday at his home in New Rochelle , N.Y . <br><blue>2</blue>He was 83 . <br><blue>3</blue>The cause was heart failure , said Susan Wheeler , a spokeswoman for New York University , where Dr. John was professor emeritus at the Courant Institute of Mathematical Sciences . <br><blue>4</blue>In a career that spanned more than a half century , Dr. John left an indelible mark on mathematics . <br><blue>5</blue>A colleague at the university , Dr. Richard Courant , now deceased , once described Dr. John 's work as " done on the background of a philosophical desire to help understanding of the mathematical structure underlying natural phenomena . " <br><blue>6</blue>For example , Dr. John studied ways of solving equations that describe the movements of waves in water or the bending of a material like cardboard , and that deal with the difficult problem of how to describe mathematically what happens at the boundaries of oscillating objects . <br><blue>7</blue>The field of partial differential equations , where Dr. John 's work has perhaps had its greatest impact , is one where there are few rules for solving problems and where a mathematician 's ingenuity and knowledge of related fields count for more than a refined knowledge of the latest techniques . <br><blue>8</blue>Solving partial differential equations is a perennial problem in physics and engineering . <br><blue>9</blue>Many of the fundamental laws of physics , like Maxwell 's laws of electromagnetism , are formulated in the language of partial differential equations , as are mathematical models describing fluid flow . <br><blue>10</blue>Despite the strong connection of his research to real-world problems , Dr. John was in a sense a mathematician 's mathematician . <br><blue>11</blue>His work was widely praised among his colleagues , but he showed little interest in publicity . <br><blue>12</blue>In fact , he once said that he wanted neither fame nor fortune but rather " the grudging admiration of a few close friends . " ' <br><blue>13</blue>A Scholar in the Truest Sense ' A colleague at the Courant Institute , Dr. Cathleen Morawetz , recalled that Dr. John used to say , " You 're lucky if at least one person reads your paper . " <br><blue>14</blue>Dr. Courant , for whom the institute is named , said in 1962 : " There is no doubt that John is one of the most original and deep mathematical analysts of our time . <br><blue>15</blue>He is a scholar in the truest sense , profoundly dedicated to his academic task in research and teaching , completely uncorrupted by the activity of the marketplace , yet a full personality with wide intellectual interests . " <br><blue>16</blue>Dr. John was born in Berlin in 1910 and received his Ph.D. from the University of Gottingen in 1933 . <br><blue>17</blue>He came to the United States in 1935 as an assistant professor at the University of Kentucky . <br><blue>18</blue>He directed research at the Institute of Numerical Analysis at the National Bureau of Standards from 1950 to 1951 . <br><blue>19</blue>Dr. John was the recipient of a MacArthur Foundation " genius " award in 1984 as well as awards from the American Mathematical Society and the Society for Industrial and Applied Mathematics . <br><blue>20</blue>He was a member of the National Academy of Sciences and held the Courant Chair at the Courant Institute from 1976 until he retired in 1981 . <br><hr><br><blue>1(2)</blue>: <m_str>New York University , where Dr. John was professor emeritus at the Courant Institute of Mathematical Sciences</m_str> (3_14) 	<m_str>the university</m_str> (5_4) 	<br><blue>2(2)</blue>: <m_str>the institute</m_str> (14_6) 	<m_str>the Courant Institute , Dr. Cathleen Morawetz</m_str> (13_11) 	<br><blue>3(2)</blue>: <m_str>a mathematician 's</m_str> (7_32) 	<m_str>a mathematician 's</m_str> (10_18) 	<br><blue>4(2)</blue>: <m_str>your</m_str> (13_37) 	<m_str>You</m_str> (13_28) 	<br><blue>5(2)</blue>: <m_str>partial differential equations</m_str> (9_22) 	<m_str>partial differential equations</m_str> (8_2) 	<br><blue>6(4)</blue>: <m_str>Dr. John 's work</m_str> (7_9) 	<m_str>its</m_str> (7_16) 	<m_str>Dr. John 's work</m_str> (5_16) 	<m_str>His work</m_str> (11_1) 	<br><blue>7(1)</blue>: <m_str>N.Y.</m_str> (1_30) 	<br><blue>8(2)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_24) 	<br><blue>9(17)</blue>: <m_str>He</m_str> (15_1) 	<m_str>Dr. John 's</m_str> (7_9) 	<m_str>He</m_str> (17_1) 	<m_str>John</m_str> (14_21) 	<m_str>Dr. John</m_str> (19_1) 	<m_str>Dr. John 's</m_str> (5_16) 	<m_str>Dr. John</m_str> (3_19) 	<m_str>Dr. John</m_str> (6_4) 	<m_str>he</m_str> (20_23) 	<m_str>his</m_str> (15_13) 	<m_str>Dr. John</m_str> (4_12) 	<m_str>Dr. John</m_str> (16_1) 	<m_str>Dr. John</m_str> (13_21) 	<m_str>He</m_str> (18_1) 	<m_str>He</m_str> (20_1) 	<m_str>Dr. John</m_str> (10_12) 	<m_str>his</m_str> (16_11) 	<br><blue>10(7)</blue>: <m_str>his</m_str> (10_6) 	<m_str>he</m_str> (12_4) 	<m_str>his</m_str> (11_7) 	<m_str>Maxwell 's</m_str> (9_10) 	<m_str>he</m_str> (12_8) 	<m_str>he</m_str> (11_11) 	<m_str>His</m_str> (11_1) 	<br><blue>11(2)</blue>: <m_str>the University of Kentucky</m_str> (17_14) 	<m_str>the University of Gottingen</m_str> (16_14) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

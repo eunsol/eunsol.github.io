@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Dorothy Dunnett, Novelist Of Scotland, Is Dead at 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Dorothy Dunnett , a Scottish historical novelist whose weighty works about Renaissance life attracted swarms of devoted fans in the United States , died on Friday in Edinburgh . <br><blue>2</blue>She was 78 . <br><blue>3</blue>Her best-known works , '' The Lymond Chronicles '' in six books and '' The House of Niccolò '' in eight , have inspired conventions , fan magazines , among them a quarterly called Kisses and Marzipan , and several Internet forums packed with lively speculation ranging from points of history to the pedigrees of her characters and the subtly wrought links between the heroes of the two series . <br><blue>4</blue>Mrs. Dunnett , more properly Dorothy , Lady Dunnett , tempted her fans with buried clues and red herrings that keep them reading and rereading the books . <br><blue>5</blue>Anne Malcolm , writing in the The New York Times Book Review last year , said the chronicles , although not widely known nearly 40 years after the first volume appeared , '' are almost certainly destined to be counted among the classics of popular fiction . '' '' <br><blue>6</blue>Identifying just what it is that sets them apart from other works of historical romance is difficult , '' Ms. Malcolm wrote , although she cited a '' painter 's eye for gorgeous detail '' and a '' vocabulary that sometimes outstrips the Shorter Oxford English Dictionary . '' <br><blue>7</blue>Ms. Malcolm described the protagonist of the first series , the fictional Francis Crawford of Lymond , a 16th-century Scot , as the perfect romantic hero , '' impossibly charming , elegant and accomplished ; a brilliant swordsman ; an inspired leader of men '' who was '' also highhanded , cynical and dangerous '' and not above employing a bit of violence when it suits his often veiled purposes . <br><blue>8</blue>For the uninitiated , the uncomprehending or those whose linguistic spectrum spans fewer than half a dozen languages , there is a guide to the minutiae of Mrs. Dunnett 's work , '' The Dorothy Dunnett Companion '' by Elspeth Morrison , ( Vintage Books , 2001 ) , from which the reader can learn the common punishment for adultery ( removal of the nose , by biting or other means ) or a simple formula for hair dye involving leeches marinated in vinegar . <br><blue>9</blue>The companion offers a glimpse of the laborious process of writing the many-layered historical novels , which delve into the art , culture , manners and science of the times . <br><blue>10</blue>Although Mrs. Dunnett said the novels drew on her own background in music , art and sailing , they also involved a great deal of travel in search of authentic detail as well as dizzying amounts of library research . <br><blue>11</blue>Until shortly before her death she was helping Ms. Morrison complete a second companion volume . <br><blue>12</blue>Mrs. Dunnett was born Dorothy Halliday on Aug. 25 , 1923 , in Dunfermline , Scotland . <br><blue>13</blue>She grew up largely in Edinburgh and was at school at the same time as Muriel Spark at James Gillespie 's School for Girls , the model for the academy in Ms. Spark 's '' Prime of Miss Jean Brodie . '' <br><blue>14</blue>She said it had never been her intention to become a writer of fiction . <br><blue>15</blue>She studied music and art and took a job in Britain 's Ministry of Information . <br><blue>16</blue>In 1946 she married her boss , Alastair Dunnett , and the couple moved to Glasgow , where Mrs. Dunnett was employed by the Board of Trade and continued her studies in singing and painting . <br><blue>17</blue>She had become a professional portrait painter when her husband , a banker , author , journalist and eventually an oil company executive , suggested she write a novel . <br><blue>18</blue>He said : '' Make it a series . <br><blue>19</blue>They 're popular at the moment , '' she wrote . '' <br><blue>20</blue>So ( always cooperative ) I did . '' <br><hr><br><blue>1(2)</blue>: <m_str>They</m_str> (19_1) 	<m_str>her boss , Alastair Dunnett , and the couple</m_str> (16_5) 	<br><blue>2(1)</blue>: <m_str>Britain 's</m_str> (15_11) 	<br><blue>3(2)</blue>: <m_str>Edinburgh</m_str> (13_6) 	<m_str>Edinburgh</m_str> (1_28) 	<br><blue>4(1)</blue>: <m_str>the United States</m_str> (1_20) 	<br><blue>5(35)</blue>: <m_str>She</m_str> (15_1) 	<m_str>she</m_str> (11_6) 	<m_str>Ms. Morrison</m_str> (11_9) 	<m_str>Mrs. Dunnett , more</m_str> (4_1) 	<m_str>she</m_str> (19_9) 	<m_str>Lady Dunnett</m_str> (4_8) 	<m_str>Mrs. Dunnett</m_str> (12_1) 	<m_str>her</m_str> (4_12) 	<m_str>Dorothy Halliday</m_str> (12_5) 	<m_str>Dorothy Dunnett , a Scottish historical novelist whose weighty works about Renaissance life attracted swarms of devoted fans in the United States</m_str> (1_1) 	<m_str>she</m_str> (16_3) 	<m_str>her</m_str> (16_5) 	<m_str>Alastair Dunnett</m_str> (16_8) 	<m_str>The companion</m_str> (9_1) 	<m_str>She</m_str> (13_1) 	<m_str>She</m_str> (17_1) 	<m_str>She</m_str> (2_1) 	<m_str>Mrs. Dunnett</m_str> (16_19) 	<m_str>Mrs. Dunnett 's</m_str> (8_28) 	<m_str>her</m_str> (17_9) 	<m_str>her</m_str> (3_56) 	<m_str>Dorothy Dunnett</m_str> (8_35) 	<m_str>The Dorothy Dunnett Companion '' by Elspeth Morrison</m_str> (8_34) 	<m_str>Mrs. Dunnett</m_str> (10_2) 	<m_str>her</m_str> (16_30) 	<m_str>She</m_str> (14_1) 	<m_str>Elspeth Morrison</m_str> (8_40) 	<m_str>her</m_str> (10_9) 	<m_str>Her</m_str> (3_1) 	<m_str>her</m_str> (14_7) 	<m_str>Ms. Malcolm</m_str> (7_1) 	<m_str>Ms. Malcolm</m_str> (6_20) 	<m_str>she</m_str> (17_26) 	<m_str>she</m_str> (6_25) 	<m_str>her</m_str> (11_4) 	<br><blue>6(3)</blue>: <m_str>her fans</m_str> (4_12) 	<m_str>them</m_str> (4_22) 	<m_str>them</m_str> (6_8) 	<br><blue>7(2)</blue>: <m_str>Muriel Spark</m_str> (13_16) 	<m_str>Ms. Spark 's</m_str> (13_32) 	<br><blue>8(1)</blue>: <m_str>the two series</m_str> (3_67) 	<br><blue>9(3)</blue>: <m_str>the novels</m_str> (10_5) 	<m_str>the many-layered historical novels , which delve into the art , culture , manners and science of the times</m_str> (9_12) 	<m_str>they</m_str> (10_19) 	<br><blue>10(2)</blue>: <m_str>it</m_str> (18_6) 	<m_str>a novel</m_str> (17_28) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

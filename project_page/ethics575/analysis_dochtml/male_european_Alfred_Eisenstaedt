@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Alfred Eisenstaedt, Photographer of the Defining Moment, Is Dead at 96 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Alfred Eisenstaedt , the German-born photographer whose pioneering images for Life magazine helped define American photojournalism , died on Wednesday while vacationing on Martha 's Vineyard in Massachusetts . <br><blue>2</blue>He was 96 and lived in Manhattan . <br><blue>3</blue>Over a career that lasted more than 50 years , Mr. Eisenstaedt became famous as the quintessential Life photographer , producing more than 2,500 picture stories and 90 covers for the magazine . <br><blue>4</blue>He was especially renowned for his ability to capture memorable images of important people in the news , including statesmen , movie stars and artists . <br><blue>5</blue>Still , his most famous photograph is not of a celebrity , but of the joyful celebrations in Times Square on V-J Day , Aug. 14 , 1945 , when Japan 's surrender brought the end of World War II . <br><blue>6</blue>The picture , which shows an exuberant American sailor kissing a nurse in a dancelike dip , summed up the euphoria many Americans felt as the war came to a close . <br><blue>7</blue>The photograph was published on the cover of Life and quickly became a classic example of photojournalism . <br><blue>8</blue>In recent months it has been widely reproduced in conjunction with the 50th anniversary of the war 's end . <br><blue>9</blue>Another of Mr. Eisenstaedt 's best-known images is a 1933 shot of Joseph Goebbels , the Nazi propaganda minister , glaring at the camera . <br><blue>10</blue>" Here are the eyes of hate , " the photographer wrote later . <br><blue>11</blue>Far more lighthearted is a series of photographs from 1963 of the awestruck faces of Parisian children watching a puppet show . <br><blue>12</blue>A shot of the bare feet of an Ethiopian soldier in 1935 during the Italian invasion of that country made emphatically clear the uneven terms of the conflict . <br><blue>13</blue>Born in 1898 in Dirschau in Prussia ( now Tczew , Poland ) , Mr. Eisenstaedt moved with his family to Berlin in 1906 . <br><blue>14</blue>He served in the German Army in World War I and in the 1920 's began working as a freelance photojournalist while employed as a button and belt salesman . <br><blue>15</blue>He turned to photography full-time in 1929 , when he was assigned to cover the Nobel Prize ceremonies in Stockholm for a German publication . <br><blue>16</blue>Six years later , after Hitler 's rise to power , he emigrated to the United States . <br><blue>17</blue>In 1936 , his extraordinary involvement with Life began . <br><blue>18</blue>One of the four original photographers hired by the magazine ( the others were Margaret Bourke-White , Thomas McAvoy and Peter Stackpole ) , Mr. Eisenstaedt soon distinguished himself with candid shots taken with a Leica camera . <br><blue>19</blue>He had begun using the unobtrusive 35-millimeter model in Germany in 1929 , four years after its invention . <br><blue>20</blue>He became known at the magazine for his ability to bring back visually striking pictures from almost any assignment . <br><hr><br><blue>1(3)</blue>: <m_str>the magazine</m_str> (3_31) 	<m_str>the magazine</m_str> (18_9) 	<m_str>Life magazine</m_str> (1_11) 	<br><blue>2(2)</blue>: <m_str>1929</m_str> (15_7) 	<m_str>1929</m_str> (19_12) 	<br><blue>3(1)</blue>: <m_str>a Leica camera</m_str> (18_35) 	<br><blue>4(2)</blue>: <m_str>Life</m_str> (7_9) 	<m_str>Life</m_str> (17_8) 	<br><blue>5(2)</blue>: <m_str>a puppet show</m_str> (11_19) 	<m_str>that country</m_str> (12_18) 	<br><blue>6(1)</blue>: <m_str>Germany</m_str> (19_10) 	<br><blue>7(3)</blue>: <m_str>The photograph</m_str> (7_1) 	<m_str>his most famous photograph</m_str> (5_3) 	<m_str>it</m_str> (8_4) 	<br><blue>8(1)</blue>: <m_str>the photographer</m_str> (10_10) 	<br><blue>9(1)</blue>: <m_str>Martha 's</m_str> (1_24) 	<br><blue>10(2)</blue>: <m_str>the war</m_str> (6_26) 	<m_str>the war 's</m_str> (8_16) 	<br><blue>11(2)</blue>: <m_str>the end of World War II</m_str> (5_35) 	<m_str>the war 's end</m_str> (8_16) 	<br><blue>12(18)</blue>: <m_str>He</m_str> (15_1) 	<m_str>he</m_str> (15_10) 	<m_str>he</m_str> (16_12) 	<m_str>Mr. Eisenstaedt 's</m_str> (9_3) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (17_4) 	<m_str>Mr. Eisenstaedt</m_str> (3_11) 	<m_str>He</m_str> (19_1) 	<m_str>He</m_str> (4_1) 	<m_str>his</m_str> (4_6) 	<m_str>Mr. Eisenstaedt</m_str> (18_25) 	<m_str>himself</m_str> (18_29) 	<m_str>He</m_str> (20_1) 	<m_str>his</m_str> (5_3) 	<m_str>his</m_str> (20_8) 	<m_str>Mr. Eisenstaedt</m_str> (13_15) 	<m_str>He</m_str> (14_1) 	<m_str>his</m_str> (13_19) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

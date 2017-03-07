@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Edward Teller, a Fierce Architect of the Hydrogen Bomb, Is Dead at 95 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Edward Teller , a towering figure of science who had a singular impact on the development of the nuclear age , died late Tuesday at his home in Stanford , Calif . <br><blue>2</blue>He was 95 . <br><blue>3</blue>Widely seen as a troubled genius , Dr. Teller generated hot debate for more than a half century , even as he engendered many features of the modern world . <br><blue>4</blue>A creator of quantum physics who loved to play Bach and Beethoven as an amateur pianist , the Hungarian-born physicist helped found the nuclear era with his work on the atom bomb , played a dominant role in inventing the hydrogen bomb ( though he often protested being called its father ) , battled for decades on behalf of nuclear power and lobbied fervently for the building of antimissile defenses , which the nation is now erecting . <br><blue>5</blue>His antimissile efforts , obsessive by most accounts and dismissed by critics as doomed to failure , were his way of trying to protect his adopted country from the horrors he helped bring into the world . <br><blue>6</blue>Dr. Teller 's actions split scientists into warring camps and created huge , lingering controversies over his legacy , including whether his work in the cold war had fostered a dangerous nuclear arms race or an uneasy peace that helped crush Soviet Communism . <br><blue>7</blue>His frustrations in seeking support for the making of the hydrogen bomb led to his testimony against J. Robert Oppenheimer , science director of the atom bomb project . <br><blue>8</blue>When Dr. Oppenheimer lost his security clearance after that testimony , a backlash against Dr. Teller clouded the rest of his career . <br><blue>9</blue>Through it all , he was a man of principle , doing what he believed in regardless of whether it made him a pariah . '' <br><blue>10</blue>The loss of Dr. Edward Teller is a great loss , '' Dr. Michael Anastasio , director of the Lawrence Livermore National Laboratory , a California nuclear center Dr. Teller helped found , said in a statement . '' <br><blue>11</blue>He put his heart and soul into this laboratory and into ensuring the security of this nation , and his dedication never foundered . '' <br><blue>12</blue>In July , President Bush awarded Dr. Teller the Presidential Medal of Freedom , the nation 's highest civilian honor . '' <br><blue>13</blue>In my long life I had to face some difficult decisions and found myself often in doubt whether I acted the right way , '' Dr. Teller said . '' <br><blue>14</blue>Thus the medal is a great blessing for me . '' <br><blue>15</blue>His sense of theater -- from his famously bushy eyebrows to his heavily accented speech and painstakingly slow delivery -- forced all to pay close attention , from presidents to schoolchildren . <br><blue>16</blue>When he testified in Congress , which he did often , the silence was palpable . '' <br><blue>17</blue>The famous brows beetled , the melancholy gray eyes bored in , the doom-laden voice set out the words one by one , like great marble blocks , '' the writer Michael Kernan observed of a typical Teller performance . <br><blue>18</blue>A Man With Two Sides Detractors saw Dr. Teller as a divided man -- warm , funny , idealistic and honestly conflicted on one hand , maniacal , bullying , dangerous and devious on the other . <br><blue>19</blue>Critics viewed his '' Memoirs '' ( Perseus Publishing , 2001 ) as playing loose with the historical facts . '' <br><blue>20</blue>Like Dr. Jekyll , Teller is disturbingly aware of his darker side , '' the physicist Alan Lightman wrote last year in The New York Review of Books . '' <br><hr><br><blue>1(2)</blue>: <m_str>the medal</m_str> (14_2) 	<m_str>the Presidential Medal of Freedom , the nation 's highest civilian honor</m_str> (12_9) 	<br><blue>2(11)</blue>: <m_str>I</m_str> (13_19) 	<m_str>His</m_str> (15_1) 	<m_str>I</m_str> (13_5) 	<m_str>he</m_str> (16_2) 	<m_str>the writer Michael Kernan</m_str> (17_30) 	<m_str>his</m_str> (15_7) 	<m_str>me</m_str> (14_9) 	<m_str>he</m_str> (16_8) 	<m_str>myself</m_str> (13_14) 	<m_str>his</m_str> (15_12) 	<m_str>my</m_str> (13_2) 	<br><blue>3(36)</blue>: <m_str>He</m_str> (2_1) 	<m_str>his</m_str> (1_26) 	<m_str>Dr. Teller as a divided man</m_str> (18_8) 	<m_str>Dr. Teller</m_str> (3_8) 	<m_str>he</m_str> (3_22) 	<m_str>Bach</m_str> (4_10) 	<m_str>Beethoven</m_str> (4_12) 	<m_str>His</m_str> (5_1) 	<m_str>the Hungarian-born physicist</m_str> (4_18) 	<m_str>Teller</m_str> (20_5) 	<m_str>his</m_str> (20_10) 	<m_str>his</m_str> (4_27) 	<m_str>the physicist Alan Lightman</m_str> (20_15) 	<m_str>his</m_str> (5_19) 	<m_str>Dr. Teller 's</m_str> (6_1) 	<m_str>his</m_str> (5_25) 	<m_str>he</m_str> (4_45) 	<m_str>he</m_str> (5_31) 	<m_str>his</m_str> (6_17) 	<m_str>His</m_str> (7_1) 	<m_str>his</m_str> (6_22) 	<m_str>his</m_str> (7_15) 	<m_str>Dr. Teller</m_str> (8_15) 	<m_str>his</m_str> (8_21) 	<m_str>he</m_str> (9_5) 	<m_str>he</m_str> (9_14) 	<m_str>him</m_str> (9_22) 	<m_str>Dr. Edward Teller</m_str> (10_4) 	<m_str>Dr. Michael Anastasio</m_str> (10_13) 	<m_str>He</m_str> (11_1) 	<m_str>his</m_str> (11_3) 	<m_str>a California nuclear center Dr. Teller</m_str> (10_25) 	<m_str>his</m_str> (11_20) 	<m_str>President Bush</m_str> (12_4) 	<m_str>Dr. Teller</m_str> (12_7) 	<m_str>Dr. Teller</m_str> (13_26) 	<br><blue>4(2)</blue>: <m_str>the modern world</m_str> (3_27) 	<m_str>the world</m_str> (5_35) 	<br><blue>5(1)</blue>: <m_str>the cold war</m_str> (6_25) 	<br><blue>6(3)</blue>: <m_str>J. Robert Oppenheimer , science director of the atom bomb project</m_str> (7_18) 	<m_str>Dr. Oppenheimer</m_str> (8_2) 	<m_str>his</m_str> (8_5) 	<br><blue>7(2)</blue>: <m_str>the hydrogen bomb</m_str> (7_10) 	<m_str>the hydrogen bomb</m_str> (4_40) 	<br><blue>8(3)</blue>: <m_str>a backlash against Dr. Teller</m_str> (8_12) 	<m_str>it all</m_str> (9_2) 	<m_str>it</m_str> (9_20) 	<br><blue>9(2)</blue>: <m_str>the Lawrence Livermore National Laboratory</m_str> (10_19) 	<m_str>this laboratory</m_str> (11_8) 	<br><blue>10(3)</blue>: <m_str>this nation</m_str> (11_16) 	<m_str>the nation 's</m_str> (12_15) 	<m_str>the nation</m_str> (4_73) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

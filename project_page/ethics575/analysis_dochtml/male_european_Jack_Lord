@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jack Lord, 77, Helped Direct And Starred In 'Hawaii Five-O' </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jack Lord , the deadpan star of '' Hawaii Five-O '' who made '' Book him , Danno '' a fixture of American slang , died Wednesday at his home in Honolulu . <br><blue>2</blue>He was 77 and died of congestive heart failure , said Carolyn Tanaka , a spokeswoman for Marie Lord , the actor 's wife and only survivor . <br><blue>3</blue>Playing the strait-laced , tight-lipped Detective Steve McGarrett , head of an elite state police investigative unit , Mr. Lord helped make '' Hawaii Five-O '' the longest running police drama in television history . <br><blue>4</blue>It lasted 12 seasons on CBS , from 1968 to 1980 , and was also seen in more than 80 other countries . <br><blue>5</blue>The phrase '' Book him , Danno , '' used when the bad guy was captured , came from the name of Detective McGarrett 's assistant , Detective Danny Williams , who was played until the show 's penultimate season by James MacArthur . <br><blue>6</blue>Mr. Lord was not only the star ; his contract gave him control over dramatic decisions on every episode , and it was he who insisted , against the network 's wishes , that the show be shot entirely on location in Hawaii . <br><blue>7</blue>That decision enhanced not only the show 's appeal , as viewers seemed as entranced by the idyllic island scenery as by the crime stories , but also the Hawaiian economy . <br><blue>8</blue>The network 's spending on the production and on staff members ' living expenses was estimated at more than $ 100 million a year , and the show fostered what Hawaiian Government officials called significant increases in tourism . '' <br><blue>9</blue>It was considered the ultimate travelogue for Hawaii , '' David F. Poltrack , executive vice president of research at CBS , said yesterday . '' <br><blue>10</blue>The ascent of Hawaii as a major tourist location coincided with the strong years of that program . <br><blue>11</blue>It really hit a chord . '' <br><blue>12</blue>Mr. Lord helped shape the show with its creator and executive producer , the late Leonard Freeman . <br><blue>13</blue>After Freeman 's death in 1973 , a succession of producers followed , but it was widely known that Mr. Lord controlled the show . <br><blue>14</blue>He also directed several episodes . '' <br><blue>15</blue>He was always a strict taskmaster , a perfectionist , '' said Kam Fong , an original cast member , who played Detective Chin Ho Kelly for 10 years . '' <br><blue>16</blue>When we were on the set , it was strictly business ; he would n't stand for any horseplay . <br><blue>17</blue>And he was not the sociable type . <br><blue>18</blue>After work , he had nothing to do with us socially . '' <br><blue>19</blue>But I learned quite a lot from him , and so did others , '' said Mr. Fong , who had acted on stage but never in films or television until '' Hawaii Five-O . '' '' <br><blue>20</blue>We always had a lot of local actors on the show who were inexperienced , and he helped them a lot . <br><hr><br><blue>1(2)</blue>: <m_str>the strait-laced , tight-lipped Detective Steve McGarrett , head of an elite state police investigative unit</m_str> (3_2) 	<m_str>It</m_str> (4_1) 	<br><blue>2(3)</blue>: <m_str>its</m_str> (12_8) 	<m_str>The ascent of Hawaii as a major tourist location</m_str> (10_1) 	<m_str>It</m_str> (11_1) 	<br><blue>3(2)</blue>: <m_str>Mr. Fong</m_str> (19_17) 	<m_str>Kam Fong , an original cast member , who played Detective Chin Ho Kelly for 10 years</m_str> (15_13) 	<br><blue>4(22)</blue>: <m_str>He</m_str> (15_1) 	<m_str>Mr. Lord</m_str> (3_19) 	<m_str>him</m_str> (19_8) 	<m_str>Mr. Lord</m_str> (12_1) 	<m_str>him</m_str> (5_5) 	<m_str>Danno</m_str> (5_7) 	<m_str>he</m_str> (16_13) 	<m_str>him</m_str> (1_16) 	<m_str>Danno</m_str> (1_18) 	<m_str>He</m_str> (2_1) 	<m_str>the bad guy</m_str> (5_12) 	<m_str>he</m_str> (17_2) 	<m_str>he</m_str> (20_17) 	<m_str>Mr. Lord</m_str> (6_1) 	<m_str>Detective McGarrett 's</m_str> (5_23) 	<m_str>his</m_str> (1_29) 	<m_str>his</m_str> (6_9) 	<m_str>He</m_str> (14_1) 	<m_str>him</m_str> (6_12) 	<m_str>Mr. Lord</m_str> (13_20) 	<m_str>he</m_str> (18_4) 	<m_str>he</m_str> (6_24) 	<br><blue>5(2)</blue>: <m_str>the network 's</m_str> (6_29) 	<m_str>The network 's</m_str> (8_1) 	<br><blue>6(2)</blue>: <m_str>a succession of producers</m_str> (13_8) 	<m_str>it</m_str> (13_15) 	<br><blue>7(3)</blue>: <m_str>we</m_str> (16_2) 	<m_str>We</m_str> (20_1) 	<m_str>us</m_str> (18_10) 	<br><blue>8(7)</blue>: <m_str>the show</m_str> (12_5) 	<m_str>the show</m_str> (8_27) 	<m_str>the show</m_str> (13_23) 	<m_str>the show 's</m_str> (5_36) 	<m_str>the show</m_str> (6_35) 	<m_str>the show 's</m_str> (7_6) 	<m_str>the show who were inexperienced</m_str> (20_10) 	<br><blue>9(1)</blue>: <m_str>Carolyn Tanaka , a spokeswoman for Marie Lord , the actor 's wife and only survivor</m_str> (2_12) 	<br><blue>10(2)</blue>: <m_str>CBS</m_str> (4_6) 	<m_str>CBS</m_str> (9_21) 	<br><blue>11(4)</blue>: <m_str>Hawaii</m_str> (6_43) 	<m_str>Hawaii</m_str> (9_8) 	<m_str>Hawaii</m_str> (1_9) 	<m_str>Hawaii</m_str> (10_4) 	<br><blue>12(2)</blue>: <m_str>It</m_str> (9_1) 	<m_str>The network 's spending on the production and on staff members ' living expenses</m_str> (8_1) 	<br><blue>13(2)</blue>: <m_str>them</m_str> (20_19) 	<m_str>local actors</m_str> (20_7) 	<br><blue>14(2)</blue>: <m_str>his contract</m_str> (6_9) 	<m_str>it</m_str> (6_22) 	<br><blue>15(2)</blue>: <m_str>the set</m_str> (16_5) 	<m_str>it</m_str> (16_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

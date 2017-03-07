@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Willie Pep, 84, Dies; Champion Who Made Others Miss </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Willie Pep , one of boxing 's pre-eminent figures and a longtime featherweight champion remembered most for his four title bouts against Sandy Saddler , died Thursday . <br><blue>2</blue>He was 84 . <br><blue>3</blue>He had been living in an Alzheimer 's disease unit at the Haven Health Center in Rocky Hill , Conn. , for the past six years , said Ed Brophy , the executive director of the International Boxing Hall of Fame , who confirmed Pep 's death . <br><blue>4</blue>Known as Will o ' the Wisp for outfoxing his opponents with superior speed and footwork , Pep won 230 bouts , lost 11 and fought one draw in a career that spanned three decades . <br><blue>5</blue>Pep won the featherweight title with a decision against Chalky Wright on November 1942 , becoming the youngest champion ever in that division . <br><blue>6</blue>He held the crown until he was knocked out by Saddler in October 1948 , 21 months after Pep was severely injured in a plane crash . <br><blue>7</blue>Pep regained the title by decision four months later , but Saddler won it back in September 1950 and then defeated Pep again in September 1951 . <br><blue>8</blue>Although he knocked out 65 opponents , Pep was known primarily for his supreme craftsmanship in the ring . <br><blue>9</blue>The broadcaster Don Dunphy , called the Voice of Boxing , cited Pep as the best boxer he ever saw , remarking once , '' He was so clever , he could come up to an opponent from behind . '' <br><blue>10</blue>Saddler did not let his often-brutal rivalry with Pep stand in the way of admiration for him . <br><blue>11</blue>He once told the sportswriter Stanley Frank how in Pep 's nontitle rematch with Wright , '' Chalky cocked his right to throw a bomb , and Pep ducked through his legs and got away . '' <br><blue>12</blue>Pep , usually fighting at about 125 pounds , was so quick , so hard to hit , that he once won a round in which he deliberately did not land a single punch to see if he could impress the judges solely with his ring smarts . <br><blue>13</blue>It happened on July 25 , 1946 , in Minneapolis , in the third round of a nontitle bout against Jackie Graves that Pep won by knockout in the eighth . '' <br><blue>14</blue>I jabbed him a few times , but most of the round , I was bobbing and weaving and making him miss , and he missed a hundred punches , I guess , making him look so bad they gave me the round , '' Pep told Peter Heller in an interview for '' In This Corner . '' <br><blue>15</blue>Pep was born Guglielmo Papaleo on Sept. 19 , 1922 , in Middletown , Conn. , near Hartford . <br><blue>16</blue>After boxing as an amateur for two and a half years , Pep turned pro in July 1940 . <br><blue>17</blue>He became the featherweight champion with a 15-round unanimous decision against Wright at Madison Square Garden on Nov. 20 , 1942 , his 54th victory without a defeat . <br><blue>18</blue>He remained unbeaten until losing a decision to Sammy Angott , the former lightweight titleholder , on March 19 , 1943 , in a nontitle fight , his 64th bout . <br><blue>19</blue>Pep served in the Navy and the Army during World War II . <br><blue>20</blue>In January 1947 , he sustained a broken leg , cracked vertebrae and a chest injury in the crash of a chartered plane near Bridgeton , N.J. , during a snowstorm . <br><hr><br><blue>1(1)</blue>: <m_str>a nontitle fight , his 64th bout</m_str> (18_24) 	<br><blue>2(3)</blue>: <m_str>the round</m_str> (14_42) 	<m_str>the round</m_str> (14_11) 	<m_str>the third round of a nontitle bout against Jackie Graves that Pep won by knockout in the eighth</m_str> (13_13) 	<br><blue>3(39)</blue>: <m_str>Pep</m_str> (15_1) 	<m_str>Saddler</m_str> (7_12) 	<m_str>he</m_str> (8_2) 	<m_str>Pep</m_str> (7_22) 	<m_str>Pep</m_str> (8_8) 	<m_str>his</m_str> (8_13) 	<m_str>Pep</m_str> (14_46) 	<m_str>The broadcaster Don Dunphy , called the Voice of Boxing</m_str> (9_1) 	<m_str>Pep</m_str> (16_13) 	<m_str>He</m_str> (17_1) 	<m_str>his</m_str> (1_18) 	<m_str>He</m_str> (2_1) 	<m_str>Pep</m_str> (9_13) 	<m_str>Sandy Saddler</m_str> (1_23) 	<m_str>he</m_str> (9_18) 	<m_str>Saddler</m_str> (10_1) 	<m_str>his</m_str> (10_5) 	<m_str>He</m_str> (9_26) 	<m_str>He</m_str> (18_1) 	<m_str>He</m_str> (3_1) 	<m_str>he</m_str> (9_31) 	<m_str>his</m_str> (17_23) 	<m_str>him</m_str> (10_17) 	<m_str>He</m_str> (11_1) 	<m_str>Pep</m_str> (19_1) 	<m_str>Pep 's</m_str> (11_10) 	<m_str>his</m_str> (4_10) 	<m_str>his</m_str> (18_28) 	<m_str>Pep</m_str> (4_18) 	<m_str>Pep</m_str> (5_1) 	<m_str>Pep ducked through his legs</m_str> (11_28) 	<m_str>he</m_str> (20_5) 	<m_str>Pep 's</m_str> (3_45) 	<m_str>He</m_str> (6_1) 	<m_str>he</m_str> (6_6) 	<m_str>Saddler</m_str> (6_11) 	<m_str>Pep</m_str> (13_24) 	<m_str>Pep</m_str> (7_1) 	<m_str>Pep</m_str> (6_19) 	<br><blue>4(1)</blue>: <m_str>his legs</m_str> (11_31) 	<br><blue>5(2)</blue>: <m_str>a plane crash</m_str> (6_24) 	<m_str>the crash of a chartered plane near Bridgeton , N.J.</m_str> (20_18) 	<br><blue>6(3)</blue>: <m_str>Chalky Wright</m_str> (5_10) 	<m_str>Wright</m_str> (11_15) 	<m_str>Wright</m_str> (17_12) 	<br><blue>7(2)</blue>: <m_str>September 1951</m_str> (7_25) 	<m_str>September 1950</m_str> (7_17) 	<br><blue>8(11)</blue>: <m_str>he</m_str> (12_20) 	<m_str>him</m_str> (14_3) 	<m_str>him</m_str> (14_35) 	<m_str>he</m_str> (12_38) 	<m_str>him</m_str> (14_21) 	<m_str>he</m_str> (12_27) 	<m_str>he</m_str> (14_25) 	<m_str>his</m_str> (12_45) 	<m_str>his</m_str> (11_31) 	<m_str>Chalky</m_str> (11_18) 	<m_str>his</m_str> (11_20) 	<br><blue>9(1)</blue>: <m_str>Hartford</m_str> (15_18) 	<br><blue>10(4)</blue>: <m_str>me</m_str> (14_41) 	<m_str>I</m_str> (14_14) 	<m_str>I</m_str> (14_31) 	<m_str>I</m_str> (14_1) 	<br><blue>11(3)</blue>: <m_str>it</m_str> (7_14) 	<m_str>the featherweight title</m_str> (5_3) 	<m_str>the title</m_str> (7_3) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

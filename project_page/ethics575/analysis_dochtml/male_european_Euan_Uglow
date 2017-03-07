@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Euan Uglow, 68, British Realist Who Won Praise for His Still Lifes </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Euan Uglow , a British realist artist whose work received high praise in his homeland , died on Thursday in London . <br><blue>2</blue>He was 68 and lived in London . <br><blue>3</blue>The cause was cancer , The Times of London reported . <br><blue>4</blue>Mr. Uglow won particular praise in Britain for his nudes and his still lifes . <br><blue>5</blue>He was so painstaking as an artist that his output was sometimes only two paintings in a year . <br><blue>6</blue>He asserted once that before he finally finished a painting of a model she might have gotten engaged , married and divorced . <br><blue>7</blue>His works were shown in spaces including the Tate Gallery in London . <br><blue>8</blue>Catherine Lambert , veteran of the London art world , wrote in The Guardian yesterday that if Mr. Uglow 's legacy were '' imagined as a string of gems , the rarest would be his beautifully faceted paintings of silent nudes . '' <br><blue>9</blue>But Mr. Uglow 's views of himself and others in his field could have a distinctly nonestablishment tone . <br><blue>10</blue>He wrote in 1996 that the example of Cezanne '' helps me to dare to follow my most awkward , foolish passions and obsessions , to wave my own red flags in the dull faces of late-century salon hacks and killers . '' <br><blue>11</blue>Mr. Uglow was born in London and studied at the Camberwell and Slade art schools in Britain . <br><blue>12</blue>He was almost unknown in the United States , where he had a mixed reception . <br><blue>13</blue>John Russell , writing in The New York Times about the exhibition '' Eight Figurative Painters '' at the Yale Center for British Art in 1981 , said that '' to live with the memory of paintings '' by Mr. Uglow , who was one of the eight , '' it is almost indispensable to have been reared in London . '' <br><blue>14</blue>Reviewing works by Mr. Uglow on display in 1994 at Salander-O'Reilly Gallery in Manhattan and at the New York Studio School , Reagan Upshaw wrote in Art in America , '' Uglow has a superb color sense , which I suspect derives ultimately from Matisse . '' <br><hr><br><blue>1(3)</blue>: <m_str>me</m_str> (10_12) 	<m_str>my</m_str> (10_28) 	<m_str>my</m_str> (10_17) 	<br><blue>2(6)</blue>: <m_str>London</m_str> (11_6) 	<m_str>London</m_str> (7_12) 	<m_str>London</m_str> (1_21) 	<m_str>London</m_str> (2_7) 	<m_str>London</m_str> (13_60) 	<m_str>London</m_str> (8_7) 	<br><blue>3(2)</blue>: <m_str>Britain</m_str> (4_7) 	<m_str>Britain</m_str> (11_17) 	<br><blue>4(23)</blue>: <m_str>himself</m_str> (9_7) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (9_11) 	<m_str>Mr. Uglow</m_str> (4_1) 	<m_str>Mr. Uglow</m_str> (13_40) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (8_35) 	<m_str>He</m_str> (10_1) 	<m_str>he</m_str> (6_6) 	<m_str>his</m_str> (4_9) 	<m_str>He</m_str> (12_1) 	<m_str>Uglow</m_str> (14_32) 	<m_str>his</m_str> (4_12) 	<m_str>Mr. Uglow on display in 1994</m_str> (14_4) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (12_11) 	<m_str>artist</m_str> (1_7) 	<m_str>His</m_str> (7_1) 	<m_str>Mr. Uglow 's</m_str> (8_18) 	<m_str>Mr. Uglow 's</m_str> (9_2) 	<m_str>Mr. Uglow</m_str> (11_1) 	<m_str>his</m_str> (5_9) 	<m_str>his</m_str> (1_14) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

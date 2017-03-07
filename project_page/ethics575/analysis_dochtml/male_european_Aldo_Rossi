@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Aldo Rossi, Architect of Monumental Simplicity, Dies at 66 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Aldo Rossi , the Italian architect known for works of monumental simplicity and power , died yesterday in Milan , where he lived . <br><blue>2</blue>He was 66 . <br><blue>3</blue>His Manhattan office said he died as a result of injuries sustained in a car accident last week as he drove to his weekend home on the Lago Maggiore in northern Italy . <br><blue>4</blue>Mr. Rossi , who won the Pritzker Prize , the highest award in his field , in 1990 , was an architect 's architect . <br><blue>5</blue>His work combined unabashedly grand forms with the most reductive geometric shapes ; it invoked the resonance of a recurring dream or the lyricism of a de Chirico painting . <br><blue>6</blue>A cult figure among students , he lectured widely and spoke a richly accented English , as well as French and German . <br><blue>7</blue>He has offices in New York City , the Hague and Tokyo as well as in Milan , where he directed a small staff in designing and constructing more than 100 buildings in Italy , Japan and around the world . <br><blue>8</blue>His only building in the United States , completed in 1995 , is an office complex for the Disney Development Corporation in Celebration , the Disney-sponsored town in central Florida . <br><blue>9</blue>A much heralded 1986 design for the school of architecture at the University of Miami was not built because there were no funds for it . <br><blue>10</blue>A more recent project is a 10-story building for the Scholastic Publishing Company to be built on Mercer Street in SoHo . <br><blue>11</blue>It unanimously passed the New York City Landmarks Commission , and construction is to start next summer , said William Bretschger , a spokesman for Scholastic . <br><blue>12</blue>Aldo Rossi was a poet of architecture who managed to tap into the universal essence of forms through his use of an intensely personal vocabulary . <br><blue>13</blue>His signature gestures of the cone , the cylinder and the square endlessly recombined with colonnades , windows at unexpected scales and towers might have seemed coldly mechanical if it were not for his skill at manipulating the rhythms of shadows and light . <br><blue>14</blue>When he was awarded the Pritzker Prize , the jury commented that Mr. Rossi 's work was '' at once bold and ordinary , original without being novel . '' <br><blue>15</blue>Perhaps his most famous design is the 1971 Cemetery of San Cataldo in Modena , Italy , a seemingly endless colonnade with a gabled roof surrounding the simple cube of an ossuary . <br><blue>16</blue>In a 1988 article for The New York Times , the architecture critic Ada Louise Huxtable called the building unforgettable . '' <br><blue>17</blue>Its spare surreal geometry invokes a haunting and timeless symbolism of death and the eternal with an extraordinary intensity , '' she wrote . <br><blue>18</blue>Shortly before winning the commission to design the cemetery in 1971 , Mr. Rossi was in an automobile accident that he later said was pivotal in his career as an architect who was obsessed with the combination of disparate parts . '' <br><blue>19</blue>I saw the structure of the body as a series of fractures to be reassembled , '' he later wrote in '' A Scientific Autobiography , '' which was published in English in 1981 . <br><blue>20</blue>Mr. Rossi was born in Milan on May 3 , 1931 . <br><hr><br><blue>1(2)</blue>: <m_str>It</m_str> (11_1) 	<m_str>A more recent project</m_str> (10_1) 	<br><blue>2(3)</blue>: <m_str>it</m_str> (5_14) 	<m_str>His work</m_str> (5_1) 	<m_str>Mr. Rossi 's work</m_str> (14_13) 	<br><blue>3(2)</blue>: <m_str>the building</m_str> (16_18) 	<m_str>His only building in the United States , completed in 1995</m_str> (8_1) 	<br><blue>4(2)</blue>: <m_str>it</m_str> (9_25) 	<m_str>the University of Miami</m_str> (9_12) 	<br><blue>5(12)</blue>: <m_str>Mr. Rossi</m_str> (18_13) 	<m_str>his</m_str> (15_2) 	<m_str>he</m_str> (18_21) 	<m_str>his</m_str> (18_27) 	<m_str>Aldo Rossi</m_str> (12_1) 	<m_str>he</m_str> (19_18) 	<m_str>Mr. Rossi</m_str> (20_1) 	<m_str>His</m_str> (13_1) 	<m_str>his</m_str> (12_19) 	<m_str>he</m_str> (14_2) 	<m_str>Mr. Rossi 's</m_str> (14_13) 	<m_str>his</m_str> (13_34) 	<br><blue>6(13)</blue>: <m_str>He</m_str> (2_1) 	<m_str>Mr. Rossi , who won the Pritzker Prize , the highest award in his field , in 1990</m_str> (4_1) 	<m_str>he</m_str> (1_22) 	<m_str>he</m_str> (3_20) 	<m_str>His</m_str> (8_1) 	<m_str>his</m_str> (3_23) 	<m_str>he</m_str> (7_20) 	<m_str>he</m_str> (6_7) 	<m_str>his</m_str> (4_14) 	<m_str>His</m_str> (3_1) 	<m_str>His</m_str> (5_1) 	<m_str>he</m_str> (3_5) 	<m_str>He</m_str> (7_1) 	<br><blue>7(2)</blue>: <m_str>1971</m_str> (15_8) 	<m_str>1971</m_str> (18_11) 	<br><blue>8(2)</blue>: <m_str>the cylinder</m_str> (13_8) 	<m_str>it</m_str> (13_30) 	<br><blue>9(2)</blue>: <m_str>the Pritzker Prize</m_str> (14_5) 	<m_str>the Pritzker Prize , the highest award in his field</m_str> (4_6) 	<br><blue>10(3)</blue>: <m_str>Milan</m_str> (1_19) 	<m_str>Milan</m_str> (7_17) 	<m_str>Milan</m_str> (20_6) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

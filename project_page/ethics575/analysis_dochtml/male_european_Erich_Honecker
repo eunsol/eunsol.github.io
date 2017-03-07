@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Erich Honecker, Ruler of East Germany For 18 of Its Last Years, Dies in Exile at 81 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Erich Honecker , the stolid Marxist who ruled East Germany for 18 years until a people 's uprising swept him aside in October 1989 , died yesterday in Chile . <br><blue>2</blue>He was 81 . <br><blue>3</blue>His doctor said the cause of death was liver cancer . <br><blue>4</blue>It took the collapse of Communism in Eastern Europe and the absorption in 1990 of his country by the larger , immensely richer West Germany to lay bare the extent to which the Honecker Government had mismanaged the economy and the environment . <br><blue>5</blue>To the dismay of western Germans and the federal Government in Bonn , eastern Germany 's infrastructure , from telephones to railroads , needed to be rebuilt , and vast sources of contamination had to be cleaned up -- all at enormous expense . <br><blue>6</blue>Like other members of East Germany 's upper echelon , Mr. Honecker faced charges in the united Berlin . <br><blue>7</blue>He spent time under house arrest and in prison , but his trial was halted by a higher court , which ruled that prosecutors had violated the civil rights of a very sick man . <br><blue>8</blue>He was freed in January 1993 and allowed to fly to Chile to join his wife and daughter . <br><blue>9</blue>Mr. Honecker 's orthodoxy as a Communist leader did not keep him from risking the Kremlin 's displeasure with his own brand of " Westpolitik " toward Bonn , tapping its wealth to strengthen his country 's faltering economy and living standards . <br><blue>10</blue>After coming to power in 1971 , he maintained East Germany as the industrial dynamo of the Soviet bloc , and he received international recognition and won a coveted prize when Bonn and Paris received him as a head of state with full honors . <br><blue>11</blue>Mr. Honecker successfully steered East Germany away from Stalinism toward the high-technology pragmatism of a new managerial elite . <br><blue>12</blue>But his failing health , and his obstinacy in the era of glasnost and perestroika proclaimed by President Mikhail S. Gorbachev of the Soviet Union , dramatically eroded his influence in his last months in power . <br><blue>13</blue>Reports of Failing Health After Mr. Honecker 's forced resignation , he was scheduled to face trial for treason , but action was delayed by his failing health , and in May 1990 the lame-duck East German authorities , citing his fragile condition , decided not to detain or prosecute him . <br><blue>14</blue>In April 1990 the former leader was granted refuge at a Soviet military hospital in Beelitz , 20 miles southwest of Berlin , where he and his wife , Margot , lived in isolation and disgrace while his health deteriorated . <br><blue>15</blue>The German authorities issued a warrant for Mr. Honecker 's arrest in late 1990 after discovering documents showing that he had ordered guards at the Berlin wall to shoot anyone seeking to flee to the West . <br><blue>16</blue>Prosecutors said they wanted to try him on charges of manslaughter and of stealing millions in state funds , but Soviet officers at the military hospital said they were not authorized to turn him over . <br><blue>17</blue>He was secretly flown to the Soviet Union in March 1991 on orders of Mr. Gorbachev , and he reportedly underwent bowel surgery in a Moscow military hospital a month later . <br><blue>18</blue>When the Soviet Union collapsed , President Boris N. Yeltsin threatened to deport Mr. Honecker to Germany . <br><blue>19</blue>The former East German leader fled to the Chilean Embassy in Moscow . <br><blue>20</blue>For seven months , he was given sanctuary by Ambassador Clodomiro Almeyda , who himself had found refuge in East Germany during the Pinochet years in his country . <br><hr><br><blue>1(2)</blue>: <m_str>the Soviet Union</m_str> (12_23) 	<m_str>the Soviet Union</m_str> (18_2) 	<br><blue>2(1)</blue>: <m_str>Bonn and Paris</m_str> (10_32) 	<br><blue>3(2)</blue>: <m_str>Bonn</m_str> (5_12) 	<m_str>Bonn</m_str> (9_28) 	<br><blue>4(1)</blue>: <m_str>the Kremlin 's</m_str> (9_15) 	<br><blue>5(2)</blue>: <m_str>his wife</m_str> (8_15) 	<m_str>his wife , Margot</m_str> (14_27) 	<br><blue>6(2)</blue>: <m_str>Moscow</m_str> (17_26) 	<m_str>Moscow</m_str> (19_12) 	<br><blue>7(3)</blue>: <m_str>Failing Health</m_str> (13_3) 	<m_str>his health</m_str> (14_38) 	<m_str>his failing health</m_str> (13_26) 	<br><blue>8(7)</blue>: <m_str>East Germany</m_str> (11_5) 	<m_str>East Germany</m_str> (20_20) 	<m_str>East Germany 's</m_str> (6_5) 	<m_str>his country</m_str> (20_27) 	<m_str>his country</m_str> (4_16) 	<m_str>East Germany</m_str> (1_9) 	<m_str>his country 's</m_str> (9_35) 	<br><blue>9(2)</blue>: <m_str>President Mikhail S. Gorbachev of the Soviet Union</m_str> (12_18) 	<m_str>Mr. Gorbachev</m_str> (17_15) 	<br><blue>10(2)</blue>: <m_str>Berlin</m_str> (14_22) 	<m_str>Berlin</m_str> (15_26) 	<br><blue>11(2)</blue>: <m_str>The German authorities</m_str> (15_1) 	<m_str>May 1990 the lame-duck East German authorities , citing his fragile condition</m_str> (13_32) 	<br><blue>12(2)</blue>: <m_str>It</m_str> (4_1) 	<m_str>the cause of death</m_str> (3_4) 	<br><blue>13(2)</blue>: <m_str>the military hospital</m_str> (16_24) 	<m_str>a Soviet military hospital in Beelitz , 20 miles</m_str> (14_11) 	<br><blue>14(3)</blue>: <m_str>Prosecutors</m_str> (16_1) 	<m_str>they</m_str> (16_3) 	<m_str>they</m_str> (16_28) 	<br><blue>15(42)</blue>: <m_str>his</m_str> (7_12) 	<m_str>his</m_str> (13_41) 	<m_str>he</m_str> (14_25) 	<m_str>Mr. Honecker 's</m_str> (15_8) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (14_27) 	<m_str>him</m_str> (13_51) 	<m_str>he</m_str> (15_20) 	<m_str>his</m_str> (14_38) 	<m_str>his</m_str> (8_15) 	<m_str>him</m_str> (16_7) 	<m_str>Mr. Honecker 's</m_str> (9_1) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>him</m_str> (1_20) 	<m_str>him</m_str> (9_12) 	<m_str>his</m_str> (9_20) 	<m_str>he</m_str> (10_8) 	<m_str>him</m_str> (16_34) 	<m_str>His</m_str> (3_1) 	<m_str>he</m_str> (17_19) 	<m_str>His doctor</m_str> (3_1) 	<m_str>his</m_str> (9_35) 	<m_str>Mr. Honecker</m_str> (11_1) 	<m_str>he</m_str> (10_22) 	<m_str>Mr. Honecker to Germany</m_str> (18_14) 	<m_str>The former East German leader</m_str> (19_1) 	<m_str>him</m_str> (10_36) 	<m_str>his</m_str> (12_2) 	<m_str>his</m_str> (12_7) 	<m_str>his</m_str> (4_16) 	<m_str>he</m_str> (20_5) 	<m_str>himself</m_str> (20_15) 	<m_str>Mr. Honecker 's</m_str> (13_6) 	<m_str>his</m_str> (12_29) 	<m_str>he</m_str> (13_12) 	<m_str>his</m_str> (12_32) 	<m_str>his</m_str> (20_27) 	<m_str>Mr. Honecker</m_str> (6_11) 	<m_str>the former leader</m_str> (14_4) 	<m_str>his</m_str> (13_26) 	<m_str>He</m_str> (7_1) 	<br><blue>16(1)</blue>: <m_str>October 1989</m_str> (1_23) 	<br><blue>17(1)</blue>: <m_str>the Soviet bloc</m_str> (10_17) 	<br><blue>18(2)</blue>: <m_str>Chile</m_str> (8_12) 	<m_str>Chile</m_str> (1_29) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

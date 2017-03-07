@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Charles H. Bell, 95, Executive Who Led General Mills' Growth </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Charles H. Bell , the son of the founder of General Mills , who helped transform a flour-milling company into an international diversified food manufacturer , died on Saturday in Santa Barbara , Calif . <br><blue>2</blue>He was 95 . <br><blue>3</blue>In the 25 years he held top positions at the company , Mr. Bell broadened the interests of the family business beyond milling into food manufacture , clothing , toys and various retail ventures . <br><blue>4</blue>Today the company has sales of $ 10.8 billion a year , with major investments in Canada , Britain , Mexico and Malaysia . <br><blue>5</blue>He was president of General Mills from 1952 to 1961 and chairman from 1961 to 1967 . <br><blue>6</blue>Mr. Bell retired in 1969 but remained on the board until 1977 . <br><blue>7</blue>He was also a longtime member of the boards of United States Steel and Burlington Northern , as well as a trustee of the Minneapolis Society of Fine Arts and the Minneapolis College of Art and Design . <br><blue>8</blue>Charles H. Bell was born in Minneapolis on Sept. 24 , 1907 , the son of James Ford Bell , who founded General Mills in 1928 through the merger of several milling companies . <br><blue>9</blue>Mr. Bell came from a long line of millers and merchants , starting with Henry Bell , who ran a flour mill in England during the 18th century before coming to America in 1733 . <br><blue>10</blue>After attending Yale , Mr. Bell joined General Mills in 1930 , the same year he married Lucy Winton , who died in 1994 . <br><blue>11</blue>In the 1970 's Mr. Bell established the Belwin Foundation , which has since acquired about 1,300 acres of land in Minnesota to protect it from development ; it runs an outdoor educational program on the land for children from the public schools of St. Paul . <br><blue>12</blue>Mr. Bell is survived by a daughter , Lucy Hartwell , of Wayzata , Minn. ; five grandchildren ; 12 great-grandchildren ; and two great-great-grandchildren . <br><blue>13</blue>A son , David , died in 1955 . <br><hr><br><blue>1(12)</blue>: <m_str>Mr. Bell</m_str> (10_5) 	<m_str>Mr. Bell</m_str> (3_13) 	<m_str>Bell</m_str> (11_6) 	<m_str>He</m_str> (2_1) 	<m_str>He</m_str> (5_1) 	<m_str>he</m_str> (3_5) 	<m_str>Mr. Bell</m_str> (6_1) 	<m_str>He</m_str> (7_1) 	<m_str>he</m_str> (10_16) 	<m_str>Charles H. Bell</m_str> (8_1) 	<m_str>Mr. Bell</m_str> (9_1) 	<m_str>Mr. Bell</m_str> (12_1) 	<br><blue>2(2)</blue>: <m_str>General Mills</m_str> (8_23) 	<m_str>General Mills from 1952 to 1961 and chairman from 1961 to 1967</m_str> (5_5) 	<br><blue>3(3)</blue>: <m_str>a flour-milling company</m_str> (1_17) 	<m_str>the company</m_str> (4_2) 	<m_str>the company</m_str> (3_10) 	<br><blue>4(3)</blue>: <m_str>it</m_str> (11_25) 	<m_str>it</m_str> (11_29) 	<m_str>land in Minnesota</m_str> (11_20) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

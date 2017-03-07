@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Maurice Couve de Murville, 92, Gaullist </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Maurice Couve de Murville , France 's longest-serving foreign minister and the cool embodiment of Gaullist detachment toward the United States and the Atlantic alliance , died yesterday . <br><blue>2</blue>He was 92 . <br><blue>3</blue>His family and the neo-Gaullist Rally for the Republic party , announcing the death , did not say where it had occurred . <br><blue>4</blue>Mr. Couve de Murville served de Gaulle for 10 years as foreign minister , before becoming first his finance minister and then , after the 1968 student revolt against de Gaulle , prime minister . <br><blue>5</blue>He served about a year in that post . <br><blue>6</blue>France 's current foreign minister , Hubert Vedrine , lauded Mr. Couve de Murville today as '' a great ambassador '' for his country . <br><blue>7</blue>An impeccable diplomat , Mr. Couve de Murville was born on Jan. 24 , 1907 , in Rheims , the son of a judge and scion of a well-known family of France 's Protestant minority . <br><blue>8</blue>He glided through his country 's most elite schools , earning a doctorate in law and a degree in literature from the Sorbonne and graduating No. 1 from the Ecole des Sciences Politiques , from which France has traditionally drawn its senior civil servants . <br><blue>9</blue>He joined the Finance Ministry at the young age of 23 , and within 10 years had risen to one of its most senior posts . <br><blue>10</blue>During World War II , Mr. Couve de Murville at first stayed in France , serving the Vichy government that collaborated with the occupying Nazis . <br><blue>11</blue>But in 1943 , he fled to Algiers to serve the Free French administration that eventually came under de Gaulle . <br><blue>12</blue>After the war , Mr. Couve de Murville served as ambassador to Italy , Egypt , the United States and West Germany . <br><blue>13</blue>An ardent golfer , he was reportedly on the links in 1958 when the newly elected President de Gaulle made contact with him and asked to be foreign minister . <br><blue>14</blue>Mr. Couve de Murville went on to outdo Talleyrand by serving a decade as foreign minister , becoming known as '' Monsieur Cool '' for his unruffled aplomb . <br><blue>15</blue>Like his master , de Gaulle , whom he served loyally , he had a world view that was firmly centered on France . <br><blue>16</blue>During the 1960 's , this insistence on the identity and concerns of France sometimes set the government in Paris apart from Washington . <br><blue>17</blue>While Mr. Couve de Murville , who spoke near-perfect English , was a strong proponent of making no concessions to the Soviet Union , his government also raised American eyebrows by drawing closer to China . <br><blue>18</blue>Asked about those policies in an interview in U.S. News and World Report in March 1964 , he analyzed the reasons for differences with America . '' <br><blue>19</blue>It may happen -- and in fact it has happened -- that our policy is not along the same lines as the policy of the United States , '' he said . '' <br><blue>20</blue>It 's not because we want it to to be different . <br><hr><br><blue>1(3)</blue>: <m_str>he</m_str> (19_30) 	<m_str>he</m_str> (18_18) 	<m_str>his</m_str> (17_25) 	<br><blue>2(1)</blue>: <m_str>we</m_str> (20_5) 	<br><blue>3(23)</blue>: <m_str>he</m_str> (11_5) 	<m_str>his</m_str> (15_2) 	<m_str>Mr. Couve de Murville</m_str> (4_1) 	<m_str>his</m_str> (14_26) 	<m_str>he</m_str> (15_9) 	<m_str>He</m_str> (8_1) 	<m_str>his</m_str> (8_4) 	<m_str>he</m_str> (15_13) 	<m_str>Mr. Couve de Murville</m_str> (12_5) 	<m_str>his</m_str> (4_18) 	<m_str>He</m_str> (5_1) 	<m_str>He</m_str> (9_1) 	<m_str>he</m_str> (13_5) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Couve de Murville , who spoke near-perfect English</m_str> (17_2) 	<m_str>Mr. Couve de Murville</m_str> (14_1) 	<m_str>Mr. Couve de Murville at first</m_str> (10_6) 	<m_str>His</m_str> (3_1) 	<m_str>Mr. Couve de Murville</m_str> (6_11) 	<m_str>him</m_str> (13_23) 	<m_str>the Republic party</m_str> (3_8) 	<m_str>his</m_str> (6_23) 	<m_str>Mr. Couve de Murville</m_str> (7_5) 	<br><blue>4(2)</blue>: <m_str>the death</m_str> (3_13) 	<m_str>it</m_str> (3_20) 	<br><blue>5(1)</blue>: <m_str>Gaullist</m_str> (1_16) 	<br><blue>6(3)</blue>: <m_str>the government</m_str> (16_17) 	<m_str>his government</m_str> (17_25) 	<m_str>the Vichy government that collaborated with the occupying Nazis</m_str> (10_17) 	<br><blue>7(2)</blue>: <m_str>our policy</m_str> (19_13) 	<m_str>the policy of the United States</m_str> (19_22) 	<br><blue>8(2)</blue>: <m_str>the newly elected President de Gaulle</m_str> (13_14) 	<m_str>de Gaulle</m_str> (15_5) 	<br><blue>9(2)</blue>: <m_str>the 1960 's</m_str> (16_2) 	<m_str>Talleyrand</m_str> (14_9) 	<br><blue>10(4)</blue>: <m_str>It</m_str> (19_1) 	<m_str>It</m_str> (20_1) 	<m_str>it</m_str> (19_8) 	<m_str>it</m_str> (20_7) 	<br><blue>11(12)</blue>: <m_str>France 's</m_str> (6_1) 	<m_str>his country 's</m_str> (8_4) 	<m_str>France</m_str> (8_37) 	<m_str>its</m_str> (9_22) 	<m_str>its</m_str> (8_41) 	<m_str>France</m_str> (15_23) 	<m_str>France 's</m_str> (1_6) 	<m_str>France 's</m_str> (7_32) 	<m_str>France</m_str> (10_14) 	<m_str>his country</m_str> (6_23) 	<m_str>France</m_str> (16_14) 	<m_str>the Sorbonne</m_str> (8_22) 	<br><blue>12(3)</blue>: <m_str>the United States</m_str> (1_19) 	<m_str>the United States</m_str> (19_25) 	<m_str>the United States</m_str> (12_17) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

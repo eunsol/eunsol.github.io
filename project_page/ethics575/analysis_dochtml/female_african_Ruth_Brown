@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ruth Brown, a Queen of Rhythm and Blues and a Fighter for Artist Royalties, Dies at 78 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Ruth Brown , the gutsy rhythm and blues singer whose career extended to acting and crusading for musicians ' rights , died yesterday in Las Vegas . <br><blue>2</blue>She was 78 and lived in Las Vegas . <br><blue>3</blue>The cause was complications following a heart attack and a stroke she suffered after surgery , and Ms. Brown had been on life support since Oct. 29 , said her friend , lawyer and executor , Howell Begle . '' <br><blue>4</blue>She was one of the original divas , '' said the singer Bonnie Raitt , who worked with Ms. Brown and Mr. Begle to improve royalties for rhythm and blues performers . '' <br><blue>5</blue>I ca n't really say that I 've heard anyone that sounds like Ruth , before or after . <br><blue>6</blue>She was a combination of sass and innocence , and she was extremely funky . <br><blue>7</blue>She could really put it right on the beat , and the tone of her voice was just mighty . <br><blue>8</blue>And she had a great heart . '' '' <br><blue>9</blue>What I loved about her , '' Ms. Raitt added , '' was her combination of vulnerability and resilience and fighting spirit . <br><blue>10</blue>It was not arrogance , but she was just really not going to lay down and roll over for anyone . '' <br><blue>11</blue>Ms. Brown sustained a career for six decades : first as a bright , bluesy singer who was called '' the girl with a tear in her voice '' and then , after some lean years , as the embodiment of an earthy , indomitable black woman . <br><blue>12</blue>She had a life of hard work , hard luck , determination , audacity and style . <br><blue>13</blue>Sometimes it was said that R&amp;B stood as much for Ruth Brown as it did for rhythm and blues . <br><blue>14</blue>As the 1950s began , Ms. Brown 's singles for the fledgling Atlantic Records -- like '' ( Mama ) He Treats Your Daughter Mean '' and '' 5-10-15 Hours '' -- became both the label 's bankroll and templates for all of rock 'n' roll . <br><blue>15</blue>She could sound as if she were hurting , or joyfully lusty , or both at once . <br><blue>16</blue>Her voice was forthright , feisty and ready for anything . <br><blue>17</blue>After Ms. Brown 's string of hits ended , she kept singing but also went on to a career in television , radio and movies ( including a memorable role as the disc jockey Motormouth Maybelle in John Waters 's '' Hairspray '' ) and on Broadway , where she won a Tony Award for her part in '' Black and Blue . '' <br><blue>18</blue>She worked clubs , concerts and festivals into the 21st century . '' <br><blue>19</blue>Whatever I have to say , I get it said , '' she said in an interview with The New York Times in 1995 . '' <br><blue>20</blue>Like the old spirituals say , ' I 've gone too far to turn me ' round now . ' '' <br><hr><br><blue>1(3)</blue>: <m_str>Her voice</m_str> (16_1) 	<m_str>her voice</m_str> (7_15) 	<m_str>her voice</m_str> (11_27) 	<br><blue>2(1)</blue>: <m_str>Atlantic Records</m_str> (14_13) 	<br><blue>3(2)</blue>: <m_str>Las Vegas</m_str> (2_7) 	<m_str>Las Vegas</m_str> (1_25) 	<br><blue>4(2)</blue>: <m_str>R&B</m_str> (13_6) 	<m_str>it</m_str> (13_14) 	<br><blue>5(2)</blue>: <m_str>a life of hard work , hard luck , determination , audacity and style</m_str> (12_3) 	<m_str>it</m_str> (13_2) 	<br><blue>6(2)</blue>: <m_str>Howell Begle</m_str> (3_37) 	<m_str>Mr. Begle</m_str> (4_22) 	<br><blue>7(31)</blue>: <m_str>She</m_str> (15_1) 	<m_str>He</m_str> (14_21) 	<m_str>she</m_str> (15_6) 	<m_str>Her</m_str> (16_1) 	<m_str>She</m_str> (2_1) 	<m_str>Ms. Brown 's</m_str> (17_2) 	<m_str>she</m_str> (17_10) 	<m_str>She</m_str> (18_1) 	<m_str>she</m_str> (3_12) 	<m_str>She</m_str> (4_1) 	<m_str>Ms. Brown</m_str> (3_18) 	<m_str>she</m_str> (19_13) 	<m_str>her</m_str> (3_30) 	<m_str>Bonnie Raitt , who worked with Ms. Brown and Mr. Begle to improve royalties for rhythm and blues performers</m_str> (4_13) 	<m_str>she</m_str> (17_50) 	<m_str>her</m_str> (17_56) 	<m_str>Ruth</m_str> (5_14) 	<m_str>She</m_str> (6_1) 	<m_str>she</m_str> (6_11) 	<m_str>She</m_str> (7_1) 	<m_str>her</m_str> (7_15) 	<m_str>she</m_str> (8_2) 	<m_str>her</m_str> (9_5) 	<m_str>Ms. Raitt</m_str> (9_8) 	<m_str>her</m_str> (9_14) 	<m_str>she</m_str> (10_7) 	<m_str>Ms. Brown</m_str> (11_1) 	<m_str>She</m_str> (12_1) 	<m_str>her</m_str> (11_27) 	<m_str>Ruth Brown</m_str> (13_11) 	<m_str>Ms. Brown 's</m_str> (14_6) 	<br><blue>8(1)</blue>: <m_str>1995</m_str> (19_24) 	<br><blue>9(1)</blue>: <m_str>an earthy , indomitable black woman</m_str> (11_42) 	<br><blue>10(4)</blue>: <m_str>me</m_str> (20_15) 	<m_str>I</m_str> (19_2) 	<m_str>I</m_str> (19_7) 	<m_str>I</m_str> (20_8) 	<br><blue>11(3)</blue>: <m_str>I</m_str> (5_1) 	<m_str>I</m_str> (9_2) 	<m_str>I</m_str> (5_7) 	<br><blue>12(2)</blue>: <m_str>her combination of vulnerability and resilience and fighting spirit</m_str> (9_14) 	<m_str>It</m_str> (10_1) 	<hr><br> gender:female	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

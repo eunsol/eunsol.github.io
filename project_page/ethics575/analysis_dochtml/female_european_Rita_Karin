@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Rita Karin, Actress And a Film Narrator For U.S., Dies at 73 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Rita Karin , a stage , film and television actress who performed in both Yiddish and English , died on Friday at her home in Manhattan . <br><blue>2</blue>She was 73 . <br><blue>3</blue>She had been ill with pneumonia , but no cause of death was listed on the death certificate , said her son , Dr. Michael Horowitz of Evanston , Ill . <br><blue>4</blue>Ms. Karin was born in Vilna , Poland , in 1919 . <br><blue>5</blue>During World War II , she studied at the Moscow State Jewish Theater . <br><blue>6</blue>Her parents and other relatives in Poland were killed in the Holocaust . <br><blue>7</blue>In 1945 , she left the Soviet Union for Germany , where she narrated " The Mills of Death , " the first United States Information Agency documentary on the liberation of the concentration camps . <br><blue>8</blue>In Germany , the American Government helped Ms. Karin and her husband , Norbert Horowitz , also a graduate of the Moscow State Jewish Theater , to create a Yiddish theater that performed for Holocaust survivors throughout Europe . <br><blue>9</blue>Came to U.S. in 1949 In 1949 , Ms. Karin and her husband immigrated to the United States , where she began to act in the Yiddish theater in New York City . <br><blue>10</blue>She was also well known for her readings of the work of Sholom Aleichem , delivered with other actors at the home of Bel Kaufman each year on the anniversary of the writer 's death . <br><blue>11</blue>In 1960 , she made her Broadway debut in " The Wall " ; the next year , she appeared in " A Call on Kuprin . " <br><blue>12</blue>In 1975 , she was in " Yentl . " <br><blue>13</blue>Off Broadway , she appeared in " The Pocket Watch , " " Scuba Duba , " " The House of Blue Leaves " and " The World of Sholom Aleichem . " <br><blue>14</blue>Her film credits include " The Big Fix , " " Enemies , a Love Story , " " Sophie 's Choice " and , most recently , " The Pickle . " <br><blue>15</blue>On television , she appeared in the 1989 sitcom " Chicken Soup , " as the mother of the character played by Jackie Mason , and , this year , in the anthology series " TriBeCa . " <br><blue>16</blue>In addition to her son , Ms. Karin is survived by a daughter , Rochelle Axelrud of Woodmere , L.I. ; four granddaughters , and one grandson . <br><hr><br><blue>1(25)</blue>: <m_str>her</m_str> (11_6) 	<m_str>she</m_str> (15_4) 	<m_str>she</m_str> (7_13) 	<m_str>Ms. Karin</m_str> (4_1) 	<m_str>her</m_str> (3_21) 	<m_str>she</m_str> (11_19) 	<m_str>she</m_str> (12_4) 	<m_str>Ms. Karin</m_str> (8_8) 	<m_str>her</m_str> (8_11) 	<m_str>her</m_str> (16_4) 	<m_str>Ms. Karin</m_str> (16_7) 	<m_str>she</m_str> (5_6) 	<m_str>she</m_str> (13_4) 	<m_str>She</m_str> (2_1) 	<m_str>Ms. Karin</m_str> (9_9) 	<m_str>her</m_str> (9_12) 	<m_str>Her</m_str> (6_1) 	<m_str>her</m_str> (1_23) 	<m_str>She</m_str> (10_1) 	<m_str>she</m_str> (9_21) 	<m_str>Her</m_str> (14_1) 	<m_str>her</m_str> (10_7) 	<m_str>She</m_str> (3_1) 	<m_str>she</m_str> (7_4) 	<m_str>she</m_str> (11_4) 	<br><blue>2(2)</blue>: <m_str>the Moscow State Jewish Theater</m_str> (8_21) 	<m_str>the Moscow State Jewish Theater</m_str> (5_9) 	<br><blue>3(2)</blue>: <m_str>the next year</m_str> (11_15) 	<m_str>this year</m_str> (15_28) 	<br><blue>4(2)</blue>: <m_str>the home of Bel Kaufman</m_str> (10_21) 	<m_str>her home in Manhattan</m_str> (1_23) 	<br><blue>5(2)</blue>: <m_str>Germany</m_str> (7_10) 	<m_str>Germany</m_str> (8_2) 	<br><blue>6(2)</blue>: <m_str>Broadway</m_str> (11_7) 	<m_str>Broadway</m_str> (13_2) 	<br><blue>7(3)</blue>: <m_str>her husband , Norbert Horowitz , also a graduate of the Moscow State Jewish Theater</m_str> (8_11) 	<m_str>her husband</m_str> (9_12) 	<m_str>the writer 's</m_str> (10_32) 	<br><blue>8(2)</blue>: <m_str>Sholom Aleichem , delivered with other actors at the home of Bel Kaufman each year on the anniversary of the writer 's death</m_str> (10_13) 	<m_str>Sholom Aleichem</m_str> (13_30) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

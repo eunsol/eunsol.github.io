@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Philippe Noiret, 76, an Actor Of Elegance and Dry Humor </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Philippe Noiret , a much-loved French character actor who gained international renown through the movies '' Il Postino '' and '' Cinema Paradiso , '' died on Thursday at his home on the Left Bank in Paris . <br><blue>2</blue>He was 76 . <br><blue>3</blue>The cause was cancer , said his agency , Artmedia . <br><blue>4</blue>Although Mr. Noiret played a great variety of roles in a career dating to the early 1950s , one image that clung to him was that of an elegant gentleman farmer , reinforced by his aristocratic demeanor , dry sense of humor and velvety voice no less than his love of horses and country life . <br><blue>5</blue>His own background , though , was modest . <br><blue>6</blue>Born in Lille on Oct. 1 , 1930 , he failed to graduate from high school and , he later recalled , became an actor almost by default . <br><blue>7</blue>His good fortune was to be hired by the Théâtre National Populaire in Paris in 1953 . <br><blue>8</blue>Seven years later , his movie career took off when he appeared in Louis Malle 's '' Zazie dans le Métro . '' <br><blue>9</blue>With roles in more than 125 films after that , he worked with American and Italian directors as well as many leading French moviemakers . <br><blue>10</blue>Among his best-known female co-stars were Simone Signoret , Romy Schneider and Catherine Deneuve . <br><blue>11</blue>Abroad , his most successful roles were as the village projectionist in Giuseppe Tornatore 's '' Cinema Paradiso '' ( 1988 ) and as the Chilean poet Pablo Neruda in Michael Radford 's '' Postino '' ( 1994 ) . <br><blue>12</blue>He also starred alongside Marcello Mastroianni in '' La Grande Bouffe , '' Marco Ferreri 's 1973 portrait of suicidal gluttony . <br><blue>13</blue>Mr. Noiret frequently appeared in movies with his wife , the actress Monique Chaumette , whom he married in 1962 . <br><blue>14</blue>She and their daughter , Frédérique , survive him . <br><blue>15</blue>In France , one of his finest roles was that of Major Delaplane , a French Army officer charged with organizing war memorials after World War I , in Bertrand Tavernier 's 1989 '' La Vie et Rien d'Autre '' ( '' Life and Nothing But '' ) . <br><blue>16</blue>For this role , he won a César , the French equivalent of an Oscar . <br><blue>17</blue>He won his first César for best actor in Robert Enrico 's 1975 '' Le Vieux Fusil '' ( '' The Old Gun '' ) . <br><blue>18</blue>Mr. Tavernier , who made eight films with Mr. Noiret , was among numerous directors to remember him fondly . '' <br><blue>19</blue>He was a friend , a brother , someone I could count on for every adventure and whom I tried to serve by giving him different characters to play , '' he told the radio station RTL on Friday . <br><blue>20</blue>An outpouring of tributes underscored the special affection Mr. Noiret enjoyed in France . <br><hr><br><blue>1(2)</blue>: <m_str>Paris</m_str> (7_14) 	<m_str>Paris</m_str> (1_37) 	<br><blue>2(2)</blue>: <m_str>France</m_str> (15_2) 	<m_str>France</m_str> (20_13) 	<br><blue>3(2)</blue>: <m_str>a career dating to the early 1950s</m_str> (4_11) 	<m_str>his movie career</m_str> (8_5) 	<br><blue>4(2)</blue>: <m_str>I</m_str> (19_19) 	<m_str>I</m_str> (19_10) 	<br><blue>5(33)</blue>: <m_str>him</m_str> (18_18) 	<m_str>He</m_str> (19_1) 	<m_str>his</m_str> (15_6) 	<m_str>Mr. Noiret</m_str> (4_2) 	<m_str>his</m_str> (8_5) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (8_11) 	<m_str>he</m_str> (16_5) 	<m_str>His</m_str> (5_1) 	<m_str>him</m_str> (4_24) 	<m_str>him</m_str> (19_25) 	<m_str>Mr. Noiret</m_str> (20_9) 	<m_str>Mr. Noiret</m_str> (13_1) 	<m_str>He</m_str> (17_1) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (19_32) 	<m_str>he</m_str> (9_11) 	<m_str>his</m_str> (17_3) 	<m_str>his</m_str> (13_8) 	<m_str>his</m_str> (4_35) 	<m_str>his</m_str> (10_2) 	<m_str>he</m_str> (13_17) 	<m_str>his</m_str> (1_30) 	<m_str>She</m_str> (14_1) 	<m_str>he</m_str> (6_10) 	<m_str>Mr. Tavernier , who made eight films with Mr. Noiret</m_str> (18_1) 	<m_str>his</m_str> (4_49) 	<m_str>him</m_str> (14_9) 	<m_str>His</m_str> (7_1) 	<m_str>he</m_str> (6_19) 	<m_str>his</m_str> (3_7) 	<m_str>Mr. Noiret</m_str> (18_9) 	<m_str>his</m_str> (11_3) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

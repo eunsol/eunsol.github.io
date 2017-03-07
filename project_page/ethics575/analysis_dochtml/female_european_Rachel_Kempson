@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Rachel Kempson, 92, Matriarch of Acting Family </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Rachel Kempson , the matriarch of the Redgrave acting clan and one of the clarion voices of British stage and screen , died on Saturday at her home in Millbrook , N.Y . <br><blue>2</blue>She was 92 . <br><blue>3</blue>Miss Kempson was perhaps the least known of the Redgraves in the United States . <br><blue>4</blue>But in Britain her performances in large and small roles in Shakespeare 's plays were greatly admired , as were her appearances in other treasured British classics , including Richard Sheridan 's 1777 comedy , '' The School for Scandal , '' in which she appeared over the years both as Maria and , earlier , as Lady Teazle . <br><blue>5</blue>She also performed in plays like '' Not for Children '' ( Belfast , 1955 ) , '' The Seagull '' and '' Saint Joan of the Stockyards '' ( London , 1964 ) and '' The Old Country '' ( London , 1977 ) . <br><blue>6</blue>Americans knew her mostly through her work in motion pictures and in television presentations like '' Lady Randolph Churchill , '' PBS , 1975 ; '' The Jewel in the Crown , '' Masterpiece Theater , PBS , 1984 ; '' Jane Eyre , '' Hallmark Hall of Fame , NBC , 1971 ; and '' Camille , '' CBS , 1984 . <br><blue>7</blue>Her movies that were best known in America included '' Tom Jones '' ( 1963 ) , '' Georgy Girl '' ( 1966 ) and '' Out of Africa '' ( 1985 ) . <br><blue>8</blue>In her 1986 memoir , '' Life Among the Redgraves , '' Miss Kempson said : '' I have never quite belonged anywhere . <br><blue>9</blue>I think it is to do with my lack of an important ingredient : a tough ego . '' <br><blue>10</blue>But her ego and sense of belonging were very much in evidence one London evening in 1973 , when she was appearing in a new John Osborne play , '' A Sense of Detachment . '' <br><blue>11</blue>Two young men in the audience began to heckle Lady Redgrave , who was then 62 years old . <br><blue>12</blue>According to a short item in The New York Times , she became annoyed with them , jumped from the stage and '' pummeled her detractors . '' <br><blue>13</blue>Although she seemed to many to be a properly reserved , traditional Englishwoman , her 50-year marriage to Sir Michael Redgrave was anything but traditional . <br><blue>14</blue>She so totally loved Sir Michael that early in their relationship , in the early 1930 's , she proposed marriage to him , even though she knew he was bisexual and given to escapades . <br><blue>15</blue>Mr. Redgrave at first '' was worried , '' she later wrote , and hesitant about marrying her . '' <br><blue>16</blue>He said there were difficulties in his nature and he felt he ought not to marry , '' she continued . <br><blue>17</blue>But she said she told him she understood , and added , '' It does n't matter to me -- I love you so . '' <br><blue>18</blue>Whereupon he replied , '' Very well , if you are sure , we will . '' <br><blue>19</blue>And so they did , in 1935 . <br><blue>20</blue>Over the years , Lady Redgrave wrote , she and her husband endured their respective dalliances , and the marriage lasted until his death in 1985 . <br><hr><br><blue>1(2)</blue>: <m_str>the years</m_str> (4_48) 	<m_str>the years</m_str> (20_2) 	<br><blue>2(3)</blue>: <m_str>London</m_str> (5_31) 	<m_str>London</m_str> (10_14) 	<m_str>London</m_str> (5_42) 	<br><blue>3(2)</blue>: <m_str>the marriage</m_str> (20_19) 	<m_str>her 50-year marriage to Sir Michael Redgrave</m_str> (13_15) 	<br><blue>4(1)</blue>: <m_str>Shakespeare 's plays</m_str> (4_12) 	<br><blue>5(2)</blue>: <m_str>them</m_str> (12_16) 	<m_str>Two young men in the audience</m_str> (11_1) 	<br><blue>6(1)</blue>: <m_str>Shakespeare 's</m_str> (4_12) 	<br><blue>7(34)</blue>: <m_str>she</m_str> (14_19) 	<m_str>she</m_str> (14_27) 	<m_str>she</m_str> (15_10) 	<m_str>her</m_str> (8_2) 	<m_str>her</m_str> (15_18) 	<m_str>Rachel Kempson , the matriarch of the Redgrave acting clan and one of the clarion voices of British stage and screen</m_str> (1_1) 	<m_str>Miss Kempson</m_str> (8_13) 	<m_str>I</m_str> (8_18) 	<m_str>I</m_str> (9_1) 	<m_str>my</m_str> (9_8) 	<m_str>She</m_str> (2_1) 	<m_str>she</m_str> (16_19) 	<m_str>she</m_str> (17_2) 	<m_str>she</m_str> (17_4) 	<m_str>she</m_str> (17_7) 	<m_str>her</m_str> (1_27) 	<m_str>her</m_str> (10_2) 	<m_str>Miss Kempson</m_str> (3_1) 	<m_str>she</m_str> (10_20) 	<m_str>her</m_str> (4_4) 	<m_str>She</m_str> (5_1) 	<m_str>she</m_str> (12_12) 	<m_str>her</m_str> (4_21) 	<m_str>Lady Redgrave</m_str> (20_5) 	<m_str>she</m_str> (20_9) 	<m_str>she</m_str> (13_2) 	<m_str>her</m_str> (20_11) 	<m_str>her</m_str> (12_25) 	<m_str>her</m_str> (6_3) 	<m_str>her</m_str> (6_6) 	<m_str>her</m_str> (13_15) 	<m_str>She</m_str> (14_1) 	<m_str>she</m_str> (4_45) 	<m_str>Her</m_str> (7_1) 	<br><blue>8(2)</blue>: <m_str>me</m_str> (17_19) 	<m_str>I</m_str> (17_21) 	<br><blue>9(2)</blue>: <m_str>1984</m_str> (6_62) 	<m_str>1984</m_str> (6_39) 	<br><blue>10(8)</blue>: <m_str>He</m_str> (16_1) 	<m_str>he</m_str> (18_2) 	<m_str>him</m_str> (14_23) 	<m_str>his</m_str> (16_7) 	<m_str>him</m_str> (17_6) 	<m_str>he</m_str> (16_10) 	<m_str>he</m_str> (14_29) 	<m_str>he</m_str> (16_12) 	<br><blue>11(2)</blue>: <m_str>you</m_str> (17_23) 	<m_str>you</m_str> (18_10) 	<br><blue>12(1)</blue>: <m_str>the Redgrave acting clan</m_str> (1_7) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

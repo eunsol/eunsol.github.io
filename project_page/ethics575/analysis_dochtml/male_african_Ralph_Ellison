@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Ralph Ellison, Author of 'Invisible Man,' Is Dead at 80 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Ralph Ellison , whose widely read novel " Invisible Man " was a stark account of racial alienation that foreshadowed the attention Americans eventually paid to divisions in their midst , died yesterday in his apartment on Riverside Drive . <br><blue>2</blue>He was 80 . <br><blue>3</blue>The cause was pancreatic cancer , said his editor , Joe Fox . <br><blue>4</blue>Mr. Ellison 's seminal novel , " Invisible Man , " which was written over a seven-year period and published by Random House in 1952 , is a chronicle of a young black man 's awakening to racial discrimination and his battle against the refusal of Americans to see him apart from his ethnic background , which in turn leads to humiliation and disillusionment . <br><blue>5</blue>" Invisible Man " has been viewed as one of the most important works of fiction in the 20th century , has been read by millions , influenced dozens of younger writers and established Mr. Ellison as one of the major American writers of the 20th century . <br><blue>6</blue>Mr. Ellison 's short stories , essays , reviews and criticisms also have been widely published over the years ; one collection was printed by Random House in 1964 under the title " Shadow and Act . " <br><blue>7</blue>The second and last collection , " Going to the Territory , " came out in 1986 . <br><blue>8</blue>Second Novel a Struggle Yet Mr. Ellison 's long-awaited second novel proved to be a struggle and has yet to emerge . <br><blue>9</blue>Mr. Fox said yesterday that the second novel " does exist . <br><blue>10</blue>It is very long , I do n't know the name , but it is not a sequel to " Invisible Man . " <br><blue>11</blue>The book was started in the late 1950 's . <br><blue>12</blue>The initial work on the book was destroyed in a fire in his home upstate , and that was so devastating that he did not resume work on it for several years . <br><blue>13</blue>" Just recently Ralph told me that I would be getting the book soon , and I know that he had been working on it every day , but that he was having trouble with what he termed ' transitions . ' " <br><blue>14</blue>Mr. Fox said he was unsure whether the reference was to transitions in periods described in the work , or transitions between the time periods in which they were written , which have spanned 30 years . <br><blue>15</blue>Instant Best Seller " Invisible Man , " was almost instantly acclaimed as the work of a major new author . <br><blue>16</blue>It remained on the best seller lists for 16 weeks and millions of copies have been printed since its first publication . <br><blue>17</blue>" Invisible Man " had been reprinted many times and is a standard work of American fiction in the nation 's schools and colleges . <br><blue>18</blue>The book is the story of an unnamed , idealistic young black man growing up in a segregated community in the South , attending a Negro college and moving to New York to become involved in civil rights issues only to retreat , amid confusion and violence , into invisibility . <br><blue>19</blue>Hundreds of thousands of readers have felt themselves tingle to the flatly stated passion of the book 's opening lines : " I am an invisible man . <br><blue>20</blue>No , I am not a spook like those who haunted Edgar Allan Poe ; nor am I one of your Hollywood-movie ectoplasms . <br><hr><br><blue>1(4)</blue>: <m_str>It</m_str> (16_1) 	<m_str>its</m_str> (16_19) 	<m_str>the nation 's</m_str> (17_19) 	<m_str>the reference</m_str> (14_8) 	<br><blue>2(1)</blue>: <m_str>the years</m_str> (6_18) 	<br><blue>3(8)</blue>: <m_str>Mr. Ellison 's</m_str> (4_1) 	<m_str>Mr. Ellison 's long-awaited second novel proved to be a struggle and has yet to emerge</m_str> (8_6) 	<m_str>He</m_str> (2_1) 	<m_str>Mr. Ellison 's</m_str> (6_1) 	<m_str>his</m_str> (1_35) 	<m_str>Mr. Ellison as one of the major American writers of the 20th century</m_str> (5_35) 	<m_str>his</m_str> (3_8) 	<m_str>his editor , Joe Fox</m_str> (3_8) 	<br><blue>4(1)</blue>: <m_str>Negro</m_str> (18_26) 	<br><blue>5(2)</blue>: <m_str>the work</m_str> (14_17) 	<m_str>The initial work on the book</m_str> (12_1) 	<br><blue>6(2)</blue>: <m_str>it</m_str> (10_14) 	<m_str>It</m_str> (10_1) 	<br><blue>7(2)</blue>: <m_str>the 20th century</m_str> (5_45) 	<m_str>the 20th century</m_str> (5_18) 	<br><blue>8(12)</blue>: <m_str>he</m_str> (13_37) 	<m_str>he</m_str> (12_23) 	<m_str>me</m_str> (13_6) 	<m_str>I</m_str> (13_8) 	<m_str>I</m_str> (13_17) 	<m_str>I</m_str> (10_6) 	<m_str>Mr. Fox</m_str> (14_1) 	<m_str>he</m_str> (13_20) 	<m_str>he</m_str> (14_4) 	<m_str>his</m_str> (12_13) 	<m_str>Mr. Fox</m_str> (9_1) 	<m_str>he</m_str> (13_31) 	<br><blue>9(2)</blue>: <m_str>Random House</m_str> (6_26) 	<m_str>Random House</m_str> (4_22) 	<br><blue>10(5)</blue>: <m_str>Hundreds of thousands of readers</m_str> (19_1) 	<m_str>I</m_str> (20_18) 	<m_str>I</m_str> (20_3) 	<m_str>I</m_str> (19_23) 	<m_str>themselves</m_str> (19_8) 	<br><blue>11(3)</blue>: <m_str>Americans</m_str> (4_47) 	<m_str>Americans</m_str> (1_23) 	<m_str>their</m_str> (1_29) 	<br><blue>12(3)</blue>: <m_str>him</m_str> (4_50) 	<m_str>his</m_str> (4_53) 	<m_str>his</m_str> (4_41) 	<br><blue>13(7)</blue>: <m_str>the book</m_str> (12_5) 	<m_str>The book</m_str> (18_1) 	<m_str>the book 's</m_str> (19_16) 	<m_str>it</m_str> (13_25) 	<m_str>it</m_str> (12_29) 	<m_str>the book</m_str> (13_12) 	<m_str>The book</m_str> (11_1) 	<br><blue>14(4)</blue>: <m_str>Invisible Man</m_str> (17_2) 	<m_str>Invisible Man</m_str> (5_2) 	<m_str>Invisible Man</m_str> (1_9) 	<m_str>Invisible Man</m_str> (4_8) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

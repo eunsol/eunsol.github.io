@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Gerrit Jan van Ingen Schenau, Clap Skate Creator, Dies at 53 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>In the past two winters , speed skating has been revolutionized by a clap skate that allows skaters to go so much faster that they have rewritten the entire record book . <br><blue>2</blue>Gerrit Jan van Ingen Schenau , a Dutch scientist who developed the skate , died last Thursday in Weteringburg , 25 miles south of Amsterdam . <br><blue>3</blue>He was 53 . <br><blue>4</blue>The Associated Press said that , following Dutch custom , the cause of death and the listing of survivors were not announced yesterday , the day the death was announced . <br><blue>5</blue>The Dutch news media , however , reported that he had suffered a long illness . <br><blue>6</blue>The traditional racing skate has a blade fixed to the boot in the front and back . <br><blue>7</blue>In the clap skate , a spring-loaded hinge in front allows the boot 's heel to rise and fall . <br><blue>8</blue>That keeps the skate on the ice longer , which means more economy of motion and , in turn , greater speed . <br><blue>9</blue>When the blade springs back into contact with the shoe , it makes a clapping sound , and thus the name clap skate . <br><blue>10</blue>More than 100 years ago , a Canadian and a German received patents on the clap skate . <br><blue>11</blue>Mr. van Ingen Schenau , a profesor of biomechanics at Free University in Amsterdam , developed the skate in 1983 , and it was first used in the 1984-85 season . <br><blue>12</blue>But as Gerard Kemkers , a Dutch Olympic medalist in 1988 and a United States national coach the past four years , said : '' In theory , the clap skate was a perfect concept . <br><blue>13</blue>But in actual practice , very few people skated faster . <br><blue>14</blue>They just could n't get the blade and boot to separate . '' <br><blue>15</blue>The problem was that elite skaters felt uncomfortable with clap skates . <br><blue>16</blue>They had learned to skate with their ankles suppressed , and now they had to change that . <br><blue>17</blue>When they resisted change , the Dutch tried the clap skates on younger skaters . <br><blue>18</blue>In 1996 , with Mr. van Ingen Schenau leading the way , the Dutch made a decisive move . <br><blue>19</blue>Viking , the Dutch manufacturer of skates , made enough pairs for the Dutch women 's team in the 1996-97 World Cup season . <br><blue>20</blue>The sweeping success of that team led every other skating nation to get the new skates and learn to use them . '' <br><hr><br><blue>1(1)</blue>: <m_str>the ice</m_str> (8_6) 	<br><blue>2(2)</blue>: <m_str>the 1984-85 season</m_str> (11_28) 	<m_str>the 1996-97 World Cup season</m_str> (19_19) 	<br><blue>3(2)</blue>: <m_str>skaters</m_str> (1_18) 	<m_str>they</m_str> (1_25) 	<br><blue>4(2)</blue>: <m_str>the Dutch women 's team in the 1996-97 World Cup season</m_str> (19_13) 	<m_str>that team</m_str> (20_5) 	<br><blue>5(2)</blue>: <m_str>the new skates</m_str> (20_14) 	<m_str>them</m_str> (20_21) 	<br><blue>6(7)</blue>: <m_str>the Dutch</m_str> (18_13) 	<m_str>They</m_str> (16_1) 	<m_str>the Dutch women 's</m_str> (19_13) 	<m_str>they</m_str> (17_2) 	<m_str>elite skaters</m_str> (15_5) 	<m_str>their</m_str> (16_7) 	<m_str>they</m_str> (16_13) 	<br><blue>7(2)</blue>: <m_str>very few people</m_str> (13_6) 	<m_str>They</m_str> (14_1) 	<br><blue>8(2)</blue>: <m_str>the shoe</m_str> (9_9) 	<m_str>it</m_str> (9_12) 	<br><blue>9(1)</blue>: <m_str>clap skates</m_str> (15_10) 	<br><blue>10(7)</blue>: <m_str>it</m_str> (11_23) 	<m_str>The traditional racing skate</m_str> (6_1) 	<m_str>the clap skate</m_str> (7_2) 	<m_str>the clap skate</m_str> (10_15) 	<m_str>the clap skate</m_str> (12_29) 	<m_str>the skate</m_str> (11_17) 	<m_str>the skate</m_str> (2_12) 	<br><blue>11(2)</blue>: <m_str>Amsterdam</m_str> (11_14) 	<m_str>Amsterdam</m_str> (2_25) 	<br><blue>12(1)</blue>: <m_str>the entire record book</m_str> (1_28) 	<br><blue>13(2)</blue>: <m_str>the clap</m_str> (17_9) 	<m_str>a clap skate that allows skaters to go so much faster that they have rewritten the entire record book</m_str> (1_13) 	<br><blue>14(2)</blue>: <m_str>He</m_str> (3_1) 	<m_str>he</m_str> (5_10) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

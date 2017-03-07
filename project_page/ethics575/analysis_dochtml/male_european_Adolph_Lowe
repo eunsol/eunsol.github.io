@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Adolph Lowe, 102, Economist Who Fled Hitler </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Adolph Lowe , an adviser to the Weimar Government in Germany in the 1920 's and a professor of political economy at the New School for Social Research for nearly four decades , died in Wolfenbuttel , Germany , on June 3 . <br><blue>2</blue>He was 102 . <br><blue>3</blue>One of a remarkable generation of Jewish intellectuals who immigrated to the United States in the 1930 's and early 1940 's , Professor Lowe was the last surviving member of the University in Exile , created in 1933 by the founders of the New School and the New York State Legislature expressly to snatch scholars like Professor Lowe from the jaws of fascism . <br><blue>4</blue>Professor Lowe was born in Stuttgart , a sleepy little city in southern Germany , in 1893 . <br><blue>5</blue>The son of a traveling salesman , he started out studying law , but the economic and political upheavals around the time of World War I turned him to economics and socialism . <br><blue>6</blue>After that war Professor Lowe , armed with a doctorate , became an adviser to the ill-fated Weimar Government in the ministries of demobilization , labor and economics . <br><blue>7</blue>By the spring of 1933 , when Hitler issued his first blacklist of " dangerous intellectuals , " including Professor Lowe , the philosopher Paul Tillich and the sociologist Karl Mannheim , Professor Lowe had become a highly visible professor of economics at the University of Frankfurt with a large student following . <br><blue>8</blue>His popularity was as much personal as political . <br><blue>9</blue>Diminutive and dynamic , Professor Lowe was an entertaining lecturer and avid amateur musician who frequently invited his students home for parties . <br><blue>10</blue>His daughter Rachel Aubrey , a psychotherapist who lives in Manhattan , recalled that Professor Lowe regularly insisted that students who were having trouble finishing their dissertations live with his family until the task could be completed under his watchful eye . <br><blue>11</blue>Fleeing Frankfurt in the middle of the night just before the Nazis stripped Jews of their passports , the Lowe family went to Geneva and then England , where Professor Lowe spent the next half decade at the London School of Economics and the University of Manchester . <br><blue>12</blue>In 1941 , in the middle of the blitzkrieg , Professor Lowe finally accepted an invitation from Alvin Johnson , president of the New School , to come to New York . <br><blue>13</blue>Professor Lowe spent the rest of his career at the New School , where his broad , interdisciplinary approach to economics influenced several generations of students . <br><blue>14</blue>" Lowe brought with him a tradition that saw no boundaries between economics , sociology and political science , " said the economist Robert Heilbroner , the author of " The Worldly Philosophers . " <br><blue>15</blue>" Lowe was very impatient with artificial boundaries . " <br><blue>16</blue>Initially an enthusiastic disciple of John Maynard Keynes , the British economist and patron saint of government management of the economy , Professor Lowe later became one of Keynesianism 's early critics . <br><blue>17</blue>He argued that the effort to turn economics into a predictive science was futile and that the evolution of a highly organized society could not be mapped out with mathematical models , large or small . <br><blue>18</blue>In that insight , he anticipated the position that most economists had embraced by the mid-1980 's . <br><blue>19</blue>Professor Lowe retired from the New School in 1978 . <br><blue>20</blue>After his wife , Beatrice , died in 1982 , he moved back to Germany to live with a daughter , Hanna Lustig , who had settled in Wolfenbuttel with her family . <br><hr><br><blue>1(7)</blue>: <m_str>his</m_str> (7_10) 	<m_str>his</m_str> (10_39) 	<m_str>his</m_str> (10_30) 	<m_str>His</m_str> (8_1) 	<m_str>his</m_str> (9_18) 	<m_str>His</m_str> (10_1) 	<m_str>Hitler</m_str> (7_8) 	<br><blue>2(3)</blue>: <m_str>the Lowe family</m_str> (11_19) 	<m_str>her family</m_str> (20_31) 	<m_str>his family</m_str> (10_30) 	<br><blue>3(2)</blue>: <m_str>the middle of the night</m_str> (11_4) 	<m_str>the middle of the blitzkrieg</m_str> (12_5) 	<br><blue>4(2)</blue>: <m_str>that war</m_str> (6_2) 	<m_str>World War</m_str> (5_24) 	<br><blue>5(25)</blue>: <m_str>Lowe</m_str> (15_2) 	<m_str>Professor Lowe</m_str> (19_1) 	<m_str>Professor Lowe</m_str> (4_1) 	<m_str>Professor Lowe</m_str> (3_24) 	<m_str>including Professor Lowe , the philosopher Paul Tillich and the sociologist Karl Mannheim</m_str> (7_19) 	<m_str>Lowe</m_str> (11_20) 	<m_str>his</m_str> (20_2) 	<m_str>Professor Lowe</m_str> (12_11) 	<m_str>Professor Lowe</m_str> (7_33) 	<m_str>Professor Lowe</m_str> (11_30) 	<m_str>he</m_str> (5_8) 	<m_str>Professor Lowe</m_str> (9_5) 	<m_str>Professor Lowe</m_str> (13_1) 	<m_str>he</m_str> (20_11) 	<m_str>He</m_str> (17_1) 	<m_str>his</m_str> (13_7) 	<m_str>Professor Lowe</m_str> (16_23) 	<m_str>Professor Lowe , armed with a doctorate</m_str> (6_4) 	<m_str>his</m_str> (13_15) 	<m_str>Professor Lowe</m_str> (3_58) 	<m_str>Lowe</m_str> (14_2) 	<m_str>him</m_str> (5_28) 	<m_str>him</m_str> (14_5) 	<m_str>he</m_str> (18_5) 	<m_str>Professor Lowe</m_str> (10_15) 	<br><blue>6(5)</blue>: <m_str>the New School</m_str> (3_44) 	<m_str>the New School</m_str> (12_23) 	<m_str>the New School</m_str> (13_10) 	<m_str>the New School for Social Research for nearly four decades</m_str> (1_23) 	<m_str>the New School</m_str> (19_5) 	<br><blue>7(2)</blue>: <m_str>their</m_str> (10_26) 	<m_str>students who were having trouble finishing their dissertations</m_str> (10_20) 	<br><blue>8(3)</blue>: <m_str>Germany</m_str> (20_15) 	<m_str>Wolfenbuttel , Germany</m_str> (1_36) 	<m_str>Germany</m_str> (1_11) 	<br><blue>9(2)</blue>: <m_str>the Nazis</m_str> (11_11) 	<m_str>their</m_str> (11_16) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

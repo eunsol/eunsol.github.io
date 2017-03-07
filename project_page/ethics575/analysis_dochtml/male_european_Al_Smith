@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Al Smith, 73, Dies; Was Doused in Series </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Al Smith , the Chicago White Sox outfielder who became the hapless subject in one of baseball 's most famous photographs when a fan spilled a cup of beer on him as Smith watched a home run sail over his head in the 1959 World Series , died Thursday at a hospital in Hammond , Ind . <br><blue>2</blue>He was 73 . <br><blue>3</blue>The cause was cardiac arrest after arterial surgery , his family said . <br><blue>4</blue>. <br><blue>5</blue>Smith played in the major leagues for 12 seasons , was twice an All-Star and was a starter with two American League pennant winners . <br><blue>6</blue>But he was mostly remembered for one unfortunate moment . <br><blue>7</blue>It was Oct. 2 , 1959 , the fifth inning of Game 2 at Chicago 's Comiskey Park in the World Series between the White Sox and the Los Angeles Dodgers . <br><blue>8</blue>With two out , the Dodgers ' Charlie Neal hit a drive to left field off the right-hander Bob Shaw . <br><blue>9</blue>Smith backed up to the fence . <br><blue>10</blue>As he watched the ball fall into the seats , he was splattered with beer . '' <br><blue>11</blue>It hit the bill of my cap and came down the side of my face , '' Smith once recalled . '' <br><blue>12</blue>It was in my nose and everywhere . <br><blue>13</blue>At first , I thought the guy dumped it on purpose , but the umpire told me he just tipped it over trying to get the ball . <br><blue>14</blue>I would n't have caught the ball anyhow . <br><blue>15</blue>It made about the third row . '' <br><blue>16</blue>Ray Gora , a photographer for The Chicago Tribune , snapped away from his spot near the third-base dugout with a new model of camera developed by the government to film rockets blasting into space from Cape Canaveral . <br><blue>17</blue>It featured an innovative shutter allowing rapid-succession photos and had a 70-millimeter lens . '' <br><blue>18</blue>They were clumsy , '' Gora recalled in an interview with The Tribune in April 2000 . '' <br><blue>19</blue>Nobody really wanted to use the one we had , and I always ended up with it . <br><blue>20</blue>Almost everything you took with this camera became a close-up , no matter where you were . '' <br><hr><br><blue>1(1)</blue>: <m_str>American League</m_str> (5_21) 	<br><blue>2(2)</blue>: <m_str>The Chicago Tribune</m_str> (16_7) 	<m_str>The Tribune</m_str> (18_12) 	<br><blue>3(6)</blue>: <m_str>It</m_str> (15_1) 	<m_str>it</m_str> (13_21) 	<m_str>It</m_str> (17_1) 	<m_str>it</m_str> (13_9) 	<m_str>It</m_str> (12_1) 	<m_str>the bill of my cap</m_str> (11_3) 	<br><blue>4(1)</blue>: <m_str>beer</m_str> (10_15) 	<br><blue>5(1)</blue>: <m_str>Chicago 's</m_str> (7_15) 	<br><blue>6(1)</blue>: <m_str>baseball 's</m_str> (1_17) 	<br><blue>7(2)</blue>: <m_str>the ball</m_str> (14_6) 	<m_str>the ball</m_str> (13_26) 	<br><blue>8(1)</blue>: <m_str>the 1959 World Series</m_str> (1_43) 	<br><blue>9(7)</blue>: <m_str>my</m_str> (11_6) 	<m_str>I</m_str> (13_4) 	<m_str>my</m_str> (11_14) 	<m_str>me</m_str> (13_17) 	<m_str>I</m_str> (14_1) 	<m_str>I</m_str> (19_12) 	<m_str>my</m_str> (12_4) 	<br><blue>10(2)</blue>: <m_str>the Los Angeles Dodgers</m_str> (7_28) 	<m_str>the Dodgers '</m_str> (8_5) 	<br><blue>11(2)</blue>: <m_str>the umpire</m_str> (13_14) 	<m_str>he</m_str> (13_18) 	<br><blue>12(2)</blue>: <m_str>camera developed by the government to film rockets blasting into space from Cape Canaveral</m_str> (16_25) 	<m_str>this camera</m_str> (20_6) 	<br><blue>13(2)</blue>: <m_str>you</m_str> (20_15) 	<m_str>you</m_str> (20_3) 	<br><blue>14(13)</blue>: <m_str>Smith</m_str> (11_18) 	<m_str>Smith</m_str> (5_1) 	<m_str>Smith</m_str> (9_1) 	<m_str>He</m_str> (2_1) 	<m_str>the guy</m_str> (13_6) 	<m_str>he</m_str> (6_2) 	<m_str>he</m_str> (10_2) 	<m_str>him</m_str> (1_31) 	<m_str>Smith</m_str> (1_33) 	<m_str>he</m_str> (10_11) 	<m_str>his</m_str> (1_40) 	<m_str>his</m_str> (3_10) 	<m_str>his family</m_str> (3_10) 	<br><blue>15(2)</blue>: <m_str>Ray Gora , a photographer for The Chicago Tribune</m_str> (16_1) 	<m_str>his</m_str> (16_14) 	<br><blue>16(1)</blue>: <m_str>Gora</m_str> (18_6) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

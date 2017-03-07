@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Mickie Most, Record Producer And Pop Impresario, Dies at 64 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Mickie Most , a leading British pop record producer of the 1960 's and 70 's who recorded the Animals , Donovan , Herman 's Hermits and others , died on Friday at his home in London . <br><blue>2</blue>He was 64 . <br><blue>3</blue>The cause was cancer , said his friend and colleague Deke Arlon . <br><blue>4</blue>Mr. Most emerged as an impresario in the days of the early British rock 'n' roll scene , a time when a producer 's role commonly exceeded just supervising records . <br><blue>5</blue>He discovered and promoted many of the biggest stars of the era and had an ear for unusual new sounds with hit potential , from the Animals ' muscular R &amp; B to the quasi-medieval folk balladry of Donovan and the bubble-gum sound of Herman 's Hermits . <br><blue>6</blue>Born Michael Peter Hayes in Aldershot , England , Mr. Most took his nickname when he was a singer in the group the Most Brothers in the late 50 's , just as American rock 'n' roll was first taking hold among an excited and optimistic generation of young British musicians . <br><blue>7</blue>The Most Brothers were a popular club attraction in the Soho district of London , and in a sojourn in South Africa during the early 60 's Mr. Most scored several hits there with his group the Playboys , playing covers of American rock songs like '' Johnny B. Goode '' and '' Rave On . '' <br><blue>8</blue>When he returned to England he continued to work as a musician , but his business acumen and knack for promotion soon led him to producing . <br><blue>9</blue>He discovered a raucous group from Newcastle called the Animals and recorded them immediately at his own expense , licensing the finished recordings to EMI . <br><blue>10</blue>It was a highly unusual arrangement for the time and a gamble for Mr. Most , but it paid off . <br><blue>11</blue>The group 's second single , '' House of the Rising Sun , '' a dark , howling arrangement of a traditional American blues song , became one of the biggest hits of 1964 , reaching No. 1 in both Britain and the United States , surpassing the Beatles . <br><blue>12</blue>He found similar success with Herman 's Hermits ( '' I 'm Into Something Good '' ) , the Nashville Teens ( '' Tobacco Road '' ) , Donovan ( '' Sunshine Superman , '' '' Mellow Yellow , '' ) and others , and in 1969 he founded his own label , RAK . <br><blue>13</blue>As rock 'n' roll got heavier and louder in the 70 's , Mr. Most stuck to his faith in light fare . <br><blue>14</blue>He recorded the glam group the Sweet , as well as Mud , Suzi Quatro and Hot Chocolate ( '' You Sexy Thing '' ) , and made millions of pounds when he sold his back catalog to EMI in the late 1980 's . <br><blue>15</blue>His RAK studios has remained active . <br><blue>16</blue>Mr. Most is survived by his wife , Christina , a son and two daughters , all of London . <br><hr><br><blue>1(3)</blue>: <m_str>London</m_str> (16_19) 	<m_str>London</m_str> (7_14) 	<m_str>London</m_str> (1_37) 	<br><blue>2(4)</blue>: <m_str>It</m_str> (10_1) 	<m_str>it</m_str> (10_18) 	<m_str>The group 's second single</m_str> (11_1) 	<m_str>a raucous group from Newcastle</m_str> (9_3) 	<br><blue>3(2)</blue>: <m_str>You</m_str> (14_21) 	<m_str>Suzi Quatro</m_str> (14_14) 	<br><blue>4(3)</blue>: <m_str>Donovan</m_str> (1_22) 	<m_str>Donovan</m_str> (12_29) 	<m_str>Donovan</m_str> (5_39) 	<br><blue>5(2)</blue>: <m_str>the Animals '</m_str> (5_26) 	<m_str>the Animals</m_str> (9_9) 	<br><blue>6(2)</blue>: <m_str>Herman 's Hermits</m_str> (5_45) 	<m_str>Herman 's Hermits</m_str> (12_6) 	<br><blue>7(34)</blue>: <m_str>His</m_str> (15_1) 	<m_str>Herman 's</m_str> (5_45) 	<m_str>Mr. Most</m_str> (4_1) 	<m_str>he</m_str> (8_2) 	<m_str>He</m_str> (12_1) 	<m_str>he</m_str> (8_6) 	<m_str>he</m_str> (14_33) 	<m_str>his</m_str> (14_35) 	<m_str>Herman 's</m_str> (12_6) 	<m_str>Mr. Most</m_str> (16_1) 	<m_str>Mr. Most</m_str> (7_28) 	<m_str>He</m_str> (5_1) 	<m_str>his</m_str> (16_6) 	<m_str>his</m_str> (8_15) 	<m_str>I</m_str> (12_11) 	<m_str>his</m_str> (7_35) 	<m_str>He</m_str> (9_1) 	<m_str>him</m_str> (8_24) 	<m_str>He</m_str> (2_1) 	<m_str>Herman 's</m_str> (1_24) 	<m_str>his</m_str> (9_16) 	<m_str>Michael Peter Hayes in Aldershot , England , Mr. Most</m_str> (6_2) 	<m_str>Mr. Most</m_str> (13_14) 	<m_str>his</m_str> (13_18) 	<m_str>He</m_str> (14_1) 	<m_str>Aldershot , England , Mr. Most</m_str> (6_6) 	<m_str>his</m_str> (1_34) 	<m_str>his</m_str> (6_13) 	<m_str>he</m_str> (6_16) 	<m_str>Mr. Most</m_str> (10_14) 	<m_str>his</m_str> (3_7) 	<m_str>he</m_str> (12_48) 	<m_str>his</m_str> (12_50) 	<m_str>Deke Arlon</m_str> (3_11) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

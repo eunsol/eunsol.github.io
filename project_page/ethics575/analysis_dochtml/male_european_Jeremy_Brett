@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Jeremy Brett, an Unnerving Holmes, Is Dead at 59 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Jeremy Brett , who incarnated Sherlock Holmes in the long-running " Mystery ! " <br><blue>2</blue>series on Public Television , died on Tuesday in London . <br><blue>3</blue>He was 59 . <br><blue>4</blue>The cause was heart failure , according to Granada Television , which produced the series . <br><blue>5</blue>More than any other actor since Basil Rathbone , Mr. Brett was regarded as the quintessential Holmes : breathtakingly analytical , given to outrageous disguises and the blackest moods and relentless in his enthusiasm for solving the most intricate crimes . <br><blue>6</blue>The actor regarded the detective as " a black-and-white figure moving through a world of color , " as a " man without a heart , " but within those parameters he performed with a demonic intensity . <br><blue>7</blue>He portrayed Holmes in more than 40 episodes , running a wide range of Arthur Conan Doyle cases . <br><blue>8</blue>In 1988 , at the height of his Holmes fame , he played him on the London stage in " The Secret of Sherlock Holmes " by Jeremy Paul . <br><blue>9</blue>In that play , his Watson was Edward Hardwicke , who was most often his partner in sleuthing on television . <br><blue>10</blue>Mr. Brett 's association with Doyle began in 1981 when he appeared in " The Crucifer of Blood " in Los Angeles . <br><blue>11</blue>That time he was Watson to Charlton Heston 's Holmes . <br><blue>12</blue>Behind Mr. Brett 's Holmesian interpretation was a rewarding and diverse career . <br><blue>13</blue>He performed with equal ease in Shakespeare , Congreve and Shaw , was a dashing leading man in romantic comedies and also sang in musicals . <br><blue>14</blue>( He was the impassioned Freddy Eynsford-Hill opposite Audrey Hepburn in the movie of " My Fair Lady . " ) <br><blue>15</blue>He acted with England 's National Theater and at Canada 's Stratford Festival . <br><blue>16</blue>On television he appeared on " Masterpiece Theater " ( in " On Approval " and " The Good Soldier " ) as well as the " Mystery " series ( as Max de Winter in " Rebecca " before he became Holmes ) . <br><blue>17</blue>Mr. Brett , whose original name was Peter Jeremy Huggins , was born in Berkswell , England , on Nov. 3 , 1935 . <br><blue>18</blue>After Eton , he studied at the Central School of Speech and Drama . <br><blue>19</blue>His first London appearance was at the Old Vic in " Troilus and Cressida " in 1956 . <br><blue>20</blue>That year he also made his Broadway debut with the Old Vic . <br><hr><br><blue>1(2)</blue>: <m_str>series on Public Television</m_str> (2_1) 	<m_str>the series</m_str> (4_14) 	<br><blue>2(1)</blue>: <m_str>Broadway</m_str> (20_7) 	<br><blue>3(15)</blue>: <m_str>He</m_str> (15_1) 	<m_str>His</m_str> (19_1) 	<m_str>Brett 's</m_str> (12_3) 	<m_str>he</m_str> (16_3) 	<m_str>he</m_str> (20_3) 	<m_str>his</m_str> (20_6) 	<m_str>He</m_str> (13_1) 	<m_str>Mr. Brett</m_str> (5_10) 	<m_str>Mr. Brett , whose original name was Peter Jeremy Huggins</m_str> (17_1) 	<m_str>Mr. Brett 's</m_str> (10_1) 	<m_str>He</m_str> (14_2) 	<m_str>he</m_str> (10_11) 	<m_str>he</m_str> (18_4) 	<m_str>he</m_str> (16_41) 	<m_str>he</m_str> (11_3) 	<br><blue>4(3)</blue>: <m_str>London</m_str> (19_3) 	<m_str>London</m_str> (8_17) 	<m_str>London</m_str> (2_10) 	<br><blue>5(2)</blue>: <m_str>The actor</m_str> (6_1) 	<m_str>More than any other actor since Basil Rathbone , Mr. Brett</m_str> (5_1) 	<br><blue>6(9)</blue>: <m_str>his</m_str> (8_8) 	<m_str>he</m_str> (8_12) 	<m_str>his</m_str> (5_33) 	<m_str>he</m_str> (6_32) 	<m_str>him</m_str> (8_14) 	<m_str>He</m_str> (7_1) 	<m_str>his</m_str> (9_15) 	<m_str>Basil Rathbone , Mr. Brett</m_str> (5_7) 	<m_str>his</m_str> (9_5) 	<br><blue>7(2)</blue>: <m_str>He</m_str> (3_1) 	<m_str>the detective</m_str> (6_4) 	<br><blue>8(2)</blue>: <m_str>Doyle</m_str> (10_6) 	<m_str>Arthur Conan Doyle</m_str> (7_15) 	<br><blue>9(6)</blue>: <m_str>Holmes</m_str> (8_9) 	<m_str>Sherlock Holmes</m_str> (8_24) 	<m_str>Holmes</m_str> (5_17) 	<m_str>Sherlock Holmes</m_str> (1_6) 	<m_str>Holmes</m_str> (7_3) 	<m_str>Holmes</m_str> (16_43) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

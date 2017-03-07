@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>David Astor, 89, Liberal Voice As Editor of Britain's Observer </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>David Astor , who as editor for 27 years of Britain 's oldest Sunday newspaper , The Observer , built it up into a respected and successful advocate for liberal causes but later presided over its financial decline , died on Dec. 7 in London . <br><blue>2</blue>He was 89 . <br><blue>3</blue>Mr. Astor once defined the paper 's philosophy as '' trying to do the opposite of what Hitler would have done , '' and he took his most famous editorial stand against Britain 's attempt to take back the Suez Canal from Egypt by force in 1956 . <br><blue>4</blue>At a time when the paper was still the voice of the British establishment , Mr. Astor apologized to readers for not having realized earlier that the Conservative government of Sir Anthony Eden was '' capable of such folly and such crookedness . '' <br><blue>5</blue>Under his editorship , from 1948 to 1975 , The Observer published the full text of Khrushchev 's 26,000-word denunciation of Stalin , championed Nelson Mandela 's long fight against apartheid in South Africa , supported decolonization throughout the world and opposed the death penalty . <br><blue>6</blue>Mr. Astor had no particular writing ability , but was an inspired spotter of talent , recruiting people like George Orwell , Arthur Koestler , Philip Toynbee , Kenneth Tynan , Anthony Sampson and Michael Frayn and appointing Vita Sackville-West to be his gardening correspondent . <br><blue>7</blue>For a while , Mr. Astor brought off the difficult balancing act of making The Observer a champion of liberal values and a commercial success . <br><blue>8</blue>Circulation rose from 360,000 in 1947 to 655,000 in 1956 , when it overtook its greatest rival , The Sunday Times . <br><blue>9</blue>Circulation reached 905,000 in 1967 . <br><blue>10</blue>The paper , first published in 1791 , found itself in financial difficulties in the 1970 's , squeezed by the rising cost of newsprint and labor , and competition for advertising from other papers . <br><blue>11</blue>In 1975 Mr. Astor resigned as editor . <br><blue>12</blue>The next year the paper was bought for a symbolic pound by Robert Anderson of Atlantic Richfield . <br><blue>13</blue>Five years later , after pumping in millions of dollars , he sold it to R. W. ( Tiny ) Rowland 's conglomerate Lonrho against Mr. Astor 's strong opposition . <br><blue>14</blue>In 1993 it was bought by The Guardian Media Group . <br><blue>15</blue>Francis David Langhorne Astor was born at the family 's London house in St. James 's Square on March 5 , 1912 , the second of the four sons of the rich Viscount Astor and his redoubtable , American-born wife , Nancy , the first woman to sit in the British House of Commons . <br><blue>16</blue>He was educated at Eton and Balliol College , Oxford , which he left without earning a degree , but where he met Adam von Trott zu Solz , an aristocratic German opponent of Hitler later hanged for his part in the 1944 assassination plot . <br><blue>17</blue>Mr. von Trott persuaded Mr. Astor to oppose the appeasement policies favored by his family and other members of the Cliveden Set , so called after the Astors ' stately home in Buckinghamshire , where they used to meet . <br><blue>18</blue>Mr. von Trott 's advocacy of liberal internationalism and tolerance had a lasting effect on Mr. Astor and led him after the war to found the Königswinter Anglo-German conferences to promote reconciliation between the two former enemies . <br><blue>19</blue>In 1940 he joined the Royal Marines but devoted much time to improving The Observer , which his grandfather , William Waldorf Astor , bought in 1911 . <br><blue>20</blue>Later he was sent into occupied France as a liaison with the resistance ; he was wounded and received the Croix de Guerre . <br><hr><br><blue>1(2)</blue>: <m_str>Britain 's</m_str> (3_33) 	<m_str>Britain 's</m_str> (1_11) 	<br><blue>2(2)</blue>: <m_str>his</m_str> (6_43) 	<m_str>Michael Frayn</m_str> (6_35) 	<br><blue>3(4)</blue>: <m_str>it</m_str> (8_13) 	<m_str>its</m_str> (8_15) 	<m_str>Circulation</m_str> (8_1) 	<m_str>Circulation</m_str> (9_1) 	<br><blue>4(2)</blue>: <m_str>other members of the Cliveden</m_str> (17_17) 	<m_str>they</m_str> (17_36) 	<br><blue>5(22)</blue>: <m_str>the rich Viscount Astor</m_str> (15_31) 	<m_str>He</m_str> (2_1) 	<m_str>his</m_str> (15_36) 	<m_str>Mr. Astor</m_str> (18_16) 	<m_str>Hitler</m_str> (3_18) 	<m_str>Khrushchev 's</m_str> (5_17) 	<m_str>he</m_str> (16_22) 	<m_str>Mr. Astor</m_str> (17_5) 	<m_str>Mr. Astor</m_str> (6_1) 	<m_str>he</m_str> (3_25) 	<m_str>his</m_str> (3_27) 	<m_str>his</m_str> (17_14) 	<m_str>He</m_str> (16_1) 	<m_str>Hitler</m_str> (16_35) 	<m_str>Mr. Astor</m_str> (3_1) 	<m_str>Mr. Astor</m_str> (4_16) 	<m_str>his</m_str> (5_2) 	<m_str>his</m_str> (16_39) 	<m_str>Mr. Astor 's</m_str> (13_26) 	<m_str>Mr. Astor</m_str> (7_5) 	<m_str>he</m_str> (16_13) 	<m_str>Mr. Astor</m_str> (11_3) 	<br><blue>6(8)</blue>: <m_str>he</m_str> (20_15) 	<m_str>Mr. von Trott</m_str> (17_1) 	<m_str>Mr. von Trott 's</m_str> (18_1) 	<m_str>his</m_str> (19_18) 	<m_str>him</m_str> (18_20) 	<m_str>he</m_str> (19_3) 	<m_str>he</m_str> (20_2) 	<m_str>Adam von Trott zu Solz , an aristocratic German opponent of Hitler</m_str> (16_24) 	<br><blue>7(7)</blue>: <m_str>the paper</m_str> (12_4) 	<m_str>it</m_str> (14_3) 	<m_str>its</m_str> (1_36) 	<m_str>it</m_str> (1_21) 	<m_str>the paper 's</m_str> (3_5) 	<m_str>the paper</m_str> (4_5) 	<m_str>it</m_str> (13_14) 	<br><blue>8(3)</blue>: <m_str>The Observer</m_str> (5_10) 	<m_str>The Observer</m_str> (1_17) 	<m_str>The Observer</m_str> (7_15) 	<br><blue>9(2)</blue>: <m_str>London</m_str> (15_11) 	<m_str>London</m_str> (1_45) 	<br><blue>10(2)</blue>: <m_str>itself</m_str> (10_10) 	<m_str>The paper , first published in 1791</m_str> (10_1) 	<br><blue>11(2)</blue>: <m_str>his family</m_str> (17_14) 	<m_str>the family 's</m_str> (15_8) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

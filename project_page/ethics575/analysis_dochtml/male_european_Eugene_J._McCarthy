@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Eugene J. McCarthy, Senate Dove Who Jolted '68 Race, Dies at 89 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Eugene J. McCarthy , the sardonic Senate dove who stunned the nation by upending President Lyndon B. Johnson 's re-election drive amid the Vietnam War turmoil of 1968 , died early yesterday . <br><blue>2</blue>He was 89 . <br><blue>3</blue>A courtly , sharp-witted presence in capital politics for half a century , Mr. McCarthy , a Minnesota Democrat , died in his sleep at an assisted-living home in the Georgetown neighborhood of Washington , where he had lived for the last several years . <br><blue>4</blue>His son , Michael B. McCarthy , said the cause was complications of Parkinson 's disease . <br><blue>5</blue>Eugene McCarthy left his mark in a generation 's skepticism toward war and the willfulness of political leaders . '' <br><blue>6</blue>There is only one thing to do -- take it to the country ! '' <br><blue>7</blue>Senator McCarthy angrily declared in a Capitol corridor 15 months before the 1968 election , after hearing the Johnson administration make its case for the legality of the war . <br><blue>8</blue>Mr. McCarthy , a man of needling wit , triggered one of the most tumultuous years in American political history . <br><blue>9</blue>With the war taking scores of thousands of American and Vietnamese lives , he rallied throngs against this '' costly exercise in futility '' and stoked a fiery national debate over the World War II model of an all-powerful presidency . <br><blue>10</blue>He challenged Johnson in a primary , and the president , facing almost certain defeat , ended up withdrawing from the race . <br><blue>11</blue>Mr. McCarthy was a disarming presence on the stump as he mixed a wry tone and a hard , existential edge in challenging the White House , the Pentagon and the superpower swagger of modern politicians . <br><blue>12</blue>An acid-tongued campaigner , Mr. McCarthy was sometimes a puzzlement , veering from inspired speechifying to moody languishing . <br><blue>13</blue>But he was the singular candidate of the Vietnam War protest , serving up politics and poetry , theology and baseball in a blend that entranced the '' Clean for Gene '' legions who flocked to his insurgent 's call . '' <br><blue>14</blue>We do not need presidents who are bigger than the country , but rather ones who speak for it and support it , '' he told them . <br><blue>15</blue>His supporters were delighted by what they saw as his candor , yet some were troubled by the diffidence that marked his public persona . '' <br><blue>16</blue>I 'm kind of an accidental instrument , really , '' he said , '' through which I hope that the judgment and the will of this nation can be expressed . '' <br><blue>17</blue>A Self-Styled Outcast Typically , he only frustrated his followers when he allowed that he was at least '' willing '' to be president and , yes , might even be an '' adequate '' one . <br><blue>18</blue>Questions arose about his passion on the campaign as he built a reputation as an unapologetic contrarian . <br><blue>19</blue>In his 1968 challenge and for decades thereafter , Mr. McCarthy played the self-outcast of the Democratic Party , even shunning Jimmy Carter to endorse Ronald Reagan , the Republican candidate for president in 1980 . <br><blue>20</blue>He was a chronic presidential campaigner , running in 1972 , 1976 and 1988 , 18 years gone from the Senate . <br><hr><br><blue>1(4)</blue>: <m_str>the war</m_str> (7_28) 	<m_str>Vietnam War</m_str> (13_9) 	<m_str>the Vietnam War</m_str> (1_23) 	<m_str>the war taking scores of thousands of American and Vietnamese lives</m_str> (9_2) 	<br><blue>2(2)</blue>: <m_str>this nation</m_str> (16_27) 	<m_str>the nation</m_str> (1_11) 	<br><blue>3(2)</blue>: <m_str>he</m_str> (9_14) 	<m_str>He</m_str> (10_1) 	<br><blue>4(1)</blue>: <m_str>Washington</m_str> (3_34) 	<br><blue>5(30)</blue>: <m_str>His</m_str> (15_1) 	<m_str>he</m_str> (14_25) 	<m_str>his</m_str> (15_10) 	<m_str>his</m_str> (15_22) 	<m_str>he</m_str> (16_12) 	<m_str>President Lyndon B. Johnson 's</m_str> (1_15) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (17_6) 	<m_str>his</m_str> (17_9) 	<m_str>he</m_str> (17_12) 	<m_str>he</m_str> (17_15) 	<m_str>his</m_str> (18_4) 	<m_str>he</m_str> (18_10) 	<m_str>His</m_str> (4_1) 	<m_str>his</m_str> (19_2) 	<m_str>His son , Michael B. McCarthy</m_str> (4_1) 	<m_str>his</m_str> (3_23) 	<m_str>Mr. McCarthy</m_str> (19_10) 	<m_str>He</m_str> (20_1) 	<m_str>Eugene McCarthy</m_str> (5_1) 	<m_str>he</m_str> (3_37) 	<m_str>his</m_str> (5_4) 	<m_str>Senator McCarthy</m_str> (7_1) 	<m_str>Johnson</m_str> (7_19) 	<m_str>Mr. McCarthy , a man of needling wit</m_str> (8_1) 	<m_str>Johnson in a primary</m_str> (10_3) 	<m_str>Mr. McCarthy</m_str> (11_1) 	<m_str>he</m_str> (11_11) 	<m_str>Mr. McCarthy</m_str> (12_5) 	<m_str>he</m_str> (13_2) 	<br><blue>6(1)</blue>: <m_str>Ronald Reagan , the Republican candidate for president</m_str> (19_26) 	<br><blue>7(2)</blue>: <m_str>it</m_str> (6_10) 	<m_str>only one thing</m_str> (6_3) 	<br><blue>8(2)</blue>: <m_str>1968</m_str> (7_13) 	<m_str>1968</m_str> (1_28) 	<br><blue>9(2)</blue>: <m_str>the Johnson administration</m_str> (7_18) 	<m_str>its</m_str> (7_22) 	<br><blue>10(3)</blue>: <m_str>it</m_str> (14_19) 	<m_str>it</m_str> (14_22) 	<m_str>the country</m_str> (14_10) 	<br><blue>11(2)</blue>: <m_str>presidents who are bigger than the country , but rather ones who speak for it</m_str> (14_5) 	<m_str>them</m_str> (14_27) 	<br><blue>12(2)</blue>: <m_str>His supporters</m_str> (15_1) 	<m_str>they</m_str> (15_7) 	<br><blue>13(2)</blue>: <m_str>I</m_str> (16_1) 	<m_str>I</m_str> (16_18) 	<br><blue>14(1)</blue>: <m_str>the race</m_str> (10_21) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

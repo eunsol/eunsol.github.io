@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>G. Joseph Tauro, 88, Massachusetts Judge </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>G. Joseph Tauro , whose career as Chief Justice of the Massachusetts Supreme Court and the Massachusetts Superior Court spanned nearly 15 years in the 1960 's and 1970 's , died on Thursday at Salem Hospital in Salem , Mass . <br><blue>2</blue>He was 88 and lived in Swampscott , Mass . <br><blue>3</blue>The cause of death was pneumonia , a spokesman for the family said . <br><blue>4</blue>During Judge Tauro 's term as Chief Justice of Superior Court , from 1962 to 1970 , the court issued decisions in several high-profile cases , including a dispute involving charges of illegal possession of marijuana brought against two Massachusetts residents . <br><blue>5</blue>In that case , the court upheld the state 's anti-marijuana statutes , which were being challenged , ruling ultimately that marijuana was " a harmful and dangerous drug . " <br><blue>6</blue>In 1970 , he was chosen by Gov. Francis W. Sargent to head the state 's highest court . <br><blue>7</blue>During his term , Judge Tauro helped create the state 's Appeals Court , an intermediate appellate level division . <br><blue>8</blue>Born in 1906 in Lynn , Mass. , he practiced law there from 1927 until his appointment to the Superior Court as an associate justice in 1961 . <br><blue>9</blue>He graduated from Boston University and the Boston University Law School in 1927 . <br><blue>10</blue>Survivors include his wife of 64 years , Helen ; a son , Joseph L. , of Marblehead , the Chief Judge of Federal District Court in Massachusetts ; two brothers , Raymond , of Woburn , Mass. , and Arthur L. , of New Hampshire ; a sister , Celia Tricca of Malden , Mass. , and three grandchildren . <br><hr><br><blue>1(2)</blue>: <m_str>1927</m_str> (8_14) 	<m_str>1927</m_str> (9_13) 	<br><blue>2(2)</blue>: <m_str>Judge Tauro 's term as Chief Justice of Superior Court , from 1962 to 1970</m_str> (4_2) 	<m_str>his term</m_str> (7_2) 	<br><blue>3(6)</blue>: <m_str>he</m_str> (8_9) 	<m_str>his</m_str> (8_16) 	<m_str>his</m_str> (7_2) 	<m_str>he</m_str> (6_4) 	<m_str>He</m_str> (9_1) 	<m_str>his</m_str> (10_3) 	<br><blue>4(2)</blue>: <m_str>Judge Tauro 's</m_str> (4_2) 	<m_str>Judge Tauro</m_str> (7_5) 	<br><blue>5(3)</blue>: <m_str>the state 's</m_str> (7_9) 	<m_str>the state 's</m_str> (6_14) 	<m_str>the state 's</m_str> (5_8) 	<br><blue>6(6)</blue>: <m_str>the Massachusetts Superior Court</m_str> (1_16) 	<m_str>the state 's Appeals Court , an intermediate appellate level division</m_str> (7_9) 	<m_str>the court</m_str> (4_18) 	<m_str>the state 's highest court</m_str> (6_14) 	<m_str>the court</m_str> (5_5) 	<m_str>Superior Court</m_str> (4_10) 	<br><blue>7(2)</blue>: <m_str>Massachusetts</m_str> (10_28) 	<m_str>Massachusetts</m_str> (4_40) 	<br><blue>8(2)</blue>: <m_str>Salem , Mass.</m_str> (1_39) 	<m_str>Swampscott , Mass.</m_str> (2_7) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Junior Walker, 53, Saxophonist And Leader of Motown Group </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Junior Walker , one of popular music 's premier saxophonists and leader of the Motown group Junior Walker and the All Stars , died today of cancer at his home in Battle Creek , according to Perry Mortuary . <br><blue>2</blue>He was 53 . <br><blue>3</blue>Reference books say Mr. Walker was born Autry DeWalt Jr. in Blytheville , Ark. , sometime in 1942 . <br><blue>4</blue>He started out playing in local groups in Indiana in the mid-1950 's before moving to Battle Creek and forming the All Stars . <br><blue>5</blue>The group went on to record some of Motown 's most enduring hits , including " Shotgun , " " What Does It Take to Win Your Love , " " How Sweet It Is " and " These Eyes . " <br><blue>6</blue>" There is n't a sax player out there who did n't get something from him , " said Jimmy Vivino , whose band , Jimmy Vivino and the Black Italians opened for Walker at the Bottom Line in New York City . <br><blue>7</blue>The All Stars , which included the guitarist Willie Woods , the keyboard player Vic Thomas and the drummer James Graves , was said to have gotten its name when an enthusiastic fan jumped to his feet during a show and shouted , " These guys are all stars . " <br><blue>8</blue>Mr. Walker continued to tour into the 90 's , sometimes with his son Autry DeWalt III backing him on drums . <br><blue>9</blue>He had recently returned from a tour with The Four Tops , the Temptations and other Motown stars , said Mr. Woods , his friend since school days . <br><blue>10</blue>" When he got back he had lost the strength in his legs , " Mr. Woods said . <br><blue>11</blue>" He never really came back to where he could walk again . " <br><blue>12</blue>Never known as a great vocalist , Mr. Walker gained acclaim for his brilliant sax solos , and some of the All Stars ' best work included instrumentals . <br><blue>13</blue>His style is credited with influencing the jazz saxophonist David Sanborn , among others . <br><blue>14</blue>Mr. Vivino , who was spending Thanksgiving night at a Manhattan jazz club , said Mr. Walker was known for " his command of what the sax players call the upper register -- funky . " <br><blue>15</blue>Mr. Walker and Mr. Woods hooked up in South Bend , Ind. , in the mid-1950 's , where they formed the band Jumping Jacks . <br><blue>16</blue>After moving to Battle Creek in the late 1950 's they found regular work at El Grotto , a lounge credited with helping them get noticed . <br><blue>17</blue>They signed with a small label that was eventually taken over by Motown , and from the mid-1960 's into the 1970 's Junior Walker and the All Stars produced a string of hits , including " Come See About Me , " " Hip City " and " Road Runner . " <br><blue>18</blue>Their later albums included " Greatest Hits , " released in 1982 and " Nothing But Soul : The Singles , " a 40-song collection released last year . <br><hr><br><blue>1(4)</blue>: <m_str>the mid-1950 's</m_str> (4_11) 	<m_str>The group</m_str> (5_1) 	<m_str>It</m_str> (5_34) 	<m_str>It</m_str> (5_23) 	<br><blue>2(3)</blue>: <m_str>Mr. Woods</m_str> (15_4) 	<m_str>Mr. Woods</m_str> (10_16) 	<m_str>Mr. Woods , his friend since school days</m_str> (9_21) 	<br><blue>3(30)</blue>: <m_str>Jimmy Vivino</m_str> (6_26) 	<m_str>Mr. Walker and Mr. Woods</m_str> (15_1) 	<m_str>he</m_str> (11_9) 	<m_str>his</m_str> (14_22) 	<m_str>He</m_str> (4_1) 	<m_str>Walker</m_str> (6_34) 	<m_str>Mr. Walker</m_str> (8_1) 	<m_str>they</m_str> (15_20) 	<m_str>his</m_str> (8_13) 	<m_str>Mr. Walker</m_str> (12_8) 	<m_str>his</m_str> (12_13) 	<m_str>He</m_str> (9_1) 	<m_str>him</m_str> (8_19) 	<m_str>they</m_str> (16_11) 	<m_str>His</m_str> (13_1) 	<m_str>They</m_str> (17_1) 	<m_str>the Motown group Junior Walker</m_str> (1_14) 	<m_str>He</m_str> (2_1) 	<m_str>them</m_str> (16_24) 	<m_str>he</m_str> (10_3) 	<m_str>his</m_str> (1_29) 	<m_str>he</m_str> (10_6) 	<m_str>his</m_str> (9_24) 	<m_str>Their</m_str> (18_1) 	<m_str>him</m_str> (6_16) 	<m_str>his</m_str> (10_12) 	<m_str>Mr. Walker</m_str> (3_4) 	<m_str>the 1970 's Junior Walker</m_str> (17_21) 	<m_str>He</m_str> (11_2) 	<m_str>Mr. Walker</m_str> (14_16) 	<br><blue>4(2)</blue>: <m_str>the band</m_str> (15_22) 	<m_str>whose band</m_str> (6_23) 	<br><blue>5(3)</blue>: <m_str>Me</m_str> (17_41) 	<m_str>Motown 's</m_str> (5_9) 	<m_str>Motown</m_str> (17_13) 	<br><blue>6(2)</blue>: <m_str>an enthusiastic fan</m_str> (7_31) 	<m_str>his</m_str> (7_36) 	<br><blue>7(2)</blue>: <m_str>These guys</m_str> (7_45) 	<m_str>Jimmy Vivino , whose band , Jimmy Vivino and the Black Italians opened for Walker at the Bottom Line in New York City</m_str> (6_20) 	<hr><br> gender:male	ethnicity:african<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

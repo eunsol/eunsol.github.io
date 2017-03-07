@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Li Xiannian, China Ex-President And Rural Economist, Dies at 82 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Li Xiannian , a politician and military commander who rose to become President of China and a leading hard-liner , died on Sunday night , the official New China News Agency announced today . <br><blue>2</blue>He would have been 83 years old on Tuesday . <br><blue>3</blue>The agency said that Mr. Li , who was president from 1983 to 1988 , died in Beijing of an illness it did not specify . <br><blue>4</blue>Mr. Li was one of a handful of elderly leaders who , despite nominal retirement , exercised ultimate control over the nation . <br><blue>5</blue>His death is expected to be a blow to China 's surviving hard-liners , who are waging a power struggle with those leaders who favor more rapid economic change . <br><blue>6</blue>While he almost never appeared in public in the last few years , Mr. Li remained one of those whom Deng Xiaoping , the senior leader , needed to consult on all crucial decisions . <br><blue>7</blue>From his courtyard home along a narrow lane in the southwest corner of Zhongnanhai , the park that serves as the Communist Party headquarters , Mr. Li continued to exert pressure for ideological orthodoxy and continued devotion to central planning . <br><blue>8</blue>Nimble Politician Mr. Li was a member of the Communist Party Central Committee for nearly half a century , and he displayed an uncanny ability to escape the various purges that set back or ruined the careers of his colleagues . <br><blue>9</blue>His career was intertwined with that of Mr. Deng , whom he alternately worked with and against . <br><blue>10</blue>During the Tiananmen Square democracy movement in the spring of 1989 , Mr. Li gave strong support to Mr. Deng for the military suppression of the movement . <br><blue>11</blue>Mr. Li also worked with Mr. Deng in the mid-1970 's in trying to resurrect the economy from the damage caused by the Cultural Revolution . <br><blue>12</blue>He reportedly also pushed for the rehabilitation of Mr. Deng after his purge in 1976 . <br><blue>13</blue>At some other times , Mr. Li seemed less politically astute . <br><blue>14</blue>In 1976 , when Mr. Deng was in disgrace , Mr. Li seized the occasion to urge the Chinese people to " deepen the struggle to criticize Deng Xiaoping . " <br><blue>15</blue>But in the 1980 's , not long after Mr. Li helped Mr. Deng return to power , he was increasingly becoming a rival . <br><blue>16</blue>He distrusted many of the capitalist-style changes that Mr. Deng wanted to introduce , and he was wary of the men that Mr. Deng named as his political heirs . <br><blue>17</blue>Mr. Li played a role in the disgrace and dismissal of both of those heirs , Hu Yaobang in 1987 and Zhao Ziyang in 1989 . <br><blue>18</blue>Busy to the Last Even during the last days of his life , Mr. Li was believed to have written a letter urging the leadership to continue to guard against Western influences . <br><blue>19</blue>Li Xiannian ( pronounced lee shee-enn-nee-enn ) was born on June 23 , 1909 , to a poor family in Hongan County in a northern province , Hubei . <br><blue>20</blue>He appeared to have had no formal education . <br><hr><br><blue>1(8)</blue>: <m_str>Mr. Deng , whom he alternately worked</m_str> (9_8) 	<m_str>Mr. Deng</m_str> (11_6) 	<m_str>Mr. Deng</m_str> (14_5) 	<m_str>Mr. Deng after his purge in 1976</m_str> (12_9) 	<m_str>Mr. Deng</m_str> (16_23) 	<m_str>Mr. Deng</m_str> (16_9) 	<m_str>Deng Xiaoping</m_str> (14_28) 	<m_str>Deng</m_str> (15_14) 	<br><blue>2(2)</blue>: <m_str>His career</m_str> (9_1) 	<m_str>the careers of his colleagues</m_str> (8_36) 	<br><blue>3(1)</blue>: <m_str>Hubei</m_str> (19_28) 	<br><blue>4(1)</blue>: <m_str>the Chinese people</m_str> (14_18) 	<br><blue>5(3)</blue>: <m_str>China</m_str> (1_15) 	<m_str>the nation</m_str> (4_21) 	<m_str>China 's</m_str> (5_10) 	<br><blue>6(3)</blue>: <m_str>the official New China News Agency</m_str> (1_26) 	<m_str>The agency</m_str> (3_1) 	<m_str>it</m_str> (3_22) 	<br><blue>7(3)</blue>: <m_str>the Tiananmen Square democracy movement in the spring of 1989</m_str> (10_2) 	<m_str>the movement</m_str> (10_26) 	<m_str>the mid-1970 's</m_str> (11_9) 	<br><blue>8(1)</blue>: <m_str>the economy</m_str> (11_16) 	<br><blue>9(2)</blue>: <m_str>those heirs</m_str> (17_14) 	<m_str>his political heirs</m_str> (16_27) 	<br><blue>10(27)</blue>: <m_str>Mr. Li</m_str> (15_10) 	<m_str>Nimble Politician Mr. Li</m_str> (8_1) 	<m_str>He</m_str> (16_1) 	<m_str>Mr. Li</m_str> (7_26) 	<m_str>he</m_str> (15_19) 	<m_str>His</m_str> (9_1) 	<m_str>he</m_str> (8_21) 	<m_str>he</m_str> (16_16) 	<m_str>Mr. Li</m_str> (17_1) 	<m_str>he</m_str> (9_12) 	<m_str>his</m_str> (16_27) 	<m_str>his</m_str> (8_39) 	<m_str>Mr. Li</m_str> (10_13) 	<m_str>Mr. Li</m_str> (11_1) 	<m_str>his</m_str> (18_11) 	<m_str>Mr. Li</m_str> (18_14) 	<m_str>Li Xiannian -LRB- pronounced lee shee-enn-nee-enn -RRB-</m_str> (19_1) 	<m_str>Mr. Li</m_str> (4_1) 	<m_str>He</m_str> (12_1) 	<m_str>He</m_str> (20_1) 	<m_str>His</m_str> (5_1) 	<m_str>his</m_str> (12_12) 	<m_str>Mr. Li</m_str> (13_6) 	<m_str>he</m_str> (6_2) 	<m_str>Mr. Li</m_str> (6_14) 	<m_str>his</m_str> (7_2) 	<m_str>Mr. Li</m_str> (14_11) 	<br><blue>11(2)</blue>: <m_str>1976</m_str> (14_2) 	<m_str>1976</m_str> (12_15) 	<hr><br> gender:male	ethnicity:asian<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

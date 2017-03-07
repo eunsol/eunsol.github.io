@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Yousuf Karsh, Who Photographed Famous And Infamous of 20th Century, Dies at 93 </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Yousuf Karsh , whose photographic portraits of the famous and the powerful are known to millions throughout the world , died yesterday at 93 . <br><blue>2</blue>He died after surgery at Brigham and Women 's Hospital in Boston , said his nephew , Sidney Karsh . <br><blue>3</blue>Best known for his World War II portraits of Winston Churchill , Dwight D. Eisenhower and other leaders of the Allied cause , Karsh of Ottawa , as he was called professionally , traveled all over the world to photograph political and military leaders , as well as celebrated writers , artists and entertainers . <br><blue>4</blue>His portraits were reproduced widely in newspapers and magazines as well as in books , and many of them have become the best loved and most familiar images of their subjects . <br><blue>5</blue>His most famous portraits include : the 1941 picture of Winston Churchill as an indomitable wartime leader ; George Bernard Shaw as quizzical old sage in 1943 ; Dwight D. Eisenhower in 1946 as a five-star general and Supreme Commander of the Allied Expeditionary Force ; Ernest Hemingway in a turtle-neck sweater in 1957 ; Georgia O'Keeffe in her New Mexico studio in 1956 and Nikita S. Khrushchev swathed in fur in 1963 . <br><blue>6</blue>He also photographed Harry S. Truman , John F. Kennedy , Fidel Castro and Andy Warhol . <br><blue>7</blue>Mr. Karsh was a master of the formally posed , carefully lighted studio portrait . <br><blue>8</blue>Working with an 8-by-10 view camera and a battery of artificial lights ( he was said to carry 350 pounds of equipment on his trips abroad ) he aimed , in his own words , '' to stir the emotions of the viewer '' and to '' lay bare the soul '' of his sitter . <br><blue>9</blue>He characteristically achieved a heroic monumentality in which the sitter 's face , grave , thoughtful and impressive , emerged from a dark , featureless background with an almost superhuman grandeur . <br><blue>10</blue>As the historian Peter Pollack put it in his '' Picture History of Photography '' , '' Yousuf Karsh , in his powerful portraits , transforms the human face into legend . '' <br><blue>11</blue>Yousuf Karsh was born of Armenian parents in Mardin , Turkey , on Dec. 23 , 1908 . <br><blue>12</blue>In 1924 he immigrated to Canada , where his uncle , a studio portrait photographer , taught him the basis of his profession . <br><blue>13</blue>After a three-year apprenticeship to John H. Garo of Boston , a well-known portrait photographer of the era and a fellow Armenian , Mr. Karsh settled in Ottawa and opened his own portrait studio in 1932 . <br><blue>14</blue>He learned the dramatic use of artificial light that became the hallmark of his mature portrait style by studying theatrical lighting at the Ottawa Little Theater , of which he was a member . <br><blue>15</blue>In Garo 's studio he had worked with natural light . <br><blue>16</blue>At the theater he met the son of Lord Bessborough , the governor general of Canada , who persuaded his father to sit for Mr. Karsh , initiating a long and close relationship between the photographer and successive Canadian political figures . <br><blue>17</blue>The next governor general , Lord Tweedsmuir , introduced him to Prime Minister Mackenzie King , who brought him in to photograph Winston Churchill during the latter 's wartime visit to Canada in December 1941 . <br><blue>18</blue>The Churchill portrait was a turning point in Mr. Karsh 's career . <br><blue>19</blue>He was given only two minutes to take it , during which he is said to have angered the visiting statesman by taking away his cigar before shooting . <br><blue>20</blue>However , the portrait that resulted , showing the British prime minister glowering at the camera with a bulldoglike tenaciousness , seemed to epitomize the determination of the British to defeat Hitler , and catapulted Mr. Karsh into international fame . <br><hr><br><blue>1(5)</blue>: <m_str>their</m_str> (4_30) 	<m_str>his powerful portraits</m_str> (10_22) 	<m_str>His portraits</m_str> (4_1) 	<m_str>them</m_str> (4_19) 	<m_str>his World War II portraits</m_str> (3_4) 	<br><blue>2(2)</blue>: <m_str>Boston</m_str> (13_10) 	<m_str>Boston</m_str> (2_12) 	<br><blue>3(2)</blue>: <m_str>Ottawa</m_str> (13_28) 	<m_str>Ottawa</m_str> (3_26) 	<br><blue>4(2)</blue>: <m_str>The Churchill portrait</m_str> (18_1) 	<m_str>it</m_str> (19_9) 	<br><blue>5(2)</blue>: <m_str>Garo 's studio</m_str> (15_2) 	<m_str>his own portrait studio</m_str> (13_31) 	<br><blue>6(15)</blue>: <m_str>he</m_str> (15_5) 	<m_str>his</m_str> (16_20) 	<m_str>The next governor general , Lord Tweedsmuir</m_str> (17_1) 	<m_str>He</m_str> (19_1) 	<m_str>him</m_str> (17_10) 	<m_str>a well-known portrait photographer of the era and a fellow Armenian , Mr. Karsh</m_str> (13_12) 	<m_str>he</m_str> (14_30) 	<m_str>He</m_str> (14_1) 	<m_str>he</m_str> (19_13) 	<m_str>he</m_str> (16_4) 	<m_str>him</m_str> (17_19) 	<m_str>Hitler</m_str> (20_32) 	<m_str>his</m_str> (13_31) 	<m_str>his</m_str> (14_14) 	<m_str>his</m_str> (19_25) 	<br><blue>7(2)</blue>: <m_str>the world</m_str> (1_18) 	<m_str>the world</m_str> (3_37) 	<br><blue>8(35)</blue>: <m_str>his</m_str> (10_22) 	<m_str>Dwight D. Eisenhower</m_str> (3_13) 	<m_str>His</m_str> (4_1) 	<m_str>he</m_str> (12_3) 	<m_str>he</m_str> (3_29) 	<m_str>her</m_str> (5_59) 	<m_str>Yousuf Karsh</m_str> (1_1) 	<m_str>his</m_str> (12_9) 	<m_str>His</m_str> (5_1) 	<m_str>he</m_str> (8_14) 	<m_str>He</m_str> (9_1) 	<m_str>him</m_str> (12_18) 	<m_str>his</m_str> (8_24) 	<m_str>Winston Churchill</m_str> (5_11) 	<m_str>his</m_str> (12_22) 	<m_str>He</m_str> (2_1) 	<m_str>he</m_str> (8_28) 	<m_str>He</m_str> (6_1) 	<m_str>his</m_str> (8_32) 	<m_str>George Bernard Shaw</m_str> (5_19) 	<m_str>Mr. Karsh</m_str> (16_25) 	<m_str>his</m_str> (2_15) 	<m_str>Fidel Castro</m_str> (6_12) 	<m_str>his</m_str> (10_9) 	<m_str>Dwight D. Eisenhower</m_str> (5_29) 	<m_str>the photographer</m_str> (16_35) 	<m_str>Sidney Karsh</m_str> (2_18) 	<m_str>a fellow Armenian , Mr. Karsh</m_str> (13_20) 	<m_str>his</m_str> (3_4) 	<m_str>Mr. Karsh</m_str> (7_1) 	<m_str>Mr. Karsh</m_str> (20_36) 	<m_str>Mr. Karsh 's</m_str> (18_9) 	<m_str>Yousuf Karsh , in his powerful portraits</m_str> (10_18) 	<m_str>Yousuf Karsh</m_str> (11_1) 	<m_str>his</m_str> (8_54) 	<br><blue>9(2)</blue>: <m_str>Canada</m_str> (16_16) 	<m_str>Canada</m_str> (17_32) 	<br><blue>10(2)</blue>: <m_str>the sitter 's</m_str> (9_9) 	<m_str>his sitter</m_str> (8_54) 	<hr><br> gender:male	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+     <title>Starter Template for Bootstrap</title>
+     <!-- Bootstrap core CSS -->
+     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+     <link href="starter-template.css" rel="stylesheet">
+     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+   </head>
+ 
+   <body>
+ 
+     <nav class="navbar navbar-inverse navbar-fixed-top">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <li class="navbar-brand">Coreference Analysis</li>
+         </div>
+         <div id="navbar" class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <li class="active"><a href="https://eunsol.github.io/project_page/ethics575/index.html">Home</a></li>
+            <!-- <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </nav>
+ 
+     <div class="container">
+       <div class="starter-template">
+         <h1>Marian Koshland, 76, Expert On How Antibodies Fight Ills </h1>
+           <div class="row">
+               <div class="col-md-10">
+ 					<p class="text-left">
+<blue>1</blue>Marian E. Koshland , an immunologist and professor of molecular and cell biology at the University of California at Berkeley who studied the ways antibodies fight off disease , died on Tuesday at Alta Bates Medical Center in Berkeley . <br><blue>2</blue>She was 76 and lived in Lafayette , Calif . <br><blue>3</blue>The cause was lung cancer , the university said . <br><blue>4</blue>Dr. Koshland , a member of the National Academy of Sciences and the president of the American Association of Immunologists in 1982 and 1983 , discovered that antibodies differ in their amino acid composition , a factor that makes them extremely efficient at fending off disease . <br><blue>5</blue>She made the discovery by studying a molecule of phosphate and a molecule of arsenate . <br><blue>6</blue>The two substances are somewhat similar chemically , but she found that they produced distinct and noticeably different antibodies when exposed to an antigen . <br><blue>7</blue>She also discovered a molecular chain that allows antibodies to be exported from a cell and to circulate in the bloodstream . <br><blue>8</blue>In 1991 she and her colleagues at Berkeley described the characteristics of a pathway that apparently serves as an intracellular superhighway , bypassing normal intracellular communication channels and making possible the proliferation of B-cells , which are essential in fighting off infection . <br><blue>9</blue>Dr. Koshland , who was born in New Haven on Oct. 25 , 1921 , received a bachelor 's degree from Vassar College in 1942 , a master 's degree from Vassar the next year and a doctorate from the University of Chicago in 1949 . <br><blue>10</blue>During World War II , she worked on a research team that produced a vaccine for cholera , and in 1945 and 1946 she was a research assistant on the Manhattan Project , which developed the atomic bomb . <br><blue>11</blue>After two years as a fellow in the department of bacteriology at Harvard University , she joined the staff of the Brookhaven National Laboratory on Long Island , first as an associate bacteriologist in the biology department and , from 1963 to 1965 , as a bacteriologist . <br><blue>12</blue>She moved to Berkeley in 1965 as an associate research immunologist in the virus laboratory . <br><blue>13</blue>In 1966 , she became a lecturer in the department of molecularly biology . <br><blue>14</blue>She was named a professor in the department of microbiology and immunology in 1970 , and headed the department from 1982 to 1989 . <br><blue>15</blue>Dr. Koshland , who was also the head of the graduate affairs division in the department , was a member of the National Science Board from 1976 to 1982 and of the National Academy of Arts and Sciences . <br><blue>16</blue>She had continued to do research in her laboratory until recently . <br><blue>17</blue>She is survived by her husband , Daniel E. Koshland Jr. , a biochemist at Berkeley and a former editor of the journal Science ; five children , Ellen Koshland McCaughey of Melbourne , Australia ; Phyllis Koshland of Paris ; James , of Palo Alto , Calif. ; Gail Koshland Wachtel of Tucson , Ariz. , and Douglas , of Baltimore , and nine grandchildren . <br><hr><br><blue>1(2)</blue>: <m_str>they</m_str> (6_13) 	<m_str>The two substances</m_str> (6_1) 	<br><blue>2(2)</blue>: <m_str>the National Academy of Arts and Sciences</m_str> (15_32) 	<m_str>the National Academy of Sciences</m_str> (4_7) 	<br><blue>3(6)</blue>: <m_str>the biology department</m_str> (11_35) 	<m_str>the department</m_str> (14_18) 	<m_str>the department of bacteriology at Harvard University</m_str> (11_8) 	<m_str>the department of microbiology and immunology</m_str> (14_7) 	<m_str>the department of molecularly biology</m_str> (13_9) 	<m_str>the department</m_str> (15_15) 	<br><blue>4(16)</blue>: <m_str>she</m_str> (13_4) 	<m_str>she</m_str> (10_24) 	<m_str>She</m_str> (17_1) 	<m_str>She</m_str> (2_1) 	<m_str>her</m_str> (17_5) 	<m_str>she</m_str> (8_3) 	<m_str>she</m_str> (11_16) 	<m_str>her</m_str> (8_5) 	<m_str>She</m_str> (12_1) 	<m_str>She</m_str> (14_1) 	<m_str>she</m_str> (6_10) 	<m_str>she</m_str> (10_6) 	<m_str>She</m_str> (16_1) 	<m_str>She</m_str> (5_1) 	<m_str>She</m_str> (7_1) 	<m_str>her</m_str> (16_8) 	<br><blue>5(3)</blue>: <m_str>antibodies</m_str> (4_28) 	<m_str>their</m_str> (4_31) 	<m_str>them</m_str> (4_40) 	<br><blue>6(3)</blue>: <m_str>the Brookhaven National Laboratory</m_str> (11_21) 	<m_str>her laboratory</m_str> (16_8) 	<m_str>the virus laboratory</m_str> (12_13) 	<br><blue>7(2)</blue>: <m_str>the University of California at Berkeley</m_str> (1_15) 	<m_str>the university</m_str> (3_7) 	<br><blue>8(3)</blue>: <m_str>Berkeley</m_str> (8_8) 	<m_str>Berkeley</m_str> (17_16) 	<m_str>Berkeley</m_str> (1_39) 	<hr><br> gender:female	ethnicity:european<br>         </p>
+ 				</div>
+               
+           </div>
+       </div>
+     </div><!-- /.container -->
+ 
+     <!-- Bootstrap core JavaScript
+     ================================================== -->
+     <!-- Placed at the end of the document so the pages load faster -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+     <script src="../../dist/js/bootstrap.min.js"></script>
+     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   </body>
+ </html>
