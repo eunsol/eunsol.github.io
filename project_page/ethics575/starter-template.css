@@ -2,7 +2,7 @@ body {
   padding-top: 50px;
 }
 .starter-template {
-  padding: 40px 15px;
+  padding: 20px 15px;
   text-align: center;
 }
 blue{
@@ -10,7 +10,10 @@ blue{
 padding:2px;
   font-weight:600;
 }
-e0, e1, e2, e3, e4, e5, e6, e7, e8, e9 {
+m_str{
+  font-weight:600;
+}
+e0, e1, e2, e3, e4, e5, e6, e7, e8, e9, e10, e11, e12, e13, e14, e15 {
     font-weight: 600;
     line-height: 1.3em;
 }
