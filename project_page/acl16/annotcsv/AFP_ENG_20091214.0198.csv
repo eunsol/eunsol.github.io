@@ -1,7 +1,0 @@
-source,target,value,color
-BA,Unite,0.100000,Negative
-Iberia,BA,0.100000,NotNegative
-BA,Iberia,0.100000,NotNegative
-Spanish,BA,0.100000,NotNegative
-Unite,BA,0.100000,Negative
-BA,Spanish,0.100000,NotNegative

@@ -1,7 +1,0 @@
-source,target,value,color
-Ken Kimbro,Labor Department,0.100000,NotPositive
-Tyson,Labor Department,0.100000,Negative
-Tyson,Ken Kimbro,0.100000,NotNegative
-Labor Department,Tyson,0.100000,Negative
-Ken Kimbro,Springdale,0.100000,NotNegative
-Ken Kimbro,Tyson,0.100000,NotNegative

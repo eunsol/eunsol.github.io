@@ -1,6 +1,0 @@
-source,target,value,color
-China,Obama,0.100000,NotNegative
-Obama,China,0.100000,NotNegative
-Tibet,China,0.100000,NotPositive
-Tibet,Hu Jintao,0.100000,NotPositive
-United States,China,0.100000,NotNegative

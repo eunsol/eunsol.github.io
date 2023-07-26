@@ -1,8 +1,0 @@
-source,target,value,color
-Warren,Americans,0.100000,Positive
-Financial Crisis Inquiry Commission,Americans,0.100000,NotNegative
-Warren,Consumer Financial Protection Bureau,0.100000,Positive
-Americans,Consumer Financial Protection Bureau,0.100000,NotNegative
-Consumer Financial Protection Bureau,Warren,0.100000,NotNegative
-Consumer Financial Protection Bureau,Americans,0.100000,NotNegative
-Americans,Will Rogers,0.100000,NotNegative

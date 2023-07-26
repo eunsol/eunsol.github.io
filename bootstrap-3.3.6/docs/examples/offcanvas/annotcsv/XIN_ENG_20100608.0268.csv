@@ -1,7 +1,0 @@
-source,target,value,color
-Belarus,Barack Obama,0.100000,NotPositive
-Barack Obama,Belarus,0.100000,NotPositive
-U.S.,Barack Obama,0.100000,NotNegative
-Barack Obama,U.S.,0.100000,Positive
-U.S.,Belarus,0.100000,NotPositive
-Belarus,U.S.,0.100000,NotPositive

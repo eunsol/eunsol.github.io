@@ -1,8 +1,0 @@
-source,target,value,color
-Mexico,Peshawar,0.100000,NotNegative
-Foreign Ministry,Charsadda,0.100000,NotNegative
-Foreign Ministry,Pakistan,0.100000,NotNegative
-Mexico,Charsadda,0.100000,NotNegative
-Foreign Ministry,Peshawar,0.100000,NotNegative
-Pakistan,Mexico,0.100000,NotNegative
-Mexico,Pakistan,0.100000,Positive

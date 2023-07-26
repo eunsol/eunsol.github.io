@@ -1,6 +1,0 @@
-source,target,value,color
-Ferrero-Waldner,EU,0.100000,Positive
-EU,Ferrero-Waldner,0.100000,NotNegative
-Ferrero-Waldner,Austrian,0.100000,Positive
-Ferrero-Waldner,Switzerland,0.100000,NotNegative
-Austrian,Ferrero-Waldner,0.100000,NotNegative

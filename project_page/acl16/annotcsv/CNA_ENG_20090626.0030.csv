@@ -1,7 +1,0 @@
-source,target,value,color
-Lu,Flossan Orchid Co.,0.100000,Positive
-Lu,Paris,0.100000,NotNegative
-Bernadette Chirac,French,0.100000,NotNegative
-Bernadette Chirac,Taiwan,0.100000,NotNegative
-Bernadette Chirac,Flossan Orchid Co.,0.100000,Positive
-Flossan Orchid Co.,Bernadette Chirac,0.100000,NotNegative

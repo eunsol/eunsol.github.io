@@ -1,7 +1,0 @@
-source,target,value,color
-Rooney,Liverpool,0.100000,Positive
-Real Madrid,Ronaldo,0.100000,NotNegative
-Rooney,England,0.100000,Positive
-Ronaldo,Rooney,0.100000,Positive
-Real Madrid,Alcorcon,0.100000,NotPositive
-Ronaldo,Real Madrid,0.100000,Positive

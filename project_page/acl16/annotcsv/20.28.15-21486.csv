@@ -1,9 +1,0 @@
-source,target,value,color
-Israeli,Mary Robinson,0.100000,NotPositive
-Israeli,Palestinian,0.100000,Negative
-Mary Robinson,Israeli,0.100000,Negative
-Israeli,West Bank,0.100000,NotPositive
-Palestinian,Israeli,0.100000,Negative
-Mary Robinson,Palestinian,0.100000,NotNegative
-West Bank,Israeli,0.100000,NotPositive
-Israeli,Gaza Strip,0.100000,NotPositive

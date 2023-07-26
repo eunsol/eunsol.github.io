@@ -1,7 +1,0 @@
-source,target,value,color
-Walz,NASA,0.100000,NotNegative
-NASA,Walz,0.100000,NotNegative
-Ben Sellari,Walz,0.100000,NotNegative
-Ben Sellari,NASA,0.100000,NotNegative
-NASA,CAPE CANAVERAL,0.100000,Positive
-NASA,Ben Sellari,0.100000,NotNegative

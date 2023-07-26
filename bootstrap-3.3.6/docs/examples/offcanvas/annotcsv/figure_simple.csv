@@ -1,6 +1,0 @@
-source,target,value,color,label
-Moscow,Georgia,0.1,Negative,refuse
-Saakhashvili,Russia,0.1,Negative,misunderstand,
-Russia,Belarus,0.1,Negative,criticize
-Grylzov,Belarus,0.1,Negative,unfriendly
-Belarus,Saakhashvili,0.1,Positive,permit
