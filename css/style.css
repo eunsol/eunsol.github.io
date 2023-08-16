@@ -1,0 +1,71 @@
+body { font-size: 17px; line-height: 1.35; color: #333333; text-rendering: optimizeLegibility; }
+html, button, select, textarea { font-family: "Alegreya", "Noto Sans Korean", Helvetica, Arial, sans-serif; font-weight: 400; }
+ul {
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+}
+h5{
+  font-size: 105%;
+}
+h4, h5, h6 {
+  margin: 0px 0px 5px 0px;
+}
+h3 {border-bottom: 1px solid #333333; margin: 10px 0px 10px 0px;}
+h3 {font-size: 110%}
+h4 {font-size: 106%}
+li {font-size: 90%}
+p.small {font-size:90%}
+/* Header */
+#header-container { padding: 1em 1em 0 1em; }
+
+@supports (padding: max(0px)) { #header-container { padding-left: max(1em, env(safe-area-inset-left)); padding-right: max(1em, env(safe-area-inset-right)); padding-top: max(1em, env(safe-area-inset-bottom)); } }
+
+#header { max-width: 50em; margin-left: auto; margin-right: auto; display: flex; align-items: center; flex-wrap: wrap-reverse; border-bottom: 1px }
+#header a { text-decoration: none; }
+#header .header-link { display: inline-block;font-family: 'Alegreya', san-serif; }
+#header .header-link-pad { margin-right: 1em; }
+#header h1 { font-size: 150%; line-height: 1.0; margin: 1em 0 0.3em 0;    font-family: 'Alegreya', san-serif; }
+#header h5 {  font-family: 'Alegreya', san-serif;}
+#header-img { display: inline-block; padding: 0; vertical-align: top; margin-right: 1em; }
+#header-img img { max-height: 9em; height: auto; display: block; }
+#header-content { display: inline-block; vertical-align: top; padding-bottom: 1em; }
+.header-block { display: inline-block; margin-right: 1em; vertical-align: bottom; }
+
+
+#content { padding: 1em; max-width: 48em; margin-left: auto; margin-right: auto; }
+#content a { text-decoration: none; }
+
+/* Members */
+ul.member-list { columns:2; column-rule: dotted 1px #333;
+  -webkit-columns: 2;
+  -moz-columns: 2;  margin: 0; padding: 0; vertical-align: top; }
+ul.member-list li { list-style: none; }
+ul.member-list span.member-meta { font-size: 80%; color: #858585; }
+ul.member-list span.member-meta:before { content:" "; }
+ul.member-list span.member-header { font-weight: 600; text-decoration: underline; }
+
+/* Teaching */
+ul.teaching-list {margin: 0; padding: 0; vertical-align: top; }
+
+/* Service */
+ul.service-list { columns:2; column-rule: dotted 1px #333;
+  -webkit-columns: 2;
+  -moz-columns: 2;  margin: 0; padding: 0; vertical-align: top; }
+
+
+/* Publications */
+ul.pub-list li { list-style: none; margin-bottom: 0.5em;}
+ul.pub-list span.pub-header {font-weight: 600; text-decoration:underline;}
+.pub-title { font-size: 16px}
+.pub-authors, .paper-extra, .paper-links { font-size: 14px; }
+ul.pub-list span.pub-authors:after { content:" "; }
+a.ppl {color: black;}
+ul.pub { padding: 0; margin: 0; }
+ul.pub li { list-style: none; margin-bottom: 1em; }
+ul.pub-links { padding: 0; margin: 0; font-size: 14px; }
+ul.pub-links li { padding: 0; margin: 0; list-style: none; display: inline; }
+ul.pub-links li:after { content: ", "; }
+ul.pub-links li:last-child:after { content: ""; }
+
+footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }

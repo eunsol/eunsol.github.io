@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Eunsol Choi</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,900&display=swap" rel="stylesheet"> 
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript"> 
+        function play(audio_id){
+            var audio = document.getElementById(audio_id);
+            audio.play();
+        }
+        function showHide(shID) {
+            if (document.getElementById(shID)) {
+                if (document.getElementById(shID).style.display == 'none') {
+                    document.getElementById(shID).style.display = 'inline';
+                }
+                else {
+                    document.getElementById(shID).style.display = 'inline';
+                    document.getElementById(shID).style.display = 'none';
+                }
+            }
+        }
+    </script>
+  </head>
+  <body>
+    <header>
+    <div id="header-container">
+        <div id="header">
+            <div id="header-img">
+                <img src="./data/profile.png" alt="Eunsol Choi" />
+            </div>
+            <div id="header-content">
+                <div class="header-block">
+                <h1>Eunsol Choi</h1>
+		<h5>Assistant Professor<br> <a href="https://www.cs.utexas.edu/">Computer Science</a><br>
+                <a href="https://www.utexas.edu//">UT Austin</a> | <a href="https://www.nlp.utexas.edu/">UT NLP</a>| <a href="https://ml.utexas.edu/">UT ML</a></h5>
+                </div>
+                <div class="header-block">
+		    <div class="header-link"><i class="fa fa-fw fa-envelope"></i>Email: firstname@utexas.edu</a></div><br>
+                    <div class="header-link"><i class="fa fa-fw fa-location-arrow"></i>GDC 3.810</a></div><br />
+		    <div class="header-link"><a href="https://github.com/eunsol"><i class="fa fa-fw fa-github"></i>Github</a></div> 
+		    <div class="header-link"><a href="./files/CV.pdf"><i class="fa fa-fw fa-file"></i>CV</a></div><br>
+	            <div class="header-link"><a href="https://twitter.com/eunsolc"><i class="fa fa-fw fa-twitter-square"></i>Twitter</a>	<a href="https://scholar.google.com/citations?user=aczkJSgAAAAJ"><i class="fa fa-fw fa-google"></i>Google Scholar</a>
+	            <a href="https://www.semanticscholar.org/author/Eunsol-Choi/2890423"><i class="ai ai-semantic-scholar ai"></i>Semantic Scholar</a><br>
+        	<a href="#group">[group]</a><a href="#teaching">[teaching]</a><a href="#publications">[publication]</a><a href="#personal">[personal]</a>
+		</div>
+               </div>
+        </div>
+    </div>
+    </header>
+    <div id="content">
+	<p>I am an assistant professor at the computer science department at UT-Austin. My research area is natural language processing --  I build machine learning models and datasets to help computers understand human language. Recently, I have focused on extracting and querying information from unstructured text and knowledgebases. Before UT-Austin, I spent a year at Google AI in NYC as a visiting faculty researcher. Prior to that, I was a Ph.D. student at UW, advised by <a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer</a> and <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>.</p>
+        <p>The research at my lab has been supported by Google, Open Philanthrophy, CISCO, Sony, HomeDepot and NSF. Thank you for generous support!</p>
+    <!--- <h3>Research Interests</h3> <p class="small"></p> -->
+    <h3>News</h3>
+	<embed src="./news.html" width="100%" height="100px" overflow="hidden">
+    <h3 id="group">Research Group</h3>
+    <p class="small">I am very lucky to have opportunities to work with many talented students and collaborators! If you are interested in working with me, please apply to UT Austin for a <a href="https://www.cs.utexas.edu/graduate-program/phd-program">CS PhD or Masters program</a> and mention my name. If you are already a student at UT and interested in working with me, please email me with your CV. I currently do not take interns and would not be able to respond to such inquiries. I don't have a group name, but my students like play with naming my lab, such as (E)xplaining and (U)nderstanding (N)ature and (S)tructure/Synthesis (O)f (L)anguage. ;) </p>
+       <ul class="member-list">
+       <li><span class='member-header'>Current</span></li>
+       <li><a href='https://www.cs.utexas.edu/~mjqzhang/'>Michael J.Q. Zhang</a><span class='member-meta'>CS PhD (Fa20-)</span></li>
+       <li><a href='https://ajd12342.github.io/'>Anuj Diwan</a> (w/ <a href='https://www.cs.utexas.edu/~harwath/'>David Harwarth)</a><span class='member-meta'>CS PhD (Fa21-)</span></li>
+       <li><a href="https://www.cs.utexas.edu/~fxu/">Fangyuan Xu</a><span class='member-meta'>CS PhD (Fa22-)</span></li>
+       <li><a href="">Hung-ting Chen</a><span class='member-meta'>incoming CS PhD (Fa23-)</span></li>
+       <li><a href="">Leo Zeyu Liu</a> (w/ Greg Durrett)<span class='member-meta'>incoming CS PhD (Fa23-)</span></li>
+       <li><a href="">Thom Lake</a> (w/ Greg Durrett)<span class='member-meta'>incoming CS PhD (Fa23-)</span></li>
+       <li>Shankar Padmanabhan<span class='member-meta'>UT Undergraduate (Fa22-)</span></li>
+       <li>Doeun Lee<span class='member-meta'>UT CS Undergraduate (Su23-)</span></li>
+       <li>Catherine Andersson<span class=member-meta>Admin Support</span></li>
+       </ul>
+       <hr style="border-style: dotted" />
+       <ul class="member-list">
+       <li><span class='member-header'>Alumni</span></li>
+       <li><a href='https://jifan-chen.github.io/'>Jifan Chen</a> (w/ <a href='https://www.cs.utexas.edu/~gdurrett/'>Greg Durrett</a>) <span class=member-meta> CS Ph.D Summer 2023 &#8594; Amazon AWS </span></li>
+       <li><a href='https://www.cs.utexas.edu/~yasumasa/'>Yasumasa Onoe</a> (w/ <a href='https://www.cs.utexas.edu/~gdurrett/'>Greg Durrett</a>) <span class='member-meta'> CS Ph.D Summer 2023  &#8594; Google Research</span></li>
+       <li>Anirudh Srinivasan<span class='member-meta'>CS Masters, 2022 &#8594; Tenstorrent Inc. </span></li>
+       <li>Hung-ting Chen<span class='member-meta'>CS Masters, 2022 &#8594; UT PhD</span></li>
+       <li>Pranav Atreya<span class='member-meta'>CS Undergrad Thesis, 2023 &#8594; Berkeley PhD</span></li>
+       <li>Abhilash Potluri<span class='member-meta'>CS Undergrad Thesis, 2022  &#8594; UIUC Masters</span></li>
+       <li>Rishi Salem (w/ <a href='https://www.cs.utexas.edu/~harwath/'>David Harwarth</a>)<span class='member-meta'>CS Masters Summer 2023</span></li>
+       </ul>
+     <h3 id="teaching">Teaching</h3> 
+        <p class="small">For questions related to course registrations, please contact the following email: undergrads: under-info@cs.utexas.edu, For grads: gradoffice@cs.tuexas.edu</p>
+     	<ul class="teaching-list">
+     		<li><a href="">Fall 2023: CS 395T Topics in Natural Language Processing (grad)</a></li>
+        	<li><a href="../courses/cs378_sp23/">Spring 2021-23: CS 378 Natural Language Processing (undergrad)</a></li>
+        	<li><a href="../courses/cs388_fa21/">Fall 2021: CS 388 Natural Language Processing (grad)</a></li>
+        	<li><a href="../courses/cs395t_fa20/index.html">Fall 2020: CS 395T Topics in Natural Language Processing (grad)</a></li>
+        </ul>
+     <h3 id="service">Service</h3>
+     	<ul class="service-list">
+     		<li>Workshop Co-chair, ACL 2024</li>
+     		<li>Program Co-chair, AKBC 2022</li>
+        	<li>Organizing Committee, Rising Stars in EECS 2022</li>
+        	<li>Publicity Co-chair, EMNLP 2022</li>
+	        <li>Senior Area Chair, EMNLP 2021,2, ACL 2023</li>
+	        <li>Junior Area Chair, EMNLP 2019, ACL 2020, EMNLP 2020, NeurIPS 2021 (benchmark track), ICML 2023</li>
+	        <li>Workshop Co-chair, AKBC 2021</li>
+	        <li>Action Editor, ARR</li>
+	        <li>Standing Reviewer, TACL, CL, TMLR</li>
+	        <li>Reviewer, ACL, EMNLP, NeurIPS, ICLR, ICML, AKBC, and some related workshops occassionally (please see my CV).</li>
+	        <li>Workshop co-organizer, Workshop on Machine Reading for Question Answering, ACL 2018, EMNLP 2019, EMNLP 2021</li>
+	        <li>Efficient QA Workshop, NeurIPS 2020</li>
+        	<li>Faculty mentor, <a href="https://www.cs.utexas.edu/~gwc/">UT Graduate Women and Gender Minorities in Computing</a></li>
+        	<li>Co-organizer, <a href="https://risingstars.utexas.edu/">Rising stars in EECS 2022</a> </li>
+     	</ul>
+     <h3 id="publications">Publications</h3>
+       <p class="small">* refers to equal contribution.</p>
+	    <ul class="pub-list">
+	    	<li><span class='pub-header'>Preprint</span></li>
+            <li><a class="pub-title" href="https://arxiv.org/pdf/2305.14824.pdf">Mitigating Temporal Misalignment by Discarding Outdated Facts</a>, ArXiv 2023<br>
+		    <span class="pub-authors">Michael J.Q. Zhang, <strong>Eunsol Choi</strong></span>
+            </li>
+	        <li><a class="pub-title" href="https://arxiv.org/pdf/2305.11859.pdf">Complex Claim Verification with Evidence Retrieved in the Wild</a>, ArXiv 2023<br>
+            <span class="pub-authors">Jifan Chen, Grace Kim, Aniruddh Sriram, Greg Durrett, <strong>Eunsol Choi</strong></span></li>
+            <li><a class="pub-title" href="https://arxiv.org/pdf/2305.12473.pdf">Continually Improving Extractive QA via Human Feedback</a>, ArXiv 2023<br>
+		    <span class="pub-authors">Ge Gao<sup>*</sup>, Hung-ting Chen<sup>*</sup>, Yoav Artzi, <strong>Eunsol Choi</strong></span></li>
+		    <li><a class="pub-title" href="https://arxiv.org/pdf/2305.15405.pdf">Unit-based Speech-to-Speech Translation Without Parallel Data</a>, ArXiv, 2023<br>
+		    <span class="pub-authors">Anuj Diwan, Anirudh Srinivasan, David Harwath, <strong>Eunsol Choi</strong></p></li>
+		    <li><a class="pub-title" href="https://arxiv.org/abs/2306.09306">Propagating Knowledge Updates to LMs Through Distillation</a>, ArXiv, 2023<br>
+		    <span class="pub-authors">Shankar Padmanabhan, Yasumasa Onoe, Michael J.Q. Zhang, Greg Durrett, <strong>Eunsol Choi</strong></p></li>
+			<li><span class='pub-header'>Peer-reviewed</span></li>
+			<li><a class="pub-title" href="https://arxiv.org/abs/2305.01651">Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge</a>, ACL 2023<br>
+		    <span class="pub-authors">Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, <strong>Eunsol Choi</strong></span><br><a class="pub-extras" href="">[poster]</a></li>
+			<li><a class="pub-title"  href="https://arxiv.org/abs/2306.08667">When to Use Efficient Self Attention? Profiling Text, Speech and Image Transformer Variants</a>, ACL 2023, short<br>
+		    <span class="pub-authors">Anuj Diwan, <strong>Eunsol Choi</strong>, David Harwath</span><br>
+		    <a class="pub-extras" href="./files/dch_acl23_poster.pdf">[poster]</a>
+			</li>
+		    <li><a class="pub-title" href="https://arxiv.org/abs/2305.18201">A Critical Evaluation of Evaluations for Long-form Question Answering</a>, ACL 2023<br>
+			<span class="pub-authors">Fangyuan Xu<sup>*</sup>, Yixiao Song<sup>*</sup>, Mohit Iyyer, <strong>Eunsol Choi</strong></span><br>
+		    <a class="pub-extras" href="./files/xcic_acl23_poster.pdf">[data]</a>, <a class="pub-extras" href="./files/xcic_acl23_talk.pdf">[talk]</a>
+			</li>
+			<li>
+			<a href="https://arxiv.org/abs/2305.19271">Concise Answers to Complex Questions: Summarization of Long-form Answers</a>, ACL 2023<br>
+			<span class="pub-authors">Abhilash Potluri<sup>*</sup>,Fangyuan Xu<sup>*</sup>, <strong>Eunsol Choi</strong></span><br>
+		        <a class="pub-extras" href="./files/pxc_acl23_poster.pdf">[poster]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://aclanthology.org/2023.findings-acl.183.pdf">Quantifying Train-Evaluation Overlap with Nearest Neighbors</a>, ACL 2023 Findings<br>
+				<span class="pub-authors">Gauri Kambhatla, Thuy Nguyen, <strong>Eunsol Choi</strong></span>	
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2303.00242">DIFFQG: Generating Questions to Summarize Factual Changes</a>, EACL 2023<br>
+				<span class="pub-authors">Jeremy R. Cole, Palak Jain, Julian Martin Eisenschlos, Michael J.Q. Zhang, <strong>Eunsol Choi</strong>, Bhuwan Dhingra</span>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2212.01393">Continual Learning for On-Device Speech Recognition using Disentangled Conformers</a>, ICASSP 2023<br>
+				<span class="pub-authors">Anuj Diwan, Ching-Feng Yeh, Wei-Ning Hsu, Paden Tomasello, <strong>Eunsol Choi</strong>, David Harwath, Abdelrahman Mohamed</span><br>
+		                <a class="pub-extras" href="./files/d_icassp_poster.pdf">[poster]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/pdf/2212.11455.pdf">Understanding Postpartum Parents' Experiences via Two Digital Platforms</a>, CSCW 2023 April Issue<br>
+				<span class="pub-authors">Xuewen Yao, Miriam Mikhelson, Megan Micheletti, <strong>Eunsol Choi</strong>, S Craig Watkins, Edison Thomaz, Kaya De Barbaro</span>
+			</li>
+			<li>
+				<a class="pub-title" class="pub-title" href="https://arxiv.org/pdf/2205.06938.pdf">Generating Literal and Implied Subquestions to Fact-check Complex Claims</a>, EMNLP 2022 long<br>
+				<span class="pub-authors">Jifan Chen, Aniruddh Sriram, <strong>Eunsol Choi</strong>, Greg Durrett</span><br>
+				<a class="pub-extras" href="https://jifan-chen.github.io/ClaimDecomp/">[project website]</a>, <a class="pub-extras" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/emnlp22_csed_poster.pdf">[poster]</a>
+			</li>
+			<li>
+				<a class="pub-title" class="pub-title" href="https://arxiv.org/pdf/2210.13701.pdf">Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence</a>, EMNLP 2022 long<br>
+                <span class="pub-authors">Hung-ting Chen, Michael J.Q. Zhang, <strong>Eunsol Choi</strong><br>
+				<a class="pub-extras" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/emnlp22_czc_talk.pdf">[slides]</a>
+			</li>
+			<li>
+				 <a class="pub-title" href="https://arxiv.org/pdf/2211.00768.pdf">Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality</a>, EMNLP 2022 long<br>
+                <span class="pub-authors">Anuj Diwan<sup>*</sup>, Layne Berry<sup>*</sup>, <strong>Eunsol Choi</strong>, David Harwath, Kyle Mahowald</span><br>
+                <a class="pub-extras" href="https://github.com/ajd12342/why-winoground-hard">[code]</a>,<a class="pub-extras" href="https://docs.google.com/presentation/d/1LbAaIDQnpxhfet5F79bW-r8eEXg3S9ZKah9g4vlimgM/edit">[slides]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/pdf/2211.15649.pdf">Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources</a>, Findings of EMNLP 2022 long<br>
+				<span class"pub-authors">Xinyan Velocity Yu<sup>*</sup>, Akari Asai<sup>*</sup>, Trina Chatterjee, Junjie Hu, <strong>Eunsol Choi</strong></span><br>
+                <a class="code" href="https://multilingual-dataset-survey.github.io/">[website]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/pdf/2211.16496v1.pdf">TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages</a>, Findings of EMNLP 2022 long<br>
+                <span class"pub-authors">Anirudh Srinivasan, <strong>Eunsol Choi</strong></span><br>
+				<a class="pub-extras" href="https://github.com/Genius1237/TyDiP">[code/data]</a>,<a class="pub-extras" href="https://docs.google.com/presentation/d/14VmJ0_orDRKA5V1iCY-FzjJYYWLSFa2PIwFM2B9KLYU/edit?usp=sharing">[poster]</a>
+			</li>
+			<li>
+				<a href="https://storage.googleapis.com/eunsol_research_dataset/ecbd.pdf">Entity Cloze By Date: What LMs Know About Unseen Entities</a>, Findings of NAACL 2022 short<br>
+				<span class"pub-authors">Yasumasa Onoe, Michael J.Q. Zhang, <strong>Eunsol Choi</strong>, Greg Durrett</span><br>
+				<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/ecbd_poster.pdf">[poster]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2205.09278">Modeling Exemplification in Long-form Question Answering via Retrieval</a>, NAACL 2022 long<br>
+				<span class"pub-authors">Shufan Wang, Fangyuan Xu, Laure Thompson, <strong>Eunsol Choi</strong>, Mohit Iyyer</span><br>
+				<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/naacl22_example.pdf">[slides]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2203.11048">How do we answer complex questions: Discourse structure of long form answers</a>, ACL 2022 long<br>
+				<span class"pub-authors">Fangyuan Xu, Junyi Jessy Li, <strong>Eunsol Choi</strong></span><br>
+				<a class="code" href="https://github.com/utcsnlp/lfqa_discourse">[code]</a>,<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/acl22_lfqa_poster.pdf">[poster]</a>,<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/acl22_lfqa_talk.pdf">[slides]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2203.10079">Simulating Bandit Learning from User Feedback for Extractive Question Answering</a>, ACL 2022 long<br>
+				<span class"pub-authors">Ge Gao, <strong>Eunsol Choi</strong>, Yoav Artzi</span><br>
+				<a class="code" href="https://github.com/lil-lab/bandit-qa">[code]</a>, <a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/acl22_bandit_poster.pdf">[poster]</a>,<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/acl22_bandit_talk.pdf">[slides]</a>
+			</li>
+			<li>
+				<a class="pub-title" href="https://arxiv.org/abs/2104.08790">Misinfo Reaction Frames: Reasoning about Readers' Reactions to News Headlines</a>, ACL 2022 long<br>
+				<span class"pub-authors">Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, <strong>Eunsol Choi</strong>, Yejin Choi</span><br>
+				<a class="code" href="https://github.com/skgabriel/mrf-modeling">[website]</a>,<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/acl22_misinfo_poster.pdf">[poster]</a>
+			</li>
+			<li>
+			 	<a class="pub-title" href="https://arxiv.org/abs/2109.01653">CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge</a>, NeurIPS 2021 Benchmark and Datasets<br>
+           		<span class"pub-authors">Yasumasa Onoe, Michael J.Q. Zhang, <strong>Eunsol Choi</strong>, Greg Durrett</span><br>
+	   			<a class="code" href="https://www.cs.utexas.edu/~yasumasa/creak/">[webiste]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2109.06157">SituatedQA: Incorporating Extra-Linguistic Contexts into QA</a>, EMNLP 2021 long, <strong>🏆 Outstanding Paper Award</strong><br>
+           		<span class"pub-authors">Michael J.Q. Zhang, <strong>Eunsol Choi</strong></span><br>
+	   			<a class="code" href="https://situatedqa.github.io/">[website]</a>, <a class="code" href="https://www.cs.utexas.edu/~mjqzhang//assets/emnlp2021_slides.pdf">[slides]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2109.04408">Learning with Different Amount of Annotation: From Zero to Many Labels</a>, EMNLP 2021 long<br>
+           		<span class"pub-authors">Shujian Zhang, Chenyue Gong, <strong>Eunsol Choi</strong></span><br>
+	   			<a class="code" href="https://github.com/szhang42/Uneven_training_data">[code]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2104.08731">Can NLI Models Verify QA Systems' Predictions?</a>, Findings of EMNLP 2021 long<br>
+           		<span class"pub-authors">Jifan Chen, <strong>Eunsol Choi</strong>, Greg Durrett</span><br>
+	   			<a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/presentations/emnlp21_qanli.pdf">[slides]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/2010.11915.pdf">Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval</a>, ACL 2021 long<br>
+		   		<span class"pub-authors"><a href="https://akariasai.github.io/">Akari Asai</a>, <strong>Eunsol Choi</strong></span><br>
+	   			<a class="code" href="https://github.com/AkariAsai/unanswerable_qa">[code]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/2106.01494.pdf">Knowing More About Questions Can Help: Improving Calibration in Question Answering</a>, Findings of ACL 2021 long<br>
+           		<span class"pub-authors">Shujian Zhang, Chenyue Gong, <strong>Eunsol Choi</strong></span><br>
+	   			<a class="code" href="https://github.com/szhang42/Calibration_qa">code</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2101.00133">NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned</a>, PMLR 2021<br>
+	   			<span class"pub-authors"> Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, <strong>Eunsol Choi</strong>, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, and more (EfficientQA participants)</span><br>
+	   			<a class="code" href="https://efficientqa.github.io/">[website]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2009.06354">QED: A Framework and Dataset for Explanations in Question Answering</a>, TACL 2021<br>
+            	<span class"pub-authors"> Matthew Lamm, Jennimaria Palomaki, Chris Alberti, Daniel Andor, <strong>Eunsol Choi</strong>, Livio Baldini Soares, Michael Collins</span><br>
+            	<a class="code" href="https://github.com/google-research-datasets/QED">[code]</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href='https://arxiv.org/abs/2010.11856'>XOR QA: Cross-lingual Open-Retrieval Question Answering</a>, NAACL 2021 long<br>
+				<span class"pub-authors">Akari Asai, Jungo Kasai, Jonathan H. Clark, Kenton Lee, <strong>Eunsol Choi</strong>, Hannaneh Hajishirzi</span><br>
+				<a class="code" href="https://nlp.cs.washington.edu/xorqa/">Project Page [Code / Data / Leaderboard / Poster]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/abs/2102.05169">Decontextualization: Making Sentences Stand-Alone</a>, TACL 2021<br>
+				<span class"pub-authors"><strong>Eunsol Choi</strong>, Jennimaria Palomaki, Matthew Lamm, Tom Kwiatkowski, Dipanjan Das, Michael Collins</span></br>
+				<a class="code" href="https://github.com/google-research/language/tree/master/language/decontext">[code/data]</a>, <a class="code" href='https://www.cs.utexas.edu/~eunsol/files/decontext_poster.pdf'>[poster]</a>
+	   		</li>
+        		<a class="pub-title" href="https://arxiv.org/abs/2004.07202">Entities as Experts: Sparse Memory Access with Entity Supervision</a>, EMNLP 2020<br>
+            	<span class"pub-authors">Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, <strong>Eunsol Choi</strong>, Tom Kwiatkowski</span></span>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/2003.05002.pdf">TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages</a>, TACL 2020<br>
+            	<span class"pub-authors"> Jonathan H. Clark, <strong>Eunsol Choi</strong>, Michael Collins, Dan Garrette, Tom Kwiatkowski, Vitaly Nikolaev, Jennimaria Palomaki</span><br>
+            	<a class="code" href="https://ai.google.com/research/tydiqa">[Leaderboard / Website]</a> <a class="code" href="https://github.com/google-research-datasets/tydiqa">[Code / Data Repo]</a>
+	   		</li>
+	   		<li>
+        		<a class="pub-title" href="https://arxiv.org/pdf/1910.09753.pdf">MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension</a>, EMNLP 2019 workshop proceedings<br>
+            	<span class"pub-authors">Adam Fisch, Alon Talmor, Robin Jia, Minjoon Seo, <strong>Eunsol Choi</strong>, and Danqi Chen</span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/1810.08854.pdf">Pair2Vec: Compositional Word-Pair Embeddings for Cross-Sentence Inference</a>, NAACL 2019 long<br>
+           		<span class"pub-authors"><a class="ppl" href="https://homes.cs.washington.edu/~mandar90/">Mandar Joshi</a>, <strong>Eunsol Choi</strong>, <a class="ppl" href="https://levyomer.wordpress.com/">Omer Levy</a>, Dan Weld and <a class="ppl" href="https://homes.cs.washington.edu/~lsz/">Luke Zettlemoyer</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/1904.08950.pdf">No Permanent Friends or Enemies: Tracking Dynamic Relationships Between Nations from News</a>, NAACL 2019 Long<br>
+            	<span class"pub-authors">Xiaochuang Han, <strong>Eunsol Choi</strong>, and <a class="ppl" href="https://chenhaot.com/">Chenhao Tan</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/1810.06683.pdf">FlowQA: Grasping Flow in History For Conversational Machine Comprehension</a>, ICLR 2019, poster <br>
+            	<span class"pub-authors"><a class="ppl" href="https://momohuang.github.io/">Hsin-Yuan Huang</a>, <strong>Eunsol Choi</strong> and <a class="ppl" href="http://scottyih.org/">Wen-tau Yih</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/1808.09653.pdf">Neural Metaphor Detection in Context</a><span class="venue"> EMNLP 18 short</span><br>
+            	<span class"pub-authors">Ge Gao, <strong>Eunsol Choi</strong>, <a class="ppl" href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a> and <a class="ppl" href="https://homes.cs.washington.edu/~lsz/">Luke Zettlemoyer</a><br>
+            	<a class="code" href="../files/papers/emnlp2018slides.pdf">[Slides]</a><a class="code" href="https://github.com/gao-g/metaphor-in-context">[Code]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://arxiv.org/pdf/1808.07036.pdf">QuAC : Question Answering in Context</a> <span class="venue">EMNLP 18 long</span><br>
+            	<span class"pub-authors"><strong>Eunsol Choi</strong><sup>*</sup>, <a class="ppl" href="https://hhexiy.github.io/">He He</a><sup>*</sup>, <a class="ppl" href="https://people.cs.umass.edu/~miyyer/">Mohit Iyyer</a><sup>*</sup>, <a class="ppl" href="http://markyatskar.com/">Mark Yatskar</a><sup>*</sup>, <a class="ppl" href="http://scottyih.org/">Wen-tau Yih</a>, <a class="ppl" href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>, <a class="ppl" href="https://cs.stanford.edu/~pliang/">Percy Liang</a> and <a class="ppl" href="https://homes.cs.washington.edu/~lsz/">Luke Zettlemoyer</a></span><br>
+            	<a class="code" href="http://quac.ai">Project Page [Code / Data / Leaderboard / Poster]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/~eunsol/files/papers/acl_18.pdf">Ultra-Fine Entity Typing</a> <span class="venue">ACL 18 long</span><br>
+           		<span class"pub-authors"><strong>Eunsol Choi</strong>, <a class="ppl" href="https://levyomer.wordpress.com/">Omer Levy</a>, <a class="ppl" href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a> and <a class="ppl" href="https://homes.cs.washington.edu/~lsz/">Luke Zettlemoyer</a></span><br>
+          		<span class"pub-authors"><a class="code" href="./open_entity.html">Project Page [Code / Data / Slides]</a></span>
+	   		</li>
+	   		<li>
+				<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/factcheck_emnlp17.pdf">Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking</a> <span class="venue">EMNLP 17 short</span><br>
+            	<span class"pub-authors"><a class="ppl" href="http://homes.cs.washington.edu/~hrashkin/">Hannah Rashkin</a>, <strong>Eunsol Choi</strong>, Jin Yea Jang, <a class="ppl" href=https://www.cs.jhu.edu/~svitlana>Svitlana Volkova</a> and Yejin Choi</span><br>
+            	<a class="code" href="https://homes.cs.washington.edu/~hrashkin/factcheck.html">Project Page [Code / Data / Slides]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/conll17lscz.pdf">Zero-Shot Relation Extraction Via Reading Comprehension</a> <span class="venue">CoNLL 17 long</span><br>
+            	<span class"pub-authors">Omer Levy, <a class="ppl" href="https://seominjoon.github.io/">Minjoon Seo</a>, <strong>Eunsol Choi</strong> and Luke Zettlemoyer</span><br>
+            	<a class="code" href="http://nlp.cs.washington.edu/zeroshot">Project Page [Code / Data/ Leaderboard]</a>
+	   		</li>
+	   		<li> 
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/acl17eunsol.pdf">Coarse-to-Fine Question Answering for Long Documents</a> <span class="venue">ACL 17 long</span>
+            	<span class"pub-authors"><strong>Eunsol Choi</strong>, Daniel Hewlett, <a class="ppl" href="http://jakob.uszkoreit.net/">Jakob Uszkoreit</a>, Illia Polosukhin, Alexandre Lacoste and <a class="ppl" href="www.cs.tau.ac.il/~joberant/">Jonathan Berant</a></span><br>
+            	<a class="code" href="http://cs.utexas.edu/%7Eeunsol/files/papers/acl17eunsol_slides.pdf">[Slides]</a>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/acl17jcwz.pdf">TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</a> <span class="venue">ACL 17 long</span><br>
+              <span class"pub-authors"><a class="ppl" href="https://homes.cs.washington.edu/~mandar90/">Mandar Joshi</a>, <strong>Eunsol Choi</strong>, <a class="ppl" href="https://www.cs.washington.edu/people/faculty/weld">Daniel Weld</a> and Luke Zettlemoyer</span><br>
+              <span class"pub-authors"><a class="code" href="http://nlp.cs.washington.edu/triviaqa/index.html">Project Page [Code / Data / Leaderboard]</a></span>
+       
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/acl16_crzc_v2.pdf">Document-level Sentiment Inference with Social, Faction, and Discourse Context</a> <span class="venue">ACL 16 long</span><br>
+              <span class"pub-authors"><strong>Eunsol Choi</strong>, Hannah Rashkin, Yejin Choi and Luke Zettlemoyer</span><br>
+              <a class="code" href="http://cs.utexas.edu/%7Eeunsol/files/acl16_annot.tar.gz">[Data]</a><br>
+              <span class"pub-authors">Errata: In Section 5, the metric should be micro-averaged instead of macro-averaged. In Section 2.2, second equation should be <img src="http://cs.utexas.edu/%7Eeunsol/files/acl16_errata.gif">. The current version here is fixed.</span>
+       
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/lrec16.pdf">Extracting Structured Scholarly Information from Machine Translation Literature</a> <span class="venue">LREC 16 long</span><br>
+              <span class"pub-authors"><strong>Eunsol Choi</strong><sup>*</sup>, Matic Horvat <sup>*</sup>, Jonathan May, Kevin Knight, Daniel Marcu</span><br>
+              <span class"pub-authors"><a class="code" href="http://cs.utexas.edu/%7Eeunsol/files/papers/lrec16_poster.pdf">[Poster]</a><a class="code" href="https://github.com/isi-nlp/mt_lit_lrec16">[Code]</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/acl2015.pdf">Scalable Semantic Parsing With Partial Ontologies</a> <span class="venue">ACL 15 long</span><br>
+              <span class"pub-authors"><strong>Eunsol Choi</strong>, <a class="ppl" href="https://ai.google/research/people/105075">Tom Kwiatkowski</a> and Luke Zettlemoyer</span>
+              <span class"pub-authors"><a class="code" href="http://cs.utexas.edu/%7Eeunsol/files/papers/ckz_acl15_slides.pdf">[Slides]</a><a class="code" href="https://storage.googleapis.com/eunsol_research_dataset/acl15_ckz_data.tar.gz">[Data (414MB)]</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="http://cs.utexas.edu/%7Eeunsol/files/papers/emnlp2013.pdf">Scaling Semantic Parsers with On-the-Fly Ontology Matching</a> <span class="venue">EMNLP 13 long</span><br>
+              	<span class"pub-authors"><a class="ppl" href="https://ai.google/research/people/105075/">Tom Kwiatkowski</a>, <strong>Eunsol Choi</strong>, <a class="ppl" href="https://yoavartzi.com/">Yoav Artzi</a> and Luke Zettlemoyer</span><br>
+              	<span class"pub-authors"><a class="code" href="http://cs.utexas.edu/%7Eeunsol/files/papers/emnlp2013slides.pdf">[Slides]</a></span>
+	   		</li>
+	   		<li>
+	   			<a class="pub-title" href="https://cs.utexas.edu/~eunsol/files/papers/exprom2012.pdf">Hedge detection as a lens on framing in the GMO debates: A position paper</a> <span class="venue">ACL 12 workshop</span><br>
+              <span class"pub-authors"><strong>Eunsol Choi</strong>, <a class="ppl" href="https://chenhaot.com/">Chenhao Tan</a>, Lillian Lee, Cristian Danescu-Niculescu-Mizil, Jennifer Spindel</span><br>
+              <span class"pub-authors"><a class="code" href="https://confluence.cornell.edu/display/llresearch/HedgingFramingGMOs">Project Page [Data / Slides]</a></span>
+	   		</li>
+	        </ul>
+      </section>
+  <h3 id="personal">Personal</h3>
+  <audio id="korean" src="./files/pronun_korean.mp3"></audio>
+  <audio id="english" src="./files/pronun_english.mp3"></audio>
+My name (은솔) means soft, persistent love in ancient Korean (or at least my father claims so). I use she/her pronoun. Here is my voice clips to help you pronounce my names: Korean version: <a href="#" onclick="play('korean');">[<i class="fa fa-fw fa-play"></i>]</a> Easier version: <a href="#" onclick="play('english');">[<i class="fa fa-fw fa-play"></i>]</a><br>
+  I am fortunate to embark my NLP journey at Cornell as an undergraduate with <a href="http://www.cs.cornell.edu/home/llee/">Lillian Lee</a>.<br>
+  </div>
+</div>
+<script src="./js/scale.fix.js"></script>
+</body>
+</html>
