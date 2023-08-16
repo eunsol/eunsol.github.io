@@ -1,5 +1,5 @@
 body { font-size: 17px; line-height: 1.35; color: #333333; text-rendering: optimizeLegibility; }
-html, button, select, textarea { font-family: "Alegreya", "Noto Sans Korean", Helvetica, Arial, sans-serif; font-weight: 400; }
+html, button, select, textarea { font-family: "Carlito", "Noto Sans Korean", Helvetica, Arial, sans-serif; font-weight: 400; }
 ul {
     padding: 0;
     list-style-type: none;
@@ -16,17 +16,16 @@ h3 {font-size: 110%}
 h4 {font-size: 106%}
 li {font-size: 90%}
 p.small {font-size:90%}
+
+
 /* Header */
 #header-container { padding: 1em 1em 0 1em; }
-
 @supports (padding: max(0px)) { #header-container { padding-left: max(1em, env(safe-area-inset-left)); padding-right: max(1em, env(safe-area-inset-right)); padding-top: max(1em, env(safe-area-inset-bottom)); } }
-
 #header { max-width: 50em; margin-left: auto; margin-right: auto; display: flex; align-items: center; flex-wrap: wrap-reverse; border-bottom: 1px }
 #header a { text-decoration: none; }
-#header .header-link { display: inline-block;font-family: 'Alegreya', san-serif; }
+#header .header-link { display: inline-block;font-family:  }
 #header .header-link-pad { margin-right: 1em; }
-#header h1 { font-size: 150%; line-height: 1.0; margin: 1em 0 0.3em 0;    font-family: 'Alegreya', san-serif; }
-#header h5 {  font-family: 'Alegreya', san-serif;}
+#header h1 { font-size: 150%; line-height: 1.0; margin: 1em 0 0.3em 0;    }
 #header-img { display: inline-block; padding: 0; vertical-align: top; margin-right: 1em; }
 #header-img img { max-height: 9em; height: auto; display: block; }
 #header-content { display: inline-block; vertical-align: top; padding-bottom: 1em; }
@@ -68,4 +67,6 @@ ul.pub-links li { padding: 0; margin: 0; list-style: none; display: inline; }
 ul.pub-links li:after { content: ", "; }
 ul.pub-links li:last-child:after { content: ""; }
 
-footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
+footer { width: 100%; float: left;  
+       bottom: 0;
+       height: 60px;}
