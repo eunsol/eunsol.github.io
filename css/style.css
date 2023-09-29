@@ -34,7 +34,7 @@ p.small {font-size:90%}
 
 #content { padding: 1em; max-width: 50em; margin-left: auto; margin-right: auto; }
 #content a { text-decoration: none; }
-
+#content-scroll {padding: 0em; max-width: 50em; margin-left: auto; margin-right: auto; overflow-y:scroll; max-height:140px; height:140px}
 /* Members */
 ul.member-list { columns:2; column-rule: dotted 1px #333;
   -webkit-columns: 2;
@@ -44,6 +44,9 @@ ul.member-list span.member-meta { font-size: 80%; color: #858585; }
 ul.member-list span.member-meta:before { content:" "; }
 ul.member-list span.member-header { font-weight: 600; text-decoration: underline; }
 
+ul.interest-list {margin: 1em 0em 1em 1em; padding: 0; vertical-align: top;
+                  list-style-type: square;}
+ul.interest-list li {font-size: 90% }
 /* Teaching */
 ul.teaching-list {margin: 0; padding: 0; vertical-align: top; }
 
