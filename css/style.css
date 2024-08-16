@@ -10,8 +10,14 @@ ul {
 h5{
   font-size: 105%;
 }
-h4, h5, h6 {
+h6{
+  font-size: 97%;
+}
+h4, h5 {
   margin: 0px 0px 5px 0px;
+}
+h6 {
+  margin: 0px 0px 0px 0px;
 }
 h3 {border-bottom: 1px solid #333333; margin: 10px 0px 10px 0px;}
 h3 {font-size: 110%}
@@ -25,12 +31,12 @@ p.small {font-size:90%}
 @supports (padding: max(0px)) { #header-container { padding-left: max(1em, env(safe-area-inset-left)); padding-right: max(1em, env(safe-area-inset-right)); padding-top: max(1em, env(safe-area-inset-bottom)); } }
 #header { max-width: 50em; margin-left: auto; margin-right: auto; display: flex; align-items: center; flex-wrap: wrap-reverse; border-bottom: 1px }
 #header a { text-decoration: none; }
-#header .header-link { display: inline-block;font-family:  }
+#header .header-link { display: inline-block; font-size:95% }
 #header .header-link-pad { margin-right: 1em; }
 #header h1 { font-size: 150%; line-height: 1.0; margin: 1em 0 0.3em 0; }
 #header-img { display: inline-block; padding: 0; vertical-align: top; margin-right: 1em; overflow:hidden; width:165px}
 #header-img img { max-height: 9em; height: auto; display: block; left:-23%; position:relative}
-#header-content { display: inline-block; vertical-align: top; padding-bottom: 1em; }
+#header-content { display: table-cell; vertical-align: bottom; padding-bottom: 0em; }
 .header-block { display: inline-block; margin-right: 1em; vertical-align: bottom; }
 
 

@@ -1,0 +1,178 @@
+    CodeUpdateArena: Benchmarking Knowledge Editing on API Updates, ArXiv 2024
+    Zeyu Leo Liu, Shrey Pandit, Xi Ye, Eunsol Choi, Greg Durrett
+    From Distributional to Overton Pluralism: Investigating Large Language Model Alignment, ArXiv 2024
+    Thom Lake, Eunsol Choi, Greg Durrett
+    Exploring Design Choices for Building Language-Specific LLMs, ArXiv 2024
+    Atula Tejaswi*, Nilesh Gupta*, Eunsol Choi
+    CaLMQA: Exploring culturally specific long-form question answering across 23 languages, ArXiv 2024
+    Shane Arora*, Marzena Karpinska*, Hung-Ting Chen, Ipsita Bhattacharjee, Mohit Iyyer*, Eunsol Choi*
+    SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors, ArXiv 2024
+    Vijay Lingam, Atula Tejaswi, Aditya Vavre, Aneesh Shetty, Gautham Krishna Gudur, Joydeep Ghosh, Alex Dimakis, Eunsol Choi, Aleksandar Bojchevski, Sujay Sanghavi
+    Clarify When Necessary: Resolving Ambiguity Through Interaction with LMs, ArXiv 2023
+    Michael J.Q. Zhang, Eunsol Choi
+    Unit-based Speech-to-Speech Translation Without Parallel Data, ArXiv, 2023
+    Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi
+    Understanding Retrieval Augmentation for Long form Question Answering, COLM 2024
+    Hung-Ting Chen, Fangyuan Xu*, Shane Arora*, Eunsol Choi
+    AmbigDocs: Reasoning across Documents on Different Entities under the Same Name, COLM 2024
+    Yoonsang Lee, Xi Ye, Eunsol Choi
+    [project website]
+    Long-form Answers to Visual Questions from Blind and Low Vision People, COLM 2024
+    Mina Huh, Fangyuan Xu, Yi-Hao Peng, Chongyan Chen, Hansika Murugu, Danna Gurari, Eunsol Choi, Amy Pavel
+    KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions, ACL 2024 Findings
+    Fangyuan Xu, Kyle Lo, Luca Soldaini, Bailey Kuehl, Eunsol Choi, David Wadden
+    BAT: Learning to Reason about Spatial Sounds with Large Language Models, ICML 2024
+    Zhisheng Zheng, Puyuan Peng, Ziyang Ma, Xie Chen, Eunsol Choi, David Harwath
+    [project website]
+    Complex Claim Verification with Evidence Retrieved in the Wild, NAACL 2024
+    Jifan Chen, Grace Kim, Aniruddh Sriram, Greg Durrett, Eunsol Choi
+    Crafting In-context Examples according to LMs' Parametric Knowledge, NAACL 2024 Findings
+    Yoonsang Lee*, Pranav Atreya*, Xi Ye, Eunsol Choi
+    [poster]
+    RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation, ICLR 2024
+    Fangyuan Xu, Weijia Shi, Eunsol Choi
+    [poster]
+    Learning to Reject with a Fixed Predictor: Application to Decontextualization, ICLR 2024
+    Christopher Mohri, Daniel Andor, Eunsol Choi, Michael Collins, Anqi Mao, Yutao Zhong
+    Aligning Data with the Goals of an Organization and Its Workers: Designing Data Labeling for Social Service Case Notes, CHI 2024
+    Apoorva Gondimalla, Varshinee Sreekanth, Govind Joshi, Whitney Nelson, Eunsol Choi, Stephen Slota, Sherri Greenberg, Kenneth Fleischmann, and Min Kyung Lee
+    Mitigating Temporal Misalignment by Discarding Outdated Facts, EMNLP 2023
+    Michael J.Q. Zhang, Eunsol Choi
+    [poster]
+    Continually Improving Extractive QA via Human Feedback, EMNLP 2023
+    Ge Gao*, Hung-Ting Chen*, Yoav Artzi, Eunsol Choi
+    [poster]
+    Propagating Knowledge Updates to LMs Through Distillation, NeurIPS 2023
+    Shankar Padmanabhan, Yasumasa Onoe, Michael J.Q. Zhang, Greg Durrett, Eunsol Choi
+    [poster]
+    Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge, ACL 2023
+    Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi
+    [poster]
+    When to Use Efficient Self Attention? Profiling Text, Speech and Image Transformer Variants, ACL 2023, short
+    Anuj Diwan, Eunsol Choi, David Harwath
+    [poster]
+    A Critical Evaluation of Evaluations for Long-form Question Answering, ACL 2023
+    Fangyuan Xu*, Yixiao Song*, Mohit Iyyer, Eunsol Choi
+    [data/code], [talk]
+    Concise Answers to Complex Questions: Summarization of Long-form Answers, ACL 2023
+    Abhilash Potluri*,Fangyuan Xu*, Eunsol Choi
+    [poster]
+    Quantifying Train-Evaluation Overlap with Nearest Neighbors, ACL 2023 Findings
+    Gauri Kambhatla, Thuy Nguyen, Eunsol Choi	
+    DIFFQG: Generating Questions to Summarize Factual Changes, EACL 2023
+    Jeremy R. Cole, Palak Jain, Julian Martin Eisenschlos, Michael J.Q. Zhang, Eunsol Choi, Bhuwan Dhingra
+    Continual Learning for On-Device Speech Recognition using Disentangled Conformers, ICASSP 2023
+    Anuj Diwan, Ching-Feng Yeh, Wei-Ning Hsu, Paden Tomasello, Eunsol Choi, David Harwath, Abdelrahman Mohamed
+    [poster]
+    Understanding Postpartum Parents' Experiences via Two Digital Platforms, CSCW 2023 April Issue
+    Xuewen Yao, Miriam Mikhelson, Megan Micheletti, Eunsol Choi, S Craig Watkins, Edison Thomaz, Kaya De Barbaro
+    Generating Literal and Implied Subquestions to Fact-check Complex Claims, EMNLP 2022 long
+    Jifan Chen, Aniruddh Sriram, Eunsol Choi, Greg Durrett
+    [project website], [poster]
+    Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, EMNLP 2022 long
+    Hung-ting Chen, Michael J.Q. Zhang, Eunsol Choi
+    [slides]
+    Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality, EMNLP 2022 long
+    Anuj Diwan*, Layne Berry*, Eunsol Choi, David Harwath, Kyle Mahowald
+    [code],[slides]
+    Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources, Findings of EMNLP 2022 long
+    Xinyan Velocity Yu*, Akari Asai*, Trina Chatterjee, Junjie Hu, Eunsol Choi
+    [website]
+    TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages, Findings of EMNLP 2022 long
+    Anirudh Srinivasan, Eunsol Choi
+    [code/data],[poster]
+    Entity Cloze By Date: What LMs Know About Unseen Entities, Findings of NAACL 2022 short
+    Yasumasa Onoe, Michael J.Q. Zhang, Eunsol Choi, Greg Durrett
+    [poster]
+    Modeling Exemplification in Long-form Question Answering via Retrieval, NAACL 2022 long
+    Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, Mohit Iyyer
+    [slides]
+    How do we answer complex questions: Discourse structure of long form answers, ACL 2022 long
+    Fangyuan Xu, Junyi Jessy Li, Eunsol Choi
+    [code],[poster],[slides]
+    Simulating Bandit Learning from User Feedback for Extractive Question Answering, ACL 2022 long
+    Ge Gao, Eunsol Choi, Yoav Artzi
+    [code], [poster],[slides]
+    Misinfo Reaction Frames: Reasoning about Readers' Reactions to News Headlines, ACL 2022 long
+    Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi
+    [website],[poster]
+    CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge, NeurIPS 2021 Benchmark and Datasets
+    Yasumasa Onoe, Michael J.Q. Zhang, Eunsol Choi, Greg Durrett
+    [webiste]
+    SituatedQA: Incorporating Extra-Linguistic Contexts into QA, EMNLP 2021 long, 🏆 Outstanding Paper Award
+    Michael J.Q. Zhang, Eunsol Choi
+    [website], [slides]
+    Learning with Different Amount of Annotation: From Zero to Many Labels, EMNLP 2021 long
+    Shujian Zhang, Chenyue Gong, Eunsol Choi
+    [code]
+    Can NLI Models Verify QA Systems' Predictions?, Findings of EMNLP 2021 long
+    Jifan Chen, Eunsol Choi, Greg Durrett
+    [slides]
+    Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval, ACL 2021 long
+    Akari Asai, Eunsol Choi
+    [code]
+    Knowing More About Questions Can Help: Improving Calibration in Question Answering, Findings of ACL 2021 long
+    Shujian Zhang, Chenyue Gong, Eunsol Choi
+    [code]
+    NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned, PMLR 2021
+    Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, and more (EfficientQA participants)
+    [website]
+    QED: A Framework and Dataset for Explanations in Question Answering, TACL 2021
+    Matthew Lamm, Jennimaria Palomaki, Chris Alberti, Daniel Andor, Eunsol Choi, Livio Baldini Soares, Michael Collins
+    [code]
+    XOR QA: Cross-lingual Open-Retrieval Question Answering, NAACL 2021 long
+    Akari Asai, Jungo Kasai, Jonathan H. Clark, Kenton Lee, Eunsol Choi, Hannaneh Hajishirzi
+    Project Page [Code / Data / Leaderboard / Poster]
+    Decontextualization: Making Sentences Stand-Alone, TACL 2021
+    Eunsol Choi, Jennimaria Palomaki, Matthew Lamm, Tom Kwiatkowski, Dipanjan Das, Michael Collins
+    [code/data], [poster]
+    Entities as Experts: Sparse Memory Access with Entity Supervision, EMNLP 2020
+    Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi, Tom Kwiatkowski
+    TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages, TACL 2020
+    Jonathan H. Clark, Eunsol Choi, Michael Collins, Dan Garrette, Tom Kwiatkowski, Vitaly Nikolaev, Jennimaria Palomaki
+    [Leaderboard / Website] [Code / Data Repo]
+    MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension, EMNLP 2019 workshop proceedings
+    Adam Fisch, Alon Talmor, Robin Jia, Minjoon Seo, Eunsol Choi, and Danqi Chen
+    Pair2Vec: Compositional Word-Pair Embeddings for Cross-Sentence Inference, NAACL 2019 long
+    Mandar Joshi, Eunsol Choi, Omer Levy, Dan Weld and Luke Zettlemoyer
+    No Permanent Friends or Enemies: Tracking Dynamic Relationships Between Nations from News, NAACL 2019 Long
+    Xiaochuang Han, Eunsol Choi, and Chenhao Tan
+    FlowQA: Grasping Flow in History For Conversational Machine Comprehension, ICLR 2019, poster
+    Hsin-Yuan Huang, Eunsol Choi and Wen-tau Yih
+    Neural Metaphor Detection in Context EMNLP 18 short
+    Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer
+    [Slides][Code]
+    QuAC : Question Answering in Context EMNLP 18 long
+    Eunsol Choi*, He He*, Mohit Iyyer*, Mark Yatskar*, Wen-tau Yih, Yejin Choi, Percy Liang and Luke Zettlemoyer
+    Project Page [Code / Data / Leaderboard / Poster]
+    Ultra-Fine Entity Typing ACL 18 long
+    Eunsol Choi, Omer Levy, Yejin Choi and Luke Zettlemoyer
+    Project Page [Code / Data / Slides]
+    Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking EMNLP 17 short
+    Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova and Yejin Choi
+    Project Page [Code / Data / Slides]
+    Zero-Shot Relation Extraction Via Reading Comprehension CoNLL 17 long
+    Omer Levy, Minjoon Seo, Eunsol Choi and Luke Zettlemoyer
+    Project Page [Code / Data/ Leaderboard]
+    Coarse-to-Fine Question Answering for Long Documents ACL 17 long
+    Eunsol Choi, Daniel Hewlett, Jakob Uszkoreit, Illia Polosukhin, Alexandre Lacoste and Jonathan Berant
+    [Slides]
+    TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension ACL 17 long
+    Mandar Joshi, Eunsol Choi, Daniel Weld and Luke Zettlemoyer
+    Project Page [Code / Data / Leaderboard]
+    Document-level Sentiment Inference with Social, Faction, and Discourse Context ACL 16 long
+    Eunsol Choi, Hannah Rashkin, Yejin Choi and Luke Zettlemoyer
+    [Data]
+    Errata: In Section 5, the metric should be micro-averaged instead of macro-averaged. In Section 2.2, second equation should be . The current version here is fixed.
+    Extracting Structured Scholarly Information from Machine Translation Literature LREC 16 long
+    Eunsol Choi*, Matic Horvat *, Jonathan May, Kevin Knight, Daniel Marcu
+    [Poster][Code]
+    Scalable Semantic Parsing With Partial Ontologies ACL 15 long
+    Eunsol Choi, Tom Kwiatkowski and Luke Zettlemoyer [Slides][Data (414MB)]
+    Scaling Semantic Parsers with On-the-Fly Ontology Matching EMNLP 13 long
+    Tom Kwiatkowski, Eunsol Choi, Yoav Artzi and Luke Zettlemoyer
+    [Slides]
+    Hedge detection as a lens on framing in the GMO debates: A position paper ACL 12 workshop
+    Eunsol Choi, Chenhao Tan, Lillian Lee, Cristian Danescu-Niculescu-Mizil, Jennifer Spindel
+    Project Page [Data / Slides]
+
