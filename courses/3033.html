@@ -1,0 +1,697 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>CS 3033 Special Topics: Emerging Topics in Natural Language Processing</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-default_background {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+<<<<<<< HEAD
+</style></head><body><article id="9c74663a-bda2-472d-bab6-578c568495e0" class="page sans"><header><img class="page-cover-image" src="https://www.notion.so/images/page-cover/webb1.jpg" style="object-position:center 50%"/><h1 class="page-title">CS 3033 Special Topics: Emerging Topics in Natural Language Processing</h1><p class="page-description"></p></header><div class="page-body"><p id="170cfaf7-6ec2-801d-a755-e694f34a4c2e" class=""><strong>The syllabus is not final and can be changed before the start of the semester in Jan 22 2025. </strong></p><h3 id="165cfaf7-6ec2-8116-ac10-cfd891ef7fc1" class=""><br/>Course Objective:<br/></h3><p id="170cfaf7-6ec2-806c-a6de-dc7272ba255f" class="">We will discuss emerging topics in natural language processing, focusing on understanding the development and usages of large-scale language models. This course is designed for graduate students and highly motivated undergraduates who are interested in NLP research. This course aims to teach and practice: (1) cutting-edge research in natural language processing. (2) how to formulate and evaluate NLP problems and develop solutions for them. (3) how to read and criticize research papers and communicate research both orally and in writing. The course is designed as an interactive seminar course with a semester-long final project element. Ideally, you should be excited about the intricacies of language understanding and willing to independently explore the literature. The course will cover various aspects of language understanding and generation, such as reasoning, knowledge, and uncertainty.</p><h3 id="165cfaf7-6ec2-81ee-9629-cec830b7b7e3" class="">Course Structure: </h3><p id="170cfaf7-6ec2-80d7-b422-c95f3cba6343" class="">The course will have a lecture component and a seminar component. For the lecture component, either the instructor or guest speaker will present a lecture on recent progress in LLM/NLP topics. </p><p id="170cfaf7-6ec2-8036-ab33-c6db81752661" class="">For the seminar component, <em>students</em> will prepare and present recent research papers and will lead discussions on it. For this part, we will follow <a href="https://colinraffel.com/blog/role-playing-seminar.html">role-playing paper reading seminar</a>. Each week, you are expected to read 2-4 papers carefully. </p><p id="165cfaf7-6ec2-81aa-9d7f-d8101da15fa6" class="">Everyone is required to read the assigned papers prior to the class. A subset of the students will be assigned “presentation roles” on a rotating basis for which they will need to come prepared. The presentation roles are designed to expose students to the different aspects of being a researcher. By the end of the course, students should be comfortable reading, reviewing, implementing and extending NLP papers. </p><p id="176cfaf7-6ec2-80d1-ba88-efdc8d60dc3e" class="">Throughout this course, you will get to know your classmates, discuss papers and approaches, and sometimes struggle to understand challenging papers. Ideally, you should be excited about the intricacies of language understanding and willing to independently explore the literature. </p><h3 id="165cfaf7-6ec2-812e-95fa-f6c7d36dbab8" class=""><strong>Prerequisites / Intended audiences:</strong></h3><p id="165cfaf7-6ec2-8116-84cd-dfa9cc1516ed" class="">This is an advanced graduate level course and <strong>assumes</strong> background in machine learning, programming and basic knowledge of natural language processing. The students are expected to have successfully completed a graduate level course in either (1) natural language processing, (2) deep learning or (3) machine learning. The students should be comfortable with basic fundamentals of machine learning, statistics, and deep learning programming.</p><p id="170cfaf7-6ec2-808d-a383-dd59b92d905f" class="">I don’t strictly enforce whether you have taken relevant courses or not, but you should be comfortable with what’s taught in NLP/ML/Deep learning courses. If you are looking for a lecture-based course with a structured, instructor-driven overview of NLP, this is probably not the right course for you. Consider taking <mark class="highlight-blue">DS-GA.1011 Natural Language Processing with Representation Learning</mark> or <mark class="highlight-blue">CSCI-GA.2590 Natural Language Processing</mark>. You should be comfortable digesting a research paper from ML/NLP venues (e.g., (NA)ACL, EMNLP, COLM, ICML, NeurIPS, ICLR..). </p><p id="170cfaf7-6ec2-80c0-a412-e56265d9251f" class="">Note: If you are unclear whether you meet these requirements, please consult the instructor in advance. Auditing is not allowed unless previously discussed with the instructor. </p><h3 id="165cfaf7-6ec2-814b-839e-d812ee37ca82" class=""><strong>Logistics:</strong></h3><ul id="171cfaf7-6ec2-8015-a92f-d1e93a0d17ac" class="bulleted-list"><li style="list-style-type:disc">Course time: Wednesday 2:45-4:45PM, Location: 60 Fifth Ave C15</li></ul><ul id="165cfaf7-6ec2-8161-a098-c9c7b90521fd" class="bulleted-list"><li style="list-style-type:disc">Instructor office hour: Eunsol Choi (eunsol [at] nyu.edu) Tuesdays 3:00-4:00PM (or by appointment) 60 Fifth Ave Room 600<p id="165cfaf7-6ec2-81c1-844f-e4768d7032c8" class="">Grader: Michael J.Q. Zhang (michaelzhang [at] <a href="http://nyu.edu/">nyu.edu</a>) Fridays 2:00-3:00PM (or by appointment) / Location: TBD</p></li></ul><ul id="165cfaf7-6ec2-81a7-98ea-c56e0580c830" class="bulleted-list"><li style="list-style-type:disc"><strong>Required Materials / Equipment: </strong>You will need an access to laptops to make presentations, etc. There is no textbook for this course. Access to GPU resources is not required but will be helpful for the final project. The course staff might be able to provide GPU support through HPC cluster (TBD). </li></ul><hr id="165cfaf7-6ec2-81be-bb7d-e95ccbb15e9d"/><h3 id="165cfaf7-6ec2-8185-833a-cc81a2584670" class="">Grading / Workload</h3><table id="165cfaf7-6ec2-817d-aae9-ccb6b754c902" class="simple-table"><tbody><tr id="165cfaf7-6ec2-813c-9d2a-d4c5f287ccdf"><td id="@a;&lt;" class="" style="width:409.8046875px"></td><td id="Iqa=" class="" style="width:108px">% of grade</td><td id="SSaB" class="">Due Dates</td></tr><tr id="165cfaf7-6ec2-811b-b9f9-c9f79f369d69"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">Class presentation </td><td id="Iqa=" class="block-color-blue_background" style="width:108px">25%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-8109-9174-ce86cadb8a5f"><td id="@a;&lt;" class="" style="width:409.8046875px">- Discussion lead</td><td id="Iqa=" class="" style="width:108px">15%</td><td id="SSaB" class="">throughout the semester</td></tr><tr id="165cfaf7-6ec2-81c2-9d0a-e8c45ea03fe1"><td id="@a;&lt;" class="" style="width:409.8046875px">- Final project presentation</td><td id="Iqa=" class="" style="width:108px">10%</td><td id="SSaB" class="">April 30th</td></tr><tr id="165cfaf7-6ec2-8191-b4d8-e7349a227c7d"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">Class participation</td><td id="Iqa=" class="block-color-blue_background" style="width:108px">25%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-815e-beb2-ca7a4a5bdc25"><td id="@a;&lt;" class="" style="width:409.8046875px">- Provide feedback to classmates intermediate check-ins</td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">March 15th</td></tr><tr id="165cfaf7-6ec2-814e-8c51-c6817a544c77"><td id="@a;&lt;" class="" style="width:409.8046875px">- Participation in-class / attendance / role-playing </td><td id="Iqa=" class="" style="width:108px">20%</td><td id="SSaB" class="">throughout</td></tr><tr id="165cfaf7-6ec2-81d9-aec0-e62bcd56970d"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">In-class quiz</td><td id="Iqa=" class="block-color-blue_background" style="width:108px">10%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-814c-b1a4-e848853a8a55"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px"><strong>Final project </strong></td><td id="Iqa=" class="block-color-blue_background" style="width:108px">40%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-8120-9091-ed120f593ad4"><td id="@a;&lt;" class="" style="width:409.8046875px">- Initial check-in </td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">Feb 21th</td></tr><tr id="165cfaf7-6ec2-8165-8f0a-f1a165796ed1"><td id="@a;&lt;" class="" style="width:409.8046875px">- Intermediate check-in (2-3 pages)</td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">Mar 19th</td></tr><tr id="165cfaf7-6ec2-8178-8e41-f0a16e8f7181"><td id="@a;&lt;" class="" style="width:409.8046875px">- Final write-up (4-6 pages)</td><td id="Iqa=" class="" style="width:108px">30%</td><td id="SSaB" class="">May 3rd</td></tr></tbody></table><p id="165cfaf7-6ec2-81b7-a706-dc6f7f3fdced" class=""><strong>In-class presentation (25% of the total grade)</strong><div class="indented"><ul id="165cfaf7-6ec2-819a-b121-d028352aa7b1" class="bulleted-list"><li style="list-style-type:disc">Once or twice during the semester, you will prepare a presentation and lead a discussion of the paper. The instructor will provide the initial list of papers to be presented at each class slot, but if you would like to discuss a particular paper, you can discuss it with the instructor to present the paper of your choice. <p id="176cfaf7-6ec2-8027-bea9-d33685c1b06c" class="">You will prepare about 30 minutes of material. This does not have to be a lot of slides, but captures the main research question and results of the paper, as well as discussion questions.</p></li></ul><ul id="165cfaf7-6ec2-81ae-85c9-f56ddc82c014" class="bulleted-list"><li style="list-style-type:disc">Discussion Lead (15% of grade) Your presentation will be graded based on: <ul id="165cfaf7-6ec2-81d0-949f-f6086be5bea8" class="bulleted-list"><li style="list-style-type:circle">Clarity / Coherence: Each presentation should aim to be relatively self-contained. </li></ul><ul id="165cfaf7-6ec2-8199-bd9f-f69c30d1a376" class="bulleted-list"><li style="list-style-type:circle">Comprehensiveness: Covers core contributions of the paper clearly, and presents the work in context of existing work. </li></ul><ul id="165cfaf7-6ec2-8144-b91e-eb6e5b462bb4" class="bulleted-list"><li style="list-style-type:circle">I highly encourage making slides on Google Slide (template <a href="https://docs.google.com/presentation/d/1dyR2QNff2CN753GHZTQSlGJWglUUd5iHbGszPIq08D0/edit?usp=sharing">here</a>) as it’s easiest to share. But you can use other applications and send the presentation slides as a PDF. </li></ul></li></ul><ul id="165cfaf7-6ec2-810d-bc6a-f6f25d63ca48" class="bulleted-list"><li style="list-style-type:disc">Final Project Presentation (10% of grade)<ul id="165cfaf7-6ec2-8174-afbf-e97e817e796c" class="bulleted-list"><li style="list-style-type:circle">This will happen in the last week of the class, where you will introduce a short (up to 10 minutes) presentation of your final project</li></ul></li></ul></div></p><p id="165cfaf7-6ec2-81dd-95ee-ef9880fd8319" class=""><strong>Class participation (25% of the total grade)</strong><div class="indented"><ul id="165cfaf7-6ec2-810a-8557-dfb15563cde4" class="bulleted-list"><li style="list-style-type:disc">Provide feedback for classmate’s writing assignments (7% of grade)<ul id="165cfaf7-6ec2-8144-a4d2-fe528d8d53c4" class="bulleted-list"><li style="list-style-type:circle">You will provide a detailed feedback on classmate’s intermediate check-in for the final project. </li></ul><ul id="165cfaf7-6ec2-8189-8198-ff5e55572a22" class="bulleted-list"><li style="list-style-type:circle">You will be given the draft one week before the final deadline (March 12th), and should return the feedback in three days (March 15th), such that they have time to incorporate your feedback. </li></ul></li></ul><ul id="165cfaf7-6ec2-81a0-988e-f7c4d321f3e0" class="bulleted-list"><li style="list-style-type:disc">Participation in class discussion (20% of grade)<ul id="165cfaf7-6ec2-8114-b7ed-f96c33813afe" class="bulleted-list"><li style="list-style-type:circle">For this seminar class, <strong>attendance</strong> is mandatory and sessions will not be recorded. </li></ul><ul id="165cfaf7-6ec2-819b-884b-c9f5685f253f" class="bulleted-list"><li style="list-style-type:circle">You will sign up to help presenter 3-4 times during the semester by selecting one of the <a href="https://colinraffel.com/blog/role-playing-seminar.html">“roles”</a> that presenter selects. <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js" integrity="sha512-7Z9J3l1+EYfeaPKcGXu3MS/7T+w19WtKQY/n+xzmw4hZhJ9tyYmcUS+4QqAlzhicE5LAfMQSF3iFTK9bQdTxXg==" crossorigin="anonymous" referrerPolicy="no-referrer"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ==" crossorigin="anonymous" referrerPolicy="no-referrer"/><pre id="165cfaf7-6ec2-81a2-a881-d358ec54ea1d" class="code"><code class="language-Plain Text" style="white-space:pre-wrap;word-break:break-all">Publicity Chair Your role is to promote this paper to a wider community succintly. Your job is to write a blog article or tweet thread to present the paper. 
+=======
+</style></head><body><article id="9c74663a-bda2-472d-bab6-578c568495e0" class="page sans"><header><img class="page-cover-image" src="https://www.notion.so/images/page-cover/webb1.jpg" style="object-position:center 50%"/><h1 class="page-title">CS 3033 Special Topics: Emerging Topics in Natural Language Processing</h1><p class="page-description"></p></header><div class="page-body"><p id="170cfaf7-6ec2-801d-a755-e694f34a4c2e" class=""><strong>The syllabus is not final and can be changed before the start of the semester in Jan 22 2025. </strong></p><h3 id="165cfaf7-6ec2-8116-ac10-cfd891ef7fc1" class=""><br/>Course Objective:<br/></h3><p id="170cfaf7-6ec2-806c-a6de-dc7272ba255f" class="">We will discuss emerging topics in natural language processing, focusing on understanding the development and usages of large-scale language models. This course is designed for graduate students and highly motivated undergraduates who are interested in NLP research. This course aims to teach and practice: (1) cutting-edge research in natural language processing. (2) how to formulate and evaluate NLP problems and develop solutions for them. (3) how to read and criticize research papers and communicate research both orally and in writing. The course is designed as an interactive seminar course with a semester-long final project element. Ideally, you should be excited about the intricacies of language understanding and willing to independently explore the literature. The course will cover various aspects of language understanding and generation, such as reasoning, knowledge, and uncertainty.</p><h3 id="165cfaf7-6ec2-81ee-9629-cec830b7b7e3" class="">Course Structure: </h3><p id="170cfaf7-6ec2-80d7-b422-c95f3cba6343" class="">The course will have a lecture component and a seminar component. For the lecture component, either the instructor or guest speaker will present a lecture on recent progress in LLM/NLP topics. </p><p id="170cfaf7-6ec2-8036-ab33-c6db81752661" class="">For the seminar component, <em>students</em> will prepare and present recent research papers and will lead discussions on it. For this part, we will follow <a href="https://colinraffel.com/blog/role-playing-seminar.html">role-playing paper reading seminar</a>. Each week, you are expected to read 2-4 papers carefully. </p><p id="165cfaf7-6ec2-81aa-9d7f-d8101da15fa6" class="">Everyone is required to read the assigned papers prior to the class. A subset of the students will be assigned “presentation roles” on a rotating basis for which they will need to come prepared. The presentation roles are designed to expose students to the different aspects of being a researcher. By the end of the course, students should be comfortable reading, reviewing, implementing and extending NLP papers. </p><p id="176cfaf7-6ec2-80d1-ba88-efdc8d60dc3e" class="">Throughout this course, you will get to know your classmates, discuss papers and approaches, and sometimes struggle to understand challenging papers. Ideally, you should be excited about the intricacies of language understanding and willing to independently explore the literature. </p><h3 id="165cfaf7-6ec2-812e-95fa-f6c7d36dbab8" class=""><strong>Prerequisites / Intended audiences:</strong></h3><p id="165cfaf7-6ec2-8116-84cd-dfa9cc1516ed" class="">This is an advanced graduate level course and <strong>assumes</strong> background in machine learning, programming and basic knowledge of natural language processing. The students are expected to have successfully completed a graduate level course in either (1) natural language processing, (2) deep learning or (3) machine learning. The students should be comfortable with basic fundamentals of machine learning, statistics, and deep learning programming.</p><p id="170cfaf7-6ec2-808d-a383-dd59b92d905f" class="">I don’t strictly enforce whether you have taken relevant courses or not, but you should be comfortable with what’s taught in NLP/ML/Deep learning courses. If you are looking for a lecture-based course with a structured, instructor-driven overview of NLP, this is probably not the right course for you. Consider taking <mark class="highlight-blue">DS-GA.1011 Natural Language Processing with Representation Learning</mark> or <mark class="highlight-blue">CSCI-GA.2590 Natural Language Processing</mark>. You should be comfortable digesting a research paper from ML/NLP venues (e.g., (NA)ACL, EMNLP, COLM, ICML, NeurIPS, ICLR..). </p><p id="170cfaf7-6ec2-80c0-a412-e56265d9251f" class="">Note: If you are unclear whether you meet these requirements, please consult the instructor in advance. Auditing is not allowed unless previously discussed with the instructor. </p><h3 id="165cfaf7-6ec2-814b-839e-d812ee37ca82" class=""><strong>Logistics:</strong></h3><ul id="171cfaf7-6ec2-8015-a92f-d1e93a0d17ac" class="bulleted-list"><li style="list-style-type:disc">Course time: Wednesday 2:45-4:45PM, Location: 60 Fifth Ave C15</li></ul><ul id="165cfaf7-6ec2-8161-a098-c9c7b90521fd" class="bulleted-list"><li style="list-style-type:disc">Instructor office hour: Eunsol Choi (eunsol [at] nyu.edu) Tuesdays 3:00-4:00PM (or by appointment) 60 Fifth Ave Room 600<p id="165cfaf7-6ec2-81c1-844f-e4768d7032c8" class="">Grader: Michael J.Q. Zhang (michaelzhang [at] <a href="http://nyu.edu/">nyu.edu</a>) Fridays 2:00-3:00PM (or by appointment) / Location: TBD</p></li></ul><ul id="165cfaf7-6ec2-81a7-98ea-c56e0580c830" class="bulleted-list"><li style="list-style-type:disc"><strong>Required Materials / Equipment: </strong>You will need an access to laptops to make presentations, etc. There is no textbook for this course. Access to GPU resources is not required but will be helpful for the final project. The course staff might be able to provide GPU support through HPC cluster (TBD). </li></ul><hr id="165cfaf7-6ec2-81be-bb7d-e95ccbb15e9d"/><h3 id="165cfaf7-6ec2-8185-833a-cc81a2584670" class="">Grading / Workload</h3><table id="165cfaf7-6ec2-817d-aae9-ccb6b754c902" class="simple-table"><tbody><tr id="165cfaf7-6ec2-813c-9d2a-d4c5f287ccdf"><td id="@a;&lt;" class="" style="width:409.8046875px"></td><td id="Iqa=" class="" style="width:108px">% of grade</td><td id="SSaB" class="">Due Dates</td></tr><tr id="165cfaf7-6ec2-811b-b9f9-c9f79f369d69"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">Class presentation </td><td id="Iqa=" class="block-color-blue_background" style="width:108px">25%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-8109-9174-ce86cadb8a5f"><td id="@a;&lt;" class="" style="width:409.8046875px">- Discussion lead</td><td id="Iqa=" class="" style="width:108px">15%</td><td id="SSaB" class="">throughout the semester</td></tr><tr id="165cfaf7-6ec2-81c2-9d0a-e8c45ea03fe1"><td id="@a;&lt;" class="" style="width:409.8046875px">- Final project presentation</td><td id="Iqa=" class="" style="width:108px">10%</td><td id="SSaB" class="">April 30th</td></tr><tr id="165cfaf7-6ec2-8191-b4d8-e7349a227c7d"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">Class participation</td><td id="Iqa=" class="block-color-blue_background" style="width:108px">25%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-815e-beb2-ca7a4a5bdc25"><td id="@a;&lt;" class="" style="width:409.8046875px">- Provide feedback to classmates intermediate check-ins</td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">March 19th</td></tr><tr id="165cfaf7-6ec2-814e-8c51-c6817a544c77"><td id="@a;&lt;" class="" style="width:409.8046875px">- Participation in-class / attendance / role-playing </td><td id="Iqa=" class="" style="width:108px">20%</td><td id="SSaB" class="">throughout</td></tr><tr id="165cfaf7-6ec2-81d9-aec0-e62bcd56970d"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px">In-class quiz</td><td id="Iqa=" class="block-color-blue_background" style="width:108px">10%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-814c-b1a4-e848853a8a55"><td id="@a;&lt;" class="block-color-blue_background" style="width:409.8046875px"><strong>Final project </strong></td><td id="Iqa=" class="block-color-blue_background" style="width:108px">40%</td><td id="SSaB" class="block-color-blue_background"></td></tr><tr id="165cfaf7-6ec2-8120-9091-ed120f593ad4"><td id="@a;&lt;" class="" style="width:409.8046875px">- Initial check-in </td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">Feb 19th</td></tr><tr id="165cfaf7-6ec2-8165-8f0a-f1a165796ed1"><td id="@a;&lt;" class="" style="width:409.8046875px">- Intermediate check-in (2-3 pages)</td><td id="Iqa=" class="" style="width:108px">5%</td><td id="SSaB" class="">Mar 23th</td></tr><tr id="165cfaf7-6ec2-8178-8e41-f0a16e8f7181"><td id="@a;&lt;" class="" style="width:409.8046875px">- Final write-up (4-6 pages)</td><td id="Iqa=" class="" style="width:108px">30%</td><td id="SSaB" class="">May 3rd</td></tr></tbody></table><p id="165cfaf7-6ec2-81b7-a706-dc6f7f3fdced" class=""><strong>In-class presentation (25% of the total grade)</strong><div class="indented"><ul id="165cfaf7-6ec2-819a-b121-d028352aa7b1" class="bulleted-list"><li style="list-style-type:disc">Once or twice during the semester, you will prepare a presentation and lead a discussion of the paper. The instructor will provide the initial list of papers to be presented at each class slot, but if you would like to discuss a particular paper, you can discuss it with the instructor to present the paper of your choice. <p id="176cfaf7-6ec2-8027-bea9-d33685c1b06c" class="">You will prepare about 30 minutes of material. This does not have to be a lot of slides, but captures the main research question and results of the paper, as well as discussion questions.</p></li></ul><ul id="165cfaf7-6ec2-81ae-85c9-f56ddc82c014" class="bulleted-list"><li style="list-style-type:disc">Discussion Lead (15% of grade) Your presentation will be graded based on: <ul id="165cfaf7-6ec2-81d0-949f-f6086be5bea8" class="bulleted-list"><li style="list-style-type:circle">Clarity / Coherence: Each presentation should aim to be relatively self-contained. </li></ul><ul id="165cfaf7-6ec2-8199-bd9f-f69c30d1a376" class="bulleted-list"><li style="list-style-type:circle">Comprehensiveness: Covers core contributions of the paper clearly, and presents the work in context of existing work. </li></ul><ul id="165cfaf7-6ec2-8144-b91e-eb6e5b462bb4" class="bulleted-list"><li style="list-style-type:circle">I highly encourage making slides on Google Slide (template <a href="https://docs.google.com/presentation/d/1dyR2QNff2CN753GHZTQSlGJWglUUd5iHbGszPIq08D0/edit?usp=sharing">here</a>) as it’s easiest to share. But you can use other applications and send the presentation slides as a PDF. </li></ul></li></ul><ul id="165cfaf7-6ec2-810d-bc6a-f6f25d63ca48" class="bulleted-list"><li style="list-style-type:disc">Final Project Presentation (10% of grade)<ul id="165cfaf7-6ec2-8174-afbf-e97e817e796c" class="bulleted-list"><li style="list-style-type:circle">This will happen in the last week of the class, where you will introduce a short (up to 10 minutes) presentation of your final project</li></ul></li></ul></div></p><p id="165cfaf7-6ec2-81dd-95ee-ef9880fd8319" class=""><strong>Class participation (25% of the total grade)</strong><div class="indented"><ul id="165cfaf7-6ec2-810a-8557-dfb15563cde4" class="bulleted-list"><li style="list-style-type:disc">Provide feedback for classmate’s writing assignments (7% of grade)<ul id="165cfaf7-6ec2-8144-a4d2-fe528d8d53c4" class="bulleted-list"><li style="list-style-type:circle">You will provide a detailed feedback on classmate’s intermediate check-in for the final project. </li></ul><ul id="165cfaf7-6ec2-8189-8198-ff5e55572a22" class="bulleted-list"><li style="list-style-type:circle">You will be given the draft roughly one week before the final deadline (March 16th), and should return the feedback in three days (March 19th), such that they have time to incorporate your feedback. </li></ul></li></ul><ul id="165cfaf7-6ec2-81a0-988e-f7c4d321f3e0" class="bulleted-list"><li style="list-style-type:disc">Participation in class discussion (20% of grade)<ul id="165cfaf7-6ec2-8114-b7ed-f96c33813afe" class="bulleted-list"><li style="list-style-type:circle">For this seminar class, <strong>attendance</strong> is mandatory and sessions will not be recorded. </li></ul><ul id="165cfaf7-6ec2-819b-884b-c9f5685f253f" class="bulleted-list"><li style="list-style-type:circle">You will sign up to help presenter 3-4 times during the semester by selecting one of the <a href="https://colinraffel.com/blog/role-playing-seminar.html">“roles”</a> that presenter selects. <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js" integrity="sha512-7Z9J3l1+EYfeaPKcGXu3MS/7T+w19WtKQY/n+xzmw4hZhJ9tyYmcUS+4QqAlzhicE5LAfMQSF3iFTK9bQdTxXg==" crossorigin="anonymous" referrerPolicy="no-referrer"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ==" crossorigin="anonymous" referrerPolicy="no-referrer"/><pre id="165cfaf7-6ec2-81a2-a881-d358ec54ea1d" class="code"><code class="language-Plain Text" style="white-space:pre-wrap;word-break:break-all">Publicity Chair Your role is to promote this paper to a wider community succintly. Your job is to write a blog article or tweet thread to present the paper. 
+>>>>>>> 6346bd01 (course date update)
+
+Peer Reviewer
+	* The paper has not been published yet and is currently submitted to a top conference where you’ve been assigned as a peer reviewer. Complete a full review of the paper answering all prompts of the official review form of the top venue in this research area. This includes recommending whether to accept or reject the paper.
+	* If you can find peer reviews of this paper online (e.g., OpenReview), you can alternatively summarize the peer reviews and critique the reviews. Is the points made by reviewers fair? Do you spot a problematic review? 
+
+Archaeologist This paper was found buried under ground in the desert. You’re an archeologist who must determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper cited within the current paper that substantially influenced the current paper and one newer paper that cites this current paper.
+
+Hacker. You’re a hacker who needs a demo of this paper ASAP. Implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class and demo your implementation. Do not simply download and run an existing implementation – though you are welcome to use (and give credit to) an existing implementation for “backbone” code.</code></pre></li></ul></li></ul></div></p><p id="165cfaf7-6ec2-81a7-afc7-ca136b3325c2" class=""><strong>In-class quiz (10% of the total grade)</strong></p><p id="165cfaf7-6ec2-81b3-bebe-fe1941dde15c" class="">After each subsection of the course, we will have a closed-book, in-class quiz about the papers covered in the subsection. There will be three quizzes, and I will drop the lowest score. There will not be a make-up quiz <em>unless</em> you have to be absent for more than one quiz day for valid reasons. </p><p id="165cfaf7-6ec2-81e3-a988-e93985721324" class=""><strong>Project (40% of the total grade)</strong></p><p id="177cfaf7-6ec2-80c4-b1a9-f299d41a1f8c" class="">You will complete <strong>one</strong> out of three track options throughout the semester. For each assignment, you will submit a draft version one week before the deadline, which will be reviewed by your classmates (see class participation section). The final week of the semester, you will present your completed project to classmates by making a short presentation. </p><p id="177cfaf7-6ec2-801b-bfdb-ee6bf1dbfc84" class="">You have to decide between the three options by February 20th. More detailed <a href="https://docs.google.com/document/d/1DrdDh4NgS2YUxvAolYI_jLyvympTp8qDvEE3wUBd1Xc/edit?usp=drive_link">guideline</a> will be provided later in the course. <div class="indented"><ul id="165cfaf7-6ec2-81ee-963a-d17b643932d3" class="bulleted-list"><li style="list-style-type:disc">Track 1: Technical blog post (can be done in 2-3 people group)<ul id="165cfaf7-6ec2-8149-9769-c8410ed41cdb" class="bulleted-list"><li style="list-style-type:circle">In this assignment, you are to pick a topic relevant to NLP and write a technical blog article about it. Your post should cover one to three papers in depth and should contain some novel analysis that goes beyond what’s already in those three papers. This can involve reproducing previous results, and running new analysis/code. </li></ul><ul id="165cfaf7-6ec2-81b7-9ced-cfbb55fd506a" class="bulleted-list"><li style="list-style-type:circle">You can look at ICLR blog track for inspiration: <a href="https://iclr.cc/Conferences/2023/CallForBlogPosts">https://iclr.cc/Conferences/2023/CallForBlogPosts</a></li></ul><ul id="182cfaf7-6ec2-80e7-acc2-df6bcbb679fb" class="bulleted-list"><li style="list-style-type:circle">Some exemplary blog posts: <ul id="182cfaf7-6ec2-8020-bcc3-dfe2708e52c9" class="bulleted-list"><li style="list-style-type:square"><a href="https://lilianweng.github.io/">https://lilianweng.github.io/</a></li></ul><ul id="182cfaf7-6ec2-807f-8a63-d5c37fd5e95d" class="bulleted-list"><li style="list-style-type:square"><a href="https://nlp.seas.harvard.edu/annotated-transformer/">https://nlp.seas.harvard.edu/annotated-transformer/</a></li></ul></li></ul></li></ul><ul id="165cfaf7-6ec2-818f-840e-d94eb29c2520" class="bulleted-list"><li style="list-style-type:disc">Track 2: Final Project (can be done in a group of 2-3 people)<ul id="165cfaf7-6ec2-8115-9eaf-e8acefdeba87" class="bulleted-list"><li style="list-style-type:circle">If you choose this option, you will design and pursue a final project that is relevant to natural language processing. You can choose any topics in NLP (either covered or not covered in the class). </li></ul><ul id="165cfaf7-6ec2-8145-ad46-fb22012eacab" class="bulleted-list"><li style="list-style-type:circle">You can refer to ACL proceedings or other ML conference proceedings (NeurIPS, ICLR, ICML) for inspiration. Your project can focus on either:<ul id="165cfaf7-6ec2-819c-9945-ca5ee784847a" class="bulleted-list"><li style="list-style-type:square">A new model architecture for existing problems (a variant of an existing model)</li></ul><ul id="165cfaf7-6ec2-818d-aa20-ec663110194e" class="bulleted-list"><li style="list-style-type:square">A new training, optimization, or evaluation method for existing problems</li></ul><ul id="165cfaf7-6ec2-81ac-a135-effee92a83cb" class="bulleted-list"><li style="list-style-type:square">A new application of NLP technology -- here, you will apply an existing model to a new task. Please motivate the task carefully.</li></ul><ul id="165cfaf7-6ec2-8124-9884-d6df9c5f5b5a" class="bulleted-list"><li style="list-style-type:square">Experimental and/or theoretical analysis of datasets, approaches, or models.</li></ul></li></ul></li></ul><ul id="165cfaf7-6ec2-811f-9600-cf9a559cee62" class="bulleted-list"><li style="list-style-type:disc">Track 3: Final Project Proposal (individual)<ul id="165cfaf7-6ec2-81ef-bbbf-e1dd55ca17e4" class="bulleted-list"><li style="list-style-type:circle">This option allows you to write a final project proposal without necessarily carrying out the proposed research yourself. You can think of this as <a href="https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html">“writing the paper first”</a> practice!</li></ul><ul id="165cfaf7-6ec2-818d-8b56-eb31752f0573" class="bulleted-list"><li style="list-style-type:circle">As this is only a proposal, you are not <em>limited</em> by computational resources or human resources. Often class projects have to be severely limited in scope. Here, you can dream big, assuming you have a large amount of compute resources and even an access to forbidden weights. HOWEVER, you should justify your research idea clearly and carefully. Why, would anyone want to execute this research if they have such resources to spare? What would take to gather such resources? You should have a section that discusses practical limitations of your proposal. </li></ul></li></ul></div></p><h3 id="165cfaf7-6ec2-812d-a42d-f5f07f5f1df9" class="">Course Policy / Logistics / Communication</h3><ul id="165cfaf7-6ec2-8171-910c-cbfb7f4d6b4d" class="bulleted-list"><li style="list-style-type:disc">All assignment submissions and communications will be made in the BrightSpace page: <a href="https://brightspace.nyu.edu/d2l/le/lessons/435334">https://brightspace.nyu.edu/d2l/le/lessons/435334</a></li></ul><ul id="178cfaf7-6ec2-808f-9ddf-c3c00b1f1925" class="bulleted-list"><li style="list-style-type:disc">All writing assignments are due midnight (EST) on the deadline date. </li></ul><ul id="165cfaf7-6ec2-8186-a3e7-d69e650b76f8" class="bulleted-list"><li style="list-style-type:disc">By default, all classes will be <strong>in person</strong> and will not support online attendance. However, a few sessions will be held online (will be announced beforehand) if we have virtual guests or other special circumstances. </li></ul><h3 id="165cfaf7-6ec2-8116-b05a-ee6925d5107e" class="">Asking for help</h3><ul id="165cfaf7-6ec2-818f-af96-e7ee6e59c52f" class="bulleted-list"><li style="list-style-type:disc">The best way to reach the course staff is posting a message on BrightSpace. If you cannot make the office hour time, I’d be happy to arrange another time if possible. </li></ul><hr id="165cfaf7-6ec2-819e-aa01-ffbeb69e41c3"/><h1 id="165cfaf7-6ec2-8134-83cd-ec365d1790ef" class="">Topics that will be covered in this class</h1><p id="165cfaf7-6ec2-8135-b4a3-de853f282097" class="">The topic list below is tentative and will be finalized before the week of discussion. Each topic will be discussed for about 4 weeks, and a tentative paper list will be released soon. </p><h3 id="165cfaf7-6ec2-811f-8b35-d06e733384cd" class="">Preliminary</h3><p id="165cfaf7-6ec2-8129-ae34-e8f0dac1dfb3" class="">Before starting the discussions, we will review recent papers describing architecture and training of base LMs. This will give us background to understand LLMs better for the semester. </p><ul id="165cfaf7-6ec2-8108-84bd-ff8a437e2c4e" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/abs/2407.21783">The Llama 3 Herd of Models</a></li></ul><ul id="17ccfaf7-6ec2-8009-a4f9-d18924450073" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/abs/2412.19437">DeepSeek-V3 Technical Report</a></li></ul><ul id="17ccfaf7-6ec2-804c-98b1-e949cb718405" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/abs/2403.05530">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context</a></li></ul><ul id="17ccfaf7-6ec2-800d-a273-d9e7faca3c22" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/pdf/2306.11644.pdf">Textbooks Are All You Need (Gunaseka et al, June 2023, Microsoft Research)</a></li></ul><ul id="165cfaf7-6ec2-8143-a7a1-c3ba4337e7aa" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/pdf/2212.01681.pdf">Language Models as Agent Models (Andreas et al, 2022)</a> </li></ul><ul id="17ccfaf7-6ec2-801f-a9ff-c98ef76f09b6" class="bulleted-list"><li style="list-style-type:disc"><a href="https://arxiv.org/abs/2409.02060">Olmoe: Open mixture-of-experts language models</a></li></ul><h3 id="165cfaf7-6ec2-8163-8e52-d0e8f0a24884" class="">Topic 1: Knowledge &amp; Memory </h3><p id="165cfaf7-6ec2-8139-8f1e-eee645ebb64a" class="">Language models function as a knowledge base, using knowledge memorized during the pretraining stage. Yet, their memory is limited, and we often augment their memory at inference time through retrieval. We will look into how retrieval models interface with LLMs and how language models are storing knowledge in its memory. </p><h3 id="17ccfaf7-6ec2-8005-b967-fbe2409aa6e9" class="">Topic 2: Reasoning &amp; Interaction</h3><p id="182cfaf7-6ec2-80de-96be-d205a9b359a2" class="">We will look at recent work that aims to understand and improve the reasoning capabilities of LLMs. This will cover chain-of-thoughts, search methods, alignment methods and using external tools. We will also study multi-turn interaction between users and LLMs How can we improve LLMs to be better at dialogue tasks that require longer term planning? How does interaction with LLMs impact humans? </p><h3 id="182cfaf7-6ec2-80af-bab3-cbe147ea9881" class="">Topic 3: Decoding</h3><p id="182cfaf7-6ec2-8033-80d6-c51ffbaf4eb3" class="">After the language model is trained, how should one use it? This section will discuss decoding techniques, aiming to improve computational efficiency and/or task performance. It can also cover hardware-aware algorithms for optimizations. </p><hr id="165cfaf7-6ec2-81f9-9572-c39ea81060e6"/><h3 id="165cfaf7-6ec2-8133-9198-d1299e7125fc" class=""><strong>Course Schedule</strong></h3><p id="177cfaf7-6ec2-8034-9f9f-fc706c986965" class="">The course schedule can be found <a href="https://docs.google.com/spreadsheets/d/1i9vef4Muhv7ZBExSlGdJuA710MV55lca4GfvF8qezNU/edit?usp=sharing">here</a>. It will be updated regularly. </p><hr id="165cfaf7-6ec2-81b7-b3c1-f4d814c6cb40"/><h3 id="165cfaf7-6ec2-8148-9730-cfced580cc6a" class=""><strong>Academic Integrity </strong></h3><p id="165cfaf7-6ec2-8177-bb0f-f81f27b7bcf1" class="">(Adapted from the <a href="https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html">website of the College of Arts &amp; Science</a>) Academic honesty means that the work you submit — in whatever form — is original. Obviously, bringing answers into an examination or copying all or part of a paper straight from a book, the Internet, or a fellow student is a violation of this principle. But there are other forms of cheating or plagiarizing which are just as serious — for example, presenting an oral report drawn without attribution from other sources (oral or written), writing a paragraph which, despite being in different words, expresses someone else’s idea without a reference to the source of the idea, or submitting essentially the same paper in two different courses (unless both instructors have given their permission in advance). </p><h3 id="165cfaf7-6ec2-8196-b547-e18cf2eca2ee" class="">Using Artificial Intelligence</h3><p id="165cfaf7-6ec2-818b-9d95-f095fdf4d8b4" class="">The use of artificial intelligence tools (such as ChatGPT) in this class is permitted, but you have to describe (1) how you used them in a few sentences and (2) cite the contents generated by those tools appropriately each time you use them.</p><p id="165cfaf7-6ec2-8112-b41c-c86f8a750412" class="">If you are considering the use of AI tools but are unsure if you are allowed or the extent to which they may be utilized appropriately, please ask me.</p><h3 id="2d8bc150-f191-4eb4-bb59-b0298f19fa17" class="">Late day Policy</h3><p id="86b33fd7-b7ba-47e4-9003-c76a187d9cb7" class="">Each student will have a total of six (6) late days throughout the semester that you can use for final project assignment. You do not need to ask for permissions to use them, but the course staff will keep track of how many days were used. If you exceed the total number of late days, then your assignment will not receive full credit (max 80% of total grade after 1 late day, 60% of total possible grade after 2 late days, 40% of the total possible grade after 3 late days, 0% afterwards). </p><p id="178cfaf7-6ec2-8056-aec1-e5e4367b63d6" class="">You cannot use late days for course presentations or course participation (including peer feedback for final projects)). This budget should cover most emergencies and personal circumstances; I will not approve further extensions, so don’t use up all of your budget on the first assignment deadline.</p><h3 id="e82d1513-44fd-452f-a8fd-2b15d4ba2a15" class="">Attendance and absences</h3><p id="bd684e7b-671b-4115-a5e8-3fed3864d71e" class="">This course relies on in-class discussion and participation, and students who miss a significant amount of class will have difficulty meeting the learning goals of the class. You are expected to attend every single class session. </p><p id="177cfaf7-6ec2-801a-bdb0-ca7f0d181b9e" class="">I will keep track of attendance and this will be part of your participation grade. If you are absent without a valid reason for more than one week, it will impact your overall grade. Class participation is 20% of the total grade. 0/1 absence = -0%. 2 absences = -1%. 3 absences = -3%. 4 absences = -8%.</p><p id="182cfaf7-6ec2-80ff-a938-d13ebfa93948" class="">Religious observance, documented illness (don’t show up sick) or family emergency are grounds for absences to be excused. In case of all absences, you should communicate with me as soon as possible.</p><h3 id="1838851a-07eb-4b72-84cf-a6fd4dc4ec9a" class="">Academic Accommodations</h3><p id="52309126-91f8-49d8-8b19-a3ad682273d6" class="">Academic accommodations are available for students with disabilities. The Moses Center website is www.nyu.edu/csd. Please contact the Moses Center for Student Accessibility (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance.</p><h3 id="ce856dd3-2ea1-43c1-94af-459355c7d18d" class="">Student Wellness</h3><p id="17defb3e-c888-4100-a156-32097be28081" class="">In a large, complex community like NYU, it&#x27;s vital to reach out to others, particularly those who are isolated or engaged in self-destructive activities. <a href="https://cas.nyu.edu/content/nyu-as/cas/academic-programs/student-wellness.html">Student wellness</a> is the responsibility of all of us. The NYU Wellness Exchange is the constellation of NYU’s programs and services designed to address the overall health and mental health needs of its students. Students can access this service 24 hours a day, seven days a week -  wellness.exchange@nyu.edu; (212) 443-9999. Students can call the Wellness Exchange hotline (212-443-9999) or the NYU Counseling Service (212-998-4780) to make an appointment for Single Session, Short-term, or Group counseling sessions. </p><p id="165cfaf7-6ec2-81f3-9326-cbe6dfb05cba" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
